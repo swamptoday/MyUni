@@ -76,6 +76,11 @@
   position: absolute;
 }
 
+.nav-item
+{
+min-height: 8vh;
+}
+
 .ps__thumb-y {
   background-color: #aaa;
   border-radius: 6px;
