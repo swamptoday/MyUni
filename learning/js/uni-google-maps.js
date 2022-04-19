@@ -2,67 +2,67 @@
 var mapInfo =
 [
   {
-    "imageSource": '../uni-maps/corpus-image/maincorpus.jpg',
+    "imageSource": '../../images/corpus-image/maincorpus.jpg',
     "mapSource": 'https://goo.gl/maps/nYFKsPdMb4LJ5yAH8'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/1corpus.jpg',
+    "imageSource": '../../images/corpus-image/1corpus.jpg',
     "mapSource": 'https://goo.gl/maps/BBVcRS5LC3tbFe1T9'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/2corpus.jpg',
+    "imageSource": '../../images/corpus-image/2corpus.jpg',
     "mapSource": 'https://goo.gl/maps/WTbegk4eEyPtkLi66'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/3corpus.jpg',
+    "imageSource": '../../images/corpus-image/3corpus.jpg',
     "mapSource": 'https://goo.gl/maps/XWeiaFbcbfdNkU7r8'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/4corpus.jpg',
+    "imageSource": '../../images/corpus-image/4corpus.jpg',
     "mapSource": 'https://goo.gl/maps/QvUwb5fKCxFVEd9N9'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/5corpus.jpg',
+    "imageSource": '../../images//corpus-image/5corpus.jpg',
     "mapSource": 'https://goo.gl/maps/5nG2714RtTqBYWGc7'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/6corpus.jpg',
+    "imageSource": '../../images/corpus-image/6corpus.jpg',
     "mapSource": 'https://goo.gl/maps/gN9Ku9GSQd8ouTKd7'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/7corpus.jpg',
+    "imageSource": '../../images/corpus-image/7corpus.jpg',
     "mapSource": 'https://goo.gl/maps/betryMRCNZ5Uewtd9'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/8corpus.jpg',
+    "imageSource": '../../images/corpus-image/8corpus.jpg',
     "mapSource": 'https://goo.gl/maps/6N6FVkX6z2XmE7Pv7'
   },
   {
-   "imageSource": '../uni-maps/corpus-image/9corpus.jpg',
+   "imageSource": '../../images/corpus-image/9corpus.jpg',
    "mapSource": 'https://goo.gl/maps/oB1he5KH2zHf2rE16'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/10corpus.jpg',
+    "imageSource": '../../images/corpus-image/10corpus.jpg',
     "mapSource": 'https://goo.gl/maps/9f9BbnEWvR2rZKW18'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/11corpus.jpg',
+    "imageSource": '../../images/corpus-image/11corpus.jpg',
     "mapSource": 'https://goo.gl/maps/g64EQqxU5knL8sUn6'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/14corpus.jpg',
+    "imageSource": '../../images/corpus-image/14corpus.jpg',
     "mapSource": 'https://goo.gl/maps/zQhHAG4KyYsgRr5e9'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/15corpus.jpg',
+    "imageSource": '../../images/corpus-image/15corpus.jpg',
     "mapSource": 'https://goo.gl/maps/LfRqiyTrHfQQkq4z7'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/21corpus.jpg',
+    "imageSource": '../../images/corpus-image/21corpus.jpg',
     "mapSource": 'https://goo.gl/maps/NCR24TqSfxERTUZa7'
   },
   {
-    "imageSource": '../uni-maps/corpus-image/28corpus.jpg',
+    "imageSource": '../../images/corpus-image/28corpus.jpg',
     "mapSource": 'https://goo.gl/maps/rK1bigBhYJU7JmRy7'
   }
 ]
