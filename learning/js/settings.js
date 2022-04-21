@@ -11,6 +11,9 @@
     $("#settings-trigger").on("click" , function(){
       $("#theme-settings").toggleClass("open");
     });
+    $("#settings-triger-sidebar").on("click" , function(){
+      $("#theme-settings").toggleClass("open");
+    });
 
 
     //background constants
