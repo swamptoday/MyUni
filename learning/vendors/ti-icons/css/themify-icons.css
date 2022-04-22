@@ -70,7 +70,11 @@
 .ti-settings:before {
 	content: "\e60f";
 	padding-right: 20px;
-	font-size: 20px;;
+	font-size: 20px;
+}
+.ti-settings2:before {
+	content: "\e60f";
+	font-size: 20px;
 }
 .ti-search:before {
 	content: "\e610";
@@ -427,6 +431,7 @@
 }
 .ti-power-off:before {
 	content: "\e682";
+	font-size: 20px;
 }
 .ti-plug:before {
 	content: "\e683";
@@ -486,6 +491,7 @@
 }
 .ti-light-bulb:before {
 	content: "\e695";
+	font-size: 25px;
 }
 .ti-Italic:before {
 	content: "\e696";
