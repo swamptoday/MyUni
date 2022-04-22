@@ -727,6 +727,9 @@
 }
 .ti-more-alt:before {
 	content: "\e6e2";
+	font-size: 20px;
+	position: relative;
+	top: 2px;
 }
 .ti-microphone-alt:before {
 	content: "\e6e3";
