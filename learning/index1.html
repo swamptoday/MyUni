@@ -47,7 +47,7 @@
         </ul>
         <ul class="navbar-nav navbar-nav-right">
           <li class="nav-item nav-settings d-none d-lg-flex">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="javascript:void(0);">
               <i class="ti-more-alt"></i>
             </a>
           </li>
@@ -310,7 +310,7 @@
             <div class="collapse" id="ui-basic">
               <ul class="nav flex-column sub-menu">
                 <li class="nav-item"> <a class="nav-link" href="pages/uni-google-maps/uni-google-maps.html">Карта корпусів</a></li>
-                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/dropdowns.html">Карта кабінетів</a></li>
+                <li class="nav-item"> <a class="nav-link" href="pages/uni-cabinet-maps/uni-cabinet-maps.html">Карта кабінетів</a></li>
               </ul>
             </div>
           </li>
@@ -323,7 +323,7 @@
             <div class="collapse" id="form-elements">
               <ul class="nav flex-column sub-menu">
                 <li class="nav-item"><a class="nav-link" href="pages/forms/basic_elements.html">Сьогодні</a></li>
-                <li class="nav-item"><a class="nav-link" href="pages/forms/basic_elements.html">Тиждень</a></li>
+                <li class="nav-item"><a class="nav-link" href="pages/schedule/weekschedule.html">Тиждень</a></li>
               </ul>
             </div>
           </li>
@@ -348,7 +348,7 @@
             </a>
             <div class="collapse" id="tables">
               <ul class="nav flex-column sub-menu">
-                <li class="nav-item"> <a class="nav-link" href="pages/tables/basic-table.html">Basic table</a></li>
+                <li class="nav-item"> <a class="nav-link" href="pages/chat/chat.html">Телеграм-Чати</a></li>
               </ul>
             </div>
           </li>
@@ -365,7 +365,7 @@
             </a>
           </li>
           <li class="nav-item" style = "position:absolute; bottom: 0;">
-            <a class="nav-link" href="pages/samples/error-404.html">
+            <a class="nav-link" aria-current="page" href="#FAQ">
               <i class="ti-comment-alt"></i>
               <span class="menu-title">FAQ</span>
             </a>
@@ -1016,22 +1016,44 @@
                   </div>
                   </div>
                 </div>
-
-                
               </div>
             </div>
         </div>
+          <footer class="footer">
+            <div class="row">
+                <div id="quickLink" class="col-lg-3"><img class="mb-4" src="images/logo.svg" width="150" alt="" /></div>
+                <div class="col-lg-3">
+                <p style="font-weight:bold">Quick Links</p>
+                <ul class="list-unstyled mb-0">
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="#!">About us</a></li>
+                  <li class="mb-1"id="comments"><a class="link-900 text-secondary text-decoration-none" href="#!">See comments</a></li>
+                  <li class="mb-1" id="contacts"><a class="link-900 text-secondary text-decoration-none" href="#!">Contact</a></li>
+                  <li id="FAQ" class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="#!">FAQ</li>
+                </ul>
+              </div>
+              <div id="quickLink" class="col-lg-3">
+                <p style="color:black; font-weight:bold">Legal Stuff</p>
+                <ul class="list-unstyled mb-0">
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="#!">Disclaimer</a></li>
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="#!">Financing</a></li>
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="#!">Privacy Policy</a></li>
+                  <li id="quicklinks" class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="#!">Terms of Service</a></li>
+                </ul>
+              </div>
+            </div>
+            </footer> 
+        
         <!-- content-wrapper ends -->
         <!-- partial:partials/_footer.html -->
         <footer class="footer">
           <div class="d-sm-flex justify-content-center justify-content-sm-between">
-            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2021.  Premium <a href="https://www.bootstrapdash.com/" target="_blank">Bootstrap admin template</a> from BootstrapDash. All rights reserved.</span>
+            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">&copy; 2022 Hideal Inc</span>
             <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Hand-crafted & made with <i class="ti-heart text-danger ml-1"></i></span>
           </div>
           <div class="d-sm-flex justify-content-center justify-content-sm-between">
-            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Distributed by <a href="https://www.themewagon.com/" target="_blank">Themewagon</a></span> 
           </div>
         </footer> 
+      
         <!-- partial -->
       </div>
       <!-- main-panel ends -->
