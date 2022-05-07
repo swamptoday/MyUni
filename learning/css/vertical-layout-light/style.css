@@ -8102,6 +8102,19 @@ html {
   }
 }
 
+
+@media (min-width:360px) and (max-width:810px){
+#celc{
+  font-size: 25px;
+}
+#adre{
+  font-size: 14px;
+}
+}
+
+
+
+
 @-webkit-keyframes hinge {
   0% {
     -webkit-transform: rotate(0);
@@ -20207,7 +20220,7 @@ code {
 
 .card-people .weather-info {
   position: absolute;
-  top: 30px;
+  top: 13px;
   right: 24px;
 }
 
@@ -21314,6 +21327,38 @@ code {
 .show > .btn-inverse-primary.dropdown-toggle {
   color: #ffffff;
   background-color: #4B49AC;
+  border-color: #4B49AC;
+}
+
+.btn-inverse-primary2 {
+  background-color: rgba(75, 73, 172, 0.2);
+  background-image: none;
+  border-color: rgba(75, 73, 172, 0);
+}
+
+.btn-inverse-primary2:not(.btn-inverse-light) {
+  color: #4B49AC;
+}
+
+.btn-inverse-primary2:hover {
+  color: #ffffff;
+  background-color: #4B49AC;
+  border-color: #4B49AC;
+}
+
+.btn-inverse-primary2.focus, .btn-inverse-primary2:focus {
+  box-shadow: 0 0 0 3px rgba(75, 73, 172, 0.5);
+}
+
+.btn-inverse-primary2.disabled, .btn-inverse-primary2:disabled {
+  color: #4B49AC;
+  background-color: transparent;
+}
+
+.btn-inverse-primary2.active, .btn-inverse-primary2:active,
+.show > .btn-inverse-primary2.dropdown-toggle {
+  color: #ffffff;
+  background-color: #4B4BAA;
   border-color: #4B49AC;
 }
 
@@ -25112,9 +25157,13 @@ dl li {
   margin-right: .5rem;
 }
 
+.premiumhr{
+  border-top: 1px solid white;
+}
+
 .list-wrapper {
   height: 100%;
-  max-height: 390px;
+  max-height: 430px;
   overflow: scroll;
 }
 
