@@ -140,6 +140,13 @@
 	padding-right: 20px;
 	font-size: 20px;
 }
+
+.ti-medall2:before {
+	content: "\e623";
+	font-size: 25px;
+	margin-left:35px;
+	margin-right: 5px
+}
 .ti-medall-alt:before {
 	content: "\e624";
 }
