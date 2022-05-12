@@ -14,5 +14,5 @@ const logFileText = async file => {
     console.log(text)
 }
 
-logFileText('../../schedule-txts/АВ-11.txt')
+logFileText('АВ-11.txt')
 //readTextFile("file:///C:/MyData/DesktopУнивер/MyUni Project/MyUni/MyUni/schedule-txts");АВ-11.txt
