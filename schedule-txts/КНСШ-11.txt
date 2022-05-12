@@ -1,0 +1,272 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Штучний інтелект в ігрових застосуваннях<br>Кривенчук Ю.П., 127а, XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aC4887ZVNwVTAbt4DpUWDIMEkVrJXkhU_6KbPeo56wsY1%40thread.tacv2/General?groupId=6857f69e-4deb-4bd3-858b-62af3c086679&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aC4887ZVNwVTAbt4DpUWDIMEkVrJXkhU_6KbPeo56wsY1%40thread.tacv2/General?groupId=6857f69e-4deb-4bd3-858b-62af3c086679&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Еволюційне програмування<br>Думин І.Б., 123б, XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/twv-yvba-kbe" title="https://meet.google.com/twv-yvba-kbe">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Видобування даних у Веб<br>Кошлатий В.А., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzc4ZDEzZGItZGYxNS00Y2NhLWFhMmEtZDM1NjQzODMwZjVh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22324ea5e7-349d-4f48-8a62-d1744f2be0b9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzc4ZDEzZGItZGYxNS00Y2NhLWFhMmEtZDM1NjQzODMwZjVh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22324ea5e7-349d-4f48-8a62-d1744f2be0b9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Візуалізація даних<br>Бойко Н.І., 101 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09" title="https://zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Видобування даних у Веб<br>Кошлатий В.А., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM2NjNkZTctY2U5ZS00NWRhLWFhYTgtYmM2ZTgxOTc3NWYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22324ea5e7-349d-4f48-8a62-d1744f2be0b9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM2NjNkZTctY2U5ZS00NWRhLWFhYTgtYmM2ZTgxOTc3NWYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22324ea5e7-349d-4f48-8a62-d1744f2be0b9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Візуалізація даних<br>Бойко Н.І., 101 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09" title="https://zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Еволюційне програмування<br>Думин І.Б., 201 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/twv-yvba-kbe" title="https://meet.google.com/twv-yvba-kbe">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Еволюційне програмування<br>Думин І.Б., 201 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/twv-yvba-kbe" title="https://meet.google.com/twv-yvba-kbe">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Штучний інтелект в ігрових застосуваннях<br>Кривенчук Ю.П., 124 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3549108258?pwd=dTdLMWlnWC9qSTZvZEVqcXIrV1kwdz09" title="https://us04web.zoom.us/j/3549108258?pwd=dTdLMWlnWC9qSTZvZEVqcXIrV1kwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Штучний інтелект в ігрових застосуваннях<br>Кривенчук Ю.П., 124 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3549108258?pwd=dTdLMWlnWC9qSTZvZEVqcXIrV1kwdz09" title="https://us04web.zoom.us/j/3549108258?pwd=dTdLMWlnWC9qSTZvZEVqcXIrV1kwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Видобування даних у Веб<br>Кошлатий В.А., 123б, XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYwNmRjMTQtOWEwOC00OWM4LWEyMGYtNmU1NGY2NDdmNGMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22324ea5e7-349d-4f48-8a62-d1744f2be0b9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYwNmRjMTQtOWEwOC00OWM4LWEyMGYtNmU1NGY2NDdmNGMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22324ea5e7-349d-4f48-8a62-d1744f2be0b9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Візуалізація даних<br>Бойко Н.І., 123б, XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09" title="https://zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

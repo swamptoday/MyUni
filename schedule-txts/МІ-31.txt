@@ -1,0 +1,395 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології прийняття рішень в міжнародних відносинах та суспільних комунікаціях<br>Ніколаєв С.М., 511 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4871979690?pwd=eUF0ME5uTk50T1Z3NkdaaS8zVGkwdz09" title="https://zoom.us/j/4871979690?pwd=eUF0ME5uTk50T1Z3NkdaaS8zVGkwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційно-аналітичні центри держав світу<br>Максимець В.Є., 511 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09  " title="https://zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Корпоративний PR<br>Дмитришин Н.М., 511 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82586510527?pwd=WVhvdnJDR044bXF1N0dDV2JuZFJ0QT09" title="https://us02web.zoom.us/j/82586510527?pwd=WVhvdnJDR044bXF1N0dDV2JuZFJ0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технології інформаційно-психологічного впливу в міжнародних відносинах та суспільних комунікаціях<br>Анісімович-Шевчук О.З., 511 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93143067053?pwd=ekpKZnhiNmhKTzRkbHAveTBwTzdwQT09" title="https://zoom.us/j/93143067053?pwd=ekpKZnhiNmhKTzRkbHAveTBwTzdwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Почапська І.Я., 307 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82109307854?pwd=eS9IS1ZNQS9uTnJwQ25RTXZVbzdXQT09" title="https://us02web.zoom.us/j/82109307854?pwd=eS9IS1ZNQS9uTnJwQ25RTXZVbzdXQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Рак Н.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a13ec80f3ee0b41c6b544718e54aa70f7%40thread.tacv2/1644831892473?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a13ec80f3ee0b41c6b544718e54aa70f7%40thread.tacv2/1644831892473?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології інформаційно-психологічного впливу в міжнародних відносинах та суспільних комунікаціях<br>Польовий Т.Є., Вознюк О.М., 015 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/boc-duwj-ayh?authuser=1&amp;hl=uk" title="https://meet.google.com/boc-duwj-ayh?authuser=1&amp;hl=uk">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86767317502?pwd=TFBVTzJwYWZEQ2ZqYkM0RksxT3BHQT09  Идентификатор конференции: 867 6731 7502 Код доступа: 412733" title="https://us02web.zoom.us/j/86767317502?pwd=TFBVTzJwYWZEQ2ZqYkM0RksxT3BHQT09  Идентификатор конференции: 867 6731 7502 Код доступа: 412733">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Рак Н.В., 214 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a13ec80f3ee0b41c6b544718e54aa70f7%40thread.tacv2/1644345553930?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a13ec80f3ee0b41c6b544718e54aa70f7%40thread.tacv2/1644345553930?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інформаційно-аналітичні центри держав світу<br>Максимець В.Є., 128 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09" title="https://zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Витрикуш Н.М., 302 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09" title="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційно-аналітичні центри держав світу<br>Максимець В.Є., 128 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09" title="https://zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології прийняття рішень в міжнародних відносинах та суспільних комунікаціях<br>Ніколаєв С.М., Густі М.І., 015 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a0f2eb3033a6342fbb0acafd22eecad43%40thread.tacv2/1649597512069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f6812e93-273b-4f1e-b57c-e17c9b661ff9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a0f2eb3033a6342fbb0acafd22eecad43%40thread.tacv2/1649597512069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f6812e93-273b-4f1e-b57c-e17c9b661ff9%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4871979690?pwd=eUF0ME5uTk50T1Z3NkdaaS8zVGkwdz09" title="https://zoom.us/j/4871979690?pwd=eUF0ME5uTk50T1Z3NkdaaS8zVGkwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Корпоративний PR<br>Дмитришин Н.М., 511 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83922616789?pwd=VG0zOFRlRmhqWWsvdnRsS2ZDcWFwZz09" title="https://us02web.zoom.us/j/83922616789?pwd=VG0zOFRlRmhqWWsvdnRsS2ZDcWFwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Рак Н.В., 15 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a13ec80f3ee0b41c6b544718e54aa70f7%40thread.tacv2/1644346663294?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a13ec80f3ee0b41c6b544718e54aa70f7%40thread.tacv2/1644346663294?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова ІІ (німецька), частина 2<br>Пиндик Н.І., 31 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/EFGQpHbxUf8d" title="https://join.skype.com/EFGQpHbxUf8d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова ІІ (німецька), частина 2<br>Задорожний В.В., 28 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09  Meeting ID: 522 424 7475 Passcode: 960833" title="https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09  Meeting ID: 522 424 7475 Passcode: 960833">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова ІІ (німецька), частина 2<br>Задорожний В.В., 28 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09  Meeting ID: 522 424 7475 Passcode: 960833" title="https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09  Meeting ID: 522 424 7475 Passcode: 960833">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова ІІ (німецька), частина 2<br>Пиндик Н.І., 31 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/EFGQpHbxUf8d" title="https://join.skype.com/EFGQpHbxUf8d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

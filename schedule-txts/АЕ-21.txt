@@ -1,0 +1,321 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічна термодинаміка<br>Галянчук І.Р., 211 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3abaa7197aba914653ac0e26b6b9a71296%40thread.tacv2/conversations?groupId=4df96b29-1959-452e-9d33-31dae61473a5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3abaa7197aba914653ac0e26b6b9a71296%40thread.tacv2/conversations?groupId=4df96b29-1959-452e-9d33-31dae61473a5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Гідрогазодинаміка<br>Орел В.І., 106 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09" title="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Гідрогазодинаміка<br>Орел В.І., 105 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09" title="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Гідрогазодинаміка<br>Орел В.І., 105 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09" title="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., 115 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84681251328?pwd=UEkwL1RYblVwNkF1ekUrS3NUSnh6Zz09" title="https://us05web.zoom.us/j/84681251328?pwd=UEkwL1RYblVwNkF1ekUrS3NUSnh6Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козіброда Л.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09" title="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Незгода С.П., <br>,&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Тепломасообмін в енергетичному обладнанні атомних електричних станцій<br>Римар Т.І., 57 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92052673318?pwd=OGtzOFhXMHROVkExQ0w5VDFMM2VhQT09" title="https://zoom.us/j/92052673318?pwd=OGtzOFhXMHROVkExQ0w5VDFMM2VhQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Тепломасообмін в енергетичному обладнанні атомних електричних станцій<br>Римар Т.І., 57 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92052673318?pwd=OGtzOFhXMHROVkExQ0w5VDFMM2VhQT09" title="https://zoom.us/j/92052673318?pwd=OGtzOFhXMHROVkExQ0w5VDFMM2VhQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна термодинаміка<br>Галянчук І.Р., 211 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3abaa7197aba914653ac0e26b6b9a71296%40thread.tacv2/conversations?groupId=4df96b29-1959-452e-9d33-31dae61473a5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3abaa7197aba914653ac0e26b6b9a71296%40thread.tacv2/conversations?groupId=4df96b29-1959-452e-9d33-31dae61473a5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна термодинаміка<br>Галянчук І.Р., 211 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3abaa7197aba914653ac0e26b6b9a71296%40thread.tacv2/conversations?groupId=4df96b29-1959-452e-9d33-31dae61473a5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3abaa7197aba914653ac0e26b6b9a71296%40thread.tacv2/conversations?groupId=4df96b29-1959-452e-9d33-31dae61473a5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Тепломасообмін в енергетичному обладнанні атомних електричних станцій<br>Римар Т.І., 57 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92052673318?pwd=OGtzOFhXMHROVkExQ0w5VDFMM2VhQT09" title="https://zoom.us/j/92052673318?pwd=OGtzOFhXMHROVkExQ0w5VDFMM2VhQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., +ТЕ115 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84835089681?pwd=T1RKTTRwVGlnakVvNU8rMG90eG44UT09" title="https://us05web.zoom.us/j/84835089681?pwd=T1RKTTRwVGlnakVvNU8rMG90eG44UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Тепломасообмін в енергетичному обладнанні атомних електричних станцій<br>Римар Т.І., 57 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92052673318?pwd=OGtzOFhXMHROVkExQ0w5VDFMM2VhQT09" title="https://zoom.us/j/92052673318?pwd=OGtzOFhXMHROVkExQ0w5VDFMM2VhQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

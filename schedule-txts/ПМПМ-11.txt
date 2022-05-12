@@ -1,0 +1,235 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 509 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rya-sqtc-pqg" title="https://meet.google.com/rya-sqtc-pqg">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ric-xwqo-gmv" title="https://meet.google.com/ric-xwqo-gmv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фахова іноземна мова<br>Дмитрук В.А., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/Ik45H8MbuxIS" title="https://join.skype.com/Ik45H8MbuxIS">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичніі моделі термомеханіки<br>Дробенко Б.Д., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3alf1flKSaClhYjzhRuBxdJqKZ3pg28uYN1XrjzMPCp7w1%40thread.tacv2/conversations?groupId=bd5042f8-9f14-4254-9b4a-124835c227b7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3alf1flKSaClhYjzhRuBxdJqKZ3pg28uYN1XrjzMPCp7w1%40thread.tacv2/conversations?groupId=bd5042f8-9f14-4254-9b4a-124835c227b7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обернені задачі термомеханіки та методи їх дослідження<br>Токовий Ю.В., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a3OfGElbQ0quLqXy_2Xlep-IxNreF2fdJ3dgfjGZe1rE1%40thread.tacv2/conversations?groupId=27125523-2ce1-4b23-aca7-03eb6a9b8581&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a3OfGElbQ0quLqXy_2Xlep-IxNreF2fdJ3dgfjGZe1rE1%40thread.tacv2/conversations?groupId=27125523-2ce1-4b23-aca7-03eb6a9b8581&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Обернені задачі термомеханіки та методи їх дослідження<br>Токовий Ю.В., 214 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a3OfGElbQ0quLqXy_2Xlep-IxNreF2fdJ3dgfjGZe1rE1%40thread.tacv2/conversations?groupId=27125523-2ce1-4b23-aca7-03eb6a9b8581&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a3OfGElbQ0quLqXy_2Xlep-IxNreF2fdJ3dgfjGZe1rE1%40thread.tacv2/conversations?groupId=27125523-2ce1-4b23-aca7-03eb6a9b8581&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математичні моделі в механіці деформівного твердого тіла<br>Кушнір Р.М., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad0f5a36f3faf41bdb2fd5968a75c1dc6%40thread.tacv2/conversations?groupId=54b1748e-c888-4a77-b62b-ff2c7aafb762&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad0f5a36f3faf41bdb2fd5968a75c1dc6%40thread.tacv2/conversations?groupId=54b1748e-c888-4a77-b62b-ff2c7aafb762&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/chr-xodm-sfs" title="https://meet.google.com/chr-xodm-sfs">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі в механіці деформівного твердого тіла<br>Кушнір Р.М., 221 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad0f5a36f3faf41bdb2fd5968a75c1dc6%40thread.tacv2/conversations?groupId=54b1748e-c888-4a77-b62b-ff2c7aafb762&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad0f5a36f3faf41bdb2fd5968a75c1dc6%40thread.tacv2/conversations?groupId=54b1748e-c888-4a77-b62b-ff2c7aafb762&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі в механіці деформівного твердого тіла<br>Кушнір Р.М., 221 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad0f5a36f3faf41bdb2fd5968a75c1dc6%40thread.tacv2/conversations?groupId=54b1748e-c888-4a77-b62b-ff2c7aafb762&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad0f5a36f3faf41bdb2fd5968a75c1dc6%40thread.tacv2/conversations?groupId=54b1748e-c888-4a77-b62b-ff2c7aafb762&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

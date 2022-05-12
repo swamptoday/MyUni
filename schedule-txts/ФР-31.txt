@@ -1,0 +1,132 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімія і технологія лікарських субстанцій, частина 1<br>Лубенець В.І., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aUNTF0vqyl5hXbjt3BJgrifUrNP6YVapcYlH8ygh7Xz81%40thread.tacv2/1644576874737?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aUNTF0vqyl5hXbjt3BJgrifUrNP6YVapcYlH8ygh7Xz81%40thread.tacv2/1644576874737?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація і економіка фармації<br>Кричковська А.М., 315 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3akILc4y8o-dKxx_YpTRKl5RMLDuFSZRTkgTiNV-Ps-Cc1%40thread.tacv2/1644743390188?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3akILc4y8o-dKxx_YpTRKl5RMLDuFSZRTkgTiNV-Ps-Cc1%40thread.tacv2/1644743390188?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи клінічної фармації<br>Лопатинська О.І., 315 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="http://surl.li/bjaxa" title="http://surl.li/bjaxa">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фізичні методи аналізу лікарських засобів<br>Хом'як С.В., 139 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aonNSavmdgY4U3k_rMO_sf0OwXxlJnu4qm6ejVAmv_Bk1%40thread.tacv2/1644577073241?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226786fb86-668e-4eb7-a1fa-8932cafc593e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aonNSavmdgY4U3k_rMO_sf0OwXxlJnu4qm6ejVAmv_Bk1%40thread.tacv2/1644577073241?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226786fb86-668e-4eb7-a1fa-8932cafc593e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фармацевтична хімія,частина1<br>Журахівська Л.Р., Яремкевич О.С., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:89W7Jv6XsmSgpSlrWWc_DLAmj5we9p3pQRW9kFMOpoQ1@thread.tacv2" title="https://teams.microsoft.com/_#/pre-join-calling/19:89W7Jv6XsmSgpSlrWWc_DLAmj5we9p3pQRW9kFMOpoQ1@thread.tacv2">URL онлайн заняття</a></span></div></div><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a89W7Jv6XsmSgpSlrWWc_DLAmj5we9p3pQRW9kFMOpoQ1%40thread.tacv2/1644400835562?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252e3aa27-9aeb-4a12-a4f7-0db07a0bbbfc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a89W7Jv6XsmSgpSlrWWc_DLAmj5we9p3pQRW9kFMOpoQ1%40thread.tacv2/1644400835562?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252e3aa27-9aeb-4a12-a4f7-0db07a0bbbfc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фармацевтична хімія,частина1<br>Журахівська Л.Р., Яремкевич О.С., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:FXu1nwBLhB7-kT7pOb1-sKYQ7z7Ct9XSg5EZsNdgtn81@thread.tacv2" title="https://teams.microsoft.com/_#/pre-join-calling/19:FXu1nwBLhB7-kT7pOb1-sKYQ7z7Ct9XSg5EZsNdgtn81@thread.tacv2">URL онлайн заняття</a></span></div></div><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aFXu1nwBLhB7-kT7pOb1-sKYQ7z7Ct9XSg5EZsNdgtn81%40thread.tacv2/1644401785925?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252e3aa27-9aeb-4a12-a4f7-0db07a0bbbfc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aFXu1nwBLhB7-kT7pOb1-sKYQ7z7Ct9XSg5EZsNdgtn81%40thread.tacv2/1644401785925?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252e3aa27-9aeb-4a12-a4f7-0db07a0bbbfc%22%7d">URL онлайн заняття</a></span></div></div>

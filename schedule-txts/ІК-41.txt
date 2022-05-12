@@ -1,0 +1,409 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи обробки потокових даних<br>Бурачок Р.А., 1\2 гр.305 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uwb-hkxy-owz?authuser=1" title="https://meet.google.com/uwb-hkxy-owz?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи обробки потокових даних<br>Бурачок Р.А., 1\2 гр.305 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uwb-hkxy-owz?authuser=1" title="https://meet.google.com/uwb-hkxy-owz?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Безпека інформаційних систем<br>Кирик М.І., 304 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/evp-txyf-vxp" title="https://meet.google.com/evp-txyf-vxp">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Безпека інформаційних систем<br>Кирик М.І., 304 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/evp-txyf-vxp" title="https://meet.google.com/evp-txyf-vxp">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування проектами<br>Селюченко М.О., 110 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cjv-sjwk-zus" title="https://meet.google.com/cjv-sjwk-zus">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування проектами<br>Селюченко М.О., 110 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cjv-sjwk-zus" title="https://meet.google.com/cjv-sjwk-zus">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Безпека інформаційних систем<br>Шубин Б.П., 1\2 гр.215 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ewu-etqh-zeu" title="https://meet.google.com/ewu-etqh-zeu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Безпека інформаційних систем<br>Шубин Б.П., 1\2 гр.215 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ewu-etqh-zeu" title="https://meet.google.com/ewu-etqh-zeu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи обробки потокових даних<br>Бурачок Р.А., 304 XI н.к., <br>,&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dkb-dwmh-btf?authuser=1" title="https://meet.google.com/dkb-dwmh-btf?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Безпека інформаційних систем<br>Шубин Б.П., 1\2 гр.215 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ewu-etqh-zeu" title="https://meet.google.com/ewu-etqh-zeu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи обробки потокових даних<br>Бурачок Р.А., 304 XI н.к., <br>,&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dkb-dwmh-btf?authuser=1" title="https://meet.google.com/dkb-dwmh-btf?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Безпека інформаційних систем<br>Шубин Б.П., 1\2 гр.215 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ewu-etqh-zeu" title="https://meet.google.com/ewu-etqh-zeu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи обробки потокових даних<br>Бурачок Р.А., 1\2 гр.304 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eyw-sxvs-wrd?authuser=1" title="https://meet.google.com/eyw-sxvs-wrd?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи обробки потокових даних<br>Бурачок Р.А., 1\2 гр.304 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eyw-sxvs-wrd?authuser=1" title="https://meet.google.com/eyw-sxvs-wrd?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи керування проектами<br>Селюченко М.О., 305 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uqw-rdyt-wnt" title="https://meet.google.com/uqw-rdyt-wnt">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи керування проектами<br>Селюченко М.О., 305 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uqw-rdyt-wnt" title="https://meet.google.com/uqw-rdyt-wnt">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Системи керування проектами<br>Селюченко М.О., 305 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uqw-rdyt-wnt" title="https://meet.google.com/uqw-rdyt-wnt">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Системи керування проектами<br>Селюченко М.О., 305 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uqw-rdyt-wnt" title="https://meet.google.com/uqw-rdyt-wnt">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

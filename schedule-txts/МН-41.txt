@@ -1,0 +1,435 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Мікросенсори та актуатори<br>Бобицький Я.В., 220 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjFlZGYxYmYtN2RlZi00MzJkLTlkYzgtNTM2YzJiZTdlMDYz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e6592a7-5659-4eca-8f56-b83a72d8c795%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjFlZGYxYmYtN2RlZi00MzJkLTlkYzgtNTM2YzJiZTdlMDYz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e6592a7-5659-4eca-8f56-b83a72d8c795%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Електронні системи, частина 2<br>Убізський С.Б., 317 III н.к., <br>,&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1644608357253?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1644608357253?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фотонна інженерія, частина 2<br>Бобицький Я.В., 220 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzUyMjBhMzQtMDJlMS00ODA5LWE3NGMtYjcyMzI0YTBiMTk2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e6592a7-5659-4eca-8f56-b83a72d8c795%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzUyMjBhMzQtMDJlMS00ODA5LWE3NGMtYjcyMzI0YTBiMTk2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e6592a7-5659-4eca-8f56-b83a72d8c795%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Мікроелектронні засоби інформаційних технологій<br>Бурий О.А., 331а III н.к., <br>,&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Мікроелектронні засоби інформаційних технологій<br>Бурий О.А., 331а III н.к., <br>,&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Електронні системи, частина 2<br>Бурий О.А., 1\2 гр.329 III н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Фотонна інженерія, частина 2<br>Бобицький Я.В., 220 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzlkNWVkZjEtZTc0MS00YzM2LTgxODgtZjhjNzIyYzJlZTYz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e6592a7-5659-4eca-8f56-b83a72d8c795%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzlkNWVkZjEtZTc0MS00YzM2LTgxODgtZjhjNzIyYzJlZTYz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e6592a7-5659-4eca-8f56-b83a72d8c795%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Мікросенсори та актуатори<br>Бобицький Я.В., 226 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmE5ZTE3ZTctYzdkOS00Y2U3LWFkNmYtN2E2ZmJlOTRlYWRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e6592a7-5659-4eca-8f56-b83a72d8c795%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmE5ZTE3ZTctYzdkOS00Y2U3LWFkNmYtN2E2ZmJlOTRlYWRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e6592a7-5659-4eca-8f56-b83a72d8c795%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Фотонна інженерія, частина 2<br>Булавінець Т.О., 212 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dtv-ftyp-ojd" title="https://meet.google.com/dtv-ftyp-ojd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Електронні системи, частина 2<br>Убізський С.Б., 329 III н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1644608497506?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1644608497506?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Електронні системи, частина 2<br>Бурий О.А., 1\2 гр.329 III н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Фотонна інженерія, частина 2<br>Булавінець Т.О., 212 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cvk-joxh-wna" title="https://meet.google.com/cvk-joxh-wna">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Електронні системи, частина 2<br>Убізський С.Б., 317 III н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1644608611448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1644608611448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Мікроелектронні засоби інформаційних технологій<br>Бурий О.А., 1\2 гр.214 XI н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Мікроелектронні засоби інформаційних технологій<br>Бурий О.А., 1\2 гр.214 XI н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Електронні системи, частина 2<br>Убізський С.Б., 317 III н.к., <br>,&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1644608228269?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aMcH4BIg2End3TzhvG-omAzoH2XVmA5K-hD6W20oMPYo1%40thread.tacv2/1644608228269?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20d881d-50a3-4c58-b359-f6eef7b7d78f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content"> Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., 236 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content"> Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., 236 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content"> Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content"> Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content"> Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaee04b9dd38c4bfb90d9a1e8b97f103b%40thread.tacv2/%25D0%259C%25D0%259D-41?groupId=043c39a2-422e-4646-8485-336bb51be1dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

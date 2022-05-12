@@ -1,0 +1,260 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Спеціалізовані протоколи для систем авіоніки<br>Лаврів О.А., 307 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cem-aevo-tis" title="https://meet.google.com/cem-aevo-tis">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Спеціалізовані протоколи для систем авіоніки<br>Лаврів О.А., 307 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vij-denb-tcc" title="https://meet.google.com/vij-denb-tcc">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Спеціалізовані протоколи для систем авіоніки<br>Лаврів О.А., 307 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/kxx-fnzb-twm" title="https://meet.google.com/kxx-fnzb-twm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спеціалізовані протоколи для систем авіоніки<br>Лаврів О.А., 307 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/qxj-znnw-sdv" title="https://meet.google.com/qxj-znnw-sdv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи інформаційних технологій і систем, частина 2<br>Невінський Д.В., 308 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ufd-jsdi-wid" title="https://meet.google.com/ufd-jsdi-wid">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи обробки цифрової інформації в сучасних системах авіоніки, частина 2<br>Романишин Ю.М., 112 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aHz7V_RPIt3WTbMzIOMD2Oj9kjkcKewy51RoU-c-8wXg1%40thread.tacv2/1644577124607?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7c07b55-30de-48c6-95b1-5b8d10f93019%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aHz7V_RPIt3WTbMzIOMD2Oj9kjkcKewy51RoU-c-8wXg1%40thread.tacv2/1644577124607?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7c07b55-30de-48c6-95b1-5b8d10f93019%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи реєстрації параметрів польоту, частина 2<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92484465595?pwd=RTZTOXRBRDU5OWt2M25ZSXp3L2IxQT09" title="https://zoom.us/j/92484465595?pwd=RTZTOXRBRDU5OWt2M25ZSXp3L2IxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системи реєстрації параметрів польоту, частина 2<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92484465595?pwd=RTZTOXRBRDU5OWt2M25ZSXp3L2IxQT09" title="https://zoom.us/j/92484465595?pwd=RTZTOXRBRDU5OWt2M25ZSXp3L2IxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи реєстрації параметрів польоту, частина 2<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92484465595?pwd=RTZTOXRBRDU5OWt2M25ZSXp3L2IxQT09" title="https://zoom.us/j/92484465595?pwd=RTZTOXRBRDU5OWt2M25ZSXp3L2IxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи інформаційних технологій і систем, частина 2<br>Павлиш В.А., 112 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/acj-rxpc-uvi" title="https://meet.google.com/acj-rxpc-uvi">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Методи обробки цифрової інформації в сучасних системах авіоніки, частина 2<br>Романишин Ю.М., 306 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aBOtZBLdaoxEFmbQQXDylHeYu0Y0cA4vef8mU5jf49hI1%40thread.tacv2/1644577446345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7c07b55-30de-48c6-95b1-5b8d10f93019%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aBOtZBLdaoxEFmbQQXDylHeYu0Y0cA4vef8mU5jf49hI1%40thread.tacv2/1644577446345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7c07b55-30de-48c6-95b1-5b8d10f93019%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Спеціалізовані протоколи для систем авіоніки<br>Лаврів О.А., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ypv-sbgo-idc" title="https://meet.google.com/ypv-sbgo-idc">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

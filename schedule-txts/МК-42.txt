@@ -1,0 +1,402 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Економіка логістики<br>Михайлик Н.І., 401а IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222" title="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Економіка логістики<br>Михайлик Н.І., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222" title="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Економіка логістики<br>Михайлик Н.І., 404 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222" title="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Економіка логістики<br>Михайлик Н.І., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222" title="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Економіка логістики<br>Михайлик Н.І., 405 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222" title="https://zoom.us/j/94687519121?pwd=TXJaMVdKR0Fra0FpVjNUZFlxWkt2dz09  Идентификатор конференции: 946 8751 9121 Код доступа: 222">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">SRM-системи<br>Черкес Р.Б., 426в IV н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">SRM-системи<br>Білик І.І., 426а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обслуговування клієнта<br>Наконечна Т.В., 514 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a800d1e72c79946cf861974a123451135%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0d4e66da-746b-4a07-a311-fe2361dd059b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a800d1e72c79946cf861974a123451135%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0d4e66da-746b-4a07-a311-fe2361dd059b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обслуговування клієнта<br>Наконечна Т.В., 201 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a800d1e72c79946cf861974a123451135%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0d4e66da-746b-4a07-a311-fe2361dd059b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a800d1e72c79946cf861974a123451135%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0d4e66da-746b-4a07-a311-fe2361dd059b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">SRM-системи<br>Білик І.І., 429 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками у маркетингу<br>Шандрівська О.Є., 106 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859" title="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економіка логістики<br>Михайлик Н.І., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6800472062?pwd=cHp1V3pmcy91NWxaVDlYRTZjby96Zz09  Идентификатор конференции: 680 047 2062 Код доступа: 000" title="https://zoom.us/j/6800472062?pwd=cHp1V3pmcy91NWxaVDlYRTZjby96Zz09  Идентификатор конференции: 680 047 2062 Код доступа: 000">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обслуговування клієнта<br>Наконечна Т.В., 429 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a800d1e72c79946cf861974a123451135%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0d4e66da-746b-4a07-a311-fe2361dd059b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a800d1e72c79946cf861974a123451135%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0d4e66da-746b-4a07-a311-fe2361dd059b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">SRM-системи<br>Білик І.І., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">SRM-системи<br>Білик І.І., 426в IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">SRM-системи<br>Черкес Р.Б., 426а IV н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками у маркетингу<br>Шандрівська О.Є., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859" title="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками у маркетингу<br>Шандрівська О.Є., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859" title="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

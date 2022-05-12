@@ -1,0 +1,394 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Соціальна робота з групами, організаціями та громадами<br>Школяр М.В., 005 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a85727cdd110042f5a2fff543dbadc307%40thread.tacv2/1644312483240?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a85727cdd110042f5a2fff543dbadc307%40thread.tacv2/1644312483240?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні моделі соціальної політики<br>Проскура В.В., 005 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aC7P7PJ4EBEwzE5EDqALdWKvsB9LJtudVPyi947vR4s81%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ccc336a9-72a5-4550-ba26-2a86c9d2353e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aC7P7PJ4EBEwzE5EDqALdWKvsB9LJtudVPyi947vR4s81%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ccc336a9-72a5-4550-ba26-2a86c9d2353e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні моделі соціальної політики<br>Проскура В.В., 005 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aC7P7PJ4EBEwzE5EDqALdWKvsB9LJtudVPyi947vR4s81%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ccc336a9-72a5-4550-ba26-2a86c9d2353e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aC7P7PJ4EBEwzE5EDqALdWKvsB9LJtudVPyi947vR4s81%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ccc336a9-72a5-4550-ba26-2a86c9d2353e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Соціальна  робота з різними групами клієнтів<br>Бік О.Я., 107 XXIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09" title="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальні програми базовані на громаді<br>Герасим Г.З., 107 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09" title="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальні програми базовані на громаді<br>Герасим Г.З., 107 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09" title="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Соціальна  робота з різними групами клієнтів<br>Бік О.Я., 107 XXIX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09" title="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Соціальна  робота з різними групами клієнтів<br>Бік О.Я., 107 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09" title="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальна  робота з різними групами клієнтів<br>Бік О.Я., 107 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09" title="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Соціальна  робота з різними групами клієнтів<br>Бік О.Я., 205б XXIX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09" title="https://us02web.zoom.us/j/83663943680?pwd=bkdyN2UwOEdzdU5BUTlQYTZOeEV0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародна соціальна робота<br>Ставкова С.Г., 205а XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a5VUjBeRAOE5O3LC9C2lVF_8q0RJlnp89yABuiEzzveU1%40thread.tacv2/1644593811694?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a5VUjBeRAOE5O3LC9C2lVF_8q0RJlnp89yABuiEzzveU1%40thread.tacv2/1644593811694?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Міжнародна соціальна робота<br>Ставкова С.Г., 205а XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a5VUjBeRAOE5O3LC9C2lVF_8q0RJlnp89yABuiEzzveU1%40thread.tacv2/1644593957227?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a5VUjBeRAOE5O3LC9C2lVF_8q0RJlnp89yABuiEzzveU1%40thread.tacv2/1644593957227?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з соціальної роботи, частина 1<br>Козак М.Я., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/88160798358?pwd=YUphbmg2UGd5V1BNdVZXYzJjVkhsUT09" title="https://us05web.zoom.us/j/88160798358?pwd=YUphbmg2UGd5V1BNdVZXYzJjVkhsUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з соціальної роботи, частина 1<br>Козак М.Я., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/86802970978?pwd=ZVlEdVdxWGxpVDR2ZXJ5aG9Sc1FHUT09" title="https://us05web.zoom.us/j/86802970978?pwd=ZVlEdVdxWGxpVDR2ZXJ5aG9Sc1FHUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з соціальної роботи, частина 1<br>Герасим Г.З., Козак М.Я., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jub-ftvz-rme" title="https://meet.google.com/jub-ftvz-rme">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09" title="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальна робота з групами, організаціями та громадами<br>Школяр М.В., 105 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a85727cdd110042f5a2fff543dbadc307%40thread.tacv2/1644312665988?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a85727cdd110042f5a2fff543dbadc307%40thread.tacv2/1644312665988?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальна робота з групами, організаціями та громадами<br>Школяр М.В., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a85727cdd110042f5a2fff543dbadc307%40thread.tacv2/1644312774130?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a85727cdd110042f5a2fff543dbadc307%40thread.tacv2/1644312774130?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

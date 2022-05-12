@@ -1,0 +1,409 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізична хімія тугоплавких неметалевих і силікатних матеріалів <br>Луцюк І.В., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09" title="https://us02web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізична хімія тугоплавких неметалевих і силікатних матеріалів <br>Луцюк І.В., 111 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09" title="https://us02web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізична хімія тугоплавких неметалевих і силікатних матеріалів <br>Луцюк І.В., 111 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09" title="https://us02web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Аналітична хімія, частина 2<br>Стаднік В.Є., Шаповал П.Й., Ятчишин Й.Й., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab1302fe3d32c4dafb5ab901138584b34%40thread.tacv2/conversations?groupId=c3f00da7-bed3-4d5f-975d-88274bf52220&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab1302fe3d32c4dafb5ab901138584b34%40thread.tacv2/conversations?groupId=c3f00da7-bed3-4d5f-975d-88274bf52220&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналітична хімія, частина 2<br>Стаднік В.Є., Шаповал П.Й., Ятчишин Й.Й., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab1302fe3d32c4dafb5ab901138584b34%40thread.tacv2/conversations?groupId=c3f00da7-bed3-4d5f-975d-88274bf52220&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab1302fe3d32c4dafb5ab901138584b34%40thread.tacv2/conversations?groupId=c3f00da7-bed3-4d5f-975d-88274bf52220&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія і обладнання виробництва скла, частина 1<br>Магорівська Г.Я., 012 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Метрологія, стандартизація та сертифікація<br>Магорівська Г.Я., 018 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Енерготехнології  хіміко-технологічних процесів<br>Кіндзера Д.П., 101 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3au3AH9IPsCm2kHhRWEuDsrXA69WMl3-0QKGcpGU017ko1%40thread.tacv2/conversations?groupId=43ccd066-d4db-4004-854c-3cddbccf195e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3au3AH9IPsCm2kHhRWEuDsrXA69WMl3-0QKGcpGU017ko1%40thread.tacv2/conversations?groupId=43ccd066-d4db-4004-854c-3cddbccf195e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія  і обладнання виробництва кераміки,  частина 1<br>Семеген Р.І., 018 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія  і обладнання виробництва кераміки,  частина 1<br>Семеген Р.І., 018 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія і обладнання виробництва скла, частина 1<br>Магорівська Г.Я., 010 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія і обладнання виробництва скла, частина 1<br>Магорівська Г.Я., 010 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Енерготехнології  хіміко-технологічних процесів<br>Кіндзера Д.П., 028 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3axigVzaC9rIjtxbzechSzZ4tffsSGrROx-FNm8A9KRTk1%40thread.tacv2/conversations?groupId=efcb0ff1-d8b9-4a5b-a0a3-3d56ae9e1f34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3axigVzaC9rIjtxbzechSzZ4tffsSGrROx-FNm8A9KRTk1%40thread.tacv2/conversations?groupId=efcb0ff1-d8b9-4a5b-a0a3-3d56ae9e1f34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія  і обладнання виробництва кераміки,  частина 1<br>Семеген Р.І., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія  і обладнання виробництва кераміки,  частина 1<br>Семеген Р.І., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Метрологія, стандартизація та сертифікація<br>Магорівська Г.Я., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія і обладнання виробництва в`яжучих речовин, частина 1<br>Якимечко Я.Б., 012 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія і обладнання виробництва в`яжучих речовин, частина 1<br>Якимечко Я.Б., 005 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

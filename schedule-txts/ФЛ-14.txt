@@ -1,0 +1,513 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Череповська О.А., 21кор.вул.Самчука11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вступ до мовознавства<br>Назарчук Р.З., 407 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cug-fygu-wdx" title="https://meet.google.com/cug-fygu-wdx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 1<br>Синдега Р.Є., 104 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zvf-rvyi-tby" title="https://meet.google.com/zvf-rvyi-tby">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 1<br>Гірняк О.Г., 102 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uhk-biui-wkn" title="https://meet.google.com/uhk-biui-wkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 1<br>Гірняк О.Г., 102 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uhk-biui-wkn" title="https://meet.google.com/uhk-biui-wkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дискретна математика<br>Бандирський Б.Й., 117 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a041bc1063d68456daca77de62f961d92%40thread.tacv2/1644241583439?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222397559e-794b-4491-9a9b-c5fa3d059467%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a041bc1063d68456daca77de62f961d92%40thread.tacv2/1644241583439?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222397559e-794b-4491-9a9b-c5fa3d059467%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи програмування, частина 1<br>Маркелов О.Е., 321 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/yhm-xwzj-def" title="https://meet.google.com/yhm-xwzj-def">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вступ до мовознавства<br>Тищенко О.В., 217 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7038705963?pwd=NTVoQlVlZ2xnTVY4Wk10T1pVR0l6Zz09" title="https://us02web.zoom.us/j/7038705963?pwd=NTVoQlVlZ2xnTVY4Wk10T1pVR0l6Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дискретна математика<br>Бандирський Б.Й., 407 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a690fbc2cbc7144f8bd1d1b3e580d52cc%40thread.tacv2/1644241828340?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222397559e-794b-4491-9a9b-c5fa3d059467%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a690fbc2cbc7144f8bd1d1b3e580d52cc%40thread.tacv2/1644241828340?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222397559e-794b-4491-9a9b-c5fa3d059467%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 1<br>Синдега Р.Є., 129 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zvf-rvyi-tby" title="https://meet.google.com/zvf-rvyi-tby">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна німецька/японська/чеська/польська мова, частина 2<br>Цьох Л.Й., 102 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ryx-hubb-qde" title="https://meet.google.com/ryx-hubb-qde">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна німецька/японська/чеська/польська мова, частина 2<br>Шпигульська О.Я., 129 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84378084774?pwd=UTBsUkFHYyt6ZWJ5UmxSUlBUS1BXQT09" title="https://us02web.zoom.us/j/84378084774?pwd=UTBsUkFHYyt6ZWJ5UmxSUlBUS1BXQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Сучасна німецька/японська/чеська/польська мова, частина 2<br>Шпигульська О.Я., 129 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84378084774?pwd=UTBsUkFHYyt6ZWJ5UmxSUlBUS1BXQT09" title="https://us02web.zoom.us/j/84378084774?pwd=UTBsUkFHYyt6ZWJ5UmxSUlBUS1BXQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 1<br>Гірняк О.Г., 134 III н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uhk-biui-wkn" title="https://meet.google.com/uhk-biui-wkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи програмування, частина 1<br>Нестор Н.І., 125 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/eoo-ejom-wbs" title="http://meet.google.com/eoo-ejom-wbs">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 1<br>Гірняк О.Г., 134 III н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uhk-biui-wkn" title="https://meet.google.com/uhk-biui-wkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасна українська мова<br>Литвин О.Г., 307 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95322060531?pwd=bmZrRTVQUkdTbmVac0VvZmVhanE3QT09" title="https://zoom.us/j/95322060531?pwd=bmZrRTVQUkdTbmVac0VvZmVhanE3QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 1<br>Синдега Р.Є., 104 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zvf-rvyi-tby" title="https://meet.google.com/zvf-rvyi-tby">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Сучасна німецька/японська/чеська/польська мова, частина 2<br>Цьох Л.Й., 116 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ryx-hubb-qde" title="https://meet.google.com/ryx-hubb-qde">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 1<br>Синдега Р.Є., 104 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zvf-rvyi-tby" title="https://meet.google.com/zvf-rvyi-tby">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна німецька/японська/чеська/польська мова, частина 2<br>Цьох Л.Й., 116 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ryx-hubb-qde" title="https://meet.google.com/ryx-hubb-qde">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна німецька/японська/чеська/польська мова, частина 2<br>Шпигульська О.Я., 407 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84378084774?pwd=UTBsUkFHYyt6ZWJ5UmxSUlBUS1BXQT09" title="https://us02web.zoom.us/j/84378084774?pwd=UTBsUkFHYyt6ZWJ5UmxSUlBUS1BXQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи програмування, частина 1<br>Головацький Р.І., 125 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86723849881?pwd=eHFtQzJPM3BISFhUeXBRM2QvQ0NjZz09" title="https://us02web.zoom.us/j/86723849881?pwd=eHFtQzJPM3BISFhUeXBRM2QvQ0NjZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасна українська мова<br>Литвин О.Г., 307 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95322060531?pwd=bmZrRTVQUkdTbmVac0VvZmVhanE3QT09" title="https://zoom.us/j/95322060531?pwd=bmZrRTVQUkdTbmVac0VvZmVhanE3QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

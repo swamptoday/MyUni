@@ -1,0 +1,264 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи технології ремонтно-будівельних робіт<br>Петренко О.В., 413 II н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Новітні технології в проектуванні, виготовленні, будівництві і експлуатації<br>Костюк І.Г., Сидор Н.І., 413 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/meeting/74394990526" title="https://us04web.zoom.us/meeting/74394990526">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Новітні технології в проектуванні, виготовленні, будівництві і експлуатації<br>Петренко О.В., 413 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8115312911?pwd=UHlZL2Q5TTVuWGJSSW1HZDdMVitHQT09" title="https://us04web.zoom.us/j/8115312911?pwd=UHlZL2Q5TTVuWGJSSW1HZDdMVitHQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Новітні технології в проектуванні, виготовленні, будівництві і експлуатації<br>Гоголь М.В., 413 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8115312911?pwd=UHlZL2Q5TTVuWGJSSW1HZDdMVitHQT09" title="https://us04web.zoom.us/j/8115312911?pwd=UHlZL2Q5TTVuWGJSSW1HZDdMVitHQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи технології ремонтно-будівельних робіт<br>Кропивницька Т.П., Сидор Н.І., 413 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи технології ремонтно-будівельних робіт<br>Кропивницька Т.П., Сидор Н.І., 416 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:IdITouXUno1vA4KeZ80fF3W0bzjoC1G1sRz5TSK0JGw1@thread.tacv2&amp;ctx=channel" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:IdITouXUno1vA4KeZ80fF3W0bzjoC1G1sRz5TSK0JGw1@thread.tacv2&amp;ctx=channel">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Новітні технології в проектуванні, виготовленні, будівництві і експлуатації<br>Гоголь М.В., 413 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7a6eb9c2-7419-4aa3-ba7f-e3e3c711a74c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7a6eb9c2-7419-4aa3-ba7f-e3e3c711a74c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи технології ремонтно-будівельних робіт<br>Кропивницька Т.П., Сидор Н.І., 413 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:IdITouXUno1vA4KeZ80fF3W0bzjoC1G1sRz5TSK0JGw1@thread.tacv2&amp;ctx=channel" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:IdITouXUno1vA4KeZ80fF3W0bzjoC1G1sRz5TSK0JGw1@thread.tacv2&amp;ctx=channel">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a2d723bc07b4845748d3508a91be42154%40thread.tacv2/conversations?groupId=55bf4826-0522-4ed2-9a2e-28edf97b42aa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a2d723bc07b4845748d3508a91be42154%40thread.tacv2/conversations?groupId=55bf4826-0522-4ed2-9a2e-28edf97b42aa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Новітні технології в проектуванні, виготовленні, будівництві і експлуатації<br>Петренко О.В., 413 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25B" title="https://teams.microsoft.com/l/channel/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25B">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи технології ремонтно-будівельних робіт<br>Петренко О.В., 313 II н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи технології ремонтно-будівельних робіт<br>Петренко О.В., 313 II н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

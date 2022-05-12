@@ -1,0 +1,258 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Аудіовізуальна реклама<br>Назаркевич М.А., 409 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hpr-xzoj-efu" title="https://meet.google.com/hpr-xzoj-efu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сховища даних мультимедійних систем<br>Ковальчук А.М., 414 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTBmZmVkNDUtNGJmZS00MTg0LThlYzYtY2FiM2VhOTYwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222b9f547-5122-4717-8e9e-4e7223a1c753%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTBmZmVkNDUtNGJmZS00MTg0LThlYzYtY2FiM2VhOTYwYzMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222b9f547-5122-4717-8e9e-4e7223a1c753%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Аудіовізуальна реклама<br>Назаркевич М.А., 409 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vmq-qpuh-vxv" title="https://meet.google.com/vmq-qpuh-vxv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сховища даних мультимедійних систем<br>Ковальчук А.М., 414 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODkwY2ZkNzktNzExZC00ZTFjLTlmMmEtYjdiMzU1MDZkMTIy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222b9f547-5122-4717-8e9e-4e7223a1c753%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODkwY2ZkNzktNzExZC00ZTFjLTlmMmEtYjdiMzU1MDZkMTIy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222b9f547-5122-4717-8e9e-4e7223a1c753%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сховища даних мультимедійних систем<br>Ковальчук А.М., 311 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzI4ZTNiMDktZmE0YS00YTkxLWEwZjAtNTBjZDUzNWQyOTI1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222b9f547-5122-4717-8e9e-4e7223a1c753%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzI4ZTNiMDktZmE0YS00YTkxLWEwZjAtNTBjZDUzNWQyOTI1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222b9f547-5122-4717-8e9e-4e7223a1c753%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Комп`ютерне забезпечення мультимедійних інформаційних систем<br>Кинаш Ю.Є., 409 V н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Комп`ютерне забезпечення мультимедійних інформаційних систем<br>Кинаш Ю.Є., Кинаш Ю.Є., 409 V н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Аудіовізуальна реклама<br>Гавриш Б.М., 311 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95822420206?pwd=dXNVeXpsZ1RIczkzNVhoK1VyYmlodz09" title="https://zoom.us/j/95822420206?pwd=dXNVeXpsZ1RIczkzNVhoK1VyYmlodz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Комп`ютерне забезпечення мультимедійних інформаційних систем<br>Кинаш Ю.Є., 311 V н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтелектуальний аналіз даних<br>Ткаченко Р.О., 414 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pqk-gkfh-cbm" title="https://meet.google.com/pqk-gkfh-cbm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтелектуальний аналіз даних<br>Ткаченко Р.О., 414 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/geg-rzkx-hyz" title="https://meet.google.com/geg-rzkx-hyz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аудіовізуальна реклама<br>Назаркевич М.А., 311 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/csr-xzhv-csd" title="https://meet.google.com/csr-xzhv-csd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

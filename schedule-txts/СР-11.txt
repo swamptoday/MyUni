@@ -1,0 +1,357 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська мова (за професійним спрямуванням)<br>Колодій Н.В., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVjWsYcBy80swT0dW8szb9A_slKyIojO6T2BZqJYxvxs1%40thread.tacv2/conversations?groupId=f2b7c874-a080-4228-865e-f0617f124d36&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVjWsYcBy80swT0dW8szb9A_slKyIojO6T2BZqJYxvxs1%40thread.tacv2/conversations?groupId=f2b7c874-a080-4228-865e-f0617f124d36&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання соціального забезпечення<br>Шевченко Ж.М., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3acytxC1t0cho_Vhi7JVICTw3I-okU8qDwQzmRgvf7zrs1%40thread.tacv2/conversations?groupId=350ce2e5-851c-49f9-b896-0b51a91f6d3a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3acytxC1t0cho_Vhi7JVICTw3I-okU8qDwQzmRgvf7zrs1%40thread.tacv2/conversations?groupId=350ce2e5-851c-49f9-b896-0b51a91f6d3a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорії та методи соціальної роботи<br>Ставкова С.Г., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a508bded580324e948fa8cc52861cffbf%40thread.tacv2/1644493277389?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a508bded580324e948fa8cc52861cffbf%40thread.tacv2/1644493277389?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Гук Л.І., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/hNdFcxvYMg0t" title="https://join.skype.com/hNdFcxvYMg0t">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Громадська думка і поведінка людини в соціальному оточенні<br>Климанська Л.Д., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09" title="https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжособистісне спілкування<br>Тюріна Т.Г., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92522964529?pwd=VmkrYXhwVUk2WldLRVloNGJTWldIQT09" title="https://zoom.us/j/92522964529?pwd=VmkrYXhwVUk2WldLRVloNGJTWldIQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Гаврилюк М.В., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a9wEjVJaeOaQP3r_sp9vBX8-5FtM2LBchS_VDGg1hbkA1%40thread.tacv2/conversations?groupId=aac556ea-7a37-4cf9-bb8e-ab5d0823361e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a9wEjVJaeOaQP3r_sp9vBX8-5FtM2LBchS_VDGg1hbkA1%40thread.tacv2/conversations?groupId=aac556ea-7a37-4cf9-bb8e-ab5d0823361e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Рожко О.І., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94262609295?pwd=TWthcTVoQ1p5a1lhd0wxUGVxeUZqQT09" title="https://zoom.us/j/94262609295?pwd=TWthcTVoQ1p5a1lhd0wxUGVxeUZqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорії та методи соціальної роботи<br>Ставкова С.Г., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aWqapo4grTGoMKhjb_1JBBaU7TJA3hDo57vda1Ll_88Y1%40thread.tacv2/1644591925971?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aWqapo4grTGoMKhjb_1JBBaU7TJA3hDo57vda1Ll_88Y1%40thread.tacv2/1644591925971?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання соціального забезпечення<br>Шевченко Ж.М., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3acytxC1t0cho_Vhi7JVICTw3I-okU8qDwQzmRgvf7zrs1%40thread.tacv2/conversations?groupId=350ce2e5-851c-49f9-b896-0b51a91f6d3a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3acytxC1t0cho_Vhi7JVICTw3I-okU8qDwQzmRgvf7zrs1%40thread.tacv2/conversations?groupId=350ce2e5-851c-49f9-b896-0b51a91f6d3a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжособистісне спілкування<br>Тюріна Т.Г., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/meeting/99796724587#:~:text=https%3A//zoom.us/j/99796724587%3Fpwd%3DWGhaWHE0Y3F2OXdEVG9FdVZoNUovQT09" title="https://zoom.us/meeting/99796724587#:~:text=https%3A//zoom.us/j/99796724587%3Fpwd%3DWGhaWHE0Y3F2OXdEVG9FdVZoNUovQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання соціального забезпечення<br>Андрейчук С.К., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09" title="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Громадська думка і поведінка людини в соціальному оточенні<br>Климанська Л.Д., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09" title="https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжособистісне спілкування<br>Тюріна Т.Г., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/meeting/92437197429#:~:text=https%3A//zoom.us/j/92437197429%3Fpwd%3DLy9jZ0ZXa3ZYYUdIL0xXK0dzdmNKQT09" title="https://zoom.us/meeting/92437197429#:~:text=https%3A//zoom.us/j/92437197429%3Fpwd%3DLy9jZ0ZXa3ZYYUdIL0xXK0dzdmNKQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорії та методи соціальної роботи<br>Ставкова С.Г., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3apkdPD83albFC5C2aiG8J2VjqOUoVc8-OJnBaL4qU60E1%40thread.tacv2/1644592199645?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3apkdPD83albFC5C2aiG8J2VjqOUoVc8-OJnBaL4qU60E1%40thread.tacv2/1644592199645?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

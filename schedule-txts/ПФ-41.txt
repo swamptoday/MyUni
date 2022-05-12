@@ -1,0 +1,313 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні методи фізичних досліджень, частина 2<br>Кондир А.І., 35 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Meeting ID: 878 7641 8695 Passcode: Axx5au" title="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Meeting ID: 878 7641 8695 Passcode: Axx5au">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика структурно невпорядкованих систем<br>Лукіянець Б.А., 006 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81084275218?pwd=aklWUmR3eW1jMU1aeWdUbmJhcjFXZz09  Идентификатор конференции: 810 8427 5218 Код доступа: aVtiB2" title="https://us02web.zoom.us/j/81084275218?pwd=aklWUmR3eW1jMU1aeWdUbmJhcjFXZz09  Идентификатор конференции: 810 8427 5218 Код доступа: aVtiB2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні методи фізичних досліджень, частина 2<br>Кондир А.І., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Meeting ID: 878 7641 8695 Passcode: Axx5au" title="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Meeting ID: 878 7641 8695 Passcode: Axx5au">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика структурно невпорядкованих систем<br>Лукіянець Б.А., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81084275218?pwd=aklWUmR3eW1jMU1aeWdUbmJhcjFXZz09  Идентификатор конференции: 810 8427 5218 Код доступа: aVtiB2" title="https://us02web.zoom.us/j/81084275218?pwd=aklWUmR3eW1jMU1aeWdUbmJhcjFXZz09  Идентификатор конференции: 810 8427 5218 Код доступа: aVtiB2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні методи фізичних досліджень, частина 2<br>Кондир А.І., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Meeting ID: 878 7641 8695 Passcode: Axx5au" title="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Meeting ID: 878 7641 8695 Passcode: Axx5au">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика структурно невпорядкованих систем<br>Лукіянець Б.А., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81084275218?pwd=aklWUmR3eW1jMU1aeWdUbmJhcjFXZz09  Идентификатор конференции: 810 8427 5218 Код доступа: aVtiB2" title="https://us02web.zoom.us/j/81084275218?pwd=aklWUmR3eW1jMU1aeWdUbmJhcjFXZz09  Идентификатор конференции: 810 8427 5218 Код доступа: aVtiB2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні методи фізичних досліджень, частина 2<br>Кондир А.І., 35 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Идентификатор конференции: 878 7641 8695 Код доступа: Axx5au" title="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Идентификатор конференции: 878 7641 8695 Код доступа: Axx5au">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні методи фізичних досліджень, частина 2<br>Кондир А.І., 35 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Идентификатор конференции: 878 7641 8695 Код доступа: Axx5au" title="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Идентификатор конференции: 878 7641 8695 Код доступа: Axx5au">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні методи фізичних досліджень, частина 2<br>Кондир А.І., 35 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Идентификатор конференции: 878 7641 8695 Код доступа: Axx5au" title="https://us02web.zoom.us/j/87876418695?pwd=eGpyWGlKM2M2dmt2WjFGeUY0aGptdz09  Идентификатор конференции: 878 7641 8695 Код доступа: Axx5au">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання фізичних процесів, частина 2<br>Брик Т.М., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09" title="https://us02web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання фізичних процесів, частина 2<br>Брик Т.М., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09" title="https://us02web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання фізичних процесів, частина 2<br>Брик Т.М., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09" title="https://us02web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання фізичних процесів, частина 2<br>Брик Т.М., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09" title="https://us02web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

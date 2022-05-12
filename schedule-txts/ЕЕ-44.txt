@@ -1,0 +1,520 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи моделювання електромеханічних систем<br>Мороз В.І., 119 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління проектами<br>Моторнюк У.І., 114 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aW1s1eR2OfXI8Pv88a5YJENWrcHUqWfxmrmbpprNcW1I1%40thread.tacv2/conversations?groupId=6c457483-1506-4b10-aceb-dfca46fbe6c9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aW1s1eR2OfXI8Pv88a5YJENWrcHUqWfxmrmbpprNcW1I1%40thread.tacv2/conversations?groupId=6c457483-1506-4b10-aceb-dfca46fbe6c9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи проектування електромеханічних систем<br>Маляр А.В., 121 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи проектування електромеханічних систем<br>Маляр А.В., 148 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи проектування електромеханічних систем<br>Маляр А.В., 121 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Енергоощадність та альтернативні джерела енергії<br>Лисяк В.Г., 312а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи проектування електромеханічних систем<br>Маляр А.В., 121 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Енергоощадність та альтернативні джерела енергії<br>Лисяк В.Г., 312а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи проектування електромеханічних систем<br>Маляр А.В., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи проектування електромеханічних систем<br>Маляр А.В., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи проектування електромеханічних систем<br>Маляр А.В., 148 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aad-wrD0qicOzLfzdZcdwqt7MXV0M2PBroKTWY7uXeUI1%40thread.tacv2/General?groupId=b1a45064-11c1-4bc0-a511-66065e803e61&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Енергоощадність та альтернативні джерела енергії<br>Лисяк В.Г., 307 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Енергоощадність та альтернативні джерела енергії<br>Лисяк В.Г., 207 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Енергоощадність та альтернативні джерела енергії<br>Лисяк В.Г., 307 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління проектами<br>Передало Х.С., 207 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ajsVSJ0k4woVuDnCaeWL8g7kfHcyu3TTxdnQGzEAPSEE1%40thread.tacv2/conversations?groupId=544ae971-056a-4830-8070-ae62d38187ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ajsVSJ0k4woVuDnCaeWL8g7kfHcyu3TTxdnQGzEAPSEE1%40thread.tacv2/conversations?groupId=544ae971-056a-4830-8070-ae62d38187ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління проектами<br>Передало Х.С., 207 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ajsVSJ0k4woVuDnCaeWL8g7kfHcyu3TTxdnQGzEAPSEE1%40thread.tacv2/conversations?groupId=544ae971-056a-4830-8070-ae62d38187ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ajsVSJ0k4woVuDnCaeWL8g7kfHcyu3TTxdnQGzEAPSEE1%40thread.tacv2/conversations?groupId=544ae971-056a-4830-8070-ae62d38187ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Енергоощадність та альтернативні джерела енергії<br>Сабат М.Б., 211 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a1e646b6aac0a42259258b99b1b7df25f%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%25A1%25D0%25B0%25D0%25B1%25D0%25B0%25D1%2582%2520%25D0%259C.%25D0%2591.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a1e646b6aac0a42259258b99b1b7df25f%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%25A1%25D0%25B0%25D0%25B1%25D0%25B0%25D1%2582%2520%25D0%259C.%25D0%2591.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Енергоощадність та альтернативні джерела енергії<br>Сабат М.Б., 211 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a1e646b6aac0a42259258b99b1b7df25f%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%25A1%25D0%25B0%25D0%25B1%25D0%25B0%25D1%2582%2520%25D0%259C.%25D0%2591.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a1e646b6aac0a42259258b99b1b7df25f%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%25A1%25D0%25B0%25D0%25B1%25D0%25B0%25D1%2582%2520%25D0%259C.%25D0%2591.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи моделювання електромеханічних систем<br>Мороз В.І., 148 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи моделювання електромеханічних систем<br>Мороз В.І., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи моделювання електромеханічних систем<br>Мороз В.І., 148 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи моделювання електромеханічних систем<br>Мороз В.І., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи моделювання електромеханічних систем<br>Мороз В.І., 141 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1da32a78125b44a9be1e599f105dfabb%40thread.tacv2/conversations?groupId=b4e2e1f1-0f83-4a36-bb5a-94ff86101a01&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Енергоощадність та альтернативні джерела енергії<br>Лисяк В.Г., 307 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ab114478e63134fe78bd937b41ccc2232%40thread.tacv2/%25D0%2586%25D0%25BD%25D1%2588%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520(%25D1%2581%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D0%25BE%25D0%25BD%25D0%25B0%25D1%2580%252C%2520%25D0%259B%25D0%25B8%25D1%2581%25D1%258F%25D0%25BA%2520%25D0%2592.%25D0%2593.)?groupId=56f7db9c-174c-496f-9b57-e96e108f9696&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

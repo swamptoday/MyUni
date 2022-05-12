@@ -1,0 +1,171 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Підземні транспортні споруди<br>Бліхарський Я.З., 309 II н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Підземні транспортні споруди<br>Бліхарський Я.З., 309 II н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Підземні транспортні споруди<br>Бліхарський Я.З., 309 II н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи та фундаменти транспортних споруд, частина 2<br>Шуляр Р.А., 313 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09" title="https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи та фундаменти транспортних споруд, частина 2<br>Шуляр Р.А., 313 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09" title="https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи та фундаменти транспортних споруд, частина 2<br>Шналь Т.М., 214 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5424495718" title="https://zoom.us/j/5424495718">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи та фундаменти транспортних споруд, частина 2<br>Шналь Т.М., 214 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5424495718" title="https://zoom.us/j/5424495718">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

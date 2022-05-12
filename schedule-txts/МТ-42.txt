@@ -1,0 +1,394 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Типові технологічні об`єкти і процеси <br>Байцар Р.І., 713 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dsc-xxjx-wkn " title="https://meet.google.com/dsc-xxjx-wkn ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Типові технологічні об`єкти і процеси <br>Байцар Р.І., 713 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dsc-xxjx-wkn" title="https://meet.google.com/dsc-xxjx-wkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Внутрішній та зовнішній аудит підприємства<br>Іванишин А.В., 713 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Типові технологічні об`єкти і процеси <br>Питель І.Д., 705а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09" title="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Типові технологічні об`єкти і процеси <br>Питель І.Д., 705а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09" title="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Внутрішній та зовнішній аудит підприємства<br>Іванишин А.В., 705а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Качан С.І., 236 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3arwcCKm7Ls46AJ_YZUDXw_hT9jiKUnChxbpzH_3-KqZ81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=743b53f7-6333-4b4b-a97f-2d2bc8e5ea5f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3arwcCKm7Ls46AJ_YZUDXw_hT9jiKUnChxbpzH_3-KqZ81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=743b53f7-6333-4b4b-a97f-2d2bc8e5ea5f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Типові технологічні об`єкти і процеси <br>Байцар Р.І., 713 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dsc-xxjx-wkn" title="https://meet.google.com/dsc-xxjx-wkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Качан С.І., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8a3eTr3qzKYTe2SOn9mqa4za6uqL0evHy4HSiBiZ0L01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=106b306e-89a5-4db9-b797-1bc8380ea08b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8a3eTr3qzKYTe2SOn9mqa4za6uqL0evHy4HSiBiZ0L01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=106b306e-89a5-4db9-b797-1bc8380ea08b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Качан С.І., 303 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aDchxnfX2etMxggajr38nVi-1_Ue0cpjdFIcPwb1jb241%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=54b7d9f4-600d-4b9e-9310-753536102864&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aDchxnfX2etMxggajr38nVi-1_Ue0cpjdFIcPwb1jb241%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=54b7d9f4-600d-4b9e-9310-753536102864&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електромагнітна сумісність<br>Дорожовець М.М., 711 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aPqK5YQBmha4kSkVub70TjcpWpkEVXTFFOVwKCWZrUPQ1%40thread.tacv2/Og%25C3%25B3lny?groupId=c23d2101-3d5f-4fcb-8072-57bcee067e06&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aPqK5YQBmha4kSkVub70TjcpWpkEVXTFFOVwKCWZrUPQ1%40thread.tacv2/Og%25C3%25B3lny?groupId=c23d2101-3d5f-4fcb-8072-57bcee067e06&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електромагнітна сумісність<br>Дорожовець М.М., 711 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aPqK5YQBmha4kSkVub70TjcpWpkEVXTFFOVwKCWZrUPQ1%40thread.tacv2/Og%25C3%25B3lny?groupId=c23d2101-3d5f-4fcb-8072-57bcee067e06&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aPqK5YQBmha4kSkVub70TjcpWpkEVXTFFOVwKCWZrUPQ1%40thread.tacv2/Og%25C3%25B3lny?groupId=c23d2101-3d5f-4fcb-8072-57bcee067e06&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електромагнітна сумісність<br>Дорожовець М.М., 711 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aPqK5YQBmha4kSkVub70TjcpWpkEVXTFFOVwKCWZrUPQ1%40thread.tacv2/Og%25C3%25B3lny?groupId=c23d2101-3d5f-4fcb-8072-57bcee067e06&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aPqK5YQBmha4kSkVub70TjcpWpkEVXTFFOVwKCWZrUPQ1%40thread.tacv2/Og%25C3%25B3lny?groupId=c23d2101-3d5f-4fcb-8072-57bcee067e06&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Внутрішній та зовнішній аудит підприємства<br>Іванишин А.В., 703 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Внутрішній та зовнішній аудит підприємства<br>Іванишин А.В., 703 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Внутрішній та зовнішній аудит підприємства<br>Іванишин А.В., 707 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad75e91e31429421caee0299bc6b377ad%40thread.tacv2/conversations?groupId=8c8fb121-7080-4925-85a0-be2f85a17780&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електромагнітна сумісність<br>Дорожовець М.М., 711 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aPqK5YQBmha4kSkVub70TjcpWpkEVXTFFOVwKCWZrUPQ1%40thread.tacv2/Og%25C3%25B3lny?groupId=c23d2101-3d5f-4fcb-8072-57bcee067e06&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aPqK5YQBmha4kSkVub70TjcpWpkEVXTFFOVwKCWZrUPQ1%40thread.tacv2/Og%25C3%25B3lny?groupId=c23d2101-3d5f-4fcb-8072-57bcee067e06&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

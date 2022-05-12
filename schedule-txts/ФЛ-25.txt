@@ -1,0 +1,520 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Проблемно-орієнтовані методи та засоби інформаційних технологій<br>Ханас Ю.Ю., 318 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uef-uitw-pwx" title="https://meet.google.com/uef-uitw-pwx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Проблемно-орієнтовані методи та засоби інформаційних технологій<br>Ханас Ю.Ю., 318 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wda-kqje-ijk" title="https://meet.google.com/wda-kqje-ijk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 3<br>Гулик Ю.В., 402 I н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Організація баз даних та знань<br>Грендус М.Г., 406 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92989248891?pwd=UERQbmtLUTNYc3BmQmhPUlo0YmZRZz09" title="https://zoom.us/j/92989248891?pwd=UERQbmtLUTNYc3BmQmhPUlo0YmZRZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Череповська О.А., 21кор.вул.Самчука11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Організація баз даних та знань<br>Марків О.О., 406 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2160288260?pwd=S0ZSNFk2Y1lOYWNFazhtS2E1ZFJ6Zz09" title="https://zoom.us/j/2160288260?pwd=S0ZSNFk2Y1lOYWNFazhtS2E1ZFJ6Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 3<br>Сабан О.В., 116 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94164037179?pwd=WFZIK2VLTG8ycHhhRWx5TUI5TlNmZz09" title="https://zoom.us/j/94164037179?pwd=WFZIK2VLTG8ycHhhRWx5TUI5TlNmZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1<br>Смеречинська О.В., 208а V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09" title="https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1<br>Смеречинська О.В., 208а V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09" title="https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1<br>Перестюк Т.М., 208 V н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Онищук О.В., 109 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73519408182?pwd=jEoT9OEoeqlLiURsLIcgwV2zkrtMZb.1" title="https://us04web.zoom.us/j/73519408182?pwd=jEoT9OEoeqlLiURsLIcgwV2zkrtMZb.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1<br>Перестюк Т.М., 208 V н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1<br>Перестюк Т.М., 208 V н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 3<br>Сабан О.В., 130 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97688294794?pwd=cHVLMVhUNm5tcmdXVzhwNmpMV1NOUT09" title="https://zoom.us/j/97688294794?pwd=cHVLMVhUNm5tcmdXVzhwNmpMV1NOUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 3<br>Сабан О.В., 130 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98869094390?pwd=d0JHWUhBMUJrbG9LRXhpYUVlMjAwQT09" title="https://zoom.us/j/98869094390?pwd=d0JHWUhBMUJrbG9LRXhpYUVlMjAwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 3<br>Гулик Ю.В., 410 II н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Практика мовлення (німецька/ японська/ чеська/ польська мова), частина 1<br>Перестюк Т.М., 410 II н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Онищук О.В., 217 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76271187779?pwd=mpD3TgFbGDwb_C7_dxhBfZLQtmg7Vr.1" title="https://us04web.zoom.us/j/76271187779?pwd=mpD3TgFbGDwb_C7_dxhBfZLQtmg7Vr.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація баз даних та знань<br>Рішняк І.В., 217 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09" title="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проблемно-орієнтовані методи та засоби інформаційних технологій<br>Ханас Ю.Ю., 217 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rbv-wdop-wzk" title="https://meet.google.com/rbv-wdop-wzk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 3<br>Гулик Ю.В., 103 IV н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 3<br>Гулик Ю.В., 103 IV н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1<br>Смеречинська О.В., 134 III н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09" title="https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 3<br>Шинкарук В.І., 134 III н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74285544880?pwd=vZUKDsRxuNt-WSCrldS0mu28NDaxPi.1" title="https://us04web.zoom.us/j/74285544880?pwd=vZUKDsRxuNt-WSCrldS0mu28NDaxPi.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

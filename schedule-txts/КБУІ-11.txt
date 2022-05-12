@@ -1,0 +1,257 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками та інцидентами інформаційної безпеки<br>Ромака В.А., 214 XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09" title="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління ризиками та інцидентами інформаційної безпеки<br>Ромака В.А., 214 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09" title="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками IT-проектів<br>Кулиняк І.Я., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71128998190?pwd=FvuDN7aooLv59zsW9qKcL8_QPlbsxX.1" title="https://us04web.zoom.us/j/71128998190?pwd=FvuDN7aooLv59zsW9qKcL8_QPlbsxX.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління ризиками IT-проектів<br>Кулиняк І.Я., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74540987370?pwd=4Yy7aX1Q2cko66qzUdgsRUrDnlB4GE.1" title="https://us04web.zoom.us/j/74540987370?pwd=4Yy7aX1Q2cko66qzUdgsRUrDnlB4GE.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інструменти програмного опису апаратних засобів кібербезпеки<br>Зеляновський Ю.Є., 201 XIX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2676145636" title="https://us04web.zoom.us/j/2676145636">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародні стандарти із кібербезпеки<br>Опірський І.Р., 216а XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aa7b7560bea8945ee91ad294fd22e5d2e%40thread.tacv2/conversations?groupId=5f9b5e7c-5185-473e-9671-86587bd7243d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aa7b7560bea8945ee91ad294fd22e5d2e%40thread.tacv2/conversations?groupId=5f9b5e7c-5185-473e-9671-86587bd7243d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Міжнародні стандарти із кібербезпеки<br>Опірський І.Р., 216а XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aa7b7560bea8945ee91ad294fd22e5d2e%40thread.tacv2/conversations?groupId=5f9b5e7c-5185-473e-9671-86587bd7243d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aa7b7560bea8945ee91ad294fd22e5d2e%40thread.tacv2/conversations?groupId=5f9b5e7c-5185-473e-9671-86587bd7243d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та супровід КСЗІ<br>Пархуць Л.Т., 214 XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09" title="https://zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Проектування та супровід КСЗІ<br>Пархуць Л.Т., 214 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09" title="https://zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Інструменти програмного опису апаратних засобів кібербезпеки<br>Горпенюк А.Я., 216а XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arRunDP7bHWy2K_XUG-Q2xhhRKjzQ5ODsdtHcYlfPRtY1%40thread.tacv2/conversations?groupId=03d0b676-8f31-42d5-841e-1646d3daf139&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arRunDP7bHWy2K_XUG-Q2xhhRKjzQ5ODsdtHcYlfPRtY1%40thread.tacv2/conversations?groupId=03d0b676-8f31-42d5-841e-1646d3daf139&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інструменти програмного опису апаратних засобів кібербезпеки<br>Зеляновський Ю.Є., 201 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2676145636" title="https://us04web.zoom.us/j/2676145636">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

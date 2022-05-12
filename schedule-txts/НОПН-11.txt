@@ -1,0 +1,299 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи діяльності викладача дистанційного навчання<br>Носкова М.В., 402 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aFGCQHj6OG-5HChgiwI2WCcSufbafU7R69_EwkQLTXgQ1%40thread.tacv2/1644494321633?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240378aa8-7219-4325-843a-02f31d65194a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aFGCQHj6OG-5HChgiwI2WCcSufbafU7R69_EwkQLTXgQ1%40thread.tacv2/1644494321633?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240378aa8-7219-4325-843a-02f31d65194a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Педагогічні основи проектування та супроводу дистанційного курсу<br>Носкова М.В., 402 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3atIBEaIGfNfgT_J-HQeTSeZMGJn8k-_xsirB0iLNK4rw1%40thread.tacv2/1644493687075?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240378aa8-7219-4325-843a-02f31d65194a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3atIBEaIGfNfgT_J-HQeTSeZMGJn8k-_xsirB0iLNK4rw1%40thread.tacv2/1644493687075?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240378aa8-7219-4325-843a-02f31d65194a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія педагогіки<br>Гузій І.С., вибіркова402 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методика навчання інформатики: дидактичне проектування та інноваційні технології<br>Чубінська Н.Б., 405 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09" title="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методика навчання інформатики: дидактичне проектування та інноваційні технології<br>Чубінська Н.Б., 405 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09" title="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи діяльності викладача дистанційного навчання<br>Гузій І.С., 402 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогічні основи проектування та супроводу дистанційного курсу<br>Гузій І.С., 402 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інтернет-технології в навчанні<br>Стечкевич О.О., вибіркова402 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78796523498?pwd=TTliWEZKM25HdTN3ODNNUVRSOUV1dz09" title="https://us04web.zoom.us/j/78796523498?pwd=TTliWEZKM25HdTN3ODNNUVRSOUV1dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методика навчання інформатики: дидактичне проектування та інноваційні технології<br>Стечкевич О.О., 402 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74254239291?pwd=NkVhZlljTmJ5K2NFNWxTNUNmNHQ1Zz09" title="https://us04web.zoom.us/j/74254239291?pwd=NkVhZlljTmJ5K2NFNWxTNUNmNHQ1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методика  навчання інформатики: контроль якості та тестування<br>Чубінська Н.Б., 402 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09" title="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Методика  навчання інформатики: контроль якості та тестування<br>Чубінська Н.Б., 402 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09" title="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія педагогіки<br>Горохівська Т.М., вибіркова402 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76020293180?pwd=6cQqe3zqKGgSdS2Iy_ub3QvucIgbHn.1  Meeting ID: 760 2029 3180 Passcode: v53fh5" title="https://us04web.zoom.us/j/76020293180?pwd=6cQqe3zqKGgSdS2Iy_ub3QvucIgbHn.1  Meeting ID: 760 2029 3180 Passcode: v53fh5">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтернет-технології в навчанні<br>Чубінська Н.Б., вибіркова402 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09" title="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

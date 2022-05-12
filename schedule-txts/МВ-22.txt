@@ -1,0 +1,469 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Зовнішня політика України<br>Дорош Л.О., 312 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99812762410?pwd=N25IWkJZRU53NDlnOGJBSVpYN0F5QT09" title="https://zoom.us/j/99812762410?pwd=N25IWkJZRU53NDlnOGJBSVpYN0F5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Дипломатична та консульська служба<br>Сухорольська І.Ю., 209 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09" title="https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Ініціатива ЄС Східне партнерство: можливості для України<br>Рослонь Д., 526а IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75636521160?pwd=9N23b6zkODDk4KcvLsHSrQNF3GlOA7.1" title="https://us04web.zoom.us/j/75636521160?pwd=9N23b6zkODDk4KcvLsHSrQNF3GlOA7.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Дипломатична та консульська служба<br>Сухорольська І.Ю., 209 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09" title="https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Зовнішня політика України<br>Дорош Л.О., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94674916868?pwd=WTFhREtRdmJUc083dG9rcmpQSkhUdz09" title="https://zoom.us/j/94674916868?pwd=WTFhREtRdmJUc083dG9rcmpQSkhUdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дипломатична та консульська служба<br>Сухорольська І.Ю., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09" title="https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Міжнародні відносини та світова політика<br>Тишкун Ю.Я., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96171025853?pwd=eTB6cGx5aWcyT1ZydzY4VEZlbXhxdz09" title="https://zoom.us/j/96171025853?pwd=eTB6cGx5aWcyT1ZydzY4VEZlbXhxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Зовнішня політика України<br>Дорош Л.О., 312 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99812762410?pwd=N25IWkJZRU53NDlnOGJBSVpYN0F5QT09" title="https://zoom.us/j/99812762410?pwd=N25IWkJZRU53NDlnOGJBSVpYN0F5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Повторева С.М., 309 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aaguMPRLonNuFZOn6ALSS7kWAyFugEQDRqF4TxUHhaRE1%40thread.tacv2/conversations?groupId=f4b00c44-b674-42d2-8e7c-82f5e21ede34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aaguMPRLonNuFZOn6ALSS7kWAyFugEQDRqF4TxUHhaRE1%40thread.tacv2/conversations?groupId=f4b00c44-b674-42d2-8e7c-82f5e21ede34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Мельничук М.П., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us0 4 web.zoom.us/j/ 735064964 05? pwd = R 3 Zwk 3 N I RFZYN 1 NSbGw 0 TkZscHV 3 Zz 09" title="https://us0 4 web.zoom.us/j/ 735064964 05? pwd = R 3 Zwk 3 N I RFZYN 1 NSbGw 0 TkZscHV 3 Zz 09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Король О.С., <br>,&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Ініціатива ЄС Східне партнерство: можливості для України<br>Юринець О.В., Турчин Я.Б., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM1MGM2NzctNGMzYi00MDI5LWFjNWQtNjk0NjA4NGZkOWRk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22254bc54e-9aed-40bb-b5cb-2bb00fedb5ca%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM1MGM2NzctNGMzYi00MDI5LWFjNWQtNjk0NjA4NGZkOWRk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22254bc54e-9aed-40bb-b5cb-2bb00fedb5ca%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Повторева С.М., 313 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aaguMPRLonNuFZOn6ALSS7kWAyFugEQDRqF4TxUHhaRE1%40thread.tacv2/conversations?groupId=f4b00c44-b674-42d2-8e7c-82f5e21ede34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aaguMPRLonNuFZOn6ALSS7kWAyFugEQDRqF4TxUHhaRE1%40thread.tacv2/conversations?groupId=f4b00c44-b674-42d2-8e7c-82f5e21ede34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Зовнішня політика України<br>Дорош Л.О., 313 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94674916868?pwd=WTFhREtRdmJUc083dG9rcmpQSkhUdz09" title="https://zoom.us/j/94674916868?pwd=WTFhREtRdmJUc083dG9rcmpQSkhUdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародні відносини та світова політика<br>Тишкун Ю.Я., 313 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96143157441?pwd=cXpMZjM0ZkpKOURBRkkwV2JoZzVldz09" title="https://zoom.us/j/96143157441?pwd=cXpMZjM0ZkpKOURBRkkwV2JoZzVldz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова І, частина 4<br>Кузан Г.С., 46 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76196717181?pwd=fpOMM1aSoYAK7RrhlUOOjEWUivPGPL.1" title="https://us04web.zoom.us/j/76196717181?pwd=fpOMM1aSoYAK7RrhlUOOjEWUivPGPL.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова І, частина 4<br>Бусько М.Б., 31 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab06a0150769e4ba4ad83a2c2fcfe3339%40thread.tacv2/conversations?groupId=36982174-1c31-437b-9458-9e08a1f517d5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab06a0150769e4ba4ad83a2c2fcfe3339%40thread.tacv2/conversations?groupId=36982174-1c31-437b-9458-9e08a1f517d5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова І, частина 4<br>Кузан Г.С., 46 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74513693150?pwd=iCGPIB4iTM4OyS6NmgbCWuun0-2OWT.1" title="https://us04web.zoom.us/j/74513693150?pwd=iCGPIB4iTM4OyS6NmgbCWuun0-2OWT.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова І, частина 4<br>Бусько М.Б., 31 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab06a0150769e4ba4ad83a2c2fcfe3339%40thread.tacv2/conversations?groupId=36982174-1c31-437b-9458-9e08a1f517d5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab06a0150769e4ba4ad83a2c2fcfe3339%40thread.tacv2/conversations?groupId=36982174-1c31-437b-9458-9e08a1f517d5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародні відносини та світова політика<br>Тишкун Ю.Я., 313 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92763590502?pwd=aTZZZGZqOEJObm1hU0xWcGNXS2Z4Zz09" title="https://zoom.us/j/92763590502?pwd=aTZZZGZqOEJObm1hU0xWcGNXS2Z4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Міжнародні відносини та світова політика<br>Тишкун Ю.Я., 313 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92220070402?pwd=M2JsMTZQcFJMQU43TFk0cXRkWXMwZz09" title="https://zoom.us/j/92220070402?pwd=M2JsMTZQcFJMQU43TFk0cXRkWXMwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Дипломатична та консульська служба<br>Сухорольська І.Ю., 612 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09" title="https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

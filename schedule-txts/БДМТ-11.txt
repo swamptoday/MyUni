@@ -1,0 +1,368 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія та організація будівництва і реконструкції транспортних споруд<br>Бліхарський Я.З., 224 II н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Наукові дослідження в будівництві<br>Бліхарський Я.З., Соболь Х.С., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzE3OWIzODEtMzI4Yy00MjY1LThlZWMtNmEzZDRhZWY3ZmJm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzE3OWIzODEtMzI4Yy00MjY1LThlZWMtNmEzZDRhZWY3ZmJm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Автоматизований розрахунок транспортних конструкцій<br>Стасюк Б.М., 224а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aBxVh2wJtvPls2BDeKJax22b5a_Nuuussa1O1VnPe3NA1%40thread.tacv2/1644694340851?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221256b665-11d7-48ec-a860-aefaffc3246e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aBxVh2wJtvPls2BDeKJax22b5a_Nuuussa1O1VnPe3NA1%40thread.tacv2/1644694340851?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221256b665-11d7-48ec-a860-aefaffc3246e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтелектуальна власність<br>Атаманюк М.В., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96364814086?pwd=bkZsV0I0ZGVpVlJBSjRlYTczdEZXZz09" title="https://zoom.us/j/96364814086?pwd=bkZsV0I0ZGVpVlJBSjRlYTczdEZXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Автоматизований розрахунок транспортних конструкцій<br>Стасюк Б.М., 224а II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aBxVh2wJtvPls2BDeKJax22b5a_Nuuussa1O1VnPe3NA1%40thread.tacv2/1644694237389?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221256b665-11d7-48ec-a860-aefaffc3246e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aBxVh2wJtvPls2BDeKJax22b5a_Nuuussa1O1VnPe3NA1%40thread.tacv2/1644694237389?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221256b665-11d7-48ec-a860-aefaffc3246e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інтелектуальна власність<br>Атаманюк М.В., 308 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96364814086?pwd=bkZsV0I0ZGVpVlJBSjRlYTczdEZXZz09" title="https://zoom.us/j/96364814086?pwd=bkZsV0I0ZGVpVlJBSjRlYTczdEZXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування підземних транспортних споруд<br>Мельник І.В., 411 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yjg5MjZjNzctZDEzZC00MjZiLTkwNTgtNWNiNzhhZDc3NzNi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225a00c26a-2893-466a-b577-bea050a6c2f3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yjg5MjZjNzctZDEzZC00MjZiLTkwNTgtNWNiNzhhZDc3NzNi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225a00c26a-2893-466a-b577-bea050a6c2f3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія та організація будівництва і реконструкції транспортних споруд<br>Ковальчик Т.П., 411 II н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія та організація будівництва і реконструкції транспортних споруд<br>Ковальчик Т.П., 411 II н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Наукові дослідження в будівництві<br>Кущенко В.М., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09" title="https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Наукові дослідження в будівництві<br>Кропивницька Т.П., Саницький М.А., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a2d723bc07b4845748d3508a91be42154%40thread.tacv2/conversations?groupId=55bf4826-0522-4ed2-9a2e-28edf97b42aa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a2d723bc07b4845748d3508a91be42154%40thread.tacv2/conversations?groupId=55bf4826-0522-4ed2-9a2e-28edf97b42aa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування підземних транспортних споруд<br>Мельник І.В., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmE3ZTdkMTQtN2EwZC00MWJlLThiOWEtNGRmNzIxYTE0YTkz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225a00c26a-2893-466a-b577-bea050a6c2f3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmE3ZTdkMTQtN2EwZC00MWJlLThiOWEtNGRmNzIxYTE0YTkz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225a00c26a-2893-466a-b577-bea050a6c2f3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатація автомобільних доріг, аеродромів і штучних споруд на автомобільних дорогах<br>Балабух Я.А., 308 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlGQZ9WQBhAjKLkdAT0n6yQaPB7FNkm1jJcKG44jTLI1%40thread.tacv2/1644823742877?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a9e34b7d-c61d-4e3c-8068-2ea3b54b2b7a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlGQZ9WQBhAjKLkdAT0n6yQaPB7FNkm1jJcKG44jTLI1%40thread.tacv2/1644823742877?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a9e34b7d-c61d-4e3c-8068-2ea3b54b2b7a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Наукові дослідження в будівництві<br>Бобало Т.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09" title="https://zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Наукові дослідження в будівництві<br>Кропивницька Т.П., Сидор Н.І., Новосад П.В., 319 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09" title="https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Наукові дослідження в будівництві<br>Бліхарський Я.З., Гуняк О.М., Турба Ю.В., Гримак О.Я., 310 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93813826071?pwd=ZHBOVTNYT20rdUF6emNpeFBMd28yUT09" title="https://zoom.us/j/93813826071?pwd=ZHBOVTNYT20rdUF6emNpeFBMd28yUT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96422663776?pwd=NkEyTDBHNDVEQ1JhUWptYXBQWDAwQT09" title="https://zoom.us/j/96422663776?pwd=NkEyTDBHNDVEQ1JhUWptYXBQWDAwQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98363498000?pwd=MTlrK01XVGZ1UEtwYXVGd0J0MHRlUT09" title="https://zoom.us/j/98363498000?pwd=MTlrK01XVGZ1UEtwYXVGd0J0MHRlUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Експлуатація автомобільних доріг, аеродромів і штучних споруд на автомобільних дорогах<br>Балабух Я.А., 309 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlGQZ9WQBhAjKLkdAT0n6yQaPB7FNkm1jJcKG44jTLI1%40thread.tacv2/1644823907398?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a9e34b7d-c61d-4e3c-8068-2ea3b54b2b7a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlGQZ9WQBhAjKLkdAT0n6yQaPB7FNkm1jJcKG44jTLI1%40thread.tacv2/1644823907398?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a9e34b7d-c61d-4e3c-8068-2ea3b54b2b7a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

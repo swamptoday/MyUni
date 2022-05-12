@@ -1,0 +1,286 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Космічна геодезія<br>Савчин І.Р., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.live.com/meet/9491921976989" title="https://teams.live.com/meet/9491921976989">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Супутникова навігація<br>Цюпак І.М., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aJMexefXYZtcz79UkkmxZ3T6OwMXh8NiLPSpgih5NXNE1%40thread.tacv2/1645304083069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aJMexefXYZtcz79UkkmxZ3T6OwMXh8NiLPSpgih5NXNE1%40thread.tacv2/1645304083069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Формати GNSS даних<br>Доскіч С.В., 613 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adTOch1nXoy45DIv_4uJjq_DZu_zLna1hB2kiuDTa5mA1%40thread.tacv2/1644498605179?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e8bfa2e-9b76-4317-8cf9-6c41cd61a796%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adTOch1nXoy45DIv_4uJjq_DZu_zLna1hB2kiuDTa5mA1%40thread.tacv2/1644498605179?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e8bfa2e-9b76-4317-8cf9-6c41cd61a796%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Космічна геодезія<br>Савчин І.Р., 346 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.live.com/meet/9467324921317" title="https://teams.live.com/meet/9467324921317">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Супутникова навігація<br>Цюпак І.М., 613 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aJMexefXYZtcz79UkkmxZ3T6OwMXh8NiLPSpgih5NXNE1%40thread.tacv2/1645304083069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aJMexefXYZtcz79UkkmxZ3T6OwMXh8NiLPSpgih5NXNE1%40thread.tacv2/1645304083069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Морська геодезія<br>Серант О.В., 613 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи космічного моніторингу Землі<br>Янків-Вітковська Л.М., 346 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2FiNzMyMWUtNWU0ZC00NmVjLTg1MTctZGMxMDUxZTZjOGU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d23f11c6-e633-441b-a4d3-4c4ae1394b26%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2FiNzMyMWUtNWU0ZC00NmVjLTg1MTctZGMxMDUxZTZjOGU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d23f11c6-e633-441b-a4d3-4c4ae1394b26%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи космічного моніторингу Землі<br>Янків-Вітковська Л.М., 346 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDU2MzdhZTYtNjljNi00ODJiLTgyNTQtZjUxYzUzNjIxNjRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d23f11c6-e633-441b-a4d3-4c4ae1394b26%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDU2MzdhZTYtNjljNi00ODJiLTgyNTQtZjUxYzUzNjIxNjRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d23f11c6-e633-441b-a4d3-4c4ae1394b26%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи опрацювання GNSS-вимірювань<br>Серант О.В., 613 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи опрацювання GNSS-вимірювань<br>Серант О.В., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Формати GNSS даних<br>Доскіч С.В., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adTOch1nXoy45DIv_4uJjq_DZu_zLna1hB2kiuDTa5mA1%40thread.tacv2/1644498511436?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e8bfa2e-9b76-4317-8cf9-6c41cd61a796%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adTOch1nXoy45DIv_4uJjq_DZu_zLna1hB2kiuDTa5mA1%40thread.tacv2/1644498511436?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e8bfa2e-9b76-4317-8cf9-6c41cd61a796%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Морська геодезія<br>Двуліт П.Д., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bzv-fuug-gvq" title="https://meet.google.com/bzv-fuug-gvq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

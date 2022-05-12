@@ -1,0 +1,380 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Публічне адміністрування<br>Огінок С.В., 420 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09" title="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Маркетингові дослідження<br>Гайванович Н.В., 405 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86489025120?pwd=dTM1VVRELzhLLzVmZC9lMHJwT1Z6dz09" title="https://us02web.zoom.us/j/86489025120?pwd=dTM1VVRELzhLLzVmZC9lMHJwT1Z6dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління персоналом<br>Винничук Р.О., 508 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09" title="https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Публічне адміністрування<br>Огінок С.В., 515 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09" title="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Соціальний менеджмент<br>Прокопишин-Рашкевич Л.М., 515 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09 (Meeting ID:202 933 0665; Passcode: 0207)" title="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09 (Meeting ID:202 933 0665; Passcode: 0207)">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Соціальний менеджмент<br>Прокопишин-Рашкевич Л.М., 515 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09 (Meeting ID:202 933 0665; Passcode: 0207)" title="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09 (Meeting ID:202 933 0665; Passcode: 0207)">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Витрикуш Н.М., 312 III н.к.<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09" title="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Литвиняк О.Я., 312 III н.к.<br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3awdLgIIyEl4tAzN5NsBP75-5ollKJDyMAFo9NNMWGBGY1%40thread.tacv2/1644506544349?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3awdLgIIyEl4tAzN5NsBP75-5ollKJDyMAFo9NNMWGBGY1%40thread.tacv2/1644506544349?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Маркетингові дослідження<br>Довгунь О.С., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad_0fsfaTn2Hf5xEqA3Uug-miqFOLySGwc1MG7_QDE381%40thread.tacv2/1644830682764?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22102a5c02-1975-4953-9c5b-1cd4170e8a2e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad_0fsfaTn2Hf5xEqA3Uug-miqFOLySGwc1MG7_QDE381%40thread.tacv2/1644830682764?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22102a5c02-1975-4953-9c5b-1cd4170e8a2e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління товарним асортиментом<br>Стернюк О.Б., 515 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3avRmq7wT6zfWDSQE--SGnNkHKyn1ycqPA0RE0H37PhKA1%40thread.tacv2/1644518906753?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3avRmq7wT6zfWDSQE--SGnNkHKyn1ycqPA0RE0H37PhKA1%40thread.tacv2/1644518906753?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління товарним асортиментом<br>Стернюк О.Б., 515 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3avRmq7wT6zfWDSQE--SGnNkHKyn1ycqPA0RE0H37PhKA1%40thread.tacv2/1644519011377?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3avRmq7wT6zfWDSQE--SGnNkHKyn1ycqPA0RE0H37PhKA1%40thread.tacv2/1644519011377?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальний менеджмент<br>Прокопишин-Рашкевич Л.М., 425 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3avRmq7wT6zfWDSQE--SGnNkHKyn1ycqPA0RE0H37PhKA1%40thread.tacv2/1644518906753?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3avRmq7wT6zfWDSQE--SGnNkHKyn1ycqPA0RE0H37PhKA1%40thread.tacv2/1644518906753?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління товарним асортиментом<br>Прокопишин-Рашкевич Л.М., 420 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3avRmq7wT6zfWDSQE--SGnNkHKyn1ycqPA0RE0H37PhKA1%40thread.tacv2/1644519011377?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3avRmq7wT6zfWDSQE--SGnNkHKyn1ycqPA0RE0H37PhKA1%40thread.tacv2/1644519011377?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223e2b68a4-1107-4368-8e2e-a2d1ed77b465%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Публічне адміністрування<br>Бойко В.В., 420 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd" title="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингові дослідження<br>Гайванович Н.В., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81928784324?pwd=YWEyNFhKRy9MMlNFWmZYdzJUVHVoZz09" title="https://us02web.zoom.us/j/81928784324?pwd=YWEyNFhKRy9MMlNFWmZYdzJUVHVoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Витрикуш Н.М., 312 III н.к.<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09" title="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління персоналом<br>Винничук Р.О., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09" title="https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

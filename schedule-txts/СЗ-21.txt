@@ -1,0 +1,328 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Соціальний аудит та інспектування в системі соціальних служб<br>Красілич І.О., 205б XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyZDA2NzUtNzUyOC00ZTRmLWEyMDMtNjc2MjU5ZjAzMTVh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224f9934db-df6d-4280-8f5e-5f17ada39d49%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDEyZDA2NzUtNzUyOC00ZTRmLWEyMDMtNjc2MjU5ZjAzMTVh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224f9934db-df6d-4280-8f5e-5f17ada39d49%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія і методи соціальних досліджень<br>Яцишин У.В., 205а XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09" title="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія і методи соціальних досліджень<br>Яцишин У.В., 205а XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09" title="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальний аудит та інспектування в системі соціальних служб<br>Красілич І.О., 205б XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTE5ODkwNDktNGNmNy00MzI1LWJhNmUtMGZkNmY4YzRlZmQ4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224f9934db-df6d-4280-8f5e-5f17ada39d49%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTE5ODkwNDktNGNmNy00MzI1LWJhNmUtMGZkNmY4YzRlZmQ4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224f9934db-df6d-4280-8f5e-5f17ada39d49%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економічні основи соціального забезпечення<br>Зеленко Н.М., 309 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aUu5UJncHADuZBi4sTwrISOndv5E0yIuqsXfS2LeTZNQ1%40thread.tacv2/1644177264410?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aUu5UJncHADuZBi4sTwrISOndv5E0yIuqsXfS2LeTZNQ1%40thread.tacv2/1644177264410?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Повторева С.М., 309 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aaguMPRLonNuFZOn6ALSS7kWAyFugEQDRqF4TxUHhaRE1%40thread.tacv2/conversations?groupId=f4b00c44-b674-42d2-8e7c-82f5e21ede34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aaguMPRLonNuFZOn6ALSS7kWAyFugEQDRqF4TxUHhaRE1%40thread.tacv2/conversations?groupId=f4b00c44-b674-42d2-8e7c-82f5e21ede34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальне страхування<br>Проскура В.В., 005 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aY-Yy7aYrrPcmGhG2jZPWuTtGDL0bd2yc8MmX6rYWMPA1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=d6ae39fe-8f30-4455-9452-d8ae72d1ae34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aY-Yy7aYrrPcmGhG2jZPWuTtGDL0bd2yc8MmX6rYWMPA1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=d6ae39fe-8f30-4455-9452-d8ae72d1ae34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Гулей К.С., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6129608852?pwd=WFE3ZnBXZkhIem9DQ3JwWnU4bjYwZz09  Meeting ID: 612 960 8852 Passcode: 5678" title="https://us05web.zoom.us/j/6129608852?pwd=WFE3ZnBXZkhIem9DQ3JwWnU4bjYwZz09  Meeting ID: 612 960 8852 Passcode: 5678">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Хрипач А.Г., дівчата<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78102077044?pwd=VzFWNnR4ZkFJTnhwYUdYNDlQK2NvZz09" title="https://us04web.zoom.us/j/78102077044?pwd=VzFWNnR4ZkFJTnhwYUdYNDlQK2NvZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальний аудит та інспектування в системі соціальних служб<br>Зеленко Н.М., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3amM2DV0VXqoqI9HmLtDSUIIMAezSgmCduefXKCVWZ1so1%40thread.tacv2/1644180647845?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3amM2DV0VXqoqI9HmLtDSUIIMAezSgmCduefXKCVWZ1so1%40thread.tacv2/1644180647845?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Коваль А.Я., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3apIp3fuCum5Ne4GmjQ883Lrdr_uz9k69__ZaD-dH-F_01%40thread.tacv2/General?groupId=7bd53ad6-84d5-423e-aa90-78aa20a561f3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3apIp3fuCum5Ne4GmjQ883Lrdr_uz9k69__ZaD-dH-F_01%40thread.tacv2/General?groupId=7bd53ad6-84d5-423e-aa90-78aa20a561f3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економічні основи соціального забезпечення<br>Зеленко Н.М., 307 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a-gSTXApe9iwKQooe2cuTRLdWiNmzw_DVepygiYR4n5Y1%40thread.tacv2/1644179663857?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a-gSTXApe9iwKQooe2cuTRLdWiNmzw_DVepygiYR4n5Y1%40thread.tacv2/1644179663857?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія і методи соціальних досліджень<br>Яцишин У.В., 307 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09" title="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальне страхування<br>Проскура В.В., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aZrD0AIFdK5E0kwkaO_o2Ko3eq9DjlsCqODsMSfirMWc1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=e78ef567-42f9-4437-b36a-a83b6559919b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aZrD0AIFdK5E0kwkaO_o2Ko3eq9DjlsCqODsMSfirMWc1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=e78ef567-42f9-4437-b36a-a83b6559919b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

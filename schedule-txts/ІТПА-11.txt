@@ -1,0 +1,274 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Розподілені сервісні системи та cloud-технології<br>Шпур О.М., 303 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/mng-bmxj-gwe" title="https://meet.google.com/mng-bmxj-gwe">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Розподілені сервісні системи та cloud-технології<br>Шпур О.М., 303 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/mng-bmxj-gwe" title="https://meet.google.com/mng-bmxj-gwe">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Практикум з іноземної мови за професійним спрямуванням<br>232 III н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Практикум з іноземної мови за професійним спрямуванням<br>232 III н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Тестування та керування якістю програмного забезпечення інформаційно-комунікаційних мереж<br>Коваль Б.В., 218 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3apELchWg7Pjgv2AA9gh7-LMREYTPwI8kw91GrdOp5Zio1%40thread.tacv2/General?groupId=88f35e23-da6c-49b1-b335-d74dbd7e3914&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3apELchWg7Pjgv2AA9gh7-LMREYTPwI8kw91GrdOp5Zio1%40thread.tacv2/General?groupId=88f35e23-da6c-49b1-b335-d74dbd7e3914&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Тестування та керування якістю програмного забезпечення інформаційно-комунікаційних мереж<br>Коваль Б.В., 218 XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3apELchWg7Pjgv2AA9gh7-LMREYTPwI8kw91GrdOp5Zio1%40thread.tacv2/General?groupId=88f35e23-da6c-49b1-b335-d74dbd7e3914&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3apELchWg7Pjgv2AA9gh7-LMREYTPwI8kw91GrdOp5Zio1%40thread.tacv2/General?groupId=88f35e23-da6c-49b1-b335-d74dbd7e3914&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Керування інфраструктурою та конфігурацією інформаційних-комунікаційних систем<br>Селюченко М.О., 218 XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wzb-ewii-qzs" title="https://meet.google.com/wzb-ewii-qzs">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Керування інфраструктурою та конфігурацією інформаційних-комунікаційних систем<br>Селюченко М.О., 218 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hco-vjvs-dbs" title="https://meet.google.com/hco-vjvs-dbs">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та розгортання інформаційно-комунікаційних мереж<br>Красько О.В., 305 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/kwe-orzz-mep" title="https://meet.google.com/kwe-orzz-mep">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мережеві інформаційно - комунікаційні технології<br>Бешлей М.І., 305 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/qxt-seid-xuq" title="https://meet.google.com/qxt-seid-xuq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та розгортання інформаційно-комунікаційних мереж<br>Красько О.В., 303 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/yta-ziem-ddf" title="https://meet.google.com/yta-ziem-ddf">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мережеві інформаційно - комунікаційні технології<br>Бешлей М.І., 303 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/gcm-oibi-nag" title="https://meet.google.com/gcm-oibi-nag">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

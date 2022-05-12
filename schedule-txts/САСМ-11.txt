@@ -1,0 +1,186 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рекомендаційні системи<br>Демків Л.І., 208 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83746931645?pwd=OCtLUFJpTlJVVStXenQ3L1RHZStwQT09" title="https://us02web.zoom.us/j/83746931645?pwd=OCtLUFJpTlJVVStXenQ3L1RHZStwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рекомендаційні системи<br>Демків Л.І., 208 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83746931645?pwd=OCtLUFJpTlJVVStXenQ3L1RHZStwQT09" title="https://us02web.zoom.us/j/83746931645?pwd=OCtLUFJpTlJVVStXenQ3L1RHZStwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ІТ продуктами<br>Бондаренко Л.П., 127 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74075027399?pwd=ejlSCKUOr44IWQ9BrKGoT9xrQ5JBKq.1" title="https://us04web.zoom.us/j/74075027399?pwd=ejlSCKUOr44IWQ9BrKGoT9xrQ5JBKq.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технології корпоративних систем<br>Жежнич П.І., 522 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad4db0995823940a9978b623f8f11e3bf%40thread.tacv2/1644527931979?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7072747-0c89-405d-9838-4c12705d67fc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad4db0995823940a9978b623f8f11e3bf%40thread.tacv2/1644527931979?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7072747-0c89-405d-9838-4c12705d67fc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління ІТ продуктами<br>Бондаренко Л.П., 127 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71760329404?pwd=yF2jc5_oy7Oc00GmhljgACmgqaD7Uu.1" title="https://us04web.zoom.us/j/71760329404?pwd=yF2jc5_oy7Oc00GmhljgACmgqaD7Uu.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології корпоративних систем<br>Шілінг А.Ю., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:4HKWNxwaw0bPwuU3sLl76WvLBUU9mLSl2KHeozUK7VQ1@thread.tacv2/1644408404955?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=d3e195b2-1c3e-464d-bf2a-5cd7aded20da&amp;parentMessageId=1644408404955&amp;teamName=%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97%20%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%2C%20%D0%A1%D0%90%D0%A1%D0%9C-11&amp;channelName=General&amp;createdTime=1644408404955" title="https://teams.microsoft.com/l/message/19:4HKWNxwaw0bPwuU3sLl76WvLBUU9mLSl2KHeozUK7VQ1@thread.tacv2/1644408404955?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=d3e195b2-1c3e-464d-bf2a-5cd7aded20da&amp;parentMessageId=1644408404955&amp;teamName=%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97%20%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%2C%20%D0%A1%D0%90%D0%A1%D0%9C-11&amp;channelName=General&amp;createdTime=1644408404955">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками в IT-проектах<br>Рішняк І.В., 208 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09" title="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління ризиками в IT-проектах<br>Рішняк І.В., 208 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09" title="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

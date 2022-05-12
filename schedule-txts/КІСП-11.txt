@@ -1,0 +1,315 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування операційних систем, утиліт і драйверів<br>Клименко В.А., 901 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98650346756?pwd=WEoyS0trc3ZrblJLc005ejhySUxTUT09" title="https://zoom.us/j/98650346756?pwd=WEoyS0trc3ZrblJLc005ejhySUxTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проектування віртуальних машин<br>Наконечний Р.А., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2878103205?pwd=Zjc1enNRb2FVZ3lxYkF1b3dCWjVVdz09" title="https://us04web.zoom.us/j/2878103205?pwd=Zjc1enNRb2FVZ3lxYkF1b3dCWjVVdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Проектування операційних систем, утиліт і драйверів<br>Клименко В.А., 508 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98650346756?pwd=WEoyS0trc3ZrblJLc005ejhySUxTUT09" title="https://zoom.us/j/98650346756?pwd=WEoyS0trc3ZrblJLc005ejhySUxTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Проектування віртуальних машин<br>Наконечний Р.А., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2878103205?pwd=Zjc1enNRb2FVZ3lxYkF1b3dCWjVVdz09" title="https://us04web.zoom.us/j/2878103205?pwd=Zjc1enNRb2FVZ3lxYkF1b3dCWjVVdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології паралельного програмування<br>Муляревич О.В., 901 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09" title="https://zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Проектування віртуальних машин<br>Бочкарьов О.Ю., 505а1 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86766627231?pwd=UzlBc0tQaFZYTnJmZ1dUWmxiQWZCUT09" title="https://us02web.zoom.us/j/86766627231?pwd=UzlBc0tQaFZYTnJmZ1dUWmxiQWZCUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Проектування віртуальних машин<br>Бочкарьов О.Ю., 505а1 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86766627231?pwd=UzlBc0tQaFZYTnJmZ1dUWmxiQWZCUT09" title="https://us02web.zoom.us/j/86766627231?pwd=UzlBc0tQaFZYTnJmZ1dUWmxiQWZCUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Технології паралельного програмування<br>Муляревич О.В., 505б2 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09" title="https://zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Технології паралельного програмування<br>Муляревич О.В., 505б2 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09" title="https://zoom.us/j/4442828220?pwd=cENhcyt1VWhTZUVab3ZNOUprVGxQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Дослідження і проектування програмних систем<br>Пищак І.І., 904а V н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Дослідження і проектування програмних систем<br>Пищак І.І., 904а V н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Дослідження і проектування програмних систем<br>Гаваньо Б.І., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/sbs-qxpd-ibr" title="https://meet.google.com/sbs-qxpd-ibr">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження і проектування програмних систем<br>Гаваньо Б.І., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eur-hhvd-zdw" title="https://meet.google.com/eur-hhvd-zdw">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Проектування операційних систем, утиліт і драйверів<br>Клименко В.А., 508 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98650346756?pwd=WEoyS0trc3ZrblJLc005ejhySUxTUT09" title="https://zoom.us/j/98650346756?pwd=WEoyS0trc3ZrblJLc005ejhySUxTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Проектування операційних систем, утиліт і драйверів<br>Клименко В.А., 508 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98650346756?pwd=WEoyS0trc3ZrblJLc005ejhySUxTUT09" title="https://zoom.us/j/98650346756?pwd=WEoyS0trc3ZrblJLc005ejhySUxTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

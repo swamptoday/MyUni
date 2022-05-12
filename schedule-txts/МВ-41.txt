@@ -1,0 +1,380 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Цубова О.Л., 307 II н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74948860109?pwd=ek42aUVTRW1DQWRHeHVla3ZnK2hFZz09" title="https://us04web.zoom.us/j/74948860109?pwd=ek42aUVTRW1DQWRHeHVla3ZnK2hFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Цубова О.Л., 307 II н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74948860109?pwd=ek42aUVTRW1DQWRHeHVla3ZnK2hFZz09" title="https://us04web.zoom.us/j/74948860109?pwd=ek42aUVTRW1DQWRHeHVla3ZnK2hFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Столярчук Л.Б., 008 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09" title="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Столярчук Л.Б., 008 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09" title="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Сучасні цивілізації і релігії світу<br>Корнат Л.Я., 72 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/haq-vmii-ahy " title="https://meet.google.com/haq-vmii-ahy ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Комунікативна діяльність у міжнародних відносинах<br>Ільницька У.В., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1" title="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Комунікативна діяльність у міжнародних відносинах<br>Ільницька У.В., 7 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1" title="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні цивілізації і релігії світу<br>Хім'як О.М., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09" title="https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні цивілізації і релігії світу<br>Корнат Л.Я., 72 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/haq-vmii-ahy " title="https://meet.google.com/haq-vmii-ahy ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Комунікативна діяльність у міжнародних відносинах<br>Ільницька У.В., 307 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1" title="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комунікативна діяльність у міжнародних відносинах<br>Ільницька У.В., 51 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1" title="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Столярчук Л.Б., 008 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09" title="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Столярчук Л.Б., 111 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09" title="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Марціхів Х.Р., 59 XIV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/JgWOSdKuT84Z" title="https://join.skype.com/JgWOSdKuT84Z">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Столярчук Л.Б., 111 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09" title="https://zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Марціхів Х.Р., 59 XIV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/JgWOSdKuT84Z" title="https://join.skype.com/JgWOSdKuT84Z">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Цубова О.Л., 7 XVI н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74948860109?pwd=ek42aUVTRW1DQWRHeHVla3ZnK2hFZz09" title="https://us04web.zoom.us/j/74948860109?pwd=ek42aUVTRW1DQWRHeHVla3ZnK2hFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

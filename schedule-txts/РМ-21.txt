@@ -1,0 +1,323 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пластична анатомія, анатомічний рисунок <br>Юрченко І.А., 101 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи скульптури, частина 4<br>Ших О.І., 009 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи скульптури, частина 4<br>Ших О.І., 009 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи хіміко-технологічних процесів в реставрації, частина 1<br>Новосад П.В., 102 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09" title="https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Блавт О.З., Андрес А.С., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8926647299?pwd=RV9rKpnVcIcvArYns6v1gsbp7NvFl2.1" title="https://us04web.zoom.us/j/8926647299?pwd=RV9rKpnVcIcvArYns6v1gsbp7NvFl2.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Петрографія і прикладне матеріалознавство натурального каменю<br>Семеген Р.І., 006 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Петрографія і прикладне матеріалознавство натурального каменю<br>Семеген Р.І., 111 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи скульптури, частина 4<br>Ших О.І., 009 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи скульптури, частина 4<br>Ших О.І., 009 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи хіміко-технологічних процесів в реставрації, частина 1<br>Новосад П.В., 113 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09  Идентификатор конференции: 890 674 7962 Код доступа: 5NvqvZ" title="https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09  Идентификатор конференции: 890 674 7962 Код доступа: 5NvqvZ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пластична анатомія, анатомічний рисунок <br>Юрченко І.А., 113 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проект реставрації, частина 1 <br>Ших О.І., 009 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проект реставрації, частина 1 <br>Ших О.І., 009 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проект реставрації, частина 1 <br>Ших О.І., 009 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

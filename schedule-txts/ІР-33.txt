@@ -1,0 +1,556 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи збору, передавання та обробки інформації<br>Степаняк М.В., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9" title="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Мікропроцесорні системи автомобільного транспорту<br>Татарин В.Я., 611а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzY1OTdjMzctNWU5Ny00ZGVjLWIxMDItN2ExYWRiNDY3ZWMy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzY1OTdjMzctNWU5Ny00ZGVjLWIxMDItN2ExYWRiNDY3ZWMy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Мікропроцесорні системи автомобільного транспорту<br>Татарин В.Я., 611д V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdjODI0ZGYtYjNiNi00MjYwLTk1YzgtN2M0YmE2ZmYyZjJi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdjODI0ZGYtYjNiNi00MjYwLTk1YzgtN2M0YmE2ZmYyZjJi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технології захисту інформації<br>Стахів Р.І., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75060603087?pwd=Hq72eU5Ze68CdQDc4uRGQ_5SzF2CIK.1  Meeting ID: 750 6060 3087 Passcode: 12345" title="https://us04web.zoom.us/j/75060603087?pwd=Hq72eU5Ze68CdQDc4uRGQ_5SzF2CIK.1  Meeting ID: 750 6060 3087 Passcode: 12345">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології захисту інформації<br>Стахів Р.І., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75060603087?pwd=Hq72eU5Ze68CdQDc4uRGQ_5SzF2CIK.1  Meeting ID: 750 6060 3087 Passcode: 12345" title="https://us04web.zoom.us/j/75060603087?pwd=Hq72eU5Ze68CdQDc4uRGQ_5SzF2CIK.1  Meeting ID: 750 6060 3087 Passcode: 12345">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи цифрової обробки сигналів<br>Наконечний А.Й., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9740220028?pwd=UzNqOFV2VzZKTEMxS0hoTWhBN2dUUT09" title="https://us04web.zoom.us/j/9740220028?pwd=UzNqOFV2VzZKTEMxS0hoTWhBN2dUUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікропроцесорні системи автомобільного транспорту<br>Татарин В.Я., 713 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdjODI0ZGYtYjNiNi00MjYwLTk1YzgtN2M0YmE2ZmYyZjJi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdjODI0ZGYtYjNiNi00MjYwLTk1YzgtN2M0YmE2ZmYyZjJi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мікропроцесорні системи автомобільного транспорту<br>Татарин В.Я., 713 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTRkZmI4Y2EtMzZkYi00NzE4LWFkMTktOTJlYTE5YjA4ZDg0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTRkZmI4Y2EtMzZkYi00NzE4LWFkMTktOTJlYTE5YjA4ZDg0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Основи цифрової обробки сигналів<br>Лагун І.І., 608 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/94983127039  #Passcode 4GgYfV" title="https://us02web.zoom.us/j/94983127039  #Passcode 4GgYfV">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Основи цифрової обробки сигналів<br>Лагун І.І., 608 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/94983127039  #Passcode 4GgYfV" title="https://us02web.zoom.us/j/94983127039  #Passcode 4GgYfV">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Теорія автоматичного керування<br>Наконечний М.В., 605в V н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Теорія автоматичного керування<br>Наконечний М.В., 605в V н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія автоматичного керування<br>Наконечний М.В., 609 V н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Технології захисту інформації<br>Стахів Р.І., 608 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75060603087?pwd=Hq72eU5Ze68CdQDc4uRGQ_5SzF2CIK.1  Meeting ID: 750 6060 3087 Passcode: 12345" title="https://us04web.zoom.us/j/75060603087?pwd=Hq72eU5Ze68CdQDc4uRGQ_5SzF2CIK.1  Meeting ID: 750 6060 3087 Passcode: 12345">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Технології захисту інформації<br>Стахів Р.І., 608 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75060603087?pwd=Hq72eU5Ze68CdQDc4uRGQ_5SzF2CIK.1  Meeting ID: 750 6060 3087 Passcode: 12345" title="https://us04web.zoom.us/j/75060603087?pwd=Hq72eU5Ze68CdQDc4uRGQ_5SzF2CIK.1  Meeting ID: 750 6060 3087 Passcode: 12345">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи цифрової обробки сигналів<br>Лагун І.І., 605а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/94983127039  #Passcode 4GgYfV" title="https://us02web.zoom.us/j/94983127039  #Passcode 4GgYfV">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи цифрової обробки сигналів<br>Лагун І.І., 605а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/94983127039  #Passcode 4GgYfV" title="https://us02web.zoom.us/j/94983127039  #Passcode 4GgYfV">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи цифрової обробки сигналів<br>Наконечний А.Й., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9740220028?pwd=UzNqOFV2VzZKTEMxS0hoTWhBN2dUUT09" title="https://us04web.zoom.us/j/9740220028?pwd=UzNqOFV2VzZKTEMxS0hoTWhBN2dUUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хмарні обчислення та візуалізація інформаційних ресурсів<br>Федак В.І., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/97666008208?pwd=empyZyt6UlVITEtWeFM1WTR2NWEzZz09&amp;from=addon" title="https://softserveinc.zoom.us/j/97666008208?pwd=empyZyt6UlVITEtWeFM1WTR2NWEzZz09&amp;from=addon">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи збору, передавання та обробки інформації<br>Степаняк М.В., 611д V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9" title="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія автоматичного керування<br>Наконечний М.В., 605в V н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи збору, передавання та обробки інформації<br>Степаняк М.В., 605в V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9" title="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Хмарні обчислення та візуалізація інформаційних ресурсів<br>Федак В.І., 611а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/97666008208?pwd=empyZyt6UlVITEtWeFM1WTR2NWEzZz09&amp;from=addon" title="https://softserveinc.zoom.us/j/97666008208?pwd=empyZyt6UlVITEtWeFM1WTR2NWEzZz09&amp;from=addon">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Хмарні обчислення та візуалізація інформаційних ресурсів<br>Федак В.І., 611а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/97666008208?pwd=empyZyt6UlVITEtWeFM1WTR2NWEzZz09&amp;from=addon" title="https://softserveinc.zoom.us/j/97666008208?pwd=empyZyt6UlVITEtWeFM1WTR2NWEzZz09&amp;from=addon">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи збору, передавання та обробки інформації<br>Степаняк М.В., 611д V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9" title="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

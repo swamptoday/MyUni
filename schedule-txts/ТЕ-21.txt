@@ -1,0 +1,402 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Опір матеріалів<br>Харченко Є.В., 112а II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3anFxfWruKwQmvzit5KrdNh2fomBXMhAjaTOoFW9EP1xQ1%40thread.tacv2/conversations?groupId=6854d974-5aa5-41ed-bece-2ac208013439&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3anFxfWruKwQmvzit5KrdNh2fomBXMhAjaTOoFW9EP1xQ1%40thread.tacv2/conversations?groupId=6854d974-5aa5-41ed-bece-2ac208013439&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Опір матеріалів<br>Харченко Є.В., 112 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aEUhPLdhNbNvp6GFU5wjvKqtmaOjCRY28efSUoW0A47g1%40thread.tacv2/conversations?groupId=92f30e52-e22e-4287-883f-f90ff2136668&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aEUhPLdhNbNvp6GFU5wjvKqtmaOjCRY28efSUoW0A47g1%40thread.tacv2/conversations?groupId=92f30e52-e22e-4287-883f-f90ff2136668&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Опір матеріалів<br>Харченко Є.В., 112а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3az7BRbclsYdECSXio14N6vhB9GNirvXd3MT8mp8v86O01%40thread.tacv2/conversations?groupId=7b76af4e-bb72-4031-ac0b-280403a18ed2&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3az7BRbclsYdECSXio14N6vhB9GNirvXd3MT8mp8v86O01%40thread.tacv2/conversations?groupId=7b76af4e-bb72-4031-ac0b-280403a18ed2&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна термодинаміка<br>Галянчук І.Р., 211 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1025a875dea8479c936e5692f736252e%40thread.tacv2/conversations?groupId=719e3971-e691-49a6-ae57-27e01814f4af&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1025a875dea8479c936e5692f736252e%40thread.tacv2/conversations?groupId=719e3971-e691-49a6-ae57-27e01814f4af&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технічна термодинаміка<br>Галянчук І.Р., 211 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1025a875dea8479c936e5692f736252e%40thread.tacv2/conversations?groupId=719e3971-e691-49a6-ae57-27e01814f4af&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1025a875dea8479c936e5692f736252e%40thread.tacv2/conversations?groupId=719e3971-e691-49a6-ae57-27e01814f4af&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Тепломасообмін<br>Римар Т.І., 209 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09" title="https://zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Тепломасообмін<br>Римар Т.І., 209 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09" title="https://zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козіброда Л.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09" title="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Незгода С.П., <br>,&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна термодинаміка<br>Галянчук І.Р., 211 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1025a875dea8479c936e5692f736252e%40thread.tacv2/conversations?groupId=719e3971-e691-49a6-ae57-27e01814f4af&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1025a875dea8479c936e5692f736252e%40thread.tacv2/conversations?groupId=719e3971-e691-49a6-ae57-27e01814f4af&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна термодинаміка<br>Галянчук І.Р., 211 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1025a875dea8479c936e5692f736252e%40thread.tacv2/conversations?groupId=719e3971-e691-49a6-ae57-27e01814f4af&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1025a875dea8479c936e5692f736252e%40thread.tacv2/conversations?groupId=719e3971-e691-49a6-ae57-27e01814f4af&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Тепломасообмін<br>Римар Т.І., 209 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09" title="https://zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Гідрогазодинаміка<br>Орел В.І., 105 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09" title="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Гідрогазодинаміка<br>Орел В.І., 106 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09" title="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Гідрогазодинаміка<br>Орел В.І., 105 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09" title="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., 115 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84352480521?pwd=TWhHYVpBOXJpVlowcjludExhS0pXQT09" title="https://us05web.zoom.us/j/84352480521?pwd=TWhHYVpBOXJpVlowcjludExhS0pXQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Тепломасообмін<br>Римар Т.І., 207 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09" title="https://zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., +АЕ115 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84835089681?pwd=T1RKTTRwVGlnakVvNU8rMG90eG44UT09" title="https://us05web.zoom.us/j/84835089681?pwd=T1RKTTRwVGlnakVvNU8rMG90eG44UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

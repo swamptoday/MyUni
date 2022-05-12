@@ -1,0 +1,101 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Смірнова Л.М., Блавт О.З., 21кор.вул.Самчука11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Козіброда Л.В., 21кор.вул.Самчука11<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09" title="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія мистецтва, архітектури і дизайну, частина 2<br>Білінська О.Б., Крамарчук Х.П., 108 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aqHgU6cAH_kVSrEGhC0b4BjHRWdBq2wscf0P_phuW9XI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61f96903-cdd7-4b6e-b719-34dfa07aeef0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aqHgU6cAH_kVSrEGhC0b4BjHRWdBq2wscf0P_phuW9XI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61f96903-cdd7-4b6e-b719-34dfa07aeef0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aqHgU6cAH_kVSrEGhC0b4BjHRWdBq2wscf0P_phuW9XI1%40thread.tacv2/conversations?groupId=61f96903-cdd7-4b6e-b719-34dfa07aeef0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aqHgU6cAH_kVSrEGhC0b4BjHRWdBq2wscf0P_phuW9XI1%40thread.tacv2/conversations?groupId=61f96903-cdd7-4b6e-b719-34dfa07aeef0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Живопис, рисунок, скульптура, частина 2<br>Знак А.В., 322 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ajGwiGOK488vPHnkM5udqJ_Ml6EpoztebsDNY6A5WuV41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c04f01b0-6962-4410-b4bb-4f4a35446140&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ajGwiGOK488vPHnkM5udqJ_Ml6EpoztebsDNY6A5WuV41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c04f01b0-6962-4410-b4bb-4f4a35446140&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Живопис, рисунок, скульптура, частина 2<br>Громнюк А.І., Ракочий Я.В., 322 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ajGwiGOK488vPHnkM5udqJ_Ml6EpoztebsDNY6A5WuV41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c04f01b0-6962-4410-b4bb-4f4a35446140&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ajGwiGOK488vPHnkM5udqJ_Ml6EpoztebsDNY6A5WuV41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c04f01b0-6962-4410-b4bb-4f4a35446140&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aMA5fXJWb4FwYyq1q2m4SbbZteUyu_gEfwbAVuOz7Dzo1%40thread.tacv2/conversations?groupId=645a4555-9733-4299-895f-67b8e437acac&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aMA5fXJWb4FwYyq1q2m4SbbZteUyu_gEfwbAVuOz7Dzo1%40thread.tacv2/conversations?groupId=645a4555-9733-4299-895f-67b8e437acac&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>

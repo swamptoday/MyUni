@@ -1,0 +1,345 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фітодизайн<br>Олешко О.П., 105б Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a0qL1C0DaOHBjG9QAX4ByEFaVivOCdGYG_FpaGQ001Yc1%40thread.tacv2/conversations?groupId=b306d29c-fd0e-4004-82a2-37ab09a9dba4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a0qL1C0DaOHBjG9QAX4ByEFaVivOCdGYG_FpaGQ001Yc1%40thread.tacv2/conversations?groupId=b306d29c-fd0e-4004-82a2-37ab09a9dba4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фітодизайн<br>Олешко О.П., 105б Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a0qL1C0DaOHBjG9QAX4ByEFaVivOCdGYG_FpaGQ001Yc1%40thread.tacv2/conversations?groupId=b306d29c-fd0e-4004-82a2-37ab09a9dba4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a0qL1C0DaOHBjG9QAX4ByEFaVivOCdGYG_FpaGQ001Yc1%40thread.tacv2/conversations?groupId=b306d29c-fd0e-4004-82a2-37ab09a9dba4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Дизайн міського середовища<br>Служинська М.С., 105б Гол. н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дизайн міського середовища<br>Служинська М.С., 105б Гол. н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Перспективи розвитку дизайну та інформаційного середовища<br>Мельник О.Я., 109 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3acUp2xJrnyJkPE1tJY0VD8H1zCs1Neskqlt3WnKHCp541%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c556ba51-3818-4408-8686-07836a967f22&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3acUp2xJrnyJkPE1tJY0VD8H1zCs1Neskqlt3WnKHCp541%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c556ba51-3818-4408-8686-07836a967f22&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Перспективи розвитку дизайну та інформаційного середовища<br>Мельник О.Я., 109 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3acUp2xJrnyJkPE1tJY0VD8H1zCs1Neskqlt3WnKHCp541%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c556ba51-3818-4408-8686-07836a967f22&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3acUp2xJrnyJkPE1tJY0VD8H1zCs1Neskqlt3WnKHCp541%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c556ba51-3818-4408-8686-07836a967f22&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Ергодизайн<br>Радомська В.Р., 109 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVj6_5_GEjz2BeRpLQ-3HuMuFQ794hOKXB8vxnmW5wjI1%40thread.tacv2/conversations?groupId=1027a72a-dd36-49c4-bd7f-b461a662ab84&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVj6_5_GEjz2BeRpLQ-3HuMuFQ794hOKXB8vxnmW5wjI1%40thread.tacv2/conversations?groupId=1027a72a-dd36-49c4-bd7f-b461a662ab84&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Ергодизайн<br>Радомська В.Р., Дида І.А., 112 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVj6_5_GEjz2BeRpLQ-3HuMuFQ794hOKXB8vxnmW5wjI1%40thread.tacv2/conversations?groupId=1027a72a-dd36-49c4-bd7f-b461a662ab84&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVj6_5_GEjz2BeRpLQ-3HuMuFQ794hOKXB8vxnmW5wjI1%40thread.tacv2/conversations?groupId=1027a72a-dd36-49c4-bd7f-b461a662ab84&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ергодизайн<br>Дида І.А., Радомська В.Р., 105б Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVj6_5_GEjz2BeRpLQ-3HuMuFQ794hOKXB8vxnmW5wjI1%40thread.tacv2/conversations?groupId=1027a72a-dd36-49c4-bd7f-b461a662ab84&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVj6_5_GEjz2BeRpLQ-3HuMuFQ794hOKXB8vxnmW5wjI1%40thread.tacv2/conversations?groupId=1027a72a-dd36-49c4-bd7f-b461a662ab84&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ергодизайн<br>Радомська В.Р., Дида І.А., 105б Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVj6_5_GEjz2BeRpLQ-3HuMuFQ794hOKXB8vxnmW5wjI1%40thread.tacv2/conversations?groupId=1027a72a-dd36-49c4-bd7f-b461a662ab84&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVj6_5_GEjz2BeRpLQ-3HuMuFQ794hOKXB8vxnmW5wjI1%40thread.tacv2/conversations?groupId=1027a72a-dd36-49c4-bd7f-b461a662ab84&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комплексне проектування<br>Галишич Р.Я., Диба Ю.Р., 105б Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3adBl98K3xyyrB9Tu2lg6MnsiuIQq9FJN6-Ce5M0VFXZQ1%40thread.tacv2/conversations?groupId=66f6caf7-60a9-441f-b57d-5a23c3c48708&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3adBl98K3xyyrB9Tu2lg6MnsiuIQq9FJN6-Ce5M0VFXZQ1%40thread.tacv2/conversations?groupId=66f6caf7-60a9-441f-b57d-5a23c3c48708&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aec45279fbbe449ae9cc6ac05eac77f71%40thread.tacv2/conversations?groupId=d69aabac-baa2-4e04-a139-ed1d65b42771&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aec45279fbbe449ae9cc6ac05eac77f71%40thread.tacv2/conversations?groupId=d69aabac-baa2-4e04-a139-ed1d65b42771&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Екологічний дизайн<br>Галишич Р.Я., 304 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVRp7omveMm9DOcK2IJ2I2woQdTOuZ06WjJBqhp5FTTI1%40thread.tacv2/conversations?groupId=84e952da-ab92-41ef-bea3-d69cbce5d58f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVRp7omveMm9DOcK2IJ2I2woQdTOuZ06WjJBqhp5FTTI1%40thread.tacv2/conversations?groupId=84e952da-ab92-41ef-bea3-d69cbce5d58f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Арт-веб дизайн<br>Проскуряков О.В., 108 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Арт-веб дизайн<br>Проскуряков О.В., 108 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Екологічний дизайн<br>Галишич Р.Я., 310 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVRp7omveMm9DOcK2IJ2I2woQdTOuZ06WjJBqhp5FTTI1%40thread.tacv2/conversations?groupId=84e952da-ab92-41ef-bea3-d69cbce5d58f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVRp7omveMm9DOcK2IJ2I2woQdTOuZ06WjJBqhp5FTTI1%40thread.tacv2/conversations?groupId=84e952da-ab92-41ef-bea3-d69cbce5d58f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

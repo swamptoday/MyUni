@@ -1,0 +1,335 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія та методика професійного навчання<br>Гузій І.С., 705 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія та методика професійного навчання<br>Гузій І.С., 705 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Комп`ютерні технології в навчальному процесі<br>Гузій І.С., 705 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогічний коучінг<br>Чубінська Н.Б., 705 XXXVI н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи технічної творчості<br>Швай Р.І., 705 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72245439090?pwd=gQlYRwFCwitMZsvzqWeKDQxA-gP1lv.1" title="https://us04web.zoom.us/j/72245439090?pwd=gQlYRwFCwitMZsvzqWeKDQxA-gP1lv.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Енерго- та ресурсоощадні технології в будівництві<br>Марущак У.Д., 402 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4887654271?pwd=ZE5Da01BZWEySFQ4OXY5RnpwalBodz09" title="https://zoom.us/j/4887654271?pwd=ZE5Da01BZWEySFQ4OXY5RnpwalBodz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерні технології в навчальному процесі<br>Гузій І.С., 705 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогічний коучінг<br>Чубінська Н.Б., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія та методика професійного навчання<br>Швай Р.І., 705 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74837312236?pwd=UQZCGfCM3NMooXQ9JWwWrk4TN2e2TL.1" title="https://us04web.zoom.us/j/74837312236?pwd=UQZCGfCM3NMooXQ9JWwWrk4TN2e2TL.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія та методика професійного навчання<br>Швай Р.І., 705 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74837312236?pwd=UQZCGfCM3NMooXQ9JWwWrk4TN2e2TL.1" title="https://us04web.zoom.us/j/74837312236?pwd=UQZCGfCM3NMooXQ9JWwWrk4TN2e2TL.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи технічної творчості<br>Швай Р.І., 705 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72245439090?pwd=gQlYRwFCwitMZsvzqWeKDQxA-gP1lv.1" title="https://us04web.zoom.us/j/72245439090?pwd=gQlYRwFCwitMZsvzqWeKDQxA-gP1lv.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Педагогічний коучінг<br>Чубінська Н.Б., 705 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09" title="https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Енерго- та ресурсоощадні технології в будівництві<br>Марущак У.Д., 417 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4887654271?pwd=ZE5Da01BZWEySFQ4OXY5RnpwalBodz09" title="https://zoom.us/j/4887654271?pwd=ZE5Da01BZWEySFQ4OXY5RnpwalBodz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерні технології в навчальному процесі<br>Гузій І.С., 402 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/*******468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/*******468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

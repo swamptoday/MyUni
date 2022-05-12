@@ -1,0 +1,198 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Особливості соціальної роботи з біхевіоральними залежностями<br>Герасим Г.З., 517 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09" title="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Особливості соціальної роботи з біхевіоральними залежностями<br>Герасим Г.З., 517 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09" title="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Здоров`єзбережувальна діяльність в соціальній роботі<br>Клос Л.Є., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzFhMWI5NzQtNDMzYi00MTc3LTg5ZTYtZDY3ZDgwMmUwMGRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzFhMWI5NzQtNDMzYi00MTc3LTg5ZTYtZDY3ZDgwMmUwMGRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методика викладання соціальної роботи<br>Клос Л.Є., 611 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmNjYmYyZTEtMzVhNS00NDc4LWJjNWQtN2JhMjQ5NDUxY2Vm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmNjYmYyZTEtMzVhNS00NDc4LWJjNWQtN2JhMjQ5NDUxY2Vm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології соціальної роботи з сім`ями з узалежненими особами<br>Козак М.Я., 003 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/83475896110?pwd=TzdpRjUrTjIyQkFaYk43cjZmTVVVZz09" title="https://us05web.zoom.us/j/83475896110?pwd=TzdpRjUrTjIyQkFaYk43cjZmTVVVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології соціальної роботи з сім`ями з узалежненими особами<br>Козак М.Я., 003 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/81971273062?pwd=dUJBcmJudzRjOS9NQzk2My9PMzhWZz09" title="https://us05web.zoom.us/j/81971273062?pwd=dUJBcmJudzRjOS9NQzk2My9PMzhWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міждисциплінарний підхід у соціальній роботі<br>Клос Л.Є., Герасим Г.З., 005 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWI0NTJiYTgtNzRhNi00M2MzLWFjZWEtYTIxM2FjMWY0ODU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWI0NTJiYTgtNzRhNi00M2MzLWFjZWEtYTIxM2FjMWY0ODU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09" title="https://us04web.zoom.us/j/6038393956?pwd=dUNJaHBKRW9qazhuRU8rWGFQL05Sdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міждисциплінарний підхід у соціальній роботі<br>Клос Л.Є., Герасим Г.З., 005 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWI0NTJiYTgtNzRhNi00M2MzLWFjZWEtYTIxM2FjMWY0ODU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWI0NTJiYTgtNzRhNi00M2MzLWFjZWEtYTIxM2FjMWY0ODU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73157469925?pwd=dWNkWVI3QjdlRUNUNkdsWjM1cWYxUT09" title="https://us04web.zoom.us/j/73157469925?pwd=dWNkWVI3QjdlRUNUNkdsWjM1cWYxUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,565 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія автоматичного керування<br>Марущак Я.Ю., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09" title="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електричні машини<br>Макарчук О.В., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a1ad97a1bd8474792aa664978b5680a36%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597%2520%25D0%2595%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25BC%25D0%25B0%25D1%2588%25D0%25B8%25D0%25BD%25D0%25B8?groupId=b55d3007-73ad-4611-bd98-46fb787f3a86&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a1ad97a1bd8474792aa664978b5680a36%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597%2520%25D0%2595%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25BC%25D0%25B0%25D1%2588%25D0%25B8%25D0%25BD%25D0%25B8?groupId=b55d3007-73ad-4611-bd98-46fb787f3a86&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електричні машини<br>Макарчук О.В., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a1ad97a1bd8474792aa664978b5680a36%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597%2520%25D0%2595%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25BC%25D0%25B0%25D1%2588%25D0%25B8%25D0%25BD%25D0%25B8?groupId=b55d3007-73ad-4611-bd98-46fb787f3a86&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a1ad97a1bd8474792aa664978b5680a36%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597%2520%25D0%2595%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25BC%25D0%25B0%25D1%2588%25D0%25B8%25D0%25BD%25D0%25B8?groupId=b55d3007-73ad-4611-bd98-46fb787f3a86&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електричні апарати<br>Харчишин Б.М., 117 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad949ce62096e487faca71ad1235b07e2%40thread.tacv2/1644068473564?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22097c901e-cea6-4703-bc30-49980d263fa2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad949ce62096e487faca71ad1235b07e2%40thread.tacv2/1644068473564?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22097c901e-cea6-4703-bc30-49980d263fa2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., 207 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84039196550?pwd=UVQ4aytMcTlsb2lHV1V5eG81MXROdz09" title="https://us05web.zoom.us/j/84039196550?pwd=UVQ4aytMcTlsb2lHV1V5eG81MXROdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Теорія автоматичного керування<br>Каша Л.В., 129 Гол. н.к., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3abWyKfDe-mHC0xw8yN9yM8CSLbc-8YQ-P9ujHsKsp-No1%40thread.tacv2/1644436334437?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3abWyKfDe-mHC0xw8yN9yM8CSLbc-8YQ-P9ujHsKsp-No1%40thread.tacv2/1644436334437?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електричні апарати<br>Макарчук О.В., Хай М.В., 116а Гол. н.к., 119A Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5c8170b0c35e47628564bcfdaa63cc36%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520-%2520%25D0%2595%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25B0%25D0%25BF%25D0%25B0%25D1%2580%25D0%25B0%25D1%2582%25D0%25B8?groupId=404d591f-e38c-4c8f-8ffa-a7cba7ceedaa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5c8170b0c35e47628564bcfdaa63cc36%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520-%2520%25D0%2595%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25B0%25D0%25BF%25D0%25B0%25D1%2580%25D0%25B0%25D1%2582%25D0%25B8?groupId=404d591f-e38c-4c8f-8ffa-a7cba7ceedaa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Теорія автоматичного керування<br>Цяпа В.Б., 129 Гол. н.к., 148 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3abWyKfDe-mHC0xw8yN9yM8CSLbc-8YQ-P9ujHsKsp-No1%40thread.tacv2/1644776892318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3abWyKfDe-mHC0xw8yN9yM8CSLbc-8YQ-P9ujHsKsp-No1%40thread.tacv2/1644776892318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Теорія автоматичного керування<br>Каша Л.В., 129 Гол. н.к., 148 Гол. н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Теорія автоматичного керування<br>Цяпа В.Б., 129 Гол. н.к., 148 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3abWyKfDe-mHC0xw8yN9yM8CSLbc-8YQ-P9ujHsKsp-No1%40thread.tacv2/1644776892318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3abWyKfDe-mHC0xw8yN9yM8CSLbc-8YQ-P9ujHsKsp-No1%40thread.tacv2/1644776892318?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електричні апарати<br>Макарчук О.В., Хай М.В., 116а Гол. н.к., 119A Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5c8170b0c35e47628564bcfdaa63cc36%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520-%2520%25D0%2595%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25B0%25D0%25BF%25D0%25B0%25D1%2580%25D0%25B0%25D1%2582%25D0%25B8?groupId=404d591f-e38c-4c8f-8ffa-a7cba7ceedaa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5c8170b0c35e47628564bcfdaa63cc36%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520-%2520%25D0%2595%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25B0%25D0%25BF%25D0%25B0%25D1%2580%25D0%25B0%25D1%2582%25D0%25B8?groupId=404d591f-e38c-4c8f-8ffa-a7cba7ceedaa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Безгребельна О.П., хлопці<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/81266983463?pwd=YlhFS2tFTm14NXJQZHlYbXlzNmhidz09" title="https://us05web.zoom.us/j/81266983463?pwd=YlhFS2tFTm14NXJQZHlYbXlzNmhidz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козіброда Л.В., Незгода С.П., <br>,&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Електричні машини<br>Крохмальний Б.І., 014 Гол. н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Електричні машини<br>Крохмальний Б.І., 014 Гол. н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Електричні мережі<br>Пастух О.Р., 305б V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a20f0e894ae1547f68325f66cfe438839%40thread.tacv2/%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=f2809c2e-5737-4b58-9f55-9296ac0f21fa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a20f0e894ae1547f68325f66cfe438839%40thread.tacv2/%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=f2809c2e-5737-4b58-9f55-9296ac0f21fa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електричні машини<br>Гайдук В.Г., 117 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3awlmwhSYYQQjS_MpOSK9PTb47mKFk5ovku56HRa0DShU1%40thread.tacv2/1644935105286?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220e42bec2-ad23-459f-a9d8-0673727f054e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3awlmwhSYYQQjS_MpOSK9PTb47mKFk5ovku56HRa0DShU1%40thread.tacv2/1644935105286?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220e42bec2-ad23-459f-a9d8-0673727f054e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Метрологія і електричні вимірювання<br>Мадай В.С., 115 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3300369877?pwd=Y1VBeDg2aUZyeHpLdTFpck8xRmxOdz09" title="https://us02web.zoom.us/j/3300369877?pwd=Y1VBeDg2aUZyeHpLdTFpck8xRmxOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Електричні мережі<br>Дьяченко Н.Б., 305б V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3adAbfkZ-8xKFQA16FZ4Xe7Dzog6ZX0CeLRkTgVZg38yw1%40thread.tacv2/conversations?groupId=6ee14e66-969d-475d-b242-8400b684bae7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3adAbfkZ-8xKFQA16FZ4Xe7Dzog6ZX0CeLRkTgVZg38yw1%40thread.tacv2/conversations?groupId=6ee14e66-969d-475d-b242-8400b684bae7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електричні мережі<br>Дьяченко Н.Б., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ap8oCtZcLrrJxe1OWEV1a0CdPDhxg_FGD8YMKai69wpY1%40thread.tacv2/conversations?groupId=5e80be1f-0985-4c32-af4c-0d345ca2ffc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ap8oCtZcLrrJxe1OWEV1a0CdPDhxg_FGD8YMKai69wpY1%40thread.tacv2/conversations?groupId=5e80be1f-0985-4c32-af4c-0d345ca2ffc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Метрологія і електричні вимірювання<br>Мадай В.С., 114 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3300369877?pwd=Y1VBeDg2aUZyeHpLdTFpck8xRmxOdz09" title="https://us02web.zoom.us/j/3300369877?pwd=Y1VBeDg2aUZyeHpLdTFpck8xRmxOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електричні апарати<br>Хай М.В., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3auWCbJ__3BRI_wiFL7Q3wMXI6MnrybZaMOaYlm4YceFI1%40thread.tacv2/1643971964127?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221fb4fd50-9dd8-43ed-87f1-41620f55e46e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3auWCbJ__3BRI_wiFL7Q3wMXI6MnrybZaMOaYlm4YceFI1%40thread.tacv2/1643971964127?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221fb4fd50-9dd8-43ed-87f1-41620f55e46e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., 124 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84542241579?pwd=cERTV3kyUGQ3ZDZHTGFtTTYzNXNzUT09" title="https://us05web.zoom.us/j/84542241579?pwd=cERTV3kyUGQ3ZDZHTGFtTTYzNXNzUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Електричні машини<br>Крохмальний Б.І., 014 Гол. н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Електричні машини<br>Крохмальний Б.І., 014 Гол. н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія автоматичного керування<br>Марущак Я.Ю., 117 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09" title="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електричні мережі<br>Пастух О.Р., 305а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2e201b997719470dbf82adb3f7732f35%40thread.tacv2/%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=f2809c2e-5737-4b58-9f55-9296ac0f21fa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2e201b997719470dbf82adb3f7732f35%40thread.tacv2/%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=f2809c2e-5737-4b58-9f55-9296ac0f21fa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

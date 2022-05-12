@@ -1,0 +1,343 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Павлось Р.М., Блавт О.З., Самчука 11. 8.00-9.30<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83185764894" title="https://us02web.zoom.us/j/83185764894">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія і методика журналістської творчості, частина 2<br>Квасниця О.Ю., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і методика журналістської творчості, частина 2<br>Квасниця О.Ю., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія української літератури, частина 2<br>Семен Н.Ф., 36 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09" title="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи зображувальної журналістики<br>Максимович М.Р., 34 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/4279794190?pwd=dE4xUE8rRENOZGFTOGdQYWQ5bjErZz09&amp;fbclid=IwAR28oyJGW9r8pTfjIlpIfpQ9fM50-d3_ETZFTOl7F3D-KlQ7GUAm5TE3a-w#success" title="https://us05web.zoom.us/j/4279794190?pwd=dE4xUE8rRENOZGFTOGdQYWQ5bjErZz09&amp;fbclid=IwAR28oyJGW9r8pTfjIlpIfpQ9fM50-d3_ETZFTOl7F3D-KlQ7GUAm5TE3a-w#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і методика журналістської творчості, частина 2<br>Кузнецова О.Д., 34 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5702243579?pwd=ZURLWFprR0ZzajRkUktKK3Q1MTQxZz09" title="https://us04web.zoom.us/j/5702243579?pwd=ZURLWFprR0ZzajRkUktKK3Q1MTQxZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія української журналістики, частина 1<br>Макарчук О.Г., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/meeting/77988950776" title="https://zoom.us/meeting/77988950776">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія української літератури, частина 2<br>Семен Н.Ф., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09" title="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Ухач Л.Д., 17 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75758000323?pwd=SHZ4UVZhMDZHTGpOWU5JVHBJV3Q5Zz09  Meeting ID: 757 5800 0323" title="https://us04web.zoom.us/j/75758000323?pwd=SHZ4UVZhMDZHTGpOWU5JVHBJV3Q5Zz09  Meeting ID: 757 5800 0323">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Істоміна К.Ю., 19 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09" title="https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Істоміна К.Ю., 19 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09" title="https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Ухач Л.Д., 17 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75758000323?pwd=SHZ4UVZhMDZHTGpOWU5JVHBJV3Q5Zz09  Meeting ID: 757 5800 0323" title="https://us04web.zoom.us/j/75758000323?pwd=SHZ4UVZhMDZHTGpOWU5JVHBJV3Q5Zz09  Meeting ID: 757 5800 0323">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська  мова (за професійним спрямуванням)<br>Шмілик І.Д., 26 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4460491153?pwd=SVBkUHFVNU1EYXI1d3kxN3FkUmdsZz09" title="https://us02web.zoom.us/j/4460491153?pwd=SVBkUHFVNU1EYXI1d3kxN3FkUmdsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи зображувальної журналістики<br>Максимович М.Р., 11 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/4279794190?pwd=dE4xUE8rRENOZGFTOGdQYWQ5bjErZz09&amp;fbclid=IwAR28oyJGW9r8pTfjIlpIfpQ9fM50-d3_ETZFTOl7F3D-KlQ7GUAm5TE3a-w#success" title="https://us05web.zoom.us/j/4279794190?pwd=dE4xUE8rRENOZGFTOGdQYWQ5bjErZz09&amp;fbclid=IwAR28oyJGW9r8pTfjIlpIfpQ9fM50-d3_ETZFTOl7F3D-KlQ7GUAm5TE3a-w#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія української журналістики, частина 1<br>Вербицька Х.І., 11 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3044358772?pwd=alQvZnp5Ym9WL0dWVU5FTCttVmwrUT09  Meeting ID: 304 435 8772 Passcode: qW8LkR" title="https://us05web.zoom.us/j/3044358772?pwd=alQvZnp5Ym9WL0dWVU5FTCttVmwrUT09  Meeting ID: 304 435 8772 Passcode: qW8LkR">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

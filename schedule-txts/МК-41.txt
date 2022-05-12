@@ -1,0 +1,365 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками у маркетингу і логістиці<br>Шандрівська О.Є., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859" title="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками у маркетингу і логістиці<br>Шандрівська О.Є., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859" title="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">SRM-системи<br>Білик І.І., 426а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">SRM-системи<br>Черкес Р.Б., 426в IV н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мистецтво ведення переговорів<br>Бочко О.Ю., 207 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNPV9_fuKOCA6KolahQVkeOrsDoJhgCAmooWPjFoVjzc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f0cbe394-3d55-40fe-8788-72b7ddbffa4c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNPV9_fuKOCA6KolahQVkeOrsDoJhgCAmooWPjFoVjzc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f0cbe394-3d55-40fe-8788-72b7ddbffa4c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мистецтво ведення переговорів<br>Бочко О.Ю., 514 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNPV9_fuKOCA6KolahQVkeOrsDoJhgCAmooWPjFoVjzc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f0cbe394-3d55-40fe-8788-72b7ddbffa4c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNPV9_fuKOCA6KolahQVkeOrsDoJhgCAmooWPjFoVjzc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f0cbe394-3d55-40fe-8788-72b7ddbffa4c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Контент-маркетинг<br>Капраль О.Р., 401а IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87335112763?pwd=Yitlai9wd0pzZ1V3SW5uNE9vR05PUT09" title="https://us02web.zoom.us/j/87335112763?pwd=Yitlai9wd0pzZ1V3SW5uNE9vR05PUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">SRM-системи<br>Білик І.І., 429 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мистецтво ведення переговорів<br>Бочко О.Ю., 401а IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNPV9_fuKOCA6KolahQVkeOrsDoJhgCAmooWPjFoVjzc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f0cbe394-3d55-40fe-8788-72b7ddbffa4c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNPV9_fuKOCA6KolahQVkeOrsDoJhgCAmooWPjFoVjzc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f0cbe394-3d55-40fe-8788-72b7ddbffa4c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками у маркетингу і логістиці<br>Шандрівська О.Є., 412 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859" title="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">SRM-системи<br>Білик І.І., 210 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">SRM-системи<br>Черкес Р.Б., 426в IV н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">SRM-системи<br>Білик І.І., 426а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3asIPHtmJ_jPcmAazc977fih2I3mJAtffQBTkkswHHJ-E1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2ec1e234-6c71-4f1e-a613-a951da6939b1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Контент-маркетинг<br>Капраль О.Р., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87335112763?pwd=Yitlai9wd0pzZ1V3SW5uNE9vR05PUT09" title="https://us02web.zoom.us/j/87335112763?pwd=Yitlai9wd0pzZ1V3SW5uNE9vR05PUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Контент-маркетинг<br>Капраль О.Р., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87335112763?pwd=Yitlai9wd0pzZ1V3SW5uNE9vR05PUT09" title="https://us02web.zoom.us/j/87335112763?pwd=Yitlai9wd0pzZ1V3SW5uNE9vR05PUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Контент-маркетинг<br>Капраль О.Р., 405 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87335112763?pwd=Yitlai9wd0pzZ1V3SW5uNE9vR05PUT09" title="https://us02web.zoom.us/j/87335112763?pwd=Yitlai9wd0pzZ1V3SW5uNE9vR05PUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

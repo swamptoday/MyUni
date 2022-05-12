@@ -1,0 +1,373 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системний аналіз<br>Керницький А.Б., 325 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ptr-nnch-xgd?authuser=1&amp;hs=122" title="https://meet.google.com/ptr-nnch-xgd?authuser=1&amp;hs=122">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерні  мережі<br>Плесканка Н.М., 325 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/nwc-kjjy-ofa" title="https://meet.google.com/nwc-kjjy-ofa">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Гребінка Г.Я., корп.21 вул.Самчука.11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97289662007?pwd=NkpaNWJmUkViUENMdFh4QmhtS1dmQT09" title="https://zoom.us/j/97289662007?pwd=NkpaNWJmUkViUENMdFh4QmhtS1dmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Веб-технології та веб-дизайн<br>Спас Н.Я., 322 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94620074485?pwd=S2RtMHVQUGhFYVF1NEZ0ODBIUFZUZz09  Meeting ID: 946 2007 4485 Passcode: 3CbiJ1" title="https://zoom.us/j/94620074485?pwd=S2RtMHVQUGhFYVF1NEZ0ODBIUFZUZz09  Meeting ID: 946 2007 4485 Passcode: 3CbiJ1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні методи дослідження операцій<br>Марікуца У.Б., 325 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cho-wczz-svh" title="https://meet.google.com/cho-wczz-svh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Веб-технології та веб-дизайн<br>Юрчак І.Ю., 325 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09" title="https://us04web.zoom.us/j/6873499091?pwd=amVFZWthTTR6anhuYVhQSkhQWVpEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія інформації<br>Іванців Р.Д., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6763870500?pwd=SXYycUpDbGFJR3VvcXdtTFJVenh2dz09" title="https://us04web.zoom.us/j/6763870500?pwd=SXYycUpDbGFJR3VvcXdtTFJVenh2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системний аналіз<br>Керницький А.Б., 321 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/myg-qiih-vmj?hs=122&amp;authuser=1" title="https://meet.google.com/myg-qiih-vmj?hs=122&amp;authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Математичні методи дослідження операцій<br>Артищук І.В., 322 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/aja-zxpe-fbk" title="https://meet.google.com/aja-zxpe-fbk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Комп`ютерні  мережі<br>Белей О.І., 108 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87207826894?pwd=a0tsdjI2bTlmVWxkeEpQeXVkdWJldz09" title="https://us02web.zoom.us/j/87207826894?pwd=a0tsdjI2bTlmVWxkeEpQeXVkdWJldz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Математичні методи дослідження операцій<br>Станкевич О.М., 323 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3504071411?pwd=bDBVRGN1Tkc0K2RkWTF6emR6cEQ0UT09" title="https://us05web.zoom.us/j/3504071411?pwd=bDBVRGN1Tkc0K2RkWTF6emR6cEQ0UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Теорія інформації<br>Василишин Б.С., 408 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ajhj-xi_pSP90Y5I2OOQCwpiEBv0i4COlOWv3_HtIo7Q1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4a658920-ac67-4f17-859c-e515e6f428a6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ajhj-xi_pSP90Y5I2OOQCwpiEBv0i4COlOWv3_HtIo7Q1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4a658920-ac67-4f17-859c-e515e6f428a6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Теорія інформації<br>Василишин Б.С., 408 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ajhj-xi_pSP90Y5I2OOQCwpiEBv0i4COlOWv3_HtIo7Q1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4a658920-ac67-4f17-859c-e515e6f428a6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ajhj-xi_pSP90Y5I2OOQCwpiEBv0i4COlOWv3_HtIo7Q1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4a658920-ac67-4f17-859c-e515e6f428a6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Системний аналіз<br>Левкович М.В., 501г IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/edk-ffja-tfk" title="https://meet.google.com/edk-ffja-tfk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Системний аналіз<br>Левкович М.В., 501г IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/edk-ffja-tfk" title="https://meet.google.com/edk-ffja-tfk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Комп`ютерні  мережі<br>Белей О.І., 323 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85882124981?pwd=alpZS1cwSGRXQ2M4bURzeG9yRjJpdz09" title="https://us02web.zoom.us/j/85882124981?pwd=alpZS1cwSGRXQ2M4bURzeG9yRjJpdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Веб-технології та веб-дизайн<br>Спас Н.Я., 407 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96331322309?pwd=MG0wVnJ1c3JWVTZpKzc3OTJGdGtOQT09  Meeting ID: 963 3132 2309 Passcode: UYy5QJ" title="https://zoom.us/j/96331322309?pwd=MG0wVnJ1c3JWVTZpKzc3OTJGdGtOQT09  Meeting ID: 963 3132 2309 Passcode: UYy5QJ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

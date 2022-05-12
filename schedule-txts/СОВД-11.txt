@@ -1,0 +1,272 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Комунікативний менеджмент в ситуації ризику<br>Савка В.Є., 003 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a2WsL4fNYj2zTAyz2edijZlYazsoC5TkpvYVtRewyeyg1%40thread.tacv2/1644398290533?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a2WsL4fNYj2zTAyz2edijZlYazsoC5TkpvYVtRewyeyg1%40thread.tacv2/1644398290533?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Соціологія соціальних проблем<br>Савка В.Є., 003 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3acaebddaa500347c094bac82bd2289d06%40thread.tacv2/1644400053479?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3acaebddaa500347c094bac82bd2289d06%40thread.tacv2/1644400053479?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комунікативний менеджмент в ситуації ризику<br>Савка В.Є., 003 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a2WsL4fNYj2zTAyz2edijZlYazsoC5TkpvYVtRewyeyg1%40thread.tacv2/1644398382719?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a2WsL4fNYj2zTAyz2edijZlYazsoC5TkpvYVtRewyeyg1%40thread.tacv2/1644398382719?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Організація соціологічної служби в громадських та бізнесових структурах<br>Козак М.Я., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/81533688257?pwd=N0N3VGNpMUZqaGg2d0RKVFp5dWRjUT09" title="https://us05web.zoom.us/j/81533688257?pwd=N0N3VGNpMUZqaGg2d0RKVFp5dWRjUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні комунікативні мережі<br>Андрейчук С.К., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09" title="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Сучасні комунікативні мережі<br>Андрейчук С.К., 407 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09" title="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Методологія дискурсивного аналізу<br>Мишок Р.Р., 212a V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aP_btdfJ9F8HMaNBbTcyLMCK_GTbLrmFbkgPpOHuegjI1%40thread.tacv2/1644310680541?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a0b2c8ce-c3b8-49a1-b38e-cca2f705b6a8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aP_btdfJ9F8HMaNBbTcyLMCK_GTbLrmFbkgPpOHuegjI1%40thread.tacv2/1644310680541?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a0b2c8ce-c3b8-49a1-b38e-cca2f705b6a8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія дискурсивного аналізу<br>Мишок Р.Р., 003 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aP_btdfJ9F8HMaNBbTcyLMCK_GTbLrmFbkgPpOHuegjI1%40thread.tacv2/1644310824430?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a0b2c8ce-c3b8-49a1-b38e-cca2f705b6a8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aP_btdfJ9F8HMaNBbTcyLMCK_GTbLrmFbkgPpOHuegjI1%40thread.tacv2/1644310824430?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a0b2c8ce-c3b8-49a1-b38e-cca2f705b6a8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Соціологія соціальних проблем<br>Савка В.Є., 107 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3acaebddaa500347c094bac82bd2289d06%40thread.tacv2/1644399936120?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3acaebddaa500347c094bac82bd2289d06%40thread.tacv2/1644399936120?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціологія соціальних проблем<br>Савка В.Є., 003 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3acaebddaa500347c094bac82bd2289d06%40thread.tacv2/1644399990168?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3acaebddaa500347c094bac82bd2289d06%40thread.tacv2/1644399990168?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d67a0470-6693-42e6-902b-dd3db6ccee5e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Організація соціологічної служби в громадських та бізнесових структурах<br>Козак М.Я., 003 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/82010985910?pwd=UXhRRGJDRUxUNEd0S2luNkJ0ZXd5UT09" title="https://us05web.zoom.us/j/82010985910?pwd=UXhRRGJDRUxUNEd0S2luNkJ0ZXd5UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Організація соціологічної служби в громадських та бізнесових структурах<br>Козак М.Я., 003 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84543910267?pwd=bTZmWndLbXNFc3VIYitFQXIxdXYxZz09" title="https://us05web.zoom.us/j/84543910267?pwd=bTZmWndLbXNFc3VIYitFQXIxdXYxZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,264 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ремонт і експлуатація автомобільних доріг<br>Стечишин С.М., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aB4VSmQNEWVYIvGCKGHfbiDP80YuuXV8rMDjqJt9o7_I1%40thread.tacv2/1644778326675?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22113d65c6-524b-4f83-b70f-fab6000a58f2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aB4VSmQNEWVYIvGCKGHfbiDP80YuuXV8rMDjqJt9o7_I1%40thread.tacv2/1644778326675?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22113d65c6-524b-4f83-b70f-fab6000a58f2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ремонт і експлуатація автомобільних доріг<br>Стечишин С.М., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aB4VSmQNEWVYIvGCKGHfbiDP80YuuXV8rMDjqJt9o7_I1%40thread.tacv2/1644778326675?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22113d65c6-524b-4f83-b70f-fab6000a58f2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aB4VSmQNEWVYIvGCKGHfbiDP80YuuXV8rMDjqJt9o7_I1%40thread.tacv2/1644778326675?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22113d65c6-524b-4f83-b70f-fab6000a58f2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Організація спорудження та експлуатації автомобільних доріг<br>Балаян Н.О., 310 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQ2M2YyYWEtYjA1Mi00YmUyLWEzOTUtODdhNDg1NDg5NzNh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227cc05e49-d617-4577-98c5-444a9fae3286%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQ2M2YyYWEtYjA1Mi00YmUyLWEzOTUtODdhNDg1NDg5NzNh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227cc05e49-d617-4577-98c5-444a9fae3286%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аеродроми та експлуатація аеродромів<br>Собко Ю.М., 310 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2YwN2JlOTItMTNjMS00MzUxLWI4YWQtNmRkOGE2MDc5ZTU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22321647a8-6c54-49e1-b9e4-2d05e0bebac9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2YwN2JlOTItMTNjMS00MzUxLWI4YWQtNmRkOGE2MDc5ZTU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22321647a8-6c54-49e1-b9e4-2d05e0bebac9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аеродроми та експлуатація аеродромів<br>Собко Ю.М., 310 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjA4MzQwZWUtZjI2MS00MmE1LTk3ZWUtZTViMmVjNWM0MGJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22321647a8-6c54-49e1-b9e4-2d05e0bebac9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjA4MzQwZWUtZjI2MS00MmE1LTk3ZWUtZTViMmVjNWM0MGJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22321647a8-6c54-49e1-b9e4-2d05e0bebac9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аеродроми та експлуатація аеродромів<br>Собко Ю.М., 310 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY0MTE3ZDgtZDM2ZS00ZWFjLWE3MGMtYzUyMWE1ZWZiZGZl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22321647a8-6c54-49e1-b9e4-2d05e0bebac9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY0MTE3ZDgtZDM2ZS00ZWFjLWE3MGMtYzUyMWE1ZWZiZGZl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22321647a8-6c54-49e1-b9e4-2d05e0bebac9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ремонт і експлуатація автомобільних доріг<br>Гримак О.Я., 308 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aJiDHgmuP2ktLqoQG0_enXuXKlczbD91jGn8AHQW6CP41%40thread.tacv2/1645554253835?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229bc68cc4-3b52-49c7-b1cb-23506f1d9b16%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aJiDHgmuP2ktLqoQG0_enXuXKlczbD91jGn8AHQW6CP41%40thread.tacv2/1645554253835?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229bc68cc4-3b52-49c7-b1cb-23506f1d9b16%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ремонт і експлуатація автомобільних доріг<br>Гримак О.Я., 308 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aJiDHgmuP2ktLqoQG0_enXuXKlczbD91jGn8AHQW6CP41%40thread.tacv2/1645554253835?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229bc68cc4-3b52-49c7-b1cb-23506f1d9b16%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aJiDHgmuP2ktLqoQG0_enXuXKlczbD91jGn8AHQW6CP41%40thread.tacv2/1645554253835?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229bc68cc4-3b52-49c7-b1cb-23506f1d9b16%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Організація спорудження та експлуатації автомобільних доріг<br>Балаян Н.О., 310 II н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmJlZWI4YWQtNTIzNS00Yjc4LWFhMTYtMzBmY2FjY2M3Mzk5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227cc05e49-d617-4577-98c5-444a9fae3286%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmJlZWI4YWQtNTIzNS00Yjc4LWFhMTYtMzBmY2FjY2M3Mzk5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227cc05e49-d617-4577-98c5-444a9fae3286%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація спорудження та експлуатації автомобільних доріг<br>Гуняк О.М., 308 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg2ZGIxNjEtODA5YS00OTMyLWIxMDEtNzRmNWUwZGU0NGU2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220202e7ca-c97d-414c-8cbe-918d0f786367%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg2ZGIxNjEtODA5YS00OTMyLWIxMDEtNzRmNWUwZGU0NGU2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220202e7ca-c97d-414c-8cbe-918d0f786367%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація спорудження та експлуатації автомобільних доріг<br>Гуняк О.М., 308 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg2ZGIxNjEtODA5YS00OTMyLWIxMDEtNzRmNWUwZGU0NGU2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220202e7ca-c97d-414c-8cbe-918d0f786367%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg2ZGIxNjEtODA5YS00OTMyLWIxMDEtNzRmNWUwZGU0NGU2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220202e7ca-c97d-414c-8cbe-918d0f786367%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

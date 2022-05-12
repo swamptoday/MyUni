@@ -1,0 +1,453 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Бугрій Н.В., 231 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_cVdfH9awY_Ndvy0NE8ImiMFP2EQnwEac55e3kHxmq5M1@thread.tacv2&amp;messageId=1644401884202&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_cVdfH9awY_Ndvy0NE8ImiMFP2EQnwEac55e3kHxmq5M1@thread.tacv2&amp;messageId=1644401884202&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Вища математика, частина 2<br>Бугрій Н.В., 231 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_cVdfH9awY_Ndvy0NE8ImiMFP2EQnwEac55e3kHxmq5M1@thread.tacv2&amp;messageId=1644402006736&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_cVdfH9awY_Ndvy0NE8ImiMFP2EQnwEac55e3kHxmq5M1@thread.tacv2&amp;messageId=1644402006736&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біологія та мікробіологія<br>Попович О.Р., Вронська Н.Ю., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a5GQn7jn4T1bUdkJBuZwCZGHksCeeMmZ00AQzLOx8zXg1%40thread.tacv2/1650119280168?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a5GQn7jn4T1bUdkJBuZwCZGHksCeeMmZ00AQzLOx8zXg1%40thread.tacv2/1650119280168?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644159738035?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644159738035?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Історія державності та культури України<br>Шеломенцев-Терський С.В., 111 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9641848736?pwd=S3N6NDRVbVpoNU92Y0ZCNnEwQUQ5Zz09" title="https://zoom.us/j/9641848736?pwd=S3N6NDRVbVpoNU92Y0ZCNnEwQUQ5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біологія та мікробіологія<br>Вронська Н.Ю., Попович О.Р., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a5GQn7jn4T1bUdkJBuZwCZGHksCeeMmZ00AQzLOx8zXg1%40thread.tacv2/1650119768341?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a5GQn7jn4T1bUdkJBuZwCZGHksCeeMmZ00AQzLOx8zXg1%40thread.tacv2/1650119768341?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644159957375?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644159957375?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Метеорологія і кліматологія<br>Гумницький Я.М., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4353ed0f655f49f4812b2556241f41c0%40thread.tacv2/1644573956435?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2244da559f-89a3-43bb-9a1b-c2e5739ebb00%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4353ed0f655f49f4812b2556241f41c0%40thread.tacv2/1644573956435?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2244da559f-89a3-43bb-9a1b-c2e5739ebb00%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Гідрологія<br>Захарко Я.М., 231 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aSCoy5GwI4YvNpfZDen1H7eA19ZRoaqqlGRmUbXFCTdc1%40thread.tacv2/1643751166845?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aSCoy5GwI4YvNpfZDen1H7eA19ZRoaqqlGRmUbXFCTdc1%40thread.tacv2/1643751166845?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Біологія та мікробіологія<br>Вронська Н.Ю., 11 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644160278610?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644160278610?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Біологія та мікробіологія<br>Вронська Н.Ю., 11 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644160278610?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644160278610?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Вища математика, частина 2<br>Бугрій Н.В., 231 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_cVdfH9awY_Ndvy0NE8ImiMFP2EQnwEac55e3kHxmq5M1@thread.tacv2&amp;messageId=1644402293964&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_cVdfH9awY_Ndvy0NE8ImiMFP2EQnwEac55e3kHxmq5M1@thread.tacv2&amp;messageId=1644402293964&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Біологія та мікробіологія<br>Попович О.Р., Вронська Н.Ю., 113 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644160442721?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644160442721?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Бугрій Н.В., 231 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_cVdfH9awY_Ndvy0NE8ImiMFP2EQnwEac55e3kHxmq5M1@thread.tacv2&amp;messageId=1644402506207&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_cVdfH9awY_Ndvy0NE8ImiMFP2EQnwEac55e3kHxmq5M1@thread.tacv2&amp;messageId=1644402506207&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія державності та культури України<br>Шеломенцев-Терський С.В., 315 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9641848736?pwd=S3N6NDRVbVpoNU92Y0ZCNnEwQUQ5Zz09" title="https://zoom.us/j/9641848736?pwd=S3N6NDRVbVpoNU92Y0ZCNnEwQUQ5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Метеорологія і кліматологія<br>Люта О.В., 012 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3atXWcGpqt54Eaz3RwqEd162qwB11Tf3PFvr4jYfkRhLk1%40thread.tacv2/1645610904054?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b7b1a74e-e782-407e-a720-371225c5c107%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3atXWcGpqt54Eaz3RwqEd162qwB11Tf3PFvr4jYfkRhLk1%40thread.tacv2/1645610904054?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b7b1a74e-e782-407e-a720-371225c5c107%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Гідрологія<br>Захарко Я.М., 113 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aSCoy5GwI4YvNpfZDen1H7eA19ZRoaqqlGRmUbXFCTdc1%40thread.tacv2/1643751325345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aSCoy5GwI4YvNpfZDen1H7eA19ZRoaqqlGRmUbXFCTdc1%40thread.tacv2/1643751325345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Біологія та мікробіологія<br>Вронська Н.Ю., 11 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644160819115?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644160819115?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Хрипач А.Г., корп. 21 , вул. Самчука 11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77462879097?pwd=MDN4cUZCeWpNQlhwU1dJRDFCZ2p6dz09" title="https://us04web.zoom.us/j/77462879097?pwd=MDN4cUZCeWpNQlhwU1dJRDFCZ2p6dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Біологія та мікробіологія<br>Вронська Н.Ю., 11 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644161907029?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644161907029?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Бусько М.Б., 31 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a7vPbEzDZSdYerUaML5iJuYTo0oSE4nXE8o6fkTD19kc1%40thread.tacv2/conversations?groupId=c16ac451-2553-4787-9f59-c98051ec9695&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a7vPbEzDZSdYerUaML5iJuYTo0oSE4nXE8o6fkTD19kc1%40thread.tacv2/conversations?groupId=c16ac451-2553-4787-9f59-c98051ec9695&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біологія та мікробіологія<br>Попович О.Р., Вронська Н.Ю., 115 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644162042421?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aPlrA5E2D3K1GF0JYoAHlGf6-K2x5kXx2mqxK_bZhZTY1%40thread.tacv2/1644162042421?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22baa770fc-2fc5-4099-9239-c17c2a855003%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

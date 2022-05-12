@@ -1,0 +1,323 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проект реставрації, частина 5<br>Мельник В.А., 010 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQ0MTdmZWQtMDFhNS00NzJmLWJkNGUtNmU3NmY4ZjYxNjUx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQ0MTdmZWQtMDFhNS00NzJmLWJkNGUtNmU3NmY4ZjYxNjUx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проект реставрації, частина 5<br>Мельник В.А., 010 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQ0MTdmZWQtMDFhNS00NzJmLWJkNGUtNmU3NmY4ZjYxNjUx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQ0MTdmZWQtMDFhNS00NzJmLWJkNGUtNmU3NmY4ZjYxNjUx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проект реставрації, частина 5<br>Мельник В.А., 010 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQ0MTdmZWQtMDFhNS00NzJmLWJkNGUtNmU3NmY4ZjYxNjUx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQ0MTdmZWQtMDFhNS00NzJmLWJkNGUtNmU3NmY4ZjYxNjUx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія мистецтва і архітектури України, частина 2<br>Береговська Х.О., 109 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія мистецтва і архітектури України, частина 2<br>Береговська Х.О., 109 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Історія мистецтва і архітектури України, частина 2<br>Береговська Х.О., 109 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія мистецтва і архітектури України, частина 2<br>Береговська Х.О., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Історія мистецтва і архітектури України, частина 2<br>Береговська Х.О., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи скульптури, частина 8<br>Сірий С.П., 010 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи скульптури, частина 8<br>Сірий С.П., 010 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи скульптури, частина 8<br>Сірий С.П., 010 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експертиза пам`ятки архітектури, мистецтва та її деталей<br>Мельник В.А., 113 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUxMTY1YWQtMWFkMi00NWFkLWE5NjQtYzFiNWMzZDEwNWM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d " title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUxMTY1YWQtMWFkMi00NWFkLWE5NjQtYzFiNWMzZDEwNWM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експертиза пам`ятки архітектури, мистецтва та її деталей<br>Мельник В.А., 113 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUxMTY1YWQtMWFkMi00NWFkLWE5NjQtYzFiNWMzZDEwNWM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d " title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUxMTY1YWQtMWFkMi00NWFkLWE5NjQtYzFiNWMzZDEwNWM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Експертиза пам`ятки архітектури, мистецтва та її деталей<br>Мельник В.А., 113 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUxMTY1YWQtMWFkMi00NWFkLWE5NjQtYzFiNWMzZDEwNWM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d " title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUxMTY1YWQtMWFkMi00NWFkLWE5NjQtYzFiNWMzZDEwNWM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233da0523-c5cf-416e-a5ef-954171bd268b%22%7d ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

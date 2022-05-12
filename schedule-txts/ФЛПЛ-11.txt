@@ -1,0 +1,228 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Когнітивна лінгвістика<br>Левченко О.П., 117 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aX6fXzq8BU4kF9PpI7i5zomvk8keIHCQDUNGRB4iouMA1%40thread.tacv2/1644494126563?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ea7c94ce-1011-4547-b1a8-276e8e15981c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aX6fXzq8BU4kF9PpI7i5zomvk8keIHCQDUNGRB4iouMA1%40thread.tacv2/1644494126563?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ea7c94ce-1011-4547-b1a8-276e8e15981c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретична лексикологія і граматика<br>Бехта І.А., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Когнітивна лінгвістика<br>Левченко О.П., 117 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aX6fXzq8BU4kF9PpI7i5zomvk8keIHCQDUNGRB4iouMA1%40thread.tacv2/1644494126563?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ea7c94ce-1011-4547-b1a8-276e8e15981c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aX6fXzq8BU4kF9PpI7i5zomvk8keIHCQDUNGRB4iouMA1%40thread.tacv2/1644494126563?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ea7c94ce-1011-4547-b1a8-276e8e15981c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретична лексикологія і граматика<br>Бехта І.А., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практика перекладу (англійська мова), частина 2<br>Гриців Н.М., 117 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/isu-vopf-jfj?pli=1&amp;authuser=0" title="https://meet.google.com/isu-vopf-jfj?pli=1&amp;authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Практика перекладу (англійська мова), частина 2<br>Гриців Н.М., 117 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/isu-vopf-jfj?pli=1&amp;authuser=0" title="https://meet.google.com/isu-vopf-jfj?pli=1&amp;authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Практика перекладу (німецька/японська/чеська/польська мова), частина 2<br>Нахлік О.С., Черниш Л.З., 117 IV н.к., 132 IV н.к., <br>,&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Практика перекладу (німецька/японська/чеська/польська мова), частина 2<br>Нахлік О.С., Черниш Л.З., 117 IV н.к., 132 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8897533764?pwd=eFRiVVQ4RENaTm5BeUgyN2lKbnRGUT09" title="https://us02web.zoom.us/j/8897533764?pwd=eFRiVVQ4RENaTm5BeUgyN2lKbnRGUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Практика перекладу (німецька/японська/чеська/польська мова), частина 2<br>Гораль Н.М., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bfn-zzaq-yrp?authuser=1" title="https://meet.google.com/bfn-zzaq-yrp?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Практика перекладу (німецька/японська/чеська/польська мова), частина 2<br>Гораль Н.М., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bfn-zzaq-yrp?authuser=1" title="https://meet.google.com/bfn-zzaq-yrp?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

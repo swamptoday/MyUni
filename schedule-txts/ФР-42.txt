@@ -1,0 +1,387 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фармакологія<br>Болібрух Л.Д., 201 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647800936612?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647800936612?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Менеджмент та маркетинг у фармації<br>Кричковська А.М., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a5KPSAua8PthRDFAK29NOBqEhCHqZ8CUAw6u41iOE3y41%40thread.tacv2/1644746844665?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a5KPSAua8PthRDFAK29NOBqEhCHqZ8CUAw6u41iOE3y41%40thread.tacv2/1644746844665?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Менеджмент та маркетинг у фармації<br>Комар А.В., 236 VIII н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фармакологія<br>Болібрух Л.Д., 227 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647801072541?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647801072541?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фармакологія<br>Болібрух Л.Д., 227 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647805697639?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647805697639?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Менеджмент та маркетинг у фармації<br>Комар А.В., 236 VIII н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Менеджмент та маркетинг у фармації<br>Кричковська А.М., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a5KPSAua8PthRDFAK29NOBqEhCHqZ8CUAw6u41iOE3y41%40thread.tacv2/1644747054425?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a5KPSAua8PthRDFAK29NOBqEhCHqZ8CUAw6u41iOE3y41%40thread.tacv2/1644747054425?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Менеджмент та маркетинг у фармації<br>Кричковська А.М., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aXYUbwoiLfLHFgnGR8VJ58ISnalO_DhwuHvfDPKZhL2k1%40thread.tacv2/1644745205613?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aXYUbwoiLfLHFgnGR8VJ58ISnalO_DhwuHvfDPKZhL2k1%40thread.tacv2/1644745205613?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фармацевтичне товарознавство<br>Журахівська Л.Р., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:BSWS-BPFa0mvYJRqWBUkZDwVSPBpwJUSROgOgFFGhOo1@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:BSWS-BPFa0mvYJRqWBUkZDwVSPBpwJUSROgOgFFGhOo1@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фармацевтичне товарознавство<br>Журахівська Л.Р., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:BSWS-BPFa0mvYJRqWBUkZDwVSPBpwJUSROgOgFFGhOo1@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:BSWS-BPFa0mvYJRqWBUkZDwVSPBpwJUSROgOgFFGhOo1@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фармакологія<br>Болібрух Л.Д., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647805992264?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647805992264?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи невідкладної медичної допомоги<br>Журахівська Л.Р., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:d2hi3CMR7tacCF_bhm8UroSpG8IU6A-_4wGuFx8LiK81@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:d2hi3CMR7tacCF_bhm8UroSpG8IU6A-_4wGuFx8LiK81@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи невідкладної медичної допомоги<br>Журахівська Л.Р., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:d2hi3CMR7tacCF_bhm8UroSpG8IU6A-_4wGuFx8LiK81@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:d2hi3CMR7tacCF_bhm8UroSpG8IU6A-_4wGuFx8LiK81@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Менеджмент та маркетинг у фармації<br>Кричковська А.М., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aXYUbwoiLfLHFgnGR8VJ58ISnalO_DhwuHvfDPKZhL2k1%40thread.tacv2/1644745423115?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aXYUbwoiLfLHFgnGR8VJ58ISnalO_DhwuHvfDPKZhL2k1%40thread.tacv2/1644745423115?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фармакологія<br>Болібрух Л.Д., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647801330679?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647801330679?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фармацевтичне товарознавство<br>Журахівська Л.Р., 240 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:iueYv67XT7LI5oo8XorwzUS_XsVQqWGrKg36_z6P7ow1@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:iueYv67XT7LI5oo8XorwzUS_XsVQqWGrKg36_z6P7ow1@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фармакологія<br>Болібрух Л.Д., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647801521311?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adca59ad828ce4274bba6227b6a93de3f%40thread.tacv2/1647801521311?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fbdcf884-229d-43f0-92c3-22f6bad1af57%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

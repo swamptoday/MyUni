@@ -1,0 +1,242 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обгрунтування господарських  рішень і оцінювання ризиків<br>Анісімова М.В., 404 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/95054386477?pwd%3DOWJ0cS8zSlo0dU90V3FYWjBRaW03Zz09&amp;sa=D&amp;source=calendar&amp;ust=1651849224653987&amp;usg=AOvVaw0dTYlFNUHLGNd05en0zITU" title="https://www.google.com/url?q=https://zoom.us/j/95054386477?pwd%3DOWJ0cS8zSlo0dU90V3FYWjBRaW03Zz09&amp;sa=D&amp;source=calendar&amp;ust=1651849224653987&amp;usg=AOvVaw0dTYlFNUHLGNd05en0zITU">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація виробництва<br>Петрушка Т.О., 423 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88988999072" title="https://us02web.zoom.us/j/88988999072">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обгрунтування господарських  рішень і оцінювання ризиків<br>Анісімова М.В., 423 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/92058066366?pwd%3DTCszeVZQMENLY0FoTFRLendVSDVIZz09&amp;sa=D&amp;source=calendar&amp;ust=1651849249507308&amp;usg=AOvVaw2X0mbi3VWCbJcnMyiQyRNp" title="https://www.google.com/url?q=https://zoom.us/j/92058066366?pwd%3DTCszeVZQMENLY0FoTFRLendVSDVIZz09&amp;sa=D&amp;source=calendar&amp;ust=1651849249507308&amp;usg=AOvVaw2X0mbi3VWCbJcnMyiQyRNp">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація виробництва<br>Гавриляк А.С., 423 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09" title="https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Романів А.С., 236 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09" title="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Романів А.С., 303 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09" title="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економіка та організація інноваційної діяльності<br>Лесик Л.І., 423 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76872975212?pwd=ak1WWUdKNDFZRmV2WVpNb20valhxdz09" title="https://us04web.zoom.us/j/76872975212?pwd=ak1WWUdKNDFZRmV2WVpNb20valhxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податки та система оподаткування підприємств<br>Лесик Л.І., 423 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75540791253?pwd=dmRpckYzVWM5cE5wcW1xMm1EV2JtZz09" title="https://us04web.zoom.us/j/75540791253?pwd=dmRpckYzVWM5cE5wcW1xMm1EV2JtZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податки та система оподаткування підприємств<br>Лесик Л.І., 421 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75540791253?pwd=dmRpckYzVWM5cE5wcW1xMm1EV2JtZz09" title="https://us04web.zoom.us/j/75540791253?pwd=dmRpckYzVWM5cE5wcW1xMm1EV2JtZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економіка та організація інноваційної діяльності<br>Ємельянов О.Ю., 421 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09" title="https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

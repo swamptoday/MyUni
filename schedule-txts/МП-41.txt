@@ -1,0 +1,281 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів<br>Гаврильченко О.В., 61 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdjY2Y4NmYtZmFlZC00NDYzLThlOTMtOWNkZjFlZWExOGE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdjY2Y4NmYtZmFlZC00NDYzLThlOTMtOWNkZjFlZWExOGE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів<br>Гаврильченко О.В., 61 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdjY2Y4NmYtZmFlZC00NDYzLThlOTMtOWNkZjFlZWExOGE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdjY2Y4NmYtZmFlZC00NDYzLThlOTMtOWNkZjFlZWExOGE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування робототехнічних систем, частина 2<br>Гурський В.М., 16 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a46bc7b190ed14ed3bba58f4e474ed0c8%40thread.tacv2/1644751998190?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a46bc7b190ed14ed3bba58f4e474ed0c8%40thread.tacv2/1644751998190?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування робототехнічних систем, частина 2<br>Гурський В.М., 16 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a46bc7b190ed14ed3bba58f4e474ed0c8%40thread.tacv2/1644751998190?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a46bc7b190ed14ed3bba58f4e474ed0c8%40thread.tacv2/1644751998190?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні процеси та системи у виробництві, частина 2<br>Зелінський І.Д., 29 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ac59e2a7f9c9a4b04a698ef249ac25110%40thread.tacv2/conversations?groupId=75f13026-75b3-443f-a835-7b8f03f51f07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ac59e2a7f9c9a4b04a698ef249ac25110%40thread.tacv2/conversations?groupId=75f13026-75b3-443f-a835-7b8f03f51f07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні процеси та системи у виробництві, частина 2<br>Зелінський І.Д., 29 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ac59e2a7f9c9a4b04a698ef249ac25110%40thread.tacv2/conversations?groupId=75f13026-75b3-443f-a835-7b8f03f51f07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ac59e2a7f9c9a4b04a698ef249ac25110%40thread.tacv2/conversations?groupId=75f13026-75b3-443f-a835-7b8f03f51f07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні процеси та системи у виробництві, частина 2<br>Качур О.Ю., 29 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1KVKXL2r6Z8joY5cf-Gp51Zy5SNQ2u8VAap1VZjlBmk1%40thread.tacv2/1644586295429?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1KVKXL2r6Z8joY5cf-Gp51Zy5SNQ2u8VAap1VZjlBmk1%40thread.tacv2/1644586295429?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів<br>Гаврильченко О.В., 23 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGJlMDY5NmMtNGNkYy00NDEzLTlkZjAtMjEwZTg3OTM1ZTM4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGJlMDY5NmMtNGNkYy00NDEzLTlkZjAtMjEwZTg3OTM1ZTM4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів<br>Гаврильченко О.В., 61 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDhlZTVmZmYtMmYxYS00NzRjLTkwZTEtZTQzZTZlMmJjYTFh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDhlZTVmZmYtMmYxYS00NzRjLTkwZTEtZTQzZTZlMmJjYTFh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування робототехнічних систем, частина 2<br>Гурський В.М., 61 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a46bc7b190ed14ed3bba58f4e474ed0c8%40thread.tacv2/1644752542849?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a46bc7b190ed14ed3bba58f4e474ed0c8%40thread.tacv2/1644752542849?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування робототехнічних систем, частина 2<br>Гурський В.М., 61 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a46bc7b190ed14ed3bba58f4e474ed0c8%40thread.tacv2/1644752542849?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a46bc7b190ed14ed3bba58f4e474ed0c8%40thread.tacv2/1644752542849?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні процеси та системи у виробництві, частина 2<br>Зелінський І.Д., 61 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ac59e2a7f9c9a4b04a698ef249ac25110%40thread.tacv2/conversations?groupId=75f13026-75b3-443f-a835-7b8f03f51f07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ac59e2a7f9c9a4b04a698ef249ac25110%40thread.tacv2/conversations?groupId=75f13026-75b3-443f-a835-7b8f03f51f07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

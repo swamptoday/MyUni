@@ -1,0 +1,454 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Метрологія, стандартизація та  сертифікація<br>Яремчук І.Я., 331 III н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Метрологія, стандартизація та  сертифікація<br>Яремчук І.Я., 331 III н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Вища математика, частина 2<br>Бугрій Н.В., 213 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_3ORFFFuUEsHhAJEDgvgjNMDky27drLRd51_9-iEQx3Q1@thread.tacv2&amp;messageId=1644400156176&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_3ORFFFuUEsHhAJEDgvgjNMDky27drLRd51_9-iEQx3Q1@thread.tacv2&amp;messageId=1644400156176&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Бугрій Н.В., 213 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_3ORFFFuUEsHhAJEDgvgjNMDky27drLRd51_9-iEQx3Q1@thread.tacv2&amp;messageId=1644399842612&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_3ORFFFuUEsHhAJEDgvgjNMDky27drLRd51_9-iEQx3Q1@thread.tacv2&amp;messageId=1644399842612&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Козак І.Г., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09" title="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інженерне програмування, частина 2<br>Сиротюк С.В., 329 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://calendar.google.com/calendar/u/0/r?_x_zm_rtaid=w4nCc5SlTQqEgVI47fVF1Q.1644848115408.bf7fda5e411704425ca53f82a52ad4d7&amp;_x_zm_rhtaid=151" title="https://calendar.google.com/calendar/u/0/r?_x_zm_rtaid=w4nCc5SlTQqEgVI47fVF1Q.1644848115408.bf7fda5e411704425ca53f82a52ad4d7&amp;_x_zm_rhtaid=151">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Метрологія, стандартизація та  сертифікація<br>Яремчук І.Я., 319 III н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інженерне програмування, частина 2<br>Сиротюк С.В., 329 III н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://calendar.google.com/calendar/u/0/r?_x_zm_rtaid=w4nCc5SlTQqEgVI47fVF1Q.1644848115408.bf7fda5e411704425ca53f82a52ad4d7&amp;_x_zm_rhtaid=151" title="https://calendar.google.com/calendar/u/0/r?_x_zm_rtaid=w4nCc5SlTQqEgVI47fVF1Q.1644848115408.bf7fda5e411704425ca53f82a52ad4d7&amp;_x_zm_rhtaid=151">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Метрологія, стандартизація та  сертифікація<br>Яремчук І.Я., 319 III н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська мова (за професійним спрямуванням)<br>Колодій Н.В., 227 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3azdwVGEKMOfUoO5cnulYlRMtj46jX9EuFuo6syOa31v41%40thread.tacv2/conversations?groupId=86a67711-3d81-4968-adc6-25c59a35f2e3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3azdwVGEKMOfUoO5cnulYlRMtj46jX9EuFuo6syOa31v41%40thread.tacv2/conversations?groupId=86a67711-3d81-4968-adc6-25c59a35f2e3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інженерне програмування, частина 2<br>Сиротюк С.В., 331а III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://calendar.google.com/calendar/u/0/r?_x_zm_rtaid=w4nCc5SlTQqEgVI47fVF1Q.1644848115408.bf7fda5e411704425ca53f82a52ad4d7&amp;_x_zm_rhtaid=151" title="https://calendar.google.com/calendar/u/0/r?_x_zm_rtaid=w4nCc5SlTQqEgVI47fVF1Q.1644848115408.bf7fda5e411704425ca53f82a52ad4d7&amp;_x_zm_rhtaid=151">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Балацька Л.П., 16 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/FbaSiBbem5Vi" title="https://join.skype.com/FbaSiBbem5Vi">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізика, частина 2<br>Лукіянець Б.А., 227 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09  Идентификатор конференции: 882 0249 5986 Код доступа: y8LYCd" title="https://us02web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09  Идентификатор конференции: 882 0249 5986 Код доступа: y8LYCd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Балацька Л.П., 16 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/FbaSiBbem5Vi" title="https://join.skype.com/FbaSiBbem5Vi">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика, частина 2<br>Матулка Д.В., 331 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523" title="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика, частина 2<br>Матулка Д.В., 331 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523" title="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інженерне програмування, частина 2<br>Сиротюк С.В., 331 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://calendar.google.com/calendar/u/0/r?_x_zm_rtaid=w4nCc5SlTQqEgVI47fVF1Q.1644848115408.bf7fda5e411704425ca53f82a52ad4d7&amp;_x_zm_rhtaid=151" title="https://calendar.google.com/calendar/u/0/r?_x_zm_rtaid=w4nCc5SlTQqEgVI47fVF1Q.1644848115408.bf7fda5e411704425ca53f82a52ad4d7&amp;_x_zm_rhtaid=151">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Бакса В.П., 331 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84890165797?pwd=bnNrM3lvdlpCQko3RFBLM1BWR2gxdz09" title="https://us05web.zoom.us/j/84890165797?pwd=bnNrM3lvdlpCQko3RFBLM1BWR2gxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Вища математика, частина 2<br>Бакса В.П., 331 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84384232133?pwd=MmVYWDByVERUaG9YSXJ2V1FLUnU3dz09" title="https://us05web.zoom.us/j/84384232133?pwd=MmVYWDByVERUaG9YSXJ2V1FLUnU3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фізика, частина 2<br>Венгрин Б.Я., Матулка Д.В., мол.2лаб Гол. н.к., опт.4лаб Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84163962404?pwd=U2hTZW5iZXMzNVJsME9RT3dLVVRvdz09 Ідентифікатор конференції: 841 6396 2404 Код доступу: v1Evg9" title="https://us02web.zoom.us/j/84163962404?pwd=U2hTZW5iZXMzNVJsME9RT3dLVVRvdz09 Ідентифікатор конференції: 841 6396 2404 Код доступу: v1Evg9">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523" title="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Метрологія, стандартизація та  сертифікація<br>Логуш О.І., 331 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6880310197?pwd=UitNaEF2WTcraS9TT29HZUNhcm11Zz09  Meeting ID: 688 031 0197 Passcode: 7w2Eyr" title="https://zoom.us/j/6880310197?pwd=UitNaEF2WTcraS9TT29HZUNhcm11Zz09  Meeting ID: 688 031 0197 Passcode: 7w2Eyr">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

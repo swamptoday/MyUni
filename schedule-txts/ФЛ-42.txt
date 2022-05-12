@@ -1,0 +1,439 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Романишин Н.І., 117 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89562756538?pwd=Zjl1VnNsR0VzcEpGaDJDZDFWQzY0Zz09" title="https://us02web.zoom.us/j/89562756538?pwd=Zjl1VnNsR0VzcEpGaDJDZDFWQzY0Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психолінгвістика<br>Шийка Ю.І., 117 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/var-dohi-zgv" title="https://meet.google.com/var-dohi-zgv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Гойда О.І., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76302306271?pwd=MKeuN-rGi4GDgopwWkvb-Jo085eBg8.1" title="https://us04web.zoom.us/j/76302306271?pwd=MKeuN-rGi4GDgopwWkvb-Jo085eBg8.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна німецька/японська мова, частина 8<br>Гойда О.І., 406 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78415458221?pwd=VxGyrEYikHWY8hmgTtcahFzslb7Po8.1" title="https://us04web.zoom.us/j/78415458221?pwd=VxGyrEYikHWY8hmgTtcahFzslb7Po8.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Шийка Ю.І., 102 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/var-dohi-zgv" title="https://meet.google.com/var-dohi-zgv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Кулина О.В., 208 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92937562840?pwd=TEgwZytXYkpSbXhOOE00NHI1Rloxdz09" title="https://zoom.us/j/92937562840?pwd=TEgwZytXYkpSbXhOOE00NHI1Rloxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Перекладацький практикум (німецька/японська мова), частина 2<br>Шпигульська О.Я., 118 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84458812626?pwd=NjNyN0FqcFI4NStBSW1zSkJMWVhjQT09" title="https://us02web.zoom.us/j/84458812626?pwd=NjNyN0FqcFI4NStBSW1zSkJMWVhjQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Перекладацький практикум (німецька/японська мова), частина 2<br>Лісна Т.М., 105 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/kra-rvut-djy" title="http://meet.google.com/kra-rvut-djy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Перекладацький практикум (німецька/японська мова), частина 2<br>Шпигульська О.Я., 118 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84458812626?pwd=NjNyN0FqcFI4NStBSW1zSkJMWVhjQT09" title="https://us02web.zoom.us/j/84458812626?pwd=NjNyN0FqcFI4NStBSW1zSkJMWVhjQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Перекладацький практикум (німецька/японська мова), частина 2<br>Лісна Т.М., 104 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/xax-skzv-qaw" title="http://meet.google.com/xax-skzv-qaw">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і практика перекладу (англійська мова), частина 4<br>Шийка Ю.І., 403 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/var-dohi-zgv" title="https://meet.google.com/var-dohi-zgv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Шийка Ю.І., 403 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/var-dohi-zgv" title="https://meet.google.com/var-dohi-zgv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Корпусна лінгвістика<br>Соколов Б.Е., 132 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5070238083?pwd=b1JUVXR1T2pBTE1MazZoNEJnVjRqQT09" title="https://us05web.zoom.us/j/5070238083?pwd=b1JUVXR1T2pBTE1MazZoNEJnVjRqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна німецька/японська мова, частина 8<br>Мороз Н.І., 406 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7504707184?pwd=TG0rOEtzdkV0a3pyQ3pvZWVRemUrdz09" title="https://us04web.zoom.us/j/7504707184?pwd=TG0rOEtzdkV0a3pyQ3pvZWVRemUrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Корпусна лінгвістика<br>Шестакевич Т.В., 218 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://vns.lpnu.ua/course/view.php?id=5421" title="https://vns.lpnu.ua/course/view.php?id=5421">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і практика перекладу (англійська мова), частина 4<br>Гриців Н.М., 117 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hwd-ojbi-fix?pli=1&amp;authuser=0" title="https://meet.google.com/hwd-ojbi-fix?pli=1&amp;authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Корпусна лінгвістика<br>Соколов Б.Е., 132 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5070238083?pwd=b1JUVXR1T2pBTE1MazZoNEJnVjRqQT09" title="https://us05web.zoom.us/j/5070238083?pwd=b1JUVXR1T2pBTE1MazZoNEJnVjRqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Психолінгвістика<br>Голтвян В.І., 109 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bwg-dqvi-ptg?hs=122&amp;authuser=0" title="https://meet.google.com/bwg-dqvi-ptg?hs=122&amp;authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Кулина О.В., 511 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92937562840?pwd=TEgwZytXYkpSbXhOOE00NHI1Rloxdz09" title="https://zoom.us/j/92937562840?pwd=TEgwZytXYkpSbXhOOE00NHI1Rloxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна німецька/японська мова, частина 8<br>Мороз Н.І., 404 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7504707184?pwd=TG0rOEtzdkV0a3pyQ3pvZWVRemUrdz09" title="https://us04web.zoom.us/j/7504707184?pwd=TG0rOEtzdkV0a3pyQ3pvZWVRemUrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

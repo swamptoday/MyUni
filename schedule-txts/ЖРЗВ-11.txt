@@ -1,0 +1,292 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія , методика наукових медіадосліджень та викладання фахових дисциплін<br>Гарматій О.В., 329 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81719290172?pwd=ZExDdXpSU0hJaE9Hc0p2MkhBcWtyUT09" title="https://us02web.zoom.us/j/81719290172?pwd=ZExDdXpSU0hJaE9Hc0p2MkhBcWtyUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Екстремальна журналістика<br>Білограць Х.Р., вибіркова322 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86492475089?pwd=ZTd4cC85dnRYbjl4dVpjK0NZL29uQT09" title="https://us02web.zoom.us/j/86492475089?pwd=ZTd4cC85dnRYbjl4dVpjK0NZL29uQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Екстремальна журналістика<br>Білограць Х.Р., вибіркова308 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81514505002?pwd=SURaSkZtQUpoZXdpQzV6ZGc4cUwrdz09" title="https://us02web.zoom.us/j/81514505002?pwd=SURaSkZtQUpoZXdpQzV6ZGc4cUwrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Режисура радіо- і телепередач<br>Федів І.М., 35 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09" title="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Режисура радіо- і телепередач<br>Федів І.М., 35 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09" title="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Випусковий редактор на радіо і телебаченні<br>Дворянин П.Я., 308 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87103034863?pwd=TmdTR1JQZEp3d2RyMkpaOFZtNEQvdz09" title="https://us02web.zoom.us/j/87103034863?pwd=TmdTR1JQZEp3d2RyMkpaOFZtNEQvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Випусковий редактор на радіо і телебаченні<br>Дворянин П.Я., 308 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87103034863?pwd=TmdTR1JQZEp3d2RyMkpaOFZtNEQvdz09" title="https://us02web.zoom.us/j/87103034863?pwd=TmdTR1JQZEp3d2RyMkpaOFZtNEQvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Менеджмент і маркетинг ЗМІ<br>Мудра І.М., вибіркова108 XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09" title="https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Менеджмент і маркетинг ЗМІ<br>Мудра І.М., вибіркова108 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09" title="https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія , методика наукових медіадосліджень та викладання фахових дисциплін<br>Гарматій О.В., 108 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81719290172?pwd=ZExDdXpSU0hJaE9Hc0p2MkhBcWtyUT09" title="https://us02web.zoom.us/j/81719290172?pwd=ZExDdXpSU0hJaE9Hc0p2MkhBcWtyUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Сценарна майстерність радіо- і телепередач<br>Федів І.М., 113 XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09" title="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сценарна майстерність радіо- і телепередач<br>Федів І.М., 113 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09" title="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сценарна майстерність радіо- і телепередач<br>Федів І.М., 113 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09" title="https://us02web.zoom.us/j/*******788?pwd=aXJkQUNtcUk1WDBBQTBDUGxkY3BXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,215 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування транспортних систем вантажних перевезень<br>Ковалишин В.В., 204 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aTmGHxt9UpTTMcE37Z5ziSrbodfuENSkvWcIO7V62gAA1%40thread.tacv2/conversations?groupId=769d02ca-89b3-4838-a18c-5fd720d041fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aTmGHxt9UpTTMcE37Z5ziSrbodfuENSkvWcIO7V62gAA1%40thread.tacv2/conversations?groupId=769d02ca-89b3-4838-a18c-5fd720d041fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтермодальні транспортні технології<br>Вікович І.А., 307 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aCRo75Zcij57XsEJyAXsjIumZ8skggm66A-5qNCc23cc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3f3e3efa-717a-4d4d-9214-f17f04770d28&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aCRo75Zcij57XsEJyAXsjIumZ8skggm66A-5qNCc23cc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3f3e3efa-717a-4d4d-9214-f17f04770d28&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтермодальні транспортні технології<br>Вікович І.А., 307 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aCRo75Zcij57XsEJyAXsjIumZ8skggm66A-5qNCc23cc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3f3e3efa-717a-4d4d-9214-f17f04770d28&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aCRo75Zcij57XsEJyAXsjIumZ8skggm66A-5qNCc23cc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3f3e3efa-717a-4d4d-9214-f17f04770d28&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектний аналіз<br>Рогальська Б.М., 205 VI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Транспортне планування великих та значних міст<br>Афонін М.О., 205 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad7436fa3bc3b430a9ed62a55d1408c8e%40thread.tacv2/conversations?groupId=857b3efb-b30e-4f05-b592-624fa74f812a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad7436fa3bc3b430a9ed62a55d1408c8e%40thread.tacv2/conversations?groupId=857b3efb-b30e-4f05-b592-624fa74f812a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Транспортне планування великих та значних міст<br>Афонін М.О., 205 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ad7436fa3bc3b430a9ed62a55d1408c8e%40thread.tacv2/conversations?groupId=857b3efb-b30e-4f05-b592-624fa74f812a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ad7436fa3bc3b430a9ed62a55d1408c8e%40thread.tacv2/conversations?groupId=857b3efb-b30e-4f05-b592-624fa74f812a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування транспортних систем вантажних перевезень<br>Ковалишин В.В., 205 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aTmGHxt9UpTTMcE37Z5ziSrbodfuENSkvWcIO7V62gAA1%40thread.tacv2/conversations?groupId=769d02ca-89b3-4838-a18c-5fd720d041fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aTmGHxt9UpTTMcE37Z5ziSrbodfuENSkvWcIO7V62gAA1%40thread.tacv2/conversations?groupId=769d02ca-89b3-4838-a18c-5fd720d041fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проектування транспортних систем вантажних перевезень<br>Ковалишин В.В., 205 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aTmGHxt9UpTTMcE37Z5ziSrbodfuENSkvWcIO7V62gAA1%40thread.tacv2/conversations?groupId=769d02ca-89b3-4838-a18c-5fd720d041fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aTmGHxt9UpTTMcE37Z5ziSrbodfuENSkvWcIO7V62gAA1%40thread.tacv2/conversations?groupId=769d02ca-89b3-4838-a18c-5fd720d041fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Проектний аналіз<br>Рогальський Р.Б., 205 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3abfSXeQcJfnyMgtpn-pglTFNUsPQrDCuJ_3YWF1kEBe41%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=5c89e917-1650-4cbf-9795-854f353ebe38&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3abfSXeQcJfnyMgtpn-pglTFNUsPQrDCuJ_3YWF1kEBe41%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=5c89e917-1650-4cbf-9795-854f353ebe38&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

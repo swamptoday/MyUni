@@ -1,0 +1,387 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геологія і геоморфологія<br>Бубняк І.М., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/guq-vzkq-ioo" title="https://meet.google.com/guq-vzkq-ioo">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія і топографія, частина 2<br>Тартачинська З.Р., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96370763214?pwd=M3RFOVV1UlB2V08ydFFSQzNnZDA4dz09" title="https://zoom.us/j/96370763214?pwd=M3RFOVV1UlB2V08ydFFSQzNnZDA4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геологія і геоморфологія<br>Поляковська Л.Л., 014 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eph-vjrx-koo" title="https://meet.google.com/eph-vjrx-koo">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Козіброда Л.В., <br>,&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Заліско О.К., Осінчук В.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3800697890?pwd=Q0krbXpycDd5SWRZZGx3MnhMeEpDZz09" title="https://us05web.zoom.us/j/3800697890?pwd=Q0krbXpycDd5SWRZZGx3MnhMeEpDZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика. частина 2<br>Бридун А.М., 609 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09" title="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інформатика та програмування геозадач<br>Юрків М.І., 606 II н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96291933626?pwd=aFdyeldPV0dmZ0IyM2V4UFpjKzZadz09" title="https://zoom.us/j/96291933626?pwd=aFdyeldPV0dmZ0IyM2V4UFpjKzZadz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інформатика та програмування геозадач<br>Юрків М.І., 606 II н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96291933626?pwd=aFdyeldPV0dmZ0IyM2V4UFpjKzZadz09" title="https://zoom.us/j/96291933626?pwd=aFdyeldPV0dmZ0IyM2V4UFpjKzZadz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика. частина 2<br>Бридун А.М., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09" title="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформатика та програмування геозадач<br>Юрків М.І., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99168079602?pwd=ckNISk1MUEMvTHUzbS9BSTllNlA1dz09" title="https://zoom.us/j/99168079602?pwd=ckNISk1MUEMvTHUzbS9BSTllNlA1dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Матвіїв Н.О., 15 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/85203498452?pwd=NzBPdXprVExhb1VhVnhNWVI4NmNYZz09" title="https://us05web.zoom.us/j/85203498452?pwd=NzBPdXprVExhb1VhVnhNWVI4NmNYZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Сорока Бояджиоглу Л.Т., 14 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/86470719962?pwd=Wm8wSzFoM24rVmlwK0FCVWFmdmNLUT09" title="https://us05web.zoom.us/j/86470719962?pwd=Wm8wSzFoM24rVmlwK0FCVWFmdmNLUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика. частина 2<br>Бридун А.М., 609 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09" title="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія і топографія, частина 2<br>Тартачинська З.Р., Тарнавський В.Л., Марченко О.М., 514 II н.к., 519 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96370763214?pwd=M3RFOVV1UlB2V08ydFFSQzNnZDA4dz09" title="https://zoom.us/j/96370763214?pwd=M3RFOVV1UlB2V08ydFFSQzNnZDA4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія і топографія, частина 2<br>Тартачинська З.Р., Тарнавський В.Л., Марченко О.М., 514 II н.к., 519 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96370763214?pwd=M3RFOVV1UlB2V08ydFFSQzNnZDA4dz09" title="https://zoom.us/j/96370763214?pwd=M3RFOVV1UlB2V08ydFFSQzNnZDA4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інформатика та програмування геозадач<br>Прохоренко М.В., 606 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hue-ibrz-wcp" title="https://meet.google.com/hue-ibrz-wcp">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інформатика та програмування геозадач<br>Прохоренко М.В., 606 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ius-rkqk-sxv" title="https://meet.google.com/ius-rkqk-sxv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

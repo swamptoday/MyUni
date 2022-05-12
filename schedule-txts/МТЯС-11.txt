@@ -1,0 +1,174 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системний аналіз об`єктів кваліметрії<br>Бубела Т.З., 712в V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTcyMmVlNjAtYjVlMy00NTc5LThlMGEtNDJjN2IyNjliMDZl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTcyMmVlNjAtYjVlMy00NTc5LThlMGEtNDJjN2IyNjliMDZl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системний аналіз об`єктів кваліметрії<br>Бубела Т.З., 712в V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmQxOTUzZmMtYzk2OC00ZmQyLWJmZjQtZGU1MThlZjVhZTU1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmQxOTUzZmMtYzk2OC00ZmQyLWJmZjQtZGU1MThlZjVhZTU1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи екологічного управління та сталий розвиток<br>Іванишин А.В., 712в V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a3u44T5J_f-R52ucBZ9AOoh3MDLPVs6cT0jpD-hBfNOM1%40thread.tacv2/conversations?groupId=260663f1-f546-432d-aa44-ef9ce6efb359&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a3u44T5J_f-R52ucBZ9AOoh3MDLPVs6cT0jpD-hBfNOM1%40thread.tacv2/conversations?groupId=260663f1-f546-432d-aa44-ef9ce6efb359&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи екологічного управління та сталий розвиток<br>Іванишин А.В., 712в V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a3u44T5J_f-R52ucBZ9AOoh3MDLPVs6cT0jpD-hBfNOM1%40thread.tacv2/conversations?groupId=260663f1-f546-432d-aa44-ef9ce6efb359&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a3u44T5J_f-R52ucBZ9AOoh3MDLPVs6cT0jpD-hBfNOM1%40thread.tacv2/conversations?groupId=260663f1-f546-432d-aa44-ef9ce6efb359&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вимірювальний контроль якості<br>Походило Є.В., 712б V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98120667567?pwd=TG1hZVNFdzBNNVdQU1VMWHliUDk2UT09" title="https://zoom.us/j/98120667567?pwd=TG1hZVNFdzBNNVdQU1VMWHliUDk2UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Спеціалізовані системи управління <br>Куць В.Р., 712в V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98113145678?pwd=cy96WlZCN09CMmpGcGg2SkRZaXV3Zz09" title="https://zoom.us/j/98113145678?pwd=cy96WlZCN09CMmpGcGg2SkRZaXV3Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Спеціалізовані системи управління <br>Куць В.Р., 712в V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97900642146?pwd=UnVCZXRtcEFuZkMxZzdYbzB4QTdEUT09" title="https://zoom.us/j/97900642146?pwd=UnVCZXRtcEFuZkMxZzdYbzB4QTdEUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вимірювальний контроль якості<br>Куць В.Р., 712в V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94644422583?pwd=V0dyZ0ZyTEdacGYwNEN1cmwveXgwQT09" title="https://zoom.us/j/94644422583?pwd=V0dyZ0ZyTEdacGYwNEN1cmwveXgwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

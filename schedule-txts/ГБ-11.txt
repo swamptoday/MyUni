@@ -1,0 +1,431 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">САПР у гідротехніці<br>Мисак І.В., Попадюк І.Ю., 106 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09" title="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98197401286?pwd=ZFduYlUvZ29FTzNlUjBvNWU4bkluQT09" title="https://zoom.us/j/98197401286?pwd=ZFduYlUvZ29FTzNlUjBvNWU4bkluQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Шевчук Р.В., 213 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09" title="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія державності та культури України<br>Ганусин О.Б., 417 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/88355142294?pwd=QkdzWWk1ZW5nOUhzbVlvMUIwSzZaUT09 " title="https://us05web.zoom.us/j/88355142294?pwd=QkdzWWk1ZW5nOUhzbVlvMUIwSzZaUT09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Сидорчук О.В., 12а VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79711264217?pwd=WHVncjdub05aaXUxOW84dGF6RU9wUT09  Идентификатор конференции: 797 1126 4217 Код доступа: 9e9u6c" title="https://us04web.zoom.us/j/79711264217?pwd=WHVncjdub05aaXUxOW84dGF6RU9wUT09  Идентификатор конференции: 797 1126 4217 Код доступа: 9e9u6c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Числові методи та інформаційні технології в будівництві<br>Палюх В.М., 506 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88685244277?pwd=dXJZVWpLNUU4ajVURmRNYmxzVUFBUT09" title="https://us02web.zoom.us/j/88685244277?pwd=dXJZVWpLNUU4ajVURmRNYmxzVUFBUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Числові методи та інформаційні технології в будівництві<br>Палюх В.М., 506 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88685244277?pwd=dXJZVWpLNUU4ajVURmRNYmxzVUFBUT09" title="https://us02web.zoom.us/j/88685244277?pwd=dXJZVWpLNUU4ajVURmRNYmxzVUFBUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Числові методи та інформаційні технології в будівництві<br>Палюх В.М., 506 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88685244277?pwd=dXJZVWpLNUU4ajVURmRNYmxzVUFBUT09" title="https://us02web.zoom.us/j/88685244277?pwd=dXJZVWpLNUU4ajVURmRNYmxzVUFBUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Числові методи та інформаційні технології в будівництві<br>Палюх В.М., 506 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88685244277?pwd=dXJZVWpLNUU4ajVURmRNYmxzVUFBUT09" title="https://us02web.zoom.us/j/88685244277?pwd=dXJZVWpLNUU4ajVURmRNYmxzVUFBUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Пономарьов С.В., Блавт О.З., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98069211822 ?pwd=NmZKeDQ0QmdOUXdu ZjlHZVRmd0V5dz09" title="https://zoom.us/j/98069211822 ?pwd=NmZKeDQ0QmdOUXdu ZjlHZVRmd0V5dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">САПР у гідротехніці<br>Мисак І.В., Попадюк І.Ю., 106 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09" title="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98197401286?pwd=ZFduYlUvZ29FTzNlUjBvNWU4bkluQT09" title="https://zoom.us/j/98197401286?pwd=ZFduYlUvZ29FTzNlUjBvNWU4bkluQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Вища математика, частина 2<br>Шевчук Р.В., 213 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09" title="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Архітектура будівель і споруд<br>Гладишев Д.Г., 224 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aVIZmo0Kt6o5ipu23NHK9Gb8YLljSd2P9u4ofuLqaixw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=88cf9fa3-4567-4298-9f7c-2e0664f50e96&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aVIZmo0Kt6o5ipu23NHK9Gb8YLljSd2P9u4ofuLqaixw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=88cf9fa3-4567-4298-9f7c-2e0664f50e96&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Архітектура будівель і споруд<br>Гладишев Д.Г., 224 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aVIZmo0Kt6o5ipu23NHK9Gb8YLljSd2P9u4ofuLqaixw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=88cf9fa3-4567-4298-9f7c-2e0664f50e96&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aVIZmo0Kt6o5ipu23NHK9Gb8YLljSd2P9u4ofuLqaixw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=88cf9fa3-4567-4298-9f7c-2e0664f50e96&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Сидорчук О.В., 12а VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79711264217?pwd=WHVncjdub05aaXUxOW84dGF6RU9wUT09  Идентификатор конференции: 797 1126 4217 Код доступа: 9e9u6c" title="https://us04web.zoom.us/j/79711264217?pwd=WHVncjdub05aaXUxOW84dGF6RU9wUT09  Идентификатор конференции: 797 1126 4217 Код доступа: 9e9u6c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Числові методи та інформаційні технології в будівництві<br>Стасюк Б.М., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aEdORhEpmrPCh_2wPASQ556KecgAIB8HN4lY9oE0ET481%40thread.tacv2/1644694548272?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221256b665-11d7-48ec-a860-aefaffc3246e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aEdORhEpmrPCh_2wPASQ556KecgAIB8HN4lY9oE0ET481%40thread.tacv2/1644694548272?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221256b665-11d7-48ec-a860-aefaffc3246e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Шевчук Р.В., 213 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09" title="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">САПР у гідротехніці<br>Попадюк І.Ю., 106 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09" title="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">САПР у гідротехніці<br>Попадюк І.Ю., 106 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09" title="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Історія державності та культури України<br>Годованська О.М., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19:Mc7Kfea3cCcC4OTtN_eH97BVTRXtDvlp5eus0aIu_jA1@thread.tacv2/1644521459839?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%2274eaa01c-8bdd-447f-9c0f-8bcf5fbb6267%22%7D" title="https://teams.microsoft.com/l/meetup-join/19:Mc7Kfea3cCcC4OTtN_eH97BVTRXtDvlp5eus0aIu_jA1@thread.tacv2/1644521459839?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%2274eaa01c-8bdd-447f-9c0f-8bcf5fbb6267%22%7D">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

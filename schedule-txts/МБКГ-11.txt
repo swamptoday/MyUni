@@ -1,0 +1,218 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія та розрахунок агрегатів і систем автомобіля<br>Попович В.В., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91630803027?pwd=ZzRCWHV5SldNZ0lmbjZOeHhFMXFHUT09" title="https://zoom.us/j/91630803027?pwd=ZzRCWHV5SldNZ0lmbjZOeHhFMXFHUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія та розрахунок агрегатів і систем автомобіля<br>Попович В.В., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92788287904?pwd=YjRLZHRsc1dOK3lrYytlZUt6YnVUUT09" title="https://zoom.us/j/92788287904?pwd=YjRLZHRsc1dOK3lrYytlZUt6YnVUUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія та розрахунок агрегатів і систем автомобіля<br>Попович В.В., 218 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97478205174?pwd=L0k0WUU2M0hsTVRPaUdZWVc3WCtWdz09" title="https://zoom.us/j/97478205174?pwd=L0k0WUU2M0hsTVRPaUdZWVc3WCtWdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматика <br>Крайник Л.В., 317 VI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Автоматика <br>Крайник Л.В., 317 VI н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">САПР технологічних процесів механічної обробки<br>Майструк В.В., 81 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDlkM2I2OGMtNjU3MC00OGNiLTg5NzEtMzA1YmUyNzIyY2Y0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDlkM2I2OGMtNjU3MC00OGNiLTg5NzEtMzA1YmUyNzIyY2Y0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">САПР технологічних процесів механічної обробки<br>Майструк В.В., 83 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODhiMWZhMDYtNmM5YS00NTIxLTk5YmItZGU5YjlhOTE3MjVl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODhiMWZhMDYtNmM5YS00NTIxLTk5YmItZGU5YjlhOTE3MjVl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експериментальні дослідження та сертифікація автотраспорних засобів<br>Крайник Л.В., 317 VI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Експериментальні дослідження та сертифікація автотраспорних засобів<br>Крайник Л.В., 317 VI н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Експериментальні дослідження та сертифікація автотраспорних засобів<br>Крайник Л.В., 317 VI н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

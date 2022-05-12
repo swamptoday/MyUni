@@ -1,0 +1,186 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Онтологічний інжиніринг<br>Басюк Т.М., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us06web.zoom.us/j/9187670772?pwd=bjBlNHFuQThNd29MNlUxZ04vU2t4QT09" title="https://us06web.zoom.us/j/9187670772?pwd=bjBlNHFuQThNd29MNlUxZ04vU2t4QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Онтологічний інжиніринг<br>Досин Д.Г., 127 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tpy-uvfh-mcf?hs=122&amp;authuser=1" title="https://meet.google.com/tpy-uvfh-mcf?hs=122&amp;authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології аналітики даних<br>Берко А.Ю., 208 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09" title="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології аналітики даних<br>Демків Л.І., 207 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8787416687?pwd=cmN3UFZLMkQvM051aEFNbjlCZEFqQT09" title="https://us02web.zoom.us/j/8787416687?pwd=cmN3UFZLMkQvM051aEFNbjlCZEFqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Шаблони проектування інформаційних систем<br>Кісь Я.П., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95456808075?pwd=L2xGNFpLRUVaWGtCUTFRMDExYVdndz09" title="https://zoom.us/j/95456808075?pwd=L2xGNFpLRUVaWGtCUTFRMDExYVdndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Розподілені бази даних та знань<br>Пасічник В.В., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2145933103?pwd=S2FtRk5yZTNRRlF2bFVyUVRZcEppUT09" title="https://us04web.zoom.us/j/2145933103?pwd=S2FtRk5yZTNRRlF2bFVyUVRZcEppUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Шаблони проектування інформаційних систем<br>Кісь Я.П., 207 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91231282024?pwd=bk9Kb0IzZmtnM2d4U1BvQ1BZMlRpQT09" title="https://zoom.us/j/91231282024?pwd=bk9Kb0IzZmtnM2d4U1BvQ1BZMlRpQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розподілені бази даних та знань<br>Пасічник В.В., 127 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9716786956?pwd=R0J3eW5aZERqcVJiM09oWjF3RlI2QT09" title="https://zoom.us/j/9716786956?pwd=R0J3eW5aZERqcVJiM09oWjF3RlI2QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

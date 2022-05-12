@@ -1,0 +1,331 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Обладнання і конструкційні матеріали<br>Присяжний Ю.В., 320 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDliNGE1MjItZjk2Yy00ZjcwLTkyMGQtMGFlNDdmNGJmYWRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDliNGE1MjItZjk2Yy00ZjcwLTkyMGQtMGFlNDdmNGJmYWRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Обладнання і конструкційні матеріали<br>Присяжний Ю.В., 320 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg5MWNlMDEtYzM3Ni00ZWM4LWE3ZjctMjIzMGRjMjY3ODc5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg5MWNlMDEtYzM3Ni00ZWM4LWE3ZjctMjIzMGRjMjY3ODc5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні технології виробництва базових олив та переробки вуглеводневих газів<br>Топільницький П.І., Пиш'єв С.В., 317 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644572789207?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644572789207?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3atbjbjkxpvB_Vgs5QngKk-sIMuaBrQZ-CG4Tem1_eyPI1%40thread.tacv2/1639933124199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3atbjbjkxpvB_Vgs5QngKk-sIMuaBrQZ-CG4Tem1_eyPI1%40thread.tacv2/1639933124199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Сучасні технології виробництва базових олив та переробки вуглеводневих газів<br>Пиш'єв С.В., Топільницький П.І., 317 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3atbjbjkxpvB_Vgs5QngKk-sIMuaBrQZ-CG4Tem1_eyPI1%40thread.tacv2/1639933124199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3atbjbjkxpvB_Vgs5QngKk-sIMuaBrQZ-CG4Tem1_eyPI1%40thread.tacv2/1639933124199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні технології виробництва базових олив та переробки вуглеводневих газів<br>Пиш'єв С.В., Топільницький П.І., 317 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644573399345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644573399345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3atbjbjkxpvB_Vgs5QngKk-sIMuaBrQZ-CG4Tem1_eyPI1%40thread.tacv2/1639933124199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3atbjbjkxpvB_Vgs5QngKk-sIMuaBrQZ-CG4Tem1_eyPI1%40thread.tacv2/1639933124199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22abaab0a0-f400-4e8d-a2f0-10f4c6c07f11%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Обладнання і конструкційні матеріали<br>Присяжний Ю.В., 317 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2M2YzBiZWEtNGIyMi00NmExLWIzYWMtNDEyMzE3ZjU3YjMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2M2YzBiZWEtNGIyMi00NmExLWIzYWMtNDEyMzE3ZjU3YjMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Обладнання і конструкційні матеріали<br>Присяжний Ю.В., 317 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmY0YzlmNmQtMzUxNi00MDg1LWE5ZGMtOTliZWQ1Y2U3MzAy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmY0YzlmNmQtMzUxNi00MDg1LWE5ZGMtOTliZWQ1Y2U3MzAy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні технології виробництва базових олив та переробки вуглеводневих газів<br>Демчук Ю.Я., 309 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTY5NTQ3YTktMGE5Yi00MTY5LWIzYmUtODAxNDg2NTZjNmU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e0acc941-14f7-4bb5-bac8-05ff01a9e570%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTY5NTQ3YTktMGE5Yi00MTY5LWIzYmUtODAxNDg2NTZjNmU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e0acc941-14f7-4bb5-bac8-05ff01a9e570%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні технології виробництва базових олив та переробки вуглеводневих газів<br>Демчук Ю.Я., 309 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTY5NTQ3YTktMGE5Yi00MTY5LWIzYmUtODAxNDg2NTZjNmU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e0acc941-14f7-4bb5-bac8-05ff01a9e570%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTY5NTQ3YTktMGE5Yi00MTY5LWIzYmUtODAxNDg2NTZjNmU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e0acc941-14f7-4bb5-bac8-05ff01a9e570%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія додатків, реагентів і допоміжних продуктів<br>Топільницький П.І., 309 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644574089757?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644574089757?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія додатків, реагентів і допоміжних продуктів<br>Топільницький П.І., 320 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644574425703?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644574425703?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія додатків, реагентів і допоміжних продуктів<br>Топільницький П.І., 309 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644574164103?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644574164103?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія додатків, реагентів і допоміжних продуктів<br>Топільницький П.І., 320 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644573971162?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac8d29e48f0ea47d3abe148436c1b96a1%40thread.tacv2/1644573971162?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування виробництв переробки горючих копалин<br>Гунька В.М., 317 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2VkMDZhOWYtNjU5Ni00M2RmLThmODUtZGI3MmZmYTQzYWNh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b8f80577-6d31-4146-9c97-802300d63a21%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2VkMDZhOWYtNjU5Ni00M2RmLThmODUtZGI3MmZmYTQzYWNh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b8f80577-6d31-4146-9c97-802300d63a21%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування виробництв переробки горючих копалин<br>Демчук Ю.Я., 317 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aAwxAgZ6YjgefkEGjk6w6Vy0v_7eO_Cdrfcrt5NfNHIg1%40thread.tacv2/1644578861125?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e0acc941-14f7-4bb5-bac8-05ff01a9e570%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aAwxAgZ6YjgefkEGjk6w6Vy0v_7eO_Cdrfcrt5NfNHIg1%40thread.tacv2/1644578861125?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e0acc941-14f7-4bb5-bac8-05ff01a9e570%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

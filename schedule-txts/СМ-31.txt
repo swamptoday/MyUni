@@ -1,0 +1,350 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи наукових досліджень<br>Лисейко Я.Б., 026 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09" title="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи наукових досліджень<br>Лисейко Я.Б., 407 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09" title="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Культурологія<br>Барановська Н.М., 111 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93067794588?pwd=eWkxT2F0RUpHb1VYNzJvY1I0S3dVZz09" title="https://zoom.us/j/93067794588?pwd=eWkxT2F0RUpHb1VYNzJvY1I0S3dVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архівознавство<br>Зілінський В.Т., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5972365069?pwd=a2QwYi9lQzBGK3pLZmh0aDhXUEo0Zz09" title="https://zoom.us/j/5972365069?pwd=a2QwYi9lQzBGK3pLZmh0aDhXUEo0Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архівознавство<br>Мельник Р.І., 49 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72372320909?pwd=NWhRbCtEc05Vb2IzUzZXdmxrdVIzQT09" title="https://us04web.zoom.us/j/72372320909?pwd=NWhRbCtEc05Vb2IzUzZXdmxrdVIzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія музейної справи України<br>Муравська С.В., 204 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09" title="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Культурологія<br>Барановська Н.М., 309 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93067794588?pwd=eWkxT2F0RUpHb1VYNzJvY1I0S3dVZz09" title="https://zoom.us/j/93067794588?pwd=eWkxT2F0RUpHb1VYNzJvY1I0S3dVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова (польська), частина 2<br>Білик О.С., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73425745516?" title="https://us04web.zoom.us/j/73425745516?">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Державна політика та правове регулювання в галузі<br>Чмелик Р.П., 204 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4552567103?pwd=OVhKTFhhVlJVdzArOVVucjdGYm9NZz09  Meeting ID: 455 256 7103 Passcode: RC" title="https://us04web.zoom.us/j/4552567103?pwd=OVhKTFhhVlJVdzArOVVucjdGYm9NZz09  Meeting ID: 455 256 7103 Passcode: RC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія музейної справи України<br>Муравська С.В., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09" title="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія музейної справи України<br>Муравська С.В., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09" title="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історико-культурна спадщина та забезпечення сталого розвитку суспільства<br>Гнідик І.І., 008 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71458606408?pwd=BaC6KnibXc3GL4MQ7_nLseBcrGmd0_.1" title="https://us04web.zoom.us/j/71458606408?pwd=BaC6KnibXc3GL4MQ7_nLseBcrGmd0_.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Державна політика та правове регулювання в галузі<br>Чмелик Р.П., 026 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4552567103?pwd=OVhKTFhhVlJVdzArOVVucjdGYm9NZz09  Meeting ID: 455 256 7103 Passcode: RC" title="https://us04web.zoom.us/j/4552567103?pwd=OVhKTFhhVlJVdzArOVVucjdGYm9NZz09  Meeting ID: 455 256 7103 Passcode: RC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Історико-культурна спадщина та забезпечення сталого розвитку суспільства<br>Гнідик І.І., 026 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71458606408?pwd=BaC6KnibXc3GL4MQ7_nLseBcrGmd0_.1" title="https://us04web.zoom.us/j/71458606408?pwd=BaC6KnibXc3GL4MQ7_nLseBcrGmd0_.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Державна політика та правове регулювання в галузі<br>Чмелик Р.П., 026 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4552567103?pwd=OVhKTFhhVlJVdzArOVVucjdGYm9NZz09  Meeting ID: 455 256 7103 Passcode: RC" title="https://us04web.zoom.us/j/4552567103?pwd=OVhKTFhhVlJVdzArOVVucjdGYm9NZz09  Meeting ID: 455 256 7103 Passcode: RC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

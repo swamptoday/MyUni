@@ -1,0 +1,354 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та програмування бортових комп`ютерних систем<br>Модла Р.М., 607а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84128931377?pwd=T25jREVFbHZIWENLVkxvenc3aGVHZz09 " title="https://us02web.zoom.us/j/84128931377?pwd=T25jREVFbHZIWENLVkxvenc3aGVHZz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та програмування бортових комп`ютерних систем<br>Модла Р.М., 607а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84128931377?pwd=T25jREVFbHZIWENLVkxvenc3aGVHZz09" title="https://us02web.zoom.us/j/84128931377?pwd=T25jREVFbHZIWENLVkxvenc3aGVHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні електронні автомобільні технології<br>Мищишин В.М., 607а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4954696524 (Код доступа: m8B0bx)" title="https://us02web.zoom.us/j/4954696524 (Код доступа: m8B0bx)">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Давачі автомобільних систем<br>Гаранюк І.П., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09" title="https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Давачі автомобільних систем<br>Гаранюк І.П., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09" title="https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електронні системи керування дизельним двигуном<br>Модла Р.М., 605в V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85377487965?pwd=eXc3TWpoV2FlRkZGM3FoU3RubHlsQT09 " title="https://us02web.zoom.us/j/85377487965?pwd=eXc3TWpoV2FlRkZGM3FoU3RubHlsQT09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Давачі автомобільних систем<br>Гаранюк І.П., 607а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09" title="https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Цифрові методи обробки сигналів та аналізу зображень<br>Лагун І.І., 605в V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/93874716641 #Passcode: 4GgYfV" title="https://us02web.zoom.us/j/93874716641 #Passcode: 4GgYfV">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електронні системи керування дизельним двигуном<br>Модла Р.М., 605в V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84116419806?pwd=eWZSSjVGOFR4U01udEVvSXEzTFBrdz09 " title="https://us02web.zoom.us/j/84116419806?pwd=eWZSSjVGOFR4U01udEVvSXEzTFBrdz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Цифрові методи обробки сигналів та аналізу зображень<br>Лагун І.І., 605в V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/93874716641  #Passcode: 4GgYfV" title="https://us02web.zoom.us/j/93874716641  #Passcode: 4GgYfV">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Давачі автомобільних систем<br>Гаранюк І.П., 607а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09" title="https://us04web.zoom.us/j/6786278923?pwd=WVZEVmJqR2orazV6dlBYWmpPd0FCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові методи обробки сигналів та аналізу зображень<br>Наконечний А.Й., 611а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9740220028?pwd=UzNqOFV2VzZKTEMxS0hoTWhBN2dUUT09" title="https://us04web.zoom.us/j/9740220028?pwd=UzNqOFV2VzZKTEMxS0hoTWhBN2dUUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Сучасні електронні автомобільні технології<br>Мищишин В.М., 608 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4954696524 (Код доступа: m8B0bx)" title="https://us02web.zoom.us/j/4954696524 (Код доступа: m8B0bx)">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні електронні автомобільні технології<br>Мищишин В.М., 611д V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4954696524 (Код доступа: m8B0bx)" title="https://us02web.zoom.us/j/4954696524 (Код доступа: m8B0bx)">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні електронні автомобільні технології<br>Мищишин В.М., 611д V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4954696524 (Код доступа: m8B0bx)" title="https://us02web.zoom.us/j/4954696524 (Код доступа: m8B0bx)">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Організація наукових досліджень<br>Мичуда З.Р., 607а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/nJAMNI7veRYO" title="https://join.skype.com/nJAMNI7veRYO">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Організація наукових досліджень<br>Мичуда З.Р., 607а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/nJAMNI7veRYO" title="https://join.skype.com/nJAMNI7veRYO">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

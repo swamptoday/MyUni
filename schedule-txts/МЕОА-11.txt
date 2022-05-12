@@ -1,0 +1,287 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Консалтинг<br>Карий О.І.,  +МЕМ-11425 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84065191743?pwd=eXFmSEV5UVF4OUc2NGhOL0Y0STFKUT09" title="https://us02web.zoom.us/j/84065191743?pwd=eXFmSEV5UVF4OUc2NGhOL0Y0STFKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління корпоративними змінами<br>Грибик І.І., +МЕМ-11425 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89526092650?pwd=TU4zUWhSb08weDRCRlFiS0VNNFk5Zz09" title="https://us02web.zoom.us/j/89526092650?pwd=TU4zUWhSb08weDRCRlFiS0VNNFk5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Управління корпоративними змінами<br>Грибик І.І., +МЕМ-11<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89526092650?pwd=TU4zUWhSb08weDRCRlFiS0VNNFk5Zz09" title="https://us02web.zoom.us/j/89526092650?pwd=TU4zUWhSb08weDRCRlFiS0VNNFk5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетинговий менеджмент у малому і середньому бізнесі<br>Кулиняк І.Я., 515 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74460509700?pwd=GOn9EImK7CtnOYPK-yEs_ppUiN0N0K.1" title="https://us04web.zoom.us/j/74460509700?pwd=GOn9EImK7CtnOYPK-yEs_ppUiN0N0K.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електронна комерція<br>Дзюбіна А.В., +МЕМ-11417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09" title="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління корпоративними змінами<br>Грибик І.І., +МЕМ-11420 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2077007226?pwd=OFF4N1loQ2lwT1RPcTd6SlJydzNkUT09" title="https://us02web.zoom.us/j/2077007226?pwd=OFF4N1loQ2lwT1RPcTd6SlJydzNkUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетинговий менеджмент у малому і середньому бізнесі<br>Кулиняк І.Я., 515 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74460509700?pwd=GOn9EImK7CtnOYPK-yEs_ppUiN0N0K.1" title="https://us04web.zoom.us/j/74460509700?pwd=GOn9EImK7CtnOYPK-yEs_ppUiN0N0K.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прогнозування економічних процесів<br>Войцеховська Ю.В., 515 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93729402678?pwd=V25KTlpVY0FXdWtqZEM4c0xOR2FkQT09" title="https://zoom.us/j/93729402678?pwd=V25KTlpVY0FXdWtqZEM4c0xOR2FkQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електронна комерція<br>Дзюбіна А.В., +МЕМ-11420 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09" title="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інфраструктура малого та середнього бізнесу<br>Рачинська Г.В., 420 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09" title="https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Консалтинг<br>Мірошник Р.О., +МЕМ-11420 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95091488100?pwd=emJ0RnZHQUNEUVFhaVdqRXZwdUYrQT09 " title="https://zoom.us/j/95091488100?pwd=emJ0RnZHQUNEUVFhaVdqRXZwdUYrQT09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інфраструктура малого та середнього бізнесу<br>Рачинська Г.В., 420 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09" title="https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Прогнозування економічних процесів<br>Войцеховська Ю.В., 420 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95195475228?pwd=VWxuQURDRzNFMzZjcDkyUUVMbVdSUT09" title="https://zoom.us/j/95195475228?pwd=VWxuQURDRzNFMzZjcDkyUUVMbVdSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

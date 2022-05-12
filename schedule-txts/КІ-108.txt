@@ -1,0 +1,498 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи організації та функціонування комп`ютерів<br>Кудрявцев О.Т., 505а2 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2363819261?pwd=THgxZzhtTUFxT2ZFdGUzWmdxNGRLQT09" title="https://zoom.us/j/2363819261?pwd=THgxZzhtTUFxT2ZFdGUzWmdxNGRLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Вища математика, частина 2<br>Ільків В.С., 411 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3atZEeC3Pa9Ks1-TqpSoYh62ZX3hGSSW-4vpgx9ikX69Q1%40thread.tacv2/conversations?groupId=6a60dce9-b81f-4aa3-be63-34986fe195cd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3atZEeC3Pa9Ks1-TqpSoYh62ZX3hGSSW-4vpgx9ikX69Q1%40thread.tacv2/conversations?groupId=6a60dce9-b81f-4aa3-be63-34986fe195cd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізика, частина 2<br>Біленька О.Б., ел.4лаб Гол. н.к., опт.4лаб Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3845641421?pwd=czVvUTlDQmJkSmgyNXE5eXh6OFR3UT09" title="https://us02web.zoom.us/j/3845641421?pwd=czVvUTlDQmJkSmgyNXE5eXh6OFR3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізика, частина 2<br>Ільчук Г.А., ел.4лаб Гол. н.к., опт.4лаб Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/94889476032?pwd=bkhtRlNxL3E3SnZCTU1oSFNHcHJNQT09            Passcode: 1" title="https://us02web.zoom.us/j/94889476032?pwd=bkhtRlNxL3E3SnZCTU1oSFNHcHJNQT09            Passcode: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Програмування, частина 2 (Об`єктно-орієнтоване програмування)<br>Чигінь В.І., 505а1 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9489403719?pwd=pLFBi3SXkWj-4WPyuHmSOeaKjZ2IRK.1" title="https://us04web.zoom.us/j/9489403719?pwd=pLFBi3SXkWj-4WPyuHmSOeaKjZ2IRK.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи організації та функціонування комп`ютерів<br>Кудрявцев О.Т., 505а2 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2363819261?pwd=THgxZzhtTuFxT2ZFdGUzWmdxNGRLQT09" title="https://zoom.us/j/2363819261?pwd=THgxZzhtTuFxT2ZFdGUzWmdxNGRLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова частина за професійним спрямуванням, частина 2<br>Сидорчук О.В., 12а VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73118138767?pwd=MThWMzExbFIvOTg5RHVrdDN5Nm5IUT09  Идентификатор конференции: 731 1813 8767 Код доступа: 7cPhGY" title="https://us04web.zoom.us/j/73118138767?pwd=MThWMzExbFIvOTg5RHVrdDN5Nm5IUT09  Идентификатор конференции: 731 1813 8767 Код доступа: 7cPhGY">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова частина за професійним спрямуванням, частина 2<br>Четова Н.Й., 15 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9979974373?pwd=WWJ0c1JnbzJZQU9yTmpHZkx5bHF2UT09  Ідентифікатор конференції: 997 997 4373 Код доступу: 2KsqSF" title="https://us04web.zoom.us/j/9979974373?pwd=WWJ0c1JnbzJZQU9yTmpHZkx5bHF2UT09  Ідентифікатор конференції: 997 997 4373 Код доступу: 2KsqSF">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Програмування, частина 2 (Об`єктно-орієнтоване програмування)<br>Чигінь В.І., 905 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9489403719?pwd=pLFBi3SXkWj-4WPyuHmSOeaKjZ2IRK.1" title="https://us04web.zoom.us/j/9489403719?pwd=pLFBi3SXkWj-4WPyuHmSOeaKjZ2IRK.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика, частина 2<br>Юр'єв С.О., 124 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3afl4k21R7PFV3JaVa3gJf5usnfsBMNG6WOERuPanrUjU1%40thread.tacv2/conversations?groupId=5ec1c0b1-f66a-4681-9746-8367c4cdd196&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3afl4k21R7PFV3JaVa3gJf5usnfsBMNG6WOERuPanrUjU1%40thread.tacv2/conversations?groupId=5ec1c0b1-f66a-4681-9746-8367c4cdd196&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Програмування, частина 2 (Об`єктно-орієнтоване програмування)<br>Морозов Ю.В., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81933147479?pwd=VDZhUHdSQk84dElDRzRYN1dyaGpZQT09" title="https://us02web.zoom.us/j/81933147479?pwd=VDZhUHdSQk84dElDRzRYN1dyaGpZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Програмування, частина 2 (Об`єктно-орієнтоване програмування)<br>Морозов Ю.В., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81933147479?pwd=VDZhUHdSQk84dElDRzRYN1dyaGpZQT09" title="https://us02web.zoom.us/j/81933147479?pwd=VDZhUHdSQk84dElDRzRYN1dyaGpZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Павлось Р.М., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82198543427" title="https://us02web.zoom.us/j/82198543427">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Блавт О.З., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Програмування, частина 2 (Об`єктно-орієнтоване програмування)<br>Чигінь В.І., 505а1 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9489403719?pwd=pLFBi3SXkWj-4WPyuHmSOeaKjZ2IRK.1" title="https://us04web.zoom.us/j/9489403719?pwd=pLFBi3SXkWj-4WPyuHmSOeaKjZ2IRK.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Ільків В.С., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3atZEeC3Pa9Ks1-TqpSoYh62ZX3hGSSW-4vpgx9ikX69Q1%40thread.tacv2/conversations?groupId=6a60dce9-b81f-4aa3-be63-34986fe195cd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3atZEeC3Pa9Ks1-TqpSoYh62ZX3hGSSW-4vpgx9ikX69Q1%40thread.tacv2/conversations?groupId=6a60dce9-b81f-4aa3-be63-34986fe195cd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фізика, частина 2<br>Юр'єв С.О., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a_mK-v3B9omA5IljAPsoOtn2T8FregrpV7Fpy1R-9tf01%40thread.tacv2/conversations?groupId=55dc3cf3-c20b-4a4c-8491-c4ee8a2e8d1c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a_mK-v3B9omA5IljAPsoOtn2T8FregrpV7Fpy1R-9tf01%40thread.tacv2/conversations?groupId=55dc3cf3-c20b-4a4c-8491-c4ee8a2e8d1c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи організації та функціонування комп`ютерів<br>Кудрявцев О.Т., 907 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2363819261?pwd=THgxZzhtTuFxT2ZFdGUzWmdxNGRLQT09 " title="https://zoom.us/j/2363819261?pwd=THgxZzhtTuFxT2ZFdGUzWmdxNGRLQT09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія державності та культури України<br>Муравська С.В., 404 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7358778989?pwd=M3hPYm5MSzloQWFkS25VWDU2WEI3UT09" title="https://us02web.zoom.us/j/7358778989?pwd=M3hPYm5MSzloQWFkS25VWDU2WEI3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Ільків В.С., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3atZEeC3Pa9Ks1-TqpSoYh62ZX3hGSSW-4vpgx9ikX69Q1%40thread.tacv2/conversations?groupId=6a60dce9-b81f-4aa3-be63-34986fe195cd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3atZEeC3Pa9Ks1-TqpSoYh62ZX3hGSSW-4vpgx9ikX69Q1%40thread.tacv2/conversations?groupId=6a60dce9-b81f-4aa3-be63-34986fe195cd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Ільків В.С., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3atZEeC3Pa9Ks1-TqpSoYh62ZX3hGSSW-4vpgx9ikX69Q1%40thread.tacv2/conversations?groupId=6a60dce9-b81f-4aa3-be63-34986fe195cd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3atZEeC3Pa9Ks1-TqpSoYh62ZX3hGSSW-4vpgx9ikX69Q1%40thread.tacv2/conversations?groupId=6a60dce9-b81f-4aa3-be63-34986fe195cd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи організації та функціонування комп`ютерів<br>Дунець Р.Б., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73610621730?pwd=wLng8f1unX9VdaAuBJguxGkvS1FOGb.1" title="https://us04web.zoom.us/j/73610621730?pwd=wLng8f1unX9VdaAuBJguxGkvS1FOGb.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія державності та культури України<br>Нагірняк А.Я., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3amEQeZ7diaVepP_MKj9ojSeQRCD6us-R-f4DwTDSWFlQ1%40thread.tacv2/conversations?groupId=9217c422-698e-4635-9b07-9ea43dabd865&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3amEQeZ7diaVepP_MKj9ojSeQRCD6us-R-f4DwTDSWFlQ1%40thread.tacv2/conversations?groupId=9217c422-698e-4635-9b07-9ea43dabd865&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,181 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології управління ІТ-проектами<br>Кісь Я.П., 127 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96924293550?pwd=b3duTkxsTzdTYTJrSVB0bWtORHZ6dz09" title="https://zoom.us/j/96924293550?pwd=b3duTkxsTzdTYTJrSVB0bWtORHZ6dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками ІТ проектів<br>Рішняк І.В., 208 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09" title="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління вимогами в ІТ проектах<br>Рішняк І.В., 208 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09" title="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології управління ІТ-проектами<br>Кісь Я.П., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93670200800?pwd=eDNzWjZnS05YSTc1a3JVZHpGM2piZz09" title="https://zoom.us/j/93670200800?pwd=eDNzWjZnS05YSTc1a3JVZHpGM2piZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Стандарти управління проектами<br>Кунанець Н.Е., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09" title="https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління ризиками ІТ проектів<br>Рішняк І.В., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09" title="https://us04web.zoom.us/j/4023024846?pwd=MXpjYVhNdXZuU3pScWU3dW5NcUpuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління вимогами в ІТ проектах<br>Верес О.М., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96920247805?pwd=anZQT2dKSTM2TXNWQVBZYWRzcDNmZz09  Идентификатор конференции: 969 2024 7805 Код доступа: 12345" title="https://zoom.us/j/96920247805?pwd=anZQT2dKSTM2TXNWQVBZYWRzcDNmZz09  Идентификатор конференции: 969 2024 7805 Код доступа: 12345">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стандарти управління проектами<br>Кунанець Н.Е., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09" title="https://us04web.zoom.us/j/656469853?pwd=Zmg1UDQxeldTVldmb2g0TExDWEtIdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

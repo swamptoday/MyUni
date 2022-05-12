@@ -1,0 +1,323 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Методи регресійного аналізу та їх застосування<br>Торський А.Р., 225б IV н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія керування<br>Ліснічук А.Є., 215 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rvk-gpjc-gtu?pli=1" title="https://meet.google.com/rvk-gpjc-gtu?pli=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Методи регресійного аналізу та їх застосування<br>Гайдучок О.В., 225c IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/gsu-uqww-ufg" title="https://meet.google.com/gsu-uqww-ufg">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промислова розробка програмних продуктів<br>Любінський Б.Б., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промислова розробка програмних продуктів<br>Любінський Б.Б., 225а IV н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія керування<br>Ліснічук А.Є., 221 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/trj-ufxg-eoi" title="https://meet.google.com/trj-ufxg-eoi">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Методи регресійного аналізу та їх застосування<br>Торський А.Р., 225а IV н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Методи регресійного аналізу та їх застосування<br>Гайдучок О.В., 225б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uud-gevg-vhm" title="https://meet.google.com/uud-gevg-vhm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Промислова розробка програмних продуктів<br>Любінський Б.Б., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи регресійного аналізу та їх застосування<br>Гайдучок О.В., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xjh-oozv-osc?" title="https://meet.google.com/xjh-oozv-osc?">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія керування<br>Маркович Б.М., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09" title="https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промислова розробка програмних продуктів<br>Любінський Б.Б., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи регресійного аналізу та їх застосування<br>Гайдучок О.В., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zyo-yahq-gbk?" title="https://meet.google.com/zyo-yahq-gbk?">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія керування<br>Маркович Б.М., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09" title="https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

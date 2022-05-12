@@ -1,0 +1,316 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сховища даних <br>Павич Н.Я., 411 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGVkNjdmYzAtYTg1MS00MjVlLTg2NWMtYjBjYWE4YmQxMDYx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229a605ba6-6917-411b-918f-084f4839c77f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGVkNjdmYzAtYTg1MS00MjVlLTg2NWMtYjBjYWE4YmQxMDYx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229a605ba6-6917-411b-918f-084f4839c77f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хмарні обчислення<br>Тушницький Р.Б., 117 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84592794396?pwd=MHpIRmVRTnlCK2szdjFYYkhENlBaZz09" title="https://us02web.zoom.us/j/84592794396?pwd=MHpIRmVRTnlCK2szdjFYYkhENlBaZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Штучний інтелект та методи машинного навчання<br>Ваврук І.Є., Федорчук Є.Н., 321 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ Приєднатися через Google Meet meet.google.com/jko-tgny-rgp" title="https://meet.google.com/ Приєднатися через Google Meet meet.google.com/jko-tgny-rgp">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09" title="https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сховища даних <br>Майхер В.Ю., 410 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Сховища даних <br>Майхер В.Ю., 410 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Сховища даних <br>Майхер В.Ю., 410 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сховища даних <br>Майхер В.Ю., 410 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab4cb8b4affd1427d8d2f48531f465e78%40thread.tacv2/conversations?groupId=b9038c75-86e9-475c-a29b-78d5ff08c7e6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Штучний інтелект та методи машинного навчання<br>Федорчук Є.Н., 810г V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/meet.google.com/gcm-joon-nps" title="https://meet.google.com/meet.google.com/gcm-joon-nps">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Штучний інтелект та методи машинного навчання<br>Федорчук Є.Н., 808 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/meet.google.com/awy-stin-kfc" title="https://meet.google.com/meet.google.com/awy-stin-kfc">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Штучний інтелект та методи машинного навчання<br>Федорчук Є.Н., 808 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/meet.google.com/meet.google.com/hja-tcze-dwb" title="https://meet.google.com/meet.google.com/meet.google.com/hja-tcze-dwb">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Хмарні обчислення<br>Тушницький Р.Б., 410 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84778485421?pwd=Zyt0c0k2VFlzcUFuOUY2T2J4MXBHdz09" title="https://us02web.zoom.us/j/84778485421?pwd=Zyt0c0k2VFlzcUFuOUY2T2J4MXBHdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Хмарні обчислення<br>Тушницький Р.Б., 410 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84778485421?pwd=Zyt0c0k2VFlzcUFuOUY2T2J4MXBHdz09" title="https://us02web.zoom.us/j/84778485421?pwd=Zyt0c0k2VFlzcUFuOUY2T2J4MXBHdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Хмарні обчислення<br>Тушницький Р.Б., 410 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84778485421?pwd=Zyt0c0k2VFlzcUFuOUY2T2J4MXBHdz09" title="https://us02web.zoom.us/j/84778485421?pwd=Zyt0c0k2VFlzcUFuOUY2T2J4MXBHdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Хмарні обчислення<br>Тушницький Р.Б., 410 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84778485421?pwd=Zyt0c0k2VFlzcUFuOUY2T2J4MXBHdz09" title="https://us02web.zoom.us/j/84778485421?pwd=Zyt0c0k2VFlzcUFuOUY2T2J4MXBHdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

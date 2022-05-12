@@ -1,0 +1,397 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімічні властивості нафти і газу та основи технології їх переробки<br>Гринишин О.Б., 317 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aLoY-pMjVwRyYvzuDOt-rHUFs30sCtFhvxLvDTmdkhds1%40thread.tacv2/1644576666537?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf2477fd-dac5-4fcf-bb92-fcbf43c7b57c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aLoY-pMjVwRyYvzuDOt-rHUFs30sCtFhvxLvDTmdkhds1%40thread.tacv2/1644576666537?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf2477fd-dac5-4fcf-bb92-fcbf43c7b57c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімічні властивості нафти і газу та основи технології їх переробки<br>Присяжний Ю.В., 316 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDMzOGI3ZTItNGNhNi00MDlmLWJkMWYtOGFmZWVmM2UyOWE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDMzOGI3ZTItNGNhNi00MDlmLWJkMWYtOGFmZWVmM2UyOWE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімічні властивості нафти і газу та основи технології їх переробки<br>Присяжний Ю.В., 316 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDMzOGI3ZTItNGNhNi00MDlmLWJkMWYtOGFmZWVmM2UyOWE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDMzOGI3ZTItNGNhNi00MDlmLWJkMWYtOGFmZWVmM2UyOWE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221d2b6403-764e-46b8-91e8-81b53168572c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Контроль якості нафтогазових об`єктів<br>Назар І.Б., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://undp.zoom.us/j/85693957924?pwd=dFJOeUt5UE14T0haWmVwWkJGckc4UT09" title="https://undp.zoom.us/j/85693957924?pwd=dFJOeUt5UE14T0haWmVwWkJGckc4UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Контроль якості нафтогазових об`єктів<br>Назар І.Б., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://undp.zoom.us/j/85693957924?pwd=dFJOeUt5UE14T0haWmVwWkJGckc4UT09" title="https://undp.zoom.us/j/85693957924?pwd=dFJOeUt5UE14T0haWmVwWkJGckc4UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи інженерної геодезії<br>Сідоров І.С., 514 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aB-FPgRbWj3v2KNyy_hpA3jffWLJBXSyfe3VAovcS5vs1%40thread.tacv2/1644828230748?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aB-FPgRbWj3v2KNyy_hpA3jffWLJBXSyfe3VAovcS5vs1%40thread.tacv2/1644828230748?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи інженерної геодезії<br>Сідоров І.С., 521 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aB-FPgRbWj3v2KNyy_hpA3jffWLJBXSyfe3VAovcS5vs1%40thread.tacv2/1644828301729?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aB-FPgRbWj3v2KNyy_hpA3jffWLJBXSyfe3VAovcS5vs1%40thread.tacv2/1644828301729?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Прогнозування ресурсу зварних металоконструкцій<br>Максимович О.В., 2 XVI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83560905878?pwd=NXY1VmtMUmtacVZ1WTJxUmJLUmtqUT09" title="https://us02web.zoom.us/j/83560905878?pwd=NXY1VmtMUmtacVZ1WTJxUmJLUmtqUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Контроль якості нафтогазових об`єктів<br>Білобородченко В.І., 4c XV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73059600988?pwd=_Fnob20lxNhNGccTTIwiMCtiXQNVh2.1 Идентификатор конференции:  730 5960 0988 Код доступа: 8g1Tp9" title="https://us04web.zoom.us/j/73059600988?pwd=_Fnob20lxNhNGccTTIwiMCtiXQNVh2.1 Идентификатор конференции:  730 5960 0988 Код доступа: 8g1Tp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Контроль якості нафтогазових об`єктів<br>Білобородченко В.І., 4c XV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73059600988?pwd=_Fnob20lxNhNGccTTIwiMCtiXQNVh2.1 Идентификатор конференции:  730 5960 0988 Код доступа: 8g1Tp9" title="https://us04web.zoom.us/j/73059600988?pwd=_Fnob20lxNhNGccTTIwiMCtiXQNVh2.1 Идентификатор конференции:  730 5960 0988 Код доступа: 8g1Tp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Відновлювально - ремонті роботи металоконструкцій нафтогазового комплексу<br>Войтович А.А., 5 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09" title="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Відновлювально - ремонті роботи металоконструкцій нафтогазового комплексу<br>Войтович А.А., 5 XVI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09" title="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прогнозування ресурсу зварних металоконструкцій<br>Максимович О.В., 6 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83560905878?pwd=NXY1VmtMUmtacVZ1WTJxUmJLUmtqUT09" title="https://us02web.zoom.us/j/83560905878?pwd=NXY1VmtMUmtacVZ1WTJxUmJLUmtqUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прогнозування ресурсу зварних металоконструкцій<br>Максимович О.В., 6 XVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83560905878?pwd=NXY1VmtMUmtacVZ1WTJxUmJLUmtqUT09" title="https://us02web.zoom.us/j/83560905878?pwd=NXY1VmtMUmtacVZ1WTJxUmJLUmtqUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аргонодугове зварювання трубних матеріалів<br>Хомич І.Б., 2 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87995193855?pwd=SjNYLzZkRVZhZ3daV2d0OUxZYnQ2QT09" title="https://us02web.zoom.us/j/87995193855?pwd=SjNYLzZkRVZhZ3daV2d0OUxZYnQ2QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аргонодугове зварювання трубних матеріалів<br>Хомич І.Б., 10 XVII н.к., 15 XVII н.к. , <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87995193855?pwd=SjNYLzZkRVZhZ3daV2d0OUxZYnQ2QT09" title="https://us02web.zoom.us/j/87995193855?pwd=SjNYLzZkRVZhZ3daV2d0OUxZYnQ2QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи інженерної геодезії<br>Сідоров І.С., 521 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aB-FPgRbWj3v2KNyy_hpA3jffWLJBXSyfe3VAovcS5vs1%40thread.tacv2/1644829902033?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aB-FPgRbWj3v2KNyy_hpA3jffWLJBXSyfe3VAovcS5vs1%40thread.tacv2/1644829902033?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br><br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

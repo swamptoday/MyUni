@@ -1,0 +1,625 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Геополітика та геостратегія<br>Цебенко О.О., 207 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81297545189?pwd=RmNvTWJiOUdRUU9tZFBnOVFSSG1LQT09" title="https://us02web.zoom.us/j/81297545189?pwd=RmNvTWJiOUdRUU9tZFBnOVFSSG1LQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Європейська регіональна політика<br>Лемко Ю.Р., 526а IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09  Meeting ID: 610 042 5148 Passcode: 45tX50" title="https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09  Meeting ID: 610 042 5148 Passcode: 45tX50">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова ІІ (німецька), частина 2<br>Весна М.П., 28 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/IPtRDeRNowS4" title="https://join.skype.com/IPtRDeRNowS4">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова ІІ (німецька), частина 2<br>Весна М.П., 28 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/IPtRDeRNowS4" title="https://join.skype.com/IPtRDeRNowS4">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова ІІ (французька), частина 2<br>Бабкіна М.І., 41 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82869737817?pwd=OVpucWxVUnpUWmo0cGJvRFNhOXpLQT09" title="https://us02web.zoom.us/j/82869737817?pwd=OVpucWxVUnpUWmo0cGJvRFNhOXpLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Європейський Союз у міжнародних відносинах<br>Забавська Х.Ю., англ мовою312 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91367664452?pwd=eDgrM3hCOHdEMUxnSEJVZmlJV1RSZz09" title="https://zoom.us/j/91367664452?pwd=eDgrM3hCOHdEMUxnSEJVZmlJV1RSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова ІІ (французька), частина 2<br>Бабкіна М.І., 41 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82869737817?pwd=OVpucWxVUnpUWmo0cGJvRFNhOXpLQT09" title="https://us02web.zoom.us/j/82869737817?pwd=OVpucWxVUnpUWmo0cGJvRFNhOXpLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова ІІ (польська), частина 2<br>Випасняк Г.О., 207 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/OO4fOE0W43Dw" title="https://join.skype.com/OO4fOE0W43Dw">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова ІІ (польська), частина 2<br>Випасняк Г.О., 207 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/OO4fOE0W43Dw" title="https://join.skype.com/OO4fOE0W43Dw">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Європейський Союз у міжнародних відносинах<br>Івасечко О.Я., 207 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success" title="https://zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Регіоналізм та регіональні проблеми сучасних міжнародних відносин<br>Лукач Н.М., 313 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88111155689?pwd=QnFPenRBb1d6bmZjOUZEeDZHQms0UT09 " title="https://us02web.zoom.us/j/88111155689?pwd=QnFPenRBb1d6bmZjOUZEeDZHQms0UT09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Глобалізація та глобальні проблеми сучасності<br>Соколовський О.Б., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99724037955?pwd=YlB5TzMvZC8xeFpVRGFnSlhyN2l3Zz09" title="https://zoom.us/j/99724037955?pwd=YlB5TzMvZC8xeFpVRGFnSlhyN2l3Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., 302 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2a8a9fea13c846e996d793ac3edeead9%40thread.tacv2/%25D0%259C%25D0%2592-35%252C37?groupId=3710a2c8-7179-459b-a220-56cea80e91de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2a8a9fea13c846e996d793ac3edeead9%40thread.tacv2/%25D0%259C%25D0%2592-35%252C37?groupId=3710a2c8-7179-459b-a220-56cea80e91de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., 302 III н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Європейський Союз у міжнародних відносинах<br>Забавська Х.Ю., англ мовою210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91711650053?pwd=ZitXYVJvN1ZIZEFWT3NNSTRmalF3UT09" title="https://zoom.us/j/91711650053?pwd=ZitXYVJvN1ZIZEFWT3NNSTRmalF3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Глобалізація та глобальні проблеми сучасності<br>Пасічний Р.Я., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09" title="https://zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Регіоналізм та регіональні проблеми сучасних міжнародних відносин<br>Лукач Н.М., 210 Гол. н.к., <br>,&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88111155689?pwd=QnFPenRBb1d6bmZjOUZEeDZHQms0UT09 " title="https://us02web.zoom.us/j/88111155689?pwd=QnFPenRBb1d6bmZjOUZEeDZHQms0UT09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Почапська І.Я., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81331166751?pwd=SlVjSUhLblcySElqTXpHby9QMkhHUT09" title="https://us02web.zoom.us/j/81331166751?pwd=SlVjSUhLblcySElqTXpHby9QMkhHUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Європейський Союз у міжнародних відносинах<br>Івасечко О.Я., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success" title="https://zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Геополітика та геостратегія<br>Цебенко О.О., 124 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84341147263?pwd=dnplRktqa0lmUDIzV2VydmtlR0Z1QT09" title="https://us02web.zoom.us/j/84341147263?pwd=dnplRktqa0lmUDIzV2VydmtlR0Z1QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Європейська регіональна політика<br>Лемко Ю.Р., 407 II н.к., <br>,&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09  Meeting ID: 610 042 5148 Passcode: 45tX50" title="https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09  Meeting ID: 610 042 5148 Passcode: 45tX50">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Запотічна М.І., 309 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76529311516?pwd=MwpcYMYzM0pZx-3_9GvXz79Vxb8mTr.1  Meeting ID: 765 2931 1516 Passcode: 2G9hUT" title="https://us04web.zoom.us/j/76529311516?pwd=MwpcYMYzM0pZx-3_9GvXz79Vxb8mTr.1  Meeting ID: 765 2931 1516 Passcode: 2G9hUT">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Жорняк Н.Є., 407 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84821592405?pwd=bGlLR2VmbjNlQmpOY3VtQUVJcTFhQT09" title="https://us02web.zoom.us/j/84821592405?pwd=bGlLR2VmbjNlQmpOY3VtQUVJcTFhQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Запотічна М.І., 309 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76529311516?pwd=MwpcYMYzM0pZx-3_9GvXz79Vxb8mTr.1  Meeting ID: 765 2931 1516 Passcode: 2G9hUT" title="https://us04web.zoom.us/j/76529311516?pwd=MwpcYMYzM0pZx-3_9GvXz79Vxb8mTr.1  Meeting ID: 765 2931 1516 Passcode: 2G9hUT">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Жорняк Н.Є., 407 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84821592405?pwd=bGlLR2VmbjNlQmpOY3VtQUVJcTFhQT09" title="https://us02web.zoom.us/j/84821592405?pwd=bGlLR2VmbjNlQmpOY3VtQUVJcTFhQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Переклад дипломатичних документів та кореспонденції, частина 1<br>Сенькович О.Р., 32 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09" title="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Переклад дипломатичних переговорів, конференцій та зустрічей, частина 1<br>Жорняк Н.Є., 19 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82156967456?pwd=Y3ZNdDcrYXJhV2F0WU9laGVtT3l2QT09" title="https://us02web.zoom.us/j/82156967456?pwd=Y3ZNdDcrYXJhV2F0WU9laGVtT3l2QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Переклад дипломатичних переговорів, конференцій та зустрічей, частина 1<br>Жорняк Н.Є., 19 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82156967456?pwd=Y3ZNdDcrYXJhV2F0WU9laGVtT3l2QT09" title="https://us02web.zoom.us/j/82156967456?pwd=Y3ZNdDcrYXJhV2F0WU9laGVtT3l2QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Переклад дипломатичних документів та кореспонденції, частина 1<br>Сенькович О.Р., 32 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09" title="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Жорняк Н.Є., 19 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84821592405?pwd=bGlLR2VmbjNlQmpOY3VtQUVJcTFhQT09" title="https://us02web.zoom.us/j/84821592405?pwd=bGlLR2VmbjNlQmpOY3VtQUVJcTFhQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова І, частина 6<br>Запотічна М.І., 111 VI н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76529311516?pwd=MwpcYMYzM0pZx-3_9GvXz79Vxb8mTr.1  Meeting ID: 765 2931 1516 Passcode: 2G9hUT" title="https://us04web.zoom.us/j/76529311516?pwd=MwpcYMYzM0pZx-3_9GvXz79Vxb8mTr.1  Meeting ID: 765 2931 1516 Passcode: 2G9hUT">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

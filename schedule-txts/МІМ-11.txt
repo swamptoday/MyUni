@@ -1,0 +1,260 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичне моделювання та прогнозування у міжнародних відносинах і суспільних комунікаціях<br>Густі М.І., 015 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ab1668c89d8e04ac8b6776b59e3b8210a%40thread.tacv2/1648563353175?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f6812e93-273b-4f1e-b57c-e17c9b661ff9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ab1668c89d8e04ac8b6776b59e3b8210a%40thread.tacv2/1648563353175?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f6812e93-273b-4f1e-b57c-e17c9b661ff9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Правові основи інформаційного ринку<br>Гачкевич А.О., 015 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92452525708?pwd=VFNRTk5tSzFuTFl2L05XaGhXZkJiUT09" title="https://zoom.us/j/92452525708?pwd=VFNRTk5tSzFuTFl2L05XaGhXZkJiUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інформаційні війни<br>Анісімович-Шевчук О.З., 015 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96375721048?pwd=WDJIcXFoVCtleXFBUWFtMnhORjNpdz09" title="https://zoom.us/j/96375721048?pwd=WDJIcXFoVCtleXFBUWFtMnhORjNpdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рекламні стратегії в міжнародних відносинах, суспільних комунікаціях та регіональних процесах<br>Гулай В.В., 015 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74507539631?pwd=HtQ5p_A_20wz_ugyHdkHNh9snaPW1T.1" title="https://us04web.zoom.us/j/74507539631?pwd=HtQ5p_A_20wz_ugyHdkHNh9snaPW1T.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Медіація у міжнародних відносинах та суспільних комунікаціях<br>Павлюх М.В., 128 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72016333073?pwd=fC3K4m26gvnd4yFS-OW6eKfywidNmL.1" title="https://us04web.zoom.us/j/72016333073?pwd=fC3K4m26gvnd4yFS-OW6eKfywidNmL.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Медіація у міжнародних відносинах та суспільних комунікаціях<br>Павлюх М.В., 015 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72643545602?pwd=qzqHozjCzpWf7MmTcQrI8rbxl6FC1Y.1" title="https://us04web.zoom.us/j/72643545602?pwd=qzqHozjCzpWf7MmTcQrI8rbxl6FC1Y.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичне моделювання та прогнозування у міжнародних відносинах і суспільних комунікаціях<br>Густі М.І., 015 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a548f156b68524c5f9ddc590e8dfb124e%40thread.tacv2/1649593283828?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f6812e93-273b-4f1e-b57c-e17c9b661ff9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a548f156b68524c5f9ddc590e8dfb124e%40thread.tacv2/1649593283828?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f6812e93-273b-4f1e-b57c-e17c9b661ff9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інформаційні війни<br>Гулай В.В., 128 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72025862605?pwd=-cNKk3EVb0KTzaiFdGWf6jlJX45HVS.1" title="https://us04web.zoom.us/j/72025862605?pwd=-cNKk3EVb0KTzaiFdGWf6jlJX45HVS.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Правові основи інформаційного ринку<br>Гачкевич А.О., 128 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92452525708?pwd=VFNRTk5tSzFuTFl2L05XaGhXZkJiUT09" title="https://zoom.us/j/92452525708?pwd=VFNRTk5tSzFuTFl2L05XaGhXZkJiUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Рекламні стратегії в міжнародних відносинах, суспільних комунікаціях та регіональних процесах<br>Гулай В.В., 128 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77914290022?pwd=iVYMj91Yz3mjAq69rUzURwtiCfRqWA.1" title="https://us04web.zoom.us/j/77914290022?pwd=iVYMj91Yz3mjAq69rUzURwtiCfRqWA.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Самоменеджмент<br>Гачкевич А.О., 128 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92452525708?pwd=VFNRTk5tSzFuTFl2L05XaGhXZkJiUT09" title="https://zoom.us/j/92452525708?pwd=VFNRTk5tSzFuTFl2L05XaGhXZkJiUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Самоменеджмент<br>Гачкевич А.О., 128 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92452525708?pwd=VFNRTk5tSzFuTFl2L05XaGhXZkJiUT09" title="https://zoom.us/j/92452525708?pwd=VFNRTk5tSzFuTFl2L05XaGhXZkJiUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

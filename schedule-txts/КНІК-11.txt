@@ -1,0 +1,242 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Квантові комп`ютери<br>Маркович Б.М., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09" title="https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ric-xwqo-gmv" title="https://meet.google.com/ric-xwqo-gmv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фахова іноземна мова<br>Дмитрук В.А., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/GEboC1VVFdvV" title="https://join.skype.com/GEboC1VVFdvV">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 213 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/zwg-zhqn-uds" title="http://meet.google.com/zwg-zhqn-uds">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Програмування для мобільних пристроїв<br>Янішевський В.С., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86559028172?pwd=L0ZkY1FWVUNFb2tqRVJWc1k0aWFNUT09" title="https://us02web.zoom.us/j/86559028172?pwd=L0ZkY1FWVUNFb2tqRVJWc1k0aWFNUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Програмування для мобільних пристроїв<br>Янішевський В.С., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86466643452?pwd=T2MzT05IaC9QbTAyOGtmTDRkZDl4UT09" title="https://us02web.zoom.us/j/86466643452?pwd=T2MzT05IaC9QbTAyOGtmTDRkZDl4UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Паралельні обчислення та засоби їх реалізації<br>Яджак М.С., 214 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8952334719?pwd=RElHOVpydVlSZUNmVUNXNGhDRjlZUT09" title="https://zoom.us/j/8952334719?pwd=RElHOVpydVlSZUNmVUNXNGhDRjlZUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/chr-xodm-sfs" title="https://meet.google.com/chr-xodm-sfs">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Квантові комп`ютери<br>Маркович Б.М., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09" title="https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Паралельні обчислення та засоби їх реалізації<br>Яджак М.С., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8952334719?pwd=RElHOVpydVlSZUNmVUNXNGhDRjlZUT09" title="https://zoom.us/j/8952334719?pwd=RElHOVpydVlSZUNmVUNXNGhDRjlZUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,360 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизоване проектування<br>Ребот Д.П., 84 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3apbcPGOismV14XAy_6v_hqthsWJugR-HTyESrXZ6jCQw1%40thread.tacv2/conversations?groupId=bb9f7f1c-88a9-47ef-96da-74d8fde1a42b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3apbcPGOismV14XAy_6v_hqthsWJugR-HTyESrXZ6jCQw1%40thread.tacv2/conversations?groupId=bb9f7f1c-88a9-47ef-96da-74d8fde1a42b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електроніка та мікропроцесорна техніка<br>Качур О.Ю., 16 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3apbyn_D9olaUSLx4XN6fTOEtOdNu6NxaHnSSFKrGftCQ1%40thread.tacv2/1644582560783?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3apbyn_D9olaUSLx4XN6fTOEtOdNu6NxaHnSSFKrGftCQ1%40thread.tacv2/1644582560783?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології зварювання<br>Хомич І.Б., 10 XVII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85305852337?pwd=NWthTGhnWTUvMm1zZnQ1RFlIeVJjdz09" title="https://us02web.zoom.us/j/85305852337?pwd=NWthTGhnWTUvMm1zZnQ1RFlIeVJjdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технології зварювання<br>Хомич І.Б., 10 XVII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85305852337?pwd=NWthTGhnWTUvMm1zZnQ1RFlIeVJjdz09" title="https://us02web.zoom.us/j/85305852337?pwd=NWthTGhnWTUvMm1zZnQ1RFlIeVJjdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології зварювання<br>Палаш Р.В., 6 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98633064985?pwd=Z3pKMVMrczFONmFUbStsYzFMWlFmQT09" title="https://zoom.us/j/98633064985?pwd=Z3pKMVMrczFONmFUbStsYzFMWlFmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технології зварювання<br>Палаш Р.В., 6 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98633064985?pwd=Z3pKMVMrczFONmFUbStsYzFMWlFmQT09" title="https://zoom.us/j/98633064985?pwd=Z3pKMVMrczFONmFUbStsYzFMWlFmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія різання та різальний інструмент<br>Грицай І.Є., 5-6 XV н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія різання та різальний інструмент<br>Грицай І.Є., 5-6 XV н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обладнання обробки тиском<br>Стефанович Т.О., 80 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiZTYzMjAtMjM2NS00MjYwLTljM2ItMWYzYjE4ZTZhNzJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiZTYzMjAtMjM2NS00MjYwLTljM2ItMWYzYjE4ZTZhNzJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обладнання обробки тиском<br>Стефанович Т.О., 80 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGU3NzkwODctYzBiOC00ZjFmLWJjYzktMDczYThjMzcxYjc2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGU3NzkwODctYzBiOC00ZjFmLWJjYzktMDczYThjMzcxYjc2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія різання та різальний інструмент<br>Новіцький Ю.Я., 5-6 XV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaE9F-NjLpMwb5OMerN2DQnX2pBiYJmMJm-oQVVuWvKQ1%40thread.tacv2/1644652572740?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240832a19-45a6-48c9-8443-46e8caa7ca62%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaE9F-NjLpMwb5OMerN2DQnX2pBiYJmMJm-oQVVuWvKQ1%40thread.tacv2/1644652572740?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240832a19-45a6-48c9-8443-46e8caa7ca62%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія різання та різальний інструмент<br>Новіцький Ю.Я., 5-6 XV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaE9F-NjLpMwb5OMerN2DQnX2pBiYJmMJm-oQVVuWvKQ1%40thread.tacv2/1644652637874?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240832a19-45a6-48c9-8443-46e8caa7ca62%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaE9F-NjLpMwb5OMerN2DQnX2pBiYJmMJm-oQVVuWvKQ1%40thread.tacv2/1644652637874?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240832a19-45a6-48c9-8443-46e8caa7ca62%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизоване проектування<br>Городняк Р.В., 80 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93976862748?pwd=eDRNbklNNWRrM3hVQVIrU29rUlYrQT09" title="https://zoom.us/j/93976862748?pwd=eDRNbklNNWRrM3hVQVIrU29rUlYrQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br><br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електроніка та мікропроцесорна техніка<br>Зелінський І.Д., 16 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a879671dee6eb47968724d900daa9f7b5%40thread.tacv2/conversations?groupId=3b509683-9229-49d4-bfdf-bcef01ea30f6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a879671dee6eb47968724d900daa9f7b5%40thread.tacv2/conversations?groupId=3b509683-9229-49d4-bfdf-bcef01ea30f6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електроніка та мікропроцесорна техніка<br>Зелінський І.Д., 29 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a879671dee6eb47968724d900daa9f7b5%40thread.tacv2/conversations?groupId=3b509683-9229-49d4-bfdf-bcef01ea30f6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a879671dee6eb47968724d900daa9f7b5%40thread.tacv2/conversations?groupId=3b509683-9229-49d4-bfdf-bcef01ea30f6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

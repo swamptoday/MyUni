@@ -1,0 +1,235 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні технології проектування інформаційних приладобудівних систем<br>Івахів О.В., 119 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aKpap6rfIuhEwrX7aYJ68tHVlo5K10GNEHWWvVIXUDHE1%40thread.tacv2/1643717153448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ce2bcca-591f-4105-921e-49bad0d54778%22%7dhttps://teams.microsoft.com/l/meetup-join/19%3aKpap6rfIuhEwrX7aYJ68tHVlo5K10GNEHWWvVIXUDHE1%40thread.tacv2/1643717153448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ce2bcca-591f-4105-921e-49bad0d54778%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aKpap6rfIuhEwrX7aYJ68tHVlo5K10GNEHWWvVIXUDHE1%40thread.tacv2/1643717153448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ce2bcca-591f-4105-921e-49bad0d54778%22%7dhttps://teams.microsoft.com/l/meetup-join/19%3aKpap6rfIuhEwrX7aYJ68tHVlo5K10GNEHWWvVIXUDHE1%40thread.tacv2/1643717153448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ce2bcca-591f-4105-921e-49bad0d54778%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційне забезпечення проектування, виготовлення і тестування виробів<br>Гірняк Ю.Б., 119 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a32564029316243aebd80ad10082b41ba%40thread.tacv2/1643800964381?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a32564029316243aebd80ad10082b41ba%40thread.tacv2/1643800964381?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інформаційне забезпечення проектування, виготовлення і тестування виробів<br>Гірняк Ю.Б., 119 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a32564029316243aebd80ad10082b41ba%40thread.tacv2/1643801064334?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a32564029316243aebd80ad10082b41ba%40thread.tacv2/1643801064334?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мехатронні модулі та системи, частина 2<br>Мокрицький В.О., 120 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aef2e05440c8f42dfbccc5c61dc1c9eec%40thread.tacv2/1644917596861?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228bf442ce-a2f1-429b-b30f-1c36b983882a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aef2e05440c8f42dfbccc5c61dc1c9eec%40thread.tacv2/1644917596861?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228bf442ce-a2f1-429b-b30f-1c36b983882a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мехатронні модулі та системи, частина 2<br>Мокрицький В.О., 120 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aef2e05440c8f42dfbccc5c61dc1c9eec%40thread.tacv2/1644851891502?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228bf442ce-a2f1-429b-b30f-1c36b983882a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aef2e05440c8f42dfbccc5c61dc1c9eec%40thread.tacv2/1644851891502?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228bf442ce-a2f1-429b-b30f-1c36b983882a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мехатронні модулі та системи, частина 2<br>Мокрицький В.О., 120 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aef2e05440c8f42dfbccc5c61dc1c9eec%40thread.tacv2/1644851891502?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228bf442ce-a2f1-429b-b30f-1c36b983882a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aef2e05440c8f42dfbccc5c61dc1c9eec%40thread.tacv2/1644851891502?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228bf442ce-a2f1-429b-b30f-1c36b983882a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інформаційне забезпечення проектування, виготовлення і тестування виробів<br>Гірняк Ю.Б., 119 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a32564029316243aebd80ad10082b41ba%40thread.tacv2/1643801324840?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a32564029316243aebd80ad10082b41ba%40thread.tacv2/1643801324840?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні технології проектування інформаційних приладобудівних систем<br>Гірняк Ю.Б., 119 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a16fb88acc53f41879c166eb336369179%40thread.tacv2/1643801741694?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a16fb88acc53f41879c166eb336369179%40thread.tacv2/1643801741694?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання гетерогенних комп`ютерних систем<br>Вельган Р.Б., 119 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzJiYzgzYWQtYWM5Yi00YWFjLWE1OTYtZDFjYTJkNGRjZWE3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222a795a2f-776e-4075-aebf-be93f00c3f42%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzJiYzgzYWQtYWM5Yi00YWFjLWE1OTYtZDFjYTJkNGRjZWE3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222a795a2f-776e-4075-aebf-be93f00c3f42%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання гетерогенних комп`ютерних систем<br>Вельган Р.Б., 119 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzJiYzgzYWQtYWM5Yi00YWFjLWE1OTYtZDFjYTJkNGRjZWE3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222a795a2f-776e-4075-aebf-be93f00c3f42%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzJiYzgzYWQtYWM5Yi00YWFjLWE1OTYtZDFjYTJkNGRjZWE3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222a795a2f-776e-4075-aebf-be93f00c3f42%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

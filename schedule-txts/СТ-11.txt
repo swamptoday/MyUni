@@ -1,0 +1,416 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спадщина середньовіччя: історичний та культурний вимір<br>Лисейко Я.Б., 204 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09" title="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нова і новітня історія України<br>Хома І.Я., 204 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c" title="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Нова і новітня історія України<br>Хома І.Я., 204 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c" title="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи екскурсійної діяльності в музейній, пам`яткоохоронній і туристичній галузях<br>Муравська С.В., 313 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09" title="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи екскурсійної діяльності в музейній, пам`яткоохоронній і туристичній галузях<br>Муравська С.В., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09" title="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Швець Г.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/zc64u8di2cSm" title="https://join.skype.com/zc64u8di2cSm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Незгода С.П., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2951637255" title="https://us04web.zoom.us/j/2951637255">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Білик О.С., 28 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79503072278?" title="https://us04web.zoom.us/j/79503072278?">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спадщина середньовіччя: історичний та культурний вимір<br>Лисейко Я.Б., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09" title="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нова і новітня історія України<br>Кравець Д.М., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9186463933?pwd=Qmw1QXFtdnlsTU5MVkNWSFFXMDljQT09" title="https://us04web.zoom.us/j/9186463933?pwd=Qmw1QXFtdnlsTU5MVkNWSFFXMDljQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія та теорія мистецтва<br>Бойко Х.С., 112 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a2lm-NdK_ST0e7HhBF-h5ycMrBlb5gnxHhTAwdk8S3u81%40thread.tacv2/conversations?groupId=d3d81b29-7ec9-4426-93f3-6f5144f4ac34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a2lm-NdK_ST0e7HhBF-h5ycMrBlb5gnxHhTAwdk8S3u81%40thread.tacv2/conversations?groupId=d3d81b29-7ec9-4426-93f3-6f5144f4ac34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія та теорія мистецтва<br>Бойко Х.С., 112 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a2lm-NdK_ST0e7HhBF-h5ycMrBlb5gnxHhTAwdk8S3u81%40thread.tacv2/conversations?groupId=d3d81b29-7ec9-4426-93f3-6f5144f4ac34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a2lm-NdK_ST0e7HhBF-h5ycMrBlb5gnxHhTAwdk8S3u81%40thread.tacv2/conversations?groupId=d3d81b29-7ec9-4426-93f3-6f5144f4ac34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи екскурсійної діяльності в музейній, пам`яткоохоронній і туристичній галузях<br>Муравська С.В., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09" title="https://us04web.zoom.us/j/6265393429?pwd=UkorVFpRb2c5NDkvQTBHalVYY0VQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Українська мова (за професійним спрямуванням)<br>Колодій Н.В., 005 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3andxWvAf1TstMb0HeneUNLocGG7QBijlfiCRDHcfI8Yo1%40thread.tacv2/conversations?groupId=fd6b7dd9-50c4-48d6-828a-4d5b6a5d7f1f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3andxWvAf1TstMb0HeneUNLocGG7QBijlfiCRDHcfI8Yo1%40thread.tacv2/conversations?groupId=fd6b7dd9-50c4-48d6-828a-4d5b6a5d7f1f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Українська мова (за професійним спрямуванням)<br>Колодій Н.В., 005 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3andxWvAf1TstMb0HeneUNLocGG7QBijlfiCRDHcfI8Yo1%40thread.tacv2/conversations?groupId=fd6b7dd9-50c4-48d6-828a-4d5b6a5d7f1f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3andxWvAf1TstMb0HeneUNLocGG7QBijlfiCRDHcfI8Yo1%40thread.tacv2/conversations?groupId=fd6b7dd9-50c4-48d6-828a-4d5b6a5d7f1f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нова і новітня історія України<br>Кравець Д.М., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9186463933?pwd=Qmw1QXFtdnlsTU5MVkNWSFFXMDljQT09" title="https://us04web.zoom.us/j/9186463933?pwd=Qmw1QXFtdnlsTU5MVkNWSFFXMDljQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спадщина середньовіччя: історичний та культурний вимір<br>Лисейко Я.Б., 204 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09" title="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спадщина середньовіччя: історичний та культурний вимір<br>Лисейко Я.Б., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09" title="https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

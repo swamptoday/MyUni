@@ -1,0 +1,468 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія підприємництва<br>Яремко І.І., 3 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85918454682?pwd=NG54QWRBYlRKSEtDcGVBM01iaGU3UT09" title="https://us02web.zoom.us/j/85918454682?pwd=NG54QWRBYlRKSEtDcGVBM01iaGU3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Макроекономіка<br>Скорик Г.І., Тревого О.І., анг.мовою, 505 IV н.к.401 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7789201276?pwd=YUZSV2ZlWGRoUWtlZ0EyNERMS1E5Zz09" title="https://us02web.zoom.us/j/7789201276?pwd=YUZSV2ZlWGRoUWtlZ0EyNERMS1E5Zz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09" title="https://zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Макроекономіка<br>Скорик Г.І., Тревого О.І., анг.мовою, 505 IV н.к.401 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7789201276?pwd=YUZSV2ZlWGRoUWtlZ0EyNERMS1E5Zz09" title="https://us02web.zoom.us/j/7789201276?pwd=YUZSV2ZlWGRoUWtlZ0EyNERMS1E5Zz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09" title="https://zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія державності та культури України<br>Ковалевич Т.В., 23 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3687251544" title="https://us04web.zoom.us/j/3687251544">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Гребінка Г.Я., Козіброда Л.В., 8.00-9.30 вул.Самчука 11, дівчата<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09" title="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Гребінка Г.Я., 8.00-9.30 вул.Самчука 11,хлопці<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95505119152?pwd=S05nak9YcXlwdkNBM29FWUp1Zm90Zz09" title="https://zoom.us/j/95505119152?pwd=S05nak9YcXlwdkNBM29FWUp1Zm90Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія економіки і економічної думки<br>Пушак Г.І., 401 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88244338669?pwd=VVdqdGxNNG5zQ0tCOWZHQ09uM0Y3QT09" title="https://us02web.zoom.us/j/88244338669?pwd=VVdqdGxNNG5zQ0tCOWZHQ09uM0Y3QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Морська Н.О., 23 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/Jb8R2A2IuzTE" title="https://join.skype.com/Jb8R2A2IuzTE">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія економіки і економічної думки<br>Комаринець С.О., анг.мовою6 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82602353152?pwd=MVhSaDhieWt1djlIeFdQeE5LaUYzQT09" title="https://us02web.zoom.us/j/82602353152?pwd=MVhSaDhieWt1djlIeFdQeE5LaUYzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія державності та культури України<br>Ковалевич Т.В., 110 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3687251544" title="https://us04web.zoom.us/j/3687251544">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Макроекономіка<br>Тревого О.І., Іличок Б.І., анг.мовою 110 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a55767d0e4f83479db2ebe5e572aa9f95%40thread.tacv2/conversations?groupId=19b3cce6-f9cf-437f-8c49-95959c2bc638&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a55767d0e4f83479db2ebe5e572aa9f95%40thread.tacv2/conversations?groupId=19b3cce6-f9cf-437f-8c49-95959c2bc638&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09" title="https://zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Макроекономіка<br>Тревого О.І., Іличок Б.І., анг.мовою 110 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a55767d0e4f83479db2ebe5e572aa9f95%40thread.tacv2/conversations?groupId=19b3cce6-f9cf-437f-8c49-95959c2bc638&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a55767d0e4f83479db2ebe5e572aa9f95%40thread.tacv2/conversations?groupId=19b3cce6-f9cf-437f-8c49-95959c2bc638&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09" title="https://zoom.us/j/2460333773?pwd=ZHFXTFhqN3loQkdBZWthdDR2dVQrQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Теорія підприємництва<br>Лукашевська У.Т., 5 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75090318894?pwd=Q41sBlXeG9iNGzHjFkZAo8CvR8x1zX.1" title="https://us04web.zoom.us/j/75090318894?pwd=Q41sBlXeG9iNGzHjFkZAo8CvR8x1zX.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Теорія підприємництва<br>Лукашевська У.Т., 5 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75404156395?pwd=FXIfJ_nBd1oRquVfJC8z1gXfDW55ZH.1" title="https://us04web.zoom.us/j/75404156395?pwd=FXIfJ_nBd1oRquVfJC8z1gXfDW55ZH.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Математика в публічному адмініструванні, частина 2<br>Слюсарчук О.З., 3 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3axsWkrDARM8ruwVhokq0UTuRk86SbYJhabVSkIozdKNU1%40thread.tacv2/1644409401242?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222fb81daf-256a-4237-b4fc-27ed4fa68c67%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3axsWkrDARM8ruwVhokq0UTuRk86SbYJhabVSkIozdKNU1%40thread.tacv2/1644409401242?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222fb81daf-256a-4237-b4fc-27ed4fa68c67%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Математика в публічному адмініструванні, частина 2<br>Слюсарчук О.З., 3 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3axsWkrDARM8ruwVhokq0UTuRk86SbYJhabVSkIozdKNU1%40thread.tacv2/1644409401242?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222fb81daf-256a-4237-b4fc-27ed4fa68c67%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3axsWkrDARM8ruwVhokq0UTuRk86SbYJhabVSkIozdKNU1%40thread.tacv2/1644409401242?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222fb81daf-256a-4237-b4fc-27ed4fa68c67%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія підприємництва<br>Яремко І.І., 3 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85918454682?pwd=NG54QWRBYlRKSEtDcGVBM01iaGU3UT09" title="https://us02web.zoom.us/j/85918454682?pwd=NG54QWRBYlRKSEtDcGVBM01iaGU3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математика в публічному адмініструванні, частина 2<br>Слюсарчук О.З., 110 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3axsWkrDARM8ruwVhokq0UTuRk86SbYJhabVSkIozdKNU1%40thread.tacv2/1644412084232?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222fb81daf-256a-4237-b4fc-27ed4fa68c67%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3axsWkrDARM8ruwVhokq0UTuRk86SbYJhabVSkIozdKNU1%40thread.tacv2/1644412084232?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222fb81daf-256a-4237-b4fc-27ed4fa68c67%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія економіки і економічної думки<br>Комаринець С.О., 3 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83991315217?pwd=RFFkaTBQWW80cnZmK05mUDJpbEdNQT09" title="https://us02web.zoom.us/j/83991315217?pwd=RFFkaTBQWW80cnZmK05mUDJpbEdNQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математика в публічному адмініструванні, частина 2<br>Слюсарчук О.З., 110 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3axsWkrDARM8ruwVhokq0UTuRk86SbYJhabVSkIozdKNU1%40thread.tacv2/1644412479553?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222fb81daf-256a-4237-b4fc-27ed4fa68c67%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3axsWkrDARM8ruwVhokq0UTuRk86SbYJhabVSkIozdKNU1%40thread.tacv2/1644412479553?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222fb81daf-256a-4237-b4fc-27ed4fa68c67%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія економіки і економічної думки<br>Комаринець С.О., анг.мовою 110 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82602353152?pwd=MVhSaDhieWt1djlIeFdQeE5LaUYzQT09" title="https://us02web.zoom.us/j/82602353152?pwd=MVhSaDhieWt1djlIeFdQeE5LaUYzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

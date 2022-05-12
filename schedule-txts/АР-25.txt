@@ -1,0 +1,446 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Блавт О.З., Булатов О.М., Павлось Р.М., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83336624847" title="https://us02web.zoom.us/j/83336624847">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/8844195095?pwd=cEtiamdLWmxKYlFEVHM0amJoNGlYQT09  Идентификатор конференции: 884 419 5095 Код доступа: YSH0ZT" title="https://us05web.zoom.us/j/8844195095?pwd=cEtiamdLWmxKYlFEVHM0amJoNGlYQT09  Идентификатор конференции: 884 419 5095 Код доступа: YSH0ZT">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи містобудування та ландшафтна архітектура<br>Кознарська Г.Є., 319 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aDpp7diFt8DjUaTiPLB4dAQCgpAp_wRtxTOqYJVX_kns1%40thread.tacv2/conversations?groupId=769e0dcb-a23e-4d00-ba52-0bb9ed36eacf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aDpp7diFt8DjUaTiPLB4dAQCgpAp_wRtxTOqYJVX_kns1%40thread.tacv2/conversations?groupId=769e0dcb-a23e-4d00-ba52-0bb9ed36eacf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектурна форма та матеріали<br>Бродський М.О., Гладишев Д.Г., 315 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ajeaCZNQ__JyyrHdXfaVjpaYc_KbQgNGctKKmHmzFSQg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d8f348cc-9233-4a32-9297-03fda8c1887a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ajeaCZNQ__JyyrHdXfaVjpaYc_KbQgNGctKKmHmzFSQg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d8f348cc-9233-4a32-9297-03fda8c1887a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Паньків О.В., 225 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71936718094?pwd=8Xmep_jKE50zm4_VT9RW5ExCoTFTdM.1" title="https://us04web.zoom.us/j/71936718094?pwd=8Xmep_jKE50zm4_VT9RW5ExCoTFTdM.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія містобудування<br>Ідак Ю.В., 319 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRXhPEjy0DSuzuPQNZ1X-0bH0P-Ob5TjA6XivSZ1cK2M1%40thread.tacv2/1644599012220?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222d61ade5-2f02-4a3f-b31b-1b153b7f9872%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRXhPEjy0DSuzuPQNZ1X-0bH0P-Ob5TjA6XivSZ1cK2M1%40thread.tacv2/1644599012220?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222d61ade5-2f02-4a3f-b31b-1b153b7f9872%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Архітектурна форма та матеріали<br>Петренко Ю.В., 315 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a-z-ptY-H5VIb_MLwFTeZM7sxNxhDUvHbHU0dQ2TEfI01%40thread.tacv2/conversations?groupId=12699523-32a6-46fe-ba13-ebd0b311f4dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a-z-ptY-H5VIb_MLwFTeZM7sxNxhDUvHbHU0dQ2TEfI01%40thread.tacv2/conversations?groupId=12699523-32a6-46fe-ba13-ebd0b311f4dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектурне проектування громадських будівель та споруд<br>Юрчишин О.М., 319 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arY2-TQMGBNOgcA6dLJUrTpNvv10ivECQRCdhv9AxxDo1%40thread.tacv2/conversations?groupId=5f53f217-6a1f-4792-aa75-fa6c85bd6f58&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arY2-TQMGBNOgcA6dLJUrTpNvv10ivECQRCdhv9AxxDo1%40thread.tacv2/conversations?groupId=5f53f217-6a1f-4792-aa75-fa6c85bd6f58&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектурне проектування громадських будівель та споруд<br>Гой Б.В., Дмитраш О.Ю., 332 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NDlmZmQyNjItZTJmNC00NzEyLTk3YTEtODA1ZmRhOWNlMGFh@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NDlmZmQyNjItZTJmNC00NzEyLTk3YTEtODA1ZmRhOWNlMGFh@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Архітектурне проектування громадських будівель та споруд<br>Гой Б.В., Дмитраш О.Ю., 332 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NDlmZmQyNjItZTJmNC00NzEyLTk3YTEtODA1ZmRhOWNlMGFh@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NDlmZmQyNjItZTJmNC00NzEyLTk3YTEtODA1ZmRhOWNlMGFh@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Паньків О.В., 229 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71936718094?pwd=8Xmep_jKE50zm4_VT9RW5ExCoTFTdM.1" title="https://us04web.zoom.us/j/71936718094?pwd=8Xmep_jKE50zm4_VT9RW5ExCoTFTdM.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи містобудування та ландшафтна архітектура<br>Кознарська Г.Є., 324а Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3adf72a825dfa94bcda2b892913751170b%40thread.tacv2/%25D0%2590%25D0%25A0-25%2520-%2520%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D0%25B0?groupId=769e0dcb-a23e-4d00-ba52-0bb9ed36eacf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3adf72a825dfa94bcda2b892913751170b%40thread.tacv2/%25D0%2590%25D0%25A0-25%2520-%2520%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D0%25B0?groupId=769e0dcb-a23e-4d00-ba52-0bb9ed36eacf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи містобудування та ландшафтна архітектура<br>Воронкова І.С., Гуменник І.В., 331 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmEzZTliZDEtNTM4Yy00Y2I4LWE4YzYtNzkxNzMzZGQ2YWEy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22778b9060-b91a-46b2-afc0-f03e9b1c7a5e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmEzZTliZDEtNTM4Yy00Y2I4LWE4YzYtNzkxNzMzZGQ2YWEy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22778b9060-b91a-46b2-afc0-f03e9b1c7a5e%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWIzNGYwNTktZGM2MC00NzlhLTk4NWYtOTFlYzQ5MjhkNTJj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226cd7f321-dc74-4096-8223-387b8fe85009%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWIzNGYwNTktZGM2MC00NzlhLTk4NWYtOTFlYzQ5MjhkNTJj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226cd7f321-dc74-4096-8223-387b8fe85009%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи містобудування та ландшафтна архітектура<br>Воронкова І.С., Гуменник І.В., 331 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc0MDE0MTctOTRhMC00MzJmLWExNmEtZGI2NjMwNjQxMjBj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22778b9060-b91a-46b2-afc0-f03e9b1c7a5e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc0MDE0MTctOTRhMC00MzJmLWExNmEtZGI2NjMwNjQxMjBj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22778b9060-b91a-46b2-afc0-f03e9b1c7a5e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Архітектурна форма та матеріали<br>Бродський М.О., Гладишев Д.Г., Лісних Л.І., 315 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/conversations?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/conversations?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Архітектурна форма та матеріали<br>Лісних Л.І., Бродський М.О., Гладишев Д.Г., 315 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/conversations?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/conversations?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська мова (за професійним спрямуванням)<br>Теглівець Ю.В., 403 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84031320429?pwd=U01BZ1dhTXRLdnVtZnpZWXdmY2t3UT09" title="https://us02web.zoom.us/j/84031320429?pwd=U01BZ1dhTXRLdnVtZnpZWXdmY2t3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Архітектурна форма та матеріали<br>Петренко Ю.В., 315 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/conversations?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aXZ2agA1QOPxeF1JjcehcwtTY7-rBohBNdH1V_NAx1yk1%40thread.tacv2/conversations?groupId=10aa350c-41d8-44cf-a6b8-72deabffc051&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Архітектурне проектування громадських будівель та споруд<br>Шевчук О.С., 304 Гол. н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектурна форма та матеріали<br>Дмитраш О.Ю., Красильников331 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YTU5OTlmMzUtYjEwNS00Y2Q2LWI4NjUtZTAzODBlY2YwNTQw@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YTU5OTlmMzUtYjEwNS00Y2Q2LWI4NjUtZTAzODBlY2YwNTQw@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Архітектурна форма та матеріали<br>Дмитраш О.Ю., Красильников331 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YTU5OTlmMzUtYjEwNS00Y2Q2LWI4NjUtZTAzODBlY2YwNTQw@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YTU5OTlmMzUtYjEwNS00Y2Q2LWI4NjUtZTAzODBlY2YwNTQw@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

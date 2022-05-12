@@ -1,0 +1,380 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Парогенератори атомних електричних станцій, частина 2<br>Кузнецова М.Я., 57 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us06web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09" title="https://us06web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Атомні електричні станції, частина 1<br>Мисак С.Й., 57 X н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Парогенератори атомних електричних станцій, частина 2<br>Кузнецова М.Я., 57 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us06web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09" title="https://us06web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Атомні електричні станції, частина 1<br>Мисак С.Й., 57 X н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Теорія ядерних реакторів, частина 2<br>Лукіянець Б.А., 57 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09  Идентификатор конференции: 818 6962 4170 Код доступа: JR62MG" title="https://us02web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09  Идентификатор конференции: 818 6962 4170 Код доступа: JR62MG">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Атомні електричні станції, частина 1<br>Мисак С.Й., 57 X н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія ядерних реакторів, частина 2<br>Лукіянець Б.А., 115 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09  Идентификатор конференции: 818 6962 4170 Код доступа: JR62MG" title="https://us02web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09  Идентификатор конференции: 818 6962 4170 Код доступа: JR62MG">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Парогенератори атомних електричних станцій, частина 2<br>Шепітчак В.Б., 115 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3agyZf_6KF6Yf9t6S0KmJQjFmNzX3eOUm9rHc3HSuR54Y1%40thread.tacv2/1645558277448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3agyZf_6KF6Yf9t6S0KmJQjFmNzX3eOUm9rHc3HSuR54Y1%40thread.tacv2/1645558277448?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Монтаж та ремонт об`єктів атомних електростанцій<br>Юрасова О.Г., 213 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/EoBZWhXYE8rG" title="https://join.skype.com/EoBZWhXYE8rG">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Ядерні енергетичні реактори<br>Кузик М.П., 209 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87836881941?pwd=WFlBeUtpK1kvZG5EL1BWZUxacklsdz09" title="https://us02web.zoom.us/j/87836881941?pwd=WFlBeUtpK1kvZG5EL1BWZUxacklsdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Монтаж та ремонт об`єктів атомних електростанцій<br>Юрасова О.Г., 57 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/EoBZWhXYE8rG" title="https://join.skype.com/EoBZWhXYE8rG">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія ядерних реакторів, частина 2<br>Лукіянець Б.А., 57 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09  Идентификатор конференции: 818 6962 4170 Код доступа: JR62MG" title="https://us02web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09  Идентификатор конференции: 818 6962 4170 Код доступа: JR62MG">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ядерні енергетичні реактори<br>Семерак М.М., 57 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aab17e0059c2043f4b6186f6c8fae595d%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=eba513a5-762a-43a5-b829-6aca49b4f410&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aab17e0059c2043f4b6186f6c8fae595d%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=eba513a5-762a-43a5-b829-6aca49b4f410&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Ядерні енергетичні реактори<br>Семерак М.М., 57 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aab17e0059c2043f4b6186f6c8fae595d%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=eba513a5-762a-43a5-b829-6aca49b4f410&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aab17e0059c2043f4b6186f6c8fae595d%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=eba513a5-762a-43a5-b829-6aca49b4f410&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Монтаж та ремонт об`єктів атомних електростанцій<br>Юрасова О.Г., 209 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/EoBZWhXYE8rG" title="https://join.skype.com/EoBZWhXYE8rG">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Турбіни атомних електростанцій, частина 2<br>Кравець Т.Ю., 57 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aab48101306dd4cefbc651c1052853f6b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=37475ba3-5eed-474a-9fa4-9d94ce567037&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aab48101306dd4cefbc651c1052853f6b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=37475ba3-5eed-474a-9fa4-9d94ce567037&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Турбіни атомних електростанцій, частина 2<br>Кравець Т.Ю., 57 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aab48101306dd4cefbc651c1052853f6b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=37475ba3-5eed-474a-9fa4-9d94ce567037&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aab48101306dd4cefbc651c1052853f6b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=37475ba3-5eed-474a-9fa4-9d94ce567037&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

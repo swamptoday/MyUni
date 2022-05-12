@@ -1,0 +1,373 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Маркетингові дослідження<br>Капраль О.Р., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89684868124?pwd=VXVaN1FJdjlYN1RmUjNkR2tTRFBJUT09" title="https://us02web.zoom.us/j/89684868124?pwd=VXVaN1FJdjlYN1RmUjNkR2tTRFBJUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Маркетингові дослідження<br>Капраль О.Р., 405 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89684868124?pwd=VXVaN1FJdjlYN1RmUjNkR2tTRFBJUT09" title="https://us02web.zoom.us/j/89684868124?pwd=VXVaN1FJdjlYN1RmUjNkR2tTRFBJUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Маркетингові дослідження<br>Лихолат С.М., 72 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97406392461?pwd=QytrYzQxanhHM3VteHdCZ2tzNjdvQT09" title="https://zoom.us/j/97406392461?pwd=QytrYzQxanhHM3VteHdCZ2tzNjdvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Мацьків О.О., 303 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aLsrkF45Pwrzny_CEoKzatg8l-KOrjda8PavN6meEIvg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ef7b5382-b272-4dbd-8325-4cf4e176531c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aLsrkF45Pwrzny_CEoKzatg8l-KOrjda8PavN6meEIvg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ef7b5382-b272-4dbd-8325-4cf4e176531c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління персоналом<br>Струтинська Л.Р., 508 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aMxL3aRXtVsLNkX5fT6Ubl4UxetVYz1Up6rMlSr9KR3k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ef18ea07-fc71-4982-95f8-bea1c2c6b012&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aMxL3aRXtVsLNkX5fT6Ubl4UxetVYz1Up6rMlSr9KR3k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ef18ea07-fc71-4982-95f8-bea1c2c6b012&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Мацьків О.О., 236 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aLsrkF45Pwrzny_CEoKzatg8l-KOrjda8PavN6meEIvg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ef7b5382-b272-4dbd-8325-4cf4e176531c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aLsrkF45Pwrzny_CEoKzatg8l-KOrjda8PavN6meEIvg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ef7b5382-b272-4dbd-8325-4cf4e176531c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Управління ризиками в митній діяльності<br>Коць І.І., 17 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aAa85VgpisgVlC6MVgtK8GKQL9WcGYwSufndXyCPUsvc1%40thread.tacv2/1644318409016?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aAa85VgpisgVlC6MVgtK8GKQL9WcGYwSufndXyCPUsvc1%40thread.tacv2/1644318409016?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Управління ризиками в митній діяльності<br>Коць І.І., 17 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aAa85VgpisgVlC6MVgtK8GKQL9WcGYwSufndXyCPUsvc1%40thread.tacv2/1644318977477?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aAa85VgpisgVlC6MVgtK8GKQL9WcGYwSufndXyCPUsvc1%40thread.tacv2/1644318977477?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Облік та оподаткування зовнішньоекономічних операцій<br>Маслак О.О., 3 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3azWZCRyXSAdzAL8J6JKF022OphAFI9M5hgBEBO0b9L2s1%40thread.tacv2/conversations?groupId=474cfa5b-e0eb-4bad-8e36-faf02243de1a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3azWZCRyXSAdzAL8J6JKF022OphAFI9M5hgBEBO0b9L2s1%40thread.tacv2/conversations?groupId=474cfa5b-e0eb-4bad-8e36-faf02243de1a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Облік та оподаткування зовнішньоекономічних операцій<br>Маслак О.О., 22 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3azWZCRyXSAdzAL8J6JKF022OphAFI9M5hgBEBO0b9L2s1%40thread.tacv2/conversations?groupId=474cfa5b-e0eb-4bad-8e36-faf02243de1a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3azWZCRyXSAdzAL8J6JKF022OphAFI9M5hgBEBO0b9L2s1%40thread.tacv2/conversations?groupId=474cfa5b-e0eb-4bad-8e36-faf02243de1a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління ризиками в митній діяльності<br>Коць І.І., 515 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aAa85VgpisgVlC6MVgtK8GKQL9WcGYwSufndXyCPUsvc1%40thread.tacv2/1644319450191?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aAa85VgpisgVlC6MVgtK8GKQL9WcGYwSufndXyCPUsvc1%40thread.tacv2/1644319450191?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Облік та оподаткування зовнішньоекономічних операцій<br>Маслак О.О., 22 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3azWZCRyXSAdzAL8J6JKF022OphAFI9M5hgBEBO0b9L2s1%40thread.tacv2/conversations?groupId=474cfa5b-e0eb-4bad-8e36-faf02243de1a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3azWZCRyXSAdzAL8J6JKF022OphAFI9M5hgBEBO0b9L2s1%40thread.tacv2/conversations?groupId=474cfa5b-e0eb-4bad-8e36-faf02243de1a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками в митній діяльності<br>Коць І.І., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aAa85VgpisgVlC6MVgtK8GKQL9WcGYwSufndXyCPUsvc1%40thread.tacv2/1644319903217?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aAa85VgpisgVlC6MVgtK8GKQL9WcGYwSufndXyCPUsvc1%40thread.tacv2/1644319903217?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229ca15993-1aa6-4f10-a660-75e2ce2fc432%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингові дослідження<br>Карпій О.П., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98458371221?pwd=N202UGZXakdDWXFLajB3SXp5OHVWQT09  Идентификатор конференции: 984 5837 1221 Код доступа: 2FPmNv" title="https://zoom.us/j/98458371221?pwd=N202UGZXakdDWXFLajB3SXp5OHVWQT09  Идентификатор конференции: 984 5837 1221 Код доступа: 2FPmNv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління персоналом<br>Струтинська Л.Р., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3axC1uPalNedugu_piCBRCIr7-jcYgvYkbTH1AjV79DnE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ca5f4ed9-88a0-46a7-a143-da366738a0f4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3axC1uPalNedugu_piCBRCIr7-jcYgvYkbTH1AjV79DnE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ca5f4ed9-88a0-46a7-a143-da366738a0f4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Облік та оподаткування зовнішньоекономічних операцій<br>Маслак О.О., 528 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3azWZCRyXSAdzAL8J6JKF022OphAFI9M5hgBEBO0b9L2s1%40thread.tacv2/conversations?groupId=474cfa5b-e0eb-4bad-8e36-faf02243de1a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3azWZCRyXSAdzAL8J6JKF022OphAFI9M5hgBEBO0b9L2s1%40thread.tacv2/conversations?groupId=474cfa5b-e0eb-4bad-8e36-faf02243de1a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Мацьків О.О., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aLsrkF45Pwrzny_CEoKzatg8l-KOrjda8PavN6meEIvg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ef7b5382-b272-4dbd-8325-4cf4e176531c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aLsrkF45Pwrzny_CEoKzatg8l-KOrjda8PavN6meEIvg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ef7b5382-b272-4dbd-8325-4cf4e176531c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

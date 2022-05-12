@@ -1,0 +1,401 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Квантова механіка<br>Понеділок Г.В., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aff26c08a84b446859fcd770437a6b0d4%40thread.tacv2/conversations?groupId=fce5ffa9-5e9e-4b0c-b1d9-94fb5d4efcf0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aff26c08a84b446859fcd770437a6b0d4%40thread.tacv2/conversations?groupId=fce5ffa9-5e9e-4b0c-b1d9-94fb5d4efcf0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Квантова механіка<br>Понеділок Г.В., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aff26c08a84b446859fcd770437a6b0d4%40thread.tacv2/conversations?groupId=fce5ffa9-5e9e-4b0c-b1d9-94fb5d4efcf0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aff26c08a84b446859fcd770437a6b0d4%40thread.tacv2/conversations?groupId=fce5ffa9-5e9e-4b0c-b1d9-94fb5d4efcf0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютеризація вимірювань та мікропроцесорна техніка<br>Прохоренко С.В., 705в V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ftx-dqwp-ckd" title="https://meet.google.com/ftx-dqwp-ckd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Супрамолекулярні пристрої: технологія і фізика процесів<br>Заіченко О.С., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95808491607?pwd=TWtheHpnVFR5MUI0L1hEV0kwTU5rdz09  Идентификатор конференции: 958 0849 1607 Код доступа: p0xW0D" title="https://zoom.us/j/95808491607?pwd=TWtheHpnVFR5MUI0L1hEV0kwTU5rdz09  Идентификатор конференции: 958 0849 1607 Код доступа: p0xW0D">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи енерго та ресурсоощадності<br>Когут З.О., 233 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aS2ULWAgYSlkVaX03r1Cb7Ged37c8WRsMedvIH4_ibmw1%40thread.tacv2/1644950036056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc54d5c8-0d3d-456d-93f9-1663784463fd%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aS2ULWAgYSlkVaX03r1Cb7Ged37c8WRsMedvIH4_ibmw1%40thread.tacv2/1644950036056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc54d5c8-0d3d-456d-93f9-1663784463fd%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи енерго та ресурсоощадності<br>Когут З.О., Іващишин Ф.О., 233 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aS2ULWAgYSlkVaX03r1Cb7Ged37c8WRsMedvIH4_ibmw1%40thread.tacv2/1644950036056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc54d5c8-0d3d-456d-93f9-1663784463fd%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aS2ULWAgYSlkVaX03r1Cb7Ged37c8WRsMedvIH4_ibmw1%40thread.tacv2/1644950036056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc54d5c8-0d3d-456d-93f9-1663784463fd%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика твердого тіла<br>Венгрин Б.Я., Іващишин Ф.О., 233 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82295067547?pwd=aFF4MXlwNTBiMDMwOHd4TkV5WW1MQT09 Ідентифікатор конференції: 822 9506 7547 Код доступу: V6sJ0s" title="https://us02web.zoom.us/j/82295067547?pwd=aFF4MXlwNTBiMDMwOHd4TkV5WW1MQT09 Ідентифікатор конференції: 822 9506 7547 Код доступу: V6sJ0s">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізика твердого тіла<br>Венгрин Б.Я., 233 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86210579644?pwd=aXpXN0hDb0hzT2JoSzNBMW9Pak9GZz09 Ідентифікатор конференції: 862 1057 9644 Код доступу: LcR4mg" title="https://us02web.zoom.us/j/86210579644?pwd=aXpXN0hDb0hzT2JoSzNBMW9Pak9GZz09 Ідентифікатор конференції: 862 1057 9644 Код доступу: LcR4mg">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи енерго та ресурсоощадності<br>Когут З.О., 233 XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzQ4YmYzYjQtYzA4My00MzczLTk0YWUtZmUxNDI5MTkxNTZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc54d5c8-0d3d-456d-93f9-1663784463fd%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzQ4YmYzYjQtYzA4My00MzczLTk0YWUtZmUxNDI5MTkxNTZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc54d5c8-0d3d-456d-93f9-1663784463fd%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика твердого тіла<br>Венгрин Б.Я., 233 XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86155318101?pwd=NTQreU4rWEtyeTUxZ0xSU0dZWXVNQT09 Ідентифікатор конференції: 861 5531 8101 Код доступу: kpF6q7" title="https://us02web.zoom.us/j/86155318101?pwd=NTQreU4rWEtyeTUxZ0xSU0dZWXVNQT09 Ідентифікатор конференції: 861 5531 8101 Код доступу: kpF6q7">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика твердого тіла<br>Венгрин Б.Я., 233 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86210579644?pwd=aXpXN0hDb0hzT2JoSzNBMW9Pak9GZz09 Ідентифікатор конференції: 862 1057 9644 Код доступу: LcR4mg" title="https://us02web.zoom.us/j/86210579644?pwd=aXpXN0hDb0hzT2JoSzNBMW9Pak9GZz09 Ідентифікатор конференції: 862 1057 9644 Код доступу: LcR4mg">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Комп`ютеризація вимірювань та мікропроцесорна техніка<br>Прохоренко С.В., 705а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ake-bedj-cuo" title="https://meet.google.com/ake-bedj-cuo">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Комп`ютеризація вимірювань та мікропроцесорна техніка<br>Прохоренко С.В., 705а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hfw-mpdf-kpg" title="https://meet.google.com/hfw-mpdf-kpg">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Комп`ютеризація вимірювань та мікропроцесорна техніка<br>Кочан О.В., 705а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzQyNzA3MTEtN2E0ZC00YTViLThkMTUtYTk4OGVhMjA2ZTdj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e8496ac6-c495-49f6-9376-eab31001462e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzQyNzA3MTEtN2E0ZC00YTViLThkMTUtYTk4OGVhMjA2ZTdj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e8496ac6-c495-49f6-9376-eab31001462e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Комп`ютеризація вимірювань та мікропроцесорна техніка<br>Кочан О.В., 705а V н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Квантова механіка<br>Понеділок Г.В., 006 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aff26c08a84b446859fcd770437a6b0d4%40thread.tacv2/conversations?groupId=fce5ffa9-5e9e-4b0c-b1d9-94fb5d4efcf0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aff26c08a84b446859fcd770437a6b0d4%40thread.tacv2/conversations?groupId=fce5ffa9-5e9e-4b0c-b1d9-94fb5d4efcf0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Супрамолекулярні пристрої: технологія і фізика процесів<br>Заіченко О.С., 006 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95808491607?pwd=TWtheHpnVFR5MUI0L1hEV0kwTU5rdz09  Идентификатор конференции: 958 0849 1607 Код доступа: p0xW0D" title="https://zoom.us/j/95808491607?pwd=TWtheHpnVFR5MUI0L1hEV0kwTU5rdz09  Идентификатор конференции: 958 0849 1607 Код доступа: p0xW0D">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

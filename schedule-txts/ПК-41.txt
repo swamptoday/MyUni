@@ -1,0 +1,313 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комунікативні процеси в педагогічній діяльності<br>Колодій І.С., 704 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96792901348?pwd=dlppcnFqd2hXV1pibjNRMndNeHUrdz09" title="https://zoom.us/j/96792901348?pwd=dlppcnFqd2hXV1pibjNRMndNeHUrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогічна майстерність<br>Дольнікова Л.В., 704 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09" title="https://us02web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психопедагогіка управління<br>Сікорський П.І., 704 XXXVI н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психопедагогіка управління<br>Сікорський П.І., 704 XXXVI н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комунікативні процеси в педагогічній діяльності<br>Колодій І.С., 704 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96792901348?pwd=dlppcnFqd2hXV1pibjNRMndNeHUrdz09" title="https://zoom.us/j/96792901348?pwd=dlppcnFqd2hXV1pibjNRMndNeHUrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комунікативні процеси в педагогічній діяльності<br>Колодій І.С., 704 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96792901348?pwd=dlppcnFqd2hXV1pibjNRMndNeHUrdz09" title="https://zoom.us/j/96792901348?pwd=dlppcnFqd2hXV1pibjNRMndNeHUrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогічна майстерність<br>Дольнікова Л.В., 704 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09" title="https://us02web.zoom.us/j/86445259371?pwd=OTFGRCtGVFE5UG5zRFdZKzBaQ20vZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психопедагогіка управління<br>Сікорський П.І., 704 XXXVI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психопедагогіка управління<br>Сікорський П.І., 704 XXXVI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогіка відкритих освітніх систем<br>Стечкевич О.О., 704 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1" title="https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогіка відкритих освітніх систем<br>Стечкевич О.О., 704 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1" title="https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогіка відкритих освітніх систем<br>Гузій І.С., 704 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогіка відкритих освітніх систем<br>Гузій І.С., 704 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09" title="https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

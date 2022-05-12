@@ -1,0 +1,412 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Облік у державному секторі економіки<br>Височан О.О., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09" title="https://us02web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Облік у державному секторі економіки<br>Височан О.О., 406 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09" title="https://us02web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні системи і технології в обліку та аудиті<br>Коваль З.О., 326 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aTJK5CI8-BvOjfC82NDUL9a8sVbqrWmEfJe0JL1YG6nA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d6923c0c-8cc3-46a6-98f7-f7fd1b14dcb8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aTJK5CI8-BvOjfC82NDUL9a8sVbqrWmEfJe0JL1YG6nA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d6923c0c-8cc3-46a6-98f7-f7fd1b14dcb8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз господарської діяльності<br>Скибінська З.М., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85455365852?pwd=U1JFZnZOVThWNzdRaWYyaEJpL2ZOQT09" title="https://us02web.zoom.us/j/85455365852?pwd=U1JFZnZOVThWNzdRaWYyaEJpL2ZOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Аналіз господарської діяльності<br>Скибінська З.М., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82117580969?pwd=UWdvWGErdVh3MVNzamY1SWJReVhYZz09" title="https://us02web.zoom.us/j/82117580969?pwd=UWdvWGErdVh3MVNzamY1SWJReVhYZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Аудит<br>Чубай В.М., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vtd-xtii-ncv" title="https://meet.google.com/vtd-xtii-ncv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аудит<br>Чубай В.М., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vtd-xtii-ncv" title="https://meet.google.com/vtd-xtii-ncv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Романів А.С., 311 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09" title="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Романів А.С., 206 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09" title="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Романів А.С., 303 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09" title="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Романів А.С., 236 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09" title="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Облік у державному секторі економіки<br>Височан О.С., 206 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09" title="https://us02web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Антикризове управління підприємством<br>Бойчук А.Б., 001 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4783946740" title="https://us02web.zoom.us/j/4783946740">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Антикризове управління підприємством<br>Бойчук А.Б., 001 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4783946740" title="https://us02web.zoom.us/j/4783946740">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз господарської діяльності<br>Скибінська З.М., 326 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82242211948?pwd=a2p0blhhcFIvWU1hNnRXTDRhd1EvZz09" title="https://us02web.zoom.us/j/82242211948?pwd=a2p0blhhcFIvWU1hNnRXTDRhd1EvZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Аналіз господарської діяльності<br>Скибінська З.М., 326 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85215950618?pwd=T3pYZ2hGUEpFM0haNmw2cHZQSkF6dz09" title="https://us02web.zoom.us/j/85215950618?pwd=T3pYZ2hGUEpFM0haNmw2cHZQSkF6dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аудит<br>Бабінська С.Я., 326 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7638019743?pwd=TEpYckx5dEUydFNZOFlmWXJOQUJaUT09" title="https://us02web.zoom.us/j/7638019743?pwd=TEpYckx5dEUydFNZOFlmWXJOQUJaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Інформаційні системи і технології в обліку та аудиті<br>Коваль З.О., 001 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aTJK5CI8-BvOjfC82NDUL9a8sVbqrWmEfJe0JL1YG6nA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d6923c0c-8cc3-46a6-98f7-f7fd1b14dcb8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aTJK5CI8-BvOjfC82NDUL9a8sVbqrWmEfJe0JL1YG6nA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d6923c0c-8cc3-46a6-98f7-f7fd1b14dcb8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Інформаційні системи і технології в обліку та аудиті<br>Коваль З.О., 001 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aTJK5CI8-BvOjfC82NDUL9a8sVbqrWmEfJe0JL1YG6nA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d6923c0c-8cc3-46a6-98f7-f7fd1b14dcb8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aTJK5CI8-BvOjfC82NDUL9a8sVbqrWmEfJe0JL1YG6nA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d6923c0c-8cc3-46a6-98f7-f7fd1b14dcb8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

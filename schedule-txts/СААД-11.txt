@@ -1,0 +1,193 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання процесів аналізу даних<br>Кісь Я.П., 127 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96912392985?pwd=UWlkdklicnpjaHFTTjlGcXhwOWNjdz09" title="https://zoom.us/j/96912392985?pwd=UWlkdklicnpjaHFTTjlGcXhwOWNjdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології аналітики даних<br>Берко А.Ю., 207 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83746931645?pwd=OCtLUFJpTlJVVStXenQ3L1RHZStwQT09" title="https://us02web.zoom.us/j/83746931645?pwd=OCtLUFJpTlJVVStXenQ3L1RHZStwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Аналітика текстових та web-ресурсів<br>Жежнич П.І., 522 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a57cd31e814b04917ad1070e0e4f35a97%40thread.tacv2/1644528067702?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7072747-0c89-405d-9838-4c12705d67fc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a57cd31e814b04917ad1070e0e4f35a97%40thread.tacv2/1644528067702?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7072747-0c89-405d-9838-4c12705d67fc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології аналітики даних<br>Берко А.Ю., 208 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09" title="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналітика текстових та web-ресурсів<br>Жежнич П.І., 522 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3af94ed4c429154a0a83bc71bc183b3c1b%40thread.tacv2/1644528202056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7072747-0c89-405d-9838-4c12705d67fc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3af94ed4c429154a0a83bc71bc183b3c1b%40thread.tacv2/1644528202056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7072747-0c89-405d-9838-4c12705d67fc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технології оперативного аналізу даних<br>Проданюк М.М., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3acu3RZrP5bFrSM0BmJQTq7pJLeDJzN1iLhkmz67qK9pg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dbc69ec8-92db-4872-baf3-13106975e5bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3acu3RZrP5bFrSM0BmJQTq7pJLeDJzN1iLhkmz67qK9pg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dbc69ec8-92db-4872-baf3-13106975e5bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології оперативного аналізу даних<br>Проданюк М.М., 207 VIa н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3acu3RZrP5bFrSM0BmJQTq7pJLeDJzN1iLhkmz67qK9pg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dbc69ec8-92db-4872-baf3-13106975e5bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3acu3RZrP5bFrSM0BmJQTq7pJLeDJzN1iLhkmz67qK9pg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dbc69ec8-92db-4872-baf3-13106975e5bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Моделювання процесів аналізу даних<br>Кісь Я.П., 208 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95456808075?pwd=L2xGNFpLRUVaWGtCUTFRMDExYVdndz09" title="https://zoom.us/j/95456808075?pwd=L2xGNFpLRUVaWGtCUTFRMDExYVdndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

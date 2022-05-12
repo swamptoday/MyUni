@@ -1,0 +1,316 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мобільні навантажувально-розвантажувальні машини, частина 1<br>Предко Р.Я., 303 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84990042323?pwd=bUJrMG1GOGhtMWcwL1BLc0hIU2NsQT09" title="https://us02web.zoom.us/j/84990042323?pwd=bUJrMG1GOGhtMWcwL1BLc0hIU2NsQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мехатроніка та бортова діагностика<br>Рубан Д.П., 317 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09" title="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мехатроніка та бортова діагностика<br>Рубан Д.П., 317 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09" title="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна експлуатація автомобілів<br>Рубан Д.П., 215 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09" title="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мехатроніка та бортова діагностика<br>Рубан Д.П., 215 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09" title="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технічна експлуатація автомобілів<br>Рубан Д.П., 215 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09" title="https://us04web.zoom.us/j/4359987497?pwd=REE5eTk1cDBmNkZJd2d4aFdzQ1BTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Мобільні навантажувально-розвантажувальні машини, частина 1<br>Предко Р.Я., 308 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84937801332?pwd=dG5lRDAwbkFjR09pSXI5YzFJeGF3UT09" title="https://us02web.zoom.us/j/84937801332?pwd=dG5lRDAwbkFjR09pSXI5YzFJeGF3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія автомобілів і тракторів, частина 2<br>Назаркевич С.М., 215 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71305494951?pwd=NzNlx4MpQXyMEcaVvr-QiiZyIguNF0.1" title="https://us04web.zoom.us/j/71305494951?pwd=NzNlx4MpQXyMEcaVvr-QiiZyIguNF0.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія автомобілів і тракторів, частина 2<br>Назаркевич С.М., 215 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71305494951?pwd=NzNlx4MpQXyMEcaVvr-QiiZyIguNF0.1" title="https://us04web.zoom.us/j/71305494951?pwd=NzNlx4MpQXyMEcaVvr-QiiZyIguNF0.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія автомобілів і тракторів, частина 2<br>Назаркевич С.М., 215 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71305494951?pwd=NzNlx4MpQXyMEcaVvr-QiiZyIguNF0.1" title="https://us04web.zoom.us/j/71305494951?pwd=NzNlx4MpQXyMEcaVvr-QiiZyIguNF0.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Підприємництво та менеджмент<br>Калиновська Н.Л., 118 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8_iMg6ftkC91cI9kBFh17wn3NB0qiABtRmko6HkbyBY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7cc950aa-515e-46d3-b0ef-84000671cef4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8_iMg6ftkC91cI9kBFh17wn3NB0qiABtRmko6HkbyBY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7cc950aa-515e-46d3-b0ef-84000671cef4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Підприємництво та менеджмент<br>Калиновська Н.Л., 111 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8_iMg6ftkC91cI9kBFh17wn3NB0qiABtRmko6HkbyBY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7cc950aa-515e-46d3-b0ef-84000671cef4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8_iMg6ftkC91cI9kBFh17wn3NB0qiABtRmko6HkbyBY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7cc950aa-515e-46d3-b0ef-84000671cef4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Транспортні засоби підвищеної прохідності<br>Зінько Р.В., 317 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3927121462?pwd=WVM1LytMRHRuQmJZSWlSSVV5RVE3UT09" title="https://zoom.us/j/3927121462?pwd=WVM1LytMRHRuQmJZSWlSSVV5RVE3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Транспортні засоби підвищеної прохідності<br>Зінько Р.В., 317 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91523203681?pwd=RjM1YWRtanJtSEJjdDhhdUdWQ1FHUT09" title="https://zoom.us/j/91523203681?pwd=RjM1YWRtanJtSEJjdDhhdUdWQ1FHUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

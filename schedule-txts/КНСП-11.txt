@@ -1,0 +1,251 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Методи проектування мультиагентних систем<br>Яворський Н.Б., 321 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uqp-uhge-svx" title="https://meet.google.com/uqp-uhge-svx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Методи проектування мультиагентних систем<br>Яворський Н.Б., 501 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uqp-uhge-svx" title="https://meet.google.com/uqp-uhge-svx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Методи проектування мультиагентних систем<br>Яворський Н.Б., 501 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/uqp-uhge-svx" title="https://meet.google.com/uqp-uhge-svx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація проектування інтелектуальних вбудованих систем<br>Кособуцький П.С., 319 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/96201711570?pwd%3DS1k5M3V0emJtcHRzSTN3SFB1STJ0Zz09&amp;sa=D&amp;source=calendar&amp;ust=1647337362153353&amp;usg=AOvVaw3oyh84iUADmfsRtJs-LWkn" title="https://www.google.com/url?q=https://zoom.us/j/96201711570?pwd%3DS1k5M3V0emJtcHRzSTN3SFB1STJ0Zz09&amp;sa=D&amp;source=calendar&amp;ust=1647337362153353&amp;usg=AOvVaw3oyh84iUADmfsRtJs-LWkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Автоматизація проектування інтелектуальних вбудованих систем<br>Кособуцький П.С., 501 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/96201711570?pwd%3DS1k5M3V0emJtcHRzSTN3SFB1STJ0Zz09&amp;sa=D&amp;source=calendar&amp;ust=1647337362153353&amp;usg=AOvVaw3oyh84iUADmfsRtJs-LWkn" title="https://www.google.com/url?q=https://zoom.us/j/96201711570?pwd%3DS1k5M3V0emJtcHRzSTN3SFB1STJ0Zz09&amp;sa=D&amp;source=calendar&amp;ust=1647337362153353&amp;usg=AOvVaw3oyh84iUADmfsRtJs-LWkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Автоматизація проектування інтелектуальних вбудованих систем<br>Кособуцький П.С., 501 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/96201711570?pwd%3DS1k5M3V0emJtcHRzSTN3SFB1STJ0Zz09&amp;sa=D&amp;source=calendar&amp;ust=1647337362153353&amp;usg=AOvVaw3oyh84iUADmfsRtJs-LWkn" title="https://www.google.com/url?q=https://zoom.us/j/96201711570?pwd%3DS1k5M3V0emJtcHRzSTN3SFB1STJ0Zz09&amp;sa=D&amp;source=calendar&amp;ust=1647337362153353&amp;usg=AOvVaw3oyh84iUADmfsRtJs-LWkn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні<br>Денисюк П.Ю., 319 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/fma-vpyu-yuh" title="https://meet.google.com/fma-vpyu-yuh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні<br>Денисюк П.Ю., 319 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/fma-vpyu-yuh" title="https://meet.google.com/fma-vpyu-yuh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні<br>Маркелов О.Е., 501г IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hef-owrn-xov" title="https://meet.google.com/hef-owrn-xov">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи підтримки прийняття рішень в автоматизованому проектуванні<br>Корпильов Д.В., 501 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dsv-nujw-ohw?authuser=0" title="https://meet.google.com/dsv-nujw-ohw?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Системи підтримки прийняття рішень в автоматизованому проектуванні<br>Корпильов Д.В., 501 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dsv-nujw-ohw?authuser=0" title="https://meet.google.com/dsv-nujw-ohw?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Системи підтримки прийняття рішень в автоматизованому проектуванні<br>Корпильов Д.В., 501 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dsv-nujw-ohw?authuser=0" title="https://meet.google.com/dsv-nujw-ohw?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

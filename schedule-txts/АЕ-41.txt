@@ -1,0 +1,279 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теплообмінні апарати атомних електричних станцій<br>Римар Т.І., 209 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09" title="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теплообмінні апарати атомних електричних станцій<br>Римар Т.І., 209 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09" title="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Поводження з радіоактивними відходами<br>Шепітчак В.Б., 115 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3akHvtqoEsbQx78XWS_mMl51almfFB7cGPPOqgEkwTF4A1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4b1fb68f-fc47-4ce8-a8eb-6c01021c4200&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3akHvtqoEsbQx78XWS_mMl51almfFB7cGPPOqgEkwTF4A1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4b1fb68f-fc47-4ce8-a8eb-6c01021c4200&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи автоматики та автоматизації енергетичних об`єктів<br>Химко О.М., 318 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09" title="https://zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теплообмінні апарати атомних електричних станцій<br>Римар Т.І., 115 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09" title="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи автоматики та автоматизації енергетичних об`єктів<br>Брилинський Р.Б., 213 X н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи автоматики та автоматизації енергетичних об`єктів<br>Брилинський Р.Б., 213 X н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління проектами<br>Моторнюк У.І., 213 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a6UyD37zO3ESzxo97y8Cqn2cXNWQ_1FpqQfvqWSM86HY1%40thread.tacv2/conversations?groupId=38098368-1cae-4b3a-b2c0-9eb868fafea5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a6UyD37zO3ESzxo97y8Cqn2cXNWQ_1FpqQfvqWSM86HY1%40thread.tacv2/conversations?groupId=38098368-1cae-4b3a-b2c0-9eb868fafea5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління проектами<br>Передало Х.С., 213 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a20bXaCCPHUI5Dfx8WVcQ9PbhsJU3YWhjTKeHFciL3TM1%40thread.tacv2/conversations?groupId=cc8bdc60-edda-4b4c-a9fb-20a861c35013&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a20bXaCCPHUI5Dfx8WVcQ9PbhsJU3YWhjTKeHFciL3TM1%40thread.tacv2/conversations?groupId=cc8bdc60-edda-4b4c-a9fb-20a861c35013&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Поводження з радіоактивними відходами<br>Шепітчак В.Б., 209 X н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теплообмінні апарати атомних електричних станцій<br>Римар Т.І., 57 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09" title="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теплообмінні апарати атомних електричних станцій<br>Римар Т.І., 57 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09" title="https://zoom.us/j/97991440162?pwd=UEVGMlhjY1B3LzdIc01oT2YwQU1tdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

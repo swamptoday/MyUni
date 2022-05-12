@@ -1,0 +1,291 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія журналістської творчості<br>Пуцята І.С., 113 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78582626524?pwd=9THp2sJ-qn3grfWMLrrFMqhZSwd-E4.1" title="https://us04web.zoom.us/j/78582626524?pwd=9THp2sJ-qn3grfWMLrrFMqhZSwd-E4.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Коментатор і оглядач радіо- і телемовлення<br>Гоцур О.І., 113 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09" title="https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Коментатор і оглядач радіо- і телемовлення<br>Гоцур О.І., 113 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09" title="https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія політичного процесу<br>Пасічний Р.Я., 329 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09" title="https://zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Журналістська майстерність, частина 4<br>Пуцята І.С., 108 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72882577732?pwd=w0xHi4mHsQqiUL9fYtEbj3uVjtqb_g.1" title="https://us04web.zoom.us/j/72882577732?pwd=w0xHi4mHsQqiUL9fYtEbj3uVjtqb_g.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Журналістська майстерність, частина 4<br>Пуцята І.С., 108 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72882577732?pwd=w0xHi4mHsQqiUL9fYtEbj3uVjtqb_g.1" title="https://us04web.zoom.us/j/72882577732?pwd=w0xHi4mHsQqiUL9fYtEbj3uVjtqb_g.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Журналістська майстерність, частина 4<br>Пуцята І.С., 113 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71899537497?pwd=tE3Jt4noZLqkr6CKHuJZwLOBkTuy2d.1" title="https://us04web.zoom.us/j/71899537497?pwd=tE3Jt4noZLqkr6CKHuJZwLOBkTuy2d.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Журналістська майстерність, частина 4<br>Пуцята І.С., 113 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71899537497?pwd=tE3Jt4noZLqkr6CKHuJZwLOBkTuy2d.1" title="https://us04web.zoom.us/j/71899537497?pwd=tE3Jt4noZLqkr6CKHuJZwLOBkTuy2d.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Коментатор і оглядач радіо- і телемовлення<br>Гоцур О.І., 301 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09" title="https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Коментатор і оглядач радіо- і телемовлення<br>Гоцур О.І., 301 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09" title="https://us04web.zoom.us/j/73076176706?pwd=UjRjSEpzUjNZejlsZjUwSVBwU1U4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія політичного процесу<br>Пасічний Р.Я., 329 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09" title="https://zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія журналістської творчості<br>Пуцята І.С., 329 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72785368069?pwd=pRMo6qYjG2BdoBg7BWEnEynEl4iQit.1" title="https://us04web.zoom.us/j/72785368069?pwd=pRMo6qYjG2BdoBg7BWEnEynEl4iQit.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

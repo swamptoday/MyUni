@@ -1,0 +1,328 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Диференціальні рівняння та рівняння математичної фізики<br>Клапчук М.І., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09" title="https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Диференціальні рівняння та рівняння математичної фізики<br>Клапчук М.І., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09" title="https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методології системного аналізу<br>Басюк Т.М., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us06web.zoom.us/j/94333208749?pwd=QTZiZmpaUlJmRVh1UDhteENsWWRkQT09" title="https://us06web.zoom.us/j/94333208749?pwd=QTZiZmpaUlJmRVh1UDhteENsWWRkQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Стадник В.В., Гуртова Т.В., корп.21 вул.Самчука.11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6059554008?pwd=ZORWdDJab1d3M2tZTm52VEZHOTB0QT09" title="https://us02web.zoom.us/j/6059554008?pwd=ZORWdDJab1d3M2tZTm52VEZHOTB0QT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09" title="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Онищук О.В., 109 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78866269192?pwd=VqamBPNmRta2BhbFNQlcUqqH5FL0w-.1" title="https://us04web.zoom.us/j/78866269192?pwd=VqamBPNmRta2BhbFNQlcUqqH5FL0w-.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Організація баз даних та знань<br>Микіч Х.І., 126 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3192493055?pwd=WGR3ZWpBRlRYUU1JelhlY3B2UGF1UT09" title="https://zoom.us/j/3192493055?pwd=WGR3ZWpBRlRYUU1JelhlY3B2UGF1UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Диференціальні рівняння та рівняння математичної фізики<br>Клапчук М.І., 402 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09" title="https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Методології системного аналізу<br>Кісь Я.П., 128 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96611920717?pwd=MmdPclNHcjRHRVB0SnA2a0dBbmJ1Zz09" title="https://zoom.us/j/96611920717?pwd=MmdPclNHcjRHRVB0SnA2a0dBbmJ1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методології системного аналізу<br>Кісь Я.П., 128 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95668936566?pwd=SVNZbFltRnRMRGp6VklBVStEUGE4UT09" title="https://zoom.us/j/95668936566?pwd=SVNZbFltRnRMRGp6VklBVStEUGE4UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Онищук О.В., 114 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77851672519?pwd=S_ZY11lEshnYj7QYxN3aISMXARk3rO.1" title="https://us04web.zoom.us/j/77851672519?pwd=S_ZY11lEshnYj7QYxN3aISMXARk3rO.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація баз даних та знань<br>Верес О.М., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94789651378?pwd=VWtmMWpJYVY5VnlFd3FCVTRhenV6QT09  Идентификатор конференции: 947 8965 1378 Код доступа: 12345" title="https://zoom.us/j/94789651378?pwd=VWtmMWpJYVY5VnlFd3FCVTRhenV6QT09  Идентификатор конференции: 947 8965 1378 Код доступа: 12345">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Організація баз даних та знань<br>Верес О.М., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94789651378?pwd=VWtmMWpJYVY5VnlFd3FCVTRhenV6QT09  Идентификатор конференции: 947 8965 1378 Код доступа: 12345" title="https://zoom.us/j/94789651378?pwd=VWtmMWpJYVY5VnlFd3FCVTRhenV6QT09  Идентификатор конференции: 947 8965 1378 Код доступа: 12345">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація баз даних та знань<br>Микіч Х.І., 126а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3192493055?pwd=WGR3ZWpBRlRYUU1JelhlY3B2UGF1UT09" title="https://zoom.us/j/3192493055?pwd=WGR3ZWpBRlRYUU1JelhlY3B2UGF1UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Диференціальні рівняння та рівняння математичної фізики<br>Клапчук М.І., 109 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09" title="https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

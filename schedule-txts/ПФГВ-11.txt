@@ -1,0 +1,286 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізика анізотропних середовищ<br>Лаба Г.П., 35 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72262767677?pwd=QmlSUWpYN1dEMzluSkVxZUZ5VW8vZz09" title="https://us04web.zoom.us/j/72262767677?pwd=QmlSUWpYN1dEMzluSkVxZUZ5VW8vZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Імпедансна спектроскопія<br>Балабан О.В., 006 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73979147457?pwd=_KETwDYnFJESci8EWAnSfSWlTbXkDL.1  Идентификатор конференции: 739 7914 7457 Код доступа: h81ZSR" title="https://us04web.zoom.us/j/73979147457?pwd=_KETwDYnFJESci8EWAnSfSWlTbXkDL.1  Идентификатор конференции: 739 7914 7457 Код доступа: h81ZSR">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пристрої молекулярної енергетики нового покоління<br>Іващишин Ф.О., 006 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72196880070?pwd=NnByQmlrSDk1T0lUNkNreGU4N2M3QT09  Идентификатор конференции: 721 9688 0070 Код доступа: Lep5mR" title="https://us04web.zoom.us/j/72196880070?pwd=NnByQmlrSDk1T0lUNkNreGU4N2M3QT09  Идентификатор конференции: 721 9688 0070 Код доступа: Lep5mR">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Функціональні матеріали молекулярної енергетики<br>Заіченко О.С., 006 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95512482489?pwd=ZEw4dVhscUdDc0lIbm0wT1oxelZqZz09  Идентификатор конференции: 955 1248 2489 Код доступа: c2eLcY" title="https://zoom.us/j/95512482489?pwd=ZEw4dVhscUdDc0lIbm0wT1oxelZqZz09  Идентификатор конференции: 955 1248 2489 Код доступа: c2eLcY">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Науково-дослідний практикум<br>Андрущак А.С., 233 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQwMDBiNjctNTdlNS00MzZhLWIxY2EtODBiNzZlZGU0MTUw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233cc5d7d-51b6-437f-a05e-e4ba0fed21b1%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQwMDBiNjctNTdlNS00MzZhLWIxY2EtODBiNzZlZGU0MTUw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233cc5d7d-51b6-437f-a05e-e4ba0fed21b1%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Імпедансна спектроскопія<br>Балабан О.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73979147457?pwd=_KETwDYnFJESci8EWAnSfSWlTbXkDL.1  Идентификатор конференции: 739 7914 7457 Код доступа: h81ZSR" title="https://us04web.zoom.us/j/73979147457?pwd=_KETwDYnFJESci8EWAnSfSWlTbXkDL.1  Идентификатор конференции: 739 7914 7457 Код доступа: h81ZSR">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пристрої молекулярної енергетики нового покоління<br>Іващишин Ф.О., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72196880070?pwd=NnByQmlrSDk1T0lUNkNreGU4N2M3QT09  Идентификатор конференции: 721 9688 0070 Код доступа: Lep5mR" title="https://us04web.zoom.us/j/72196880070?pwd=NnByQmlrSDk1T0lUNkNreGU4N2M3QT09  Идентификатор конференции: 721 9688 0070 Код доступа: Lep5mR">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика анізотропних середовищ<br>Лаба Г.П., 006 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72262767677?pwd=QmlSUWpYN1dEMzluSkVxZUZ5VW8vZz09  Идентификатор конференции: 722 6276 7677 Код доступа: WTM18U" title="https://us04web.zoom.us/j/72262767677?pwd=QmlSUWpYN1dEMzluSkVxZUZ5VW8vZz09  Идентификатор конференции: 722 6276 7677 Код доступа: WTM18U">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Функціональні матеріали молекулярної енергетики<br>Заіченко О.С., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95512482489?pwd=ZEw4dVhscUdDc0lIbm0wT1oxelZqZz09  Идентификатор конференции: 955 1248 2489 Код доступа: c2eLcY" title="https://zoom.us/j/95512482489?pwd=ZEw4dVhscUdDc0lIbm0wT1oxelZqZz09  Идентификатор конференции: 955 1248 2489 Код доступа: c2eLcY">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Функціональні матеріали молекулярної енергетики<br>Заіченко О.С., 35 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95512482489?pwd=ZEw4dVhscUdDc0lIbm0wT1oxelZqZz09  Идентификатор конференции: 955 1248 2489 Код доступа: c2eLcY" title="https://zoom.us/j/95512482489?pwd=ZEw4dVhscUdDc0lIbm0wT1oxelZqZz09  Идентификатор конференции: 955 1248 2489 Код доступа: c2eLcY">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія науки і техніки<br>Лукіянець Б.А., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89402872372?pwd=ZDM5TmhGa0RNN29LYlBOZmVWemtvZz09  Идентификатор конференции: 894 0287 2372 Код доступа: Jq3fcp" title="https://us02web.zoom.us/j/89402872372?pwd=ZDM5TmhGa0RNN29LYlBOZmVWemtvZz09  Идентификатор конференции: 894 0287 2372 Код доступа: Jq3fcp">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія науки і техніки<br>Лукіянець Б.А., 35 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89402872372?pwd=ZDM5TmhGa0RNN29LYlBOZmVWemtvZz09  Идентификатор конференции: 894 0287 2372 Код доступа: Jq3fcp" title="https://us02web.zoom.us/j/89402872372?pwd=ZDM5TmhGa0RNN29LYlBOZmVWemtvZz09  Идентификатор конференции: 894 0287 2372 Код доступа: Jq3fcp">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

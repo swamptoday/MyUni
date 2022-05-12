@@ -1,0 +1,328 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кількісний та якісний аналіз в соціальній роботі<br>Климанська Л.Д., Яцишин У.В., 207 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09" title="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фахова іноземна мова<br>Байбакова І.М., 32 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/C0ZCuPFitRFx" title="https://join.skype.com/C0ZCuPFitRFx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фахова іноземна мова<br>Байбакова І.М., 32 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/C0ZCuPFitRFx" title="https://join.skype.com/C0ZCuPFitRFx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кількісний та якісний аналіз в соціальній роботі<br>Климанська Л.Д., Яцишин У.В., 509 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09" title="https://us04web.zoom.us/j/78427618126?pwd=ZG9YeWhLOEN6aW8wc1R0MUpWanFmdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вступ до супервізії у соціальній роботі<br>Ставкова С.Г., 005 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aw7E0YR77fjAqi4nOmzu3BwYhC1jzEz8Si6JwbGwmWAo1%40thread.tacv2/1644584127660?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aw7E0YR77fjAqi4nOmzu3BwYhC1jzEz8Si6JwbGwmWAo1%40thread.tacv2/1644584127660?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вступ до супервізії у соціальній роботі<br>Ставкова С.Г., 005 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aw7E0YR77fjAqi4nOmzu3BwYhC1jzEz8Si6JwbGwmWAo1%40thread.tacv2/1644584227777?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aw7E0YR77fjAqi4nOmzu3BwYhC1jzEz8Si6JwbGwmWAo1%40thread.tacv2/1644584227777?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кількісний та якісний аналіз в соціальній роботі<br>Климанська Л.Д., Яцишин У.В., 105 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09" title="https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6454522310?pwd=V280REdrZVNBMFBSczEwMkhJZDlGUT09" title="https://zoom.us/j/6454522310?pwd=V280REdrZVNBMFBSczEwMkhJZDlGUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кількісний та якісний аналіз в соціальній роботі<br>Климанська Л.Д., Яцишин У.В., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09" title="https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6454522310?pwd=V280REdrZVNBMFBSczEwMkhJZDlGUT09" title="https://zoom.us/j/6454522310?pwd=V280REdrZVNBMFBSczEwMkhJZDlGUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Почапська І.Я., 004 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86050310502?pwd=cGZzUjRGMzJmQ2VOUExsT3BCbXJadz09" title="https://us02web.zoom.us/j/86050310502?pwd=cGZzUjRGMzJmQ2VOUExsT3BCbXJadz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Почапська І.Я., 236 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88685851919?pwd=dHg5RGJ5anNUUVYxM0ZTemMzWTBEQT09" title="https://us02web.zoom.us/j/88685851919?pwd=dHg5RGJ5anNUUVYxM0ZTemMzWTBEQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Почапська І.Я., 302 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88685851919?pwd=dHg5RGJ5anNUUVYxM0ZTemMzWTBEQT09" title="https://us02web.zoom.us/j/88685851919?pwd=dHg5RGJ5anNUUVYxM0ZTemMzWTBEQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Почапська І.Я., 005 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86050310502?pwd=cGZzUjRGMzJmQ2VOUExsT3BCbXJadz09" title="https://us02web.zoom.us/j/86050310502?pwd=cGZzUjRGMzJmQ2VOUExsT3BCbXJadz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вступ до супервізії у соціальній роботі<br>Ставкова С.Г., 005 XXIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aw7E0YR77fjAqi4nOmzu3BwYhC1jzEz8Si6JwbGwmWAo1%40thread.tacv2/1644584598079?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aw7E0YR77fjAqi4nOmzu3BwYhC1jzEz8Si6JwbGwmWAo1%40thread.tacv2/1644584598079?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вступ до супервізії у соціальній роботі<br>Ставкова С.Г., 005 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aw7E0YR77fjAqi4nOmzu3BwYhC1jzEz8Si6JwbGwmWAo1%40thread.tacv2/1645192077864?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aw7E0YR77fjAqi4nOmzu3BwYhC1jzEz8Si6JwbGwmWAo1%40thread.tacv2/1645192077864?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2250dfea1d-aa39-4ffa-ba8c-605e723edc55%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

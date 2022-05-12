@@ -1,0 +1,171 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Менеджмент інформаційної безпеки<br>Ромака В.А., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09" title="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комплексні системи захисту інформації<br>Пархуць Л.Т., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09" title="https://zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комплексні системи захисту інформації<br>Пархуць Л.Т., 216а XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09" title="https://zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Менеджмент інформаційної безпеки<br>Ромака В.А., 215 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09" title="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Менеджмент інформаційної безпеки<br>Ромака В.А., 215 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09" title="https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системний аналіз інформаційної безпеки<br>Лах Ю.В., 211 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системний аналіз інформаційної безпеки<br>Лах Ю.В., 211 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

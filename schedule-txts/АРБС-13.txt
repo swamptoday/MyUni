@@ -1,0 +1,230 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні оздоблювальні матеріали в інтер`єрі громадських будівель<br>Пекарчук О.П., 333 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ai_lajGGMYNLfrkYEytwN5rVUYkuLIInNhEBKkXsDH5s1%40thread.tacv2/1644779189795?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2229882b36-e84a-41a5-8574-bdb4ab87818b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ai_lajGGMYNLfrkYEytwN5rVUYkuLIInNhEBKkXsDH5s1%40thread.tacv2/1644779189795?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2229882b36-e84a-41a5-8574-bdb4ab87818b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні оздоблювальні матеріали в інтер`єрі громадських будівель<br>Пекарчук О.П., 304 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aTsszntrd18KggEjOEpzk48yfkG4_GHdwzYQwO1l3g2g1%40thread.tacv2/1644779380123?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2229882b36-e84a-41a5-8574-bdb4ab87818b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aTsszntrd18KggEjOEpzk48yfkG4_GHdwzYQwO1l3g2g1%40thread.tacv2/1644779380123?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2229882b36-e84a-41a5-8574-bdb4ab87818b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні оздоблювальні матеріали в інтер`єрі громадських будівель<br>Крушельницький Р.О., 304 Гол. н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Групове архітектурне проектування громадського комплексу<br>Базилевич В.В., Гуменюк Є.Л., 331 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aEDyE7HeI8QGFcHC0vL4sutA-_jTlREeIBxqv1uPqrYM1%40thread.tacv2/1644867046734?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228342dbc9-e7b3-4549-8d2b-c09c101eaba5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aEDyE7HeI8QGFcHC0vL4sutA-_jTlREeIBxqv1uPqrYM1%40thread.tacv2/1644867046734?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228342dbc9-e7b3-4549-8d2b-c09c101eaba5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Групове архітектурне проектування громадського комплексу<br>Базилевич В.В., Гуменюк Є.Л., 331 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aEDyE7HeI8QGFcHC0vL4sutA-_jTlREeIBxqv1uPqrYM1%40thread.tacv2/1644867046734?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228342dbc9-e7b3-4549-8d2b-c09c101eaba5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aEDyE7HeI8QGFcHC0vL4sutA-_jTlREeIBxqv1uPqrYM1%40thread.tacv2/1644867046734?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228342dbc9-e7b3-4549-8d2b-c09c101eaba5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектурне проектування<br>Базилевич В.В., Скопюк А.Ю., 333 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/meeting/tZcuduiurzstGtwG7iJwXcf4BJ3CJfPZm6Wf/ics?icsToken=98tyKuGrrTorHNWVtxmPRpwqA4j4d-7zmGJajbdKu0jsKTdrYQWiFMgREZh5IOLd" title="https://us02web.zoom.us/meeting/tZcuduiurzstGtwG7iJwXcf4BJ3CJfPZm6Wf/ics?icsToken=98tyKuGrrTorHNWVtxmPRpwqA4j4d-7zmGJajbdKu0jsKTdrYQWiFMgREZh5IOLd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектурне проектування<br>Базилевич В.В., Скопюк А.Ю., 333 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/meeting/tZcuduiurzstGtwG7iJwXcf4BJ3CJfPZm6Wf/ics?icsToken=98tyKuGrrTorHNWVtxmPRpwqA4j4d-7zmGJajbdKu0jsKTdrYQWiFMgREZh5IOLd" title="https://us02web.zoom.us/meeting/tZcuduiurzstGtwG7iJwXcf4BJ3CJfPZm6Wf/ics?icsToken=98tyKuGrrTorHNWVtxmPRpwqA4j4d-7zmGJajbdKu0jsKTdrYQWiFMgREZh5IOLd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Сучасні оздоблювальні матеріали в інтер`єрі громадських будівель<br>Крушельницький Р.О., 333 Гол. н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні оздоблювальні матеріали в інтер`єрі громадських будівель<br>Крушельницький Р.О., 333 Гол. н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комплексне дослідження архітектурно-містобудівного об`єкту<br>Габрель М.М., 333 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aIr2JRZ2aowHvX8CzuC5e-m8AOIkw66XdwvqBSFSRQUc1%40thread.tacv2/conversations?groupId=55c13790-3a70-4ee8-8ddf-2ace31b8826c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aIr2JRZ2aowHvX8CzuC5e-m8AOIkw66XdwvqBSFSRQUc1%40thread.tacv2/conversations?groupId=55c13790-3a70-4ee8-8ddf-2ace31b8826c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

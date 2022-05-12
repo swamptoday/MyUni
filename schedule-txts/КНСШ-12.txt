@@ -1,0 +1,272 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтелектуальний аналіз тексту та тональності тексту<br>Думин І.Б., 123б, XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hxr-mayw-dmu" title="https://meet.google.com/hxr-mayw-dmu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Штучний інтелект в ігрових застосуваннях<br>Кривенчук Ю.П., 127а, XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aC4887ZVNwVTAbt4DpUWDIMEkVrJXkhU_6KbPeo56wsY1%40thread.tacv2/General?groupId=6857f69e-4deb-4bd3-858b-62af3c086679&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aC4887ZVNwVTAbt4DpUWDIMEkVrJXkhU_6KbPeo56wsY1%40thread.tacv2/General?groupId=6857f69e-4deb-4bd3-858b-62af3c086679&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Обробка зображень методами штучного інтелекту<br>Косаревич Р.Я., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5681767596?pwd=VUVCbjNJZGlXRXBBZFFrb2V6MlAyUT09" title="https://us04web.zoom.us/j/5681767596?pwd=VUVCbjNJZGlXRXBBZFFrb2V6MlAyUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Обробка зображень методами штучного інтелекту<br>Косаревич Р.Я., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5681767596?pwd=VUVCbjNJZGlXRXBBZFFrb2V6MlAyUT09" title="https://us04web.zoom.us/j/5681767596?pwd=VUVCbjNJZGlXRXBBZFFrb2V6MlAyUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Моделювання та оптимізація для глибинного навчання<br>Матвійчук Я.М., 200 XX н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Штучний інтелект в ігрових застосуваннях<br>Кривенчук Ю.П., 101 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3549108258?pwd=dTdLMWlnWC9qSTZvZEVqcXIrV1kwdz09" title="https://us04web.zoom.us/j/3549108258?pwd=dTdLMWlnWC9qSTZvZEVqcXIrV1kwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інтелектуальний аналіз тексту та тональності тексту<br>Думин І.Б., 125, XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hxr-mayw-dmu" title="https://meet.google.com/hxr-mayw-dmu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інтелектуальний аналіз тексту та тональності тексту<br>Думин І.Б., 125, XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hxr-mayw-dmu" title="https://meet.google.com/hxr-mayw-dmu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Моделювання та оптимізація для глибинного навчання<br>Матвійчук Я.М., 124 XX н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Штучний інтелект в ігрових застосуваннях<br>Кривенчук Ю.П., 124 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3549108258?pwd=dTdLMWlnWC9qSTZvZEVqcXIrV1kwdz09" title="https://us04web.zoom.us/j/3549108258?pwd=dTdLMWlnWC9qSTZvZEVqcXIrV1kwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Обробка зображень методами штучного інтелекту<br>Косаревич Р.Я., 123б, XX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5681767596?pwd=VUVCbjNJZGlXRXBBZFFrb2V6MlAyUT09" title="https://us04web.zoom.us/j/5681767596?pwd=VUVCbjNJZGlXRXBBZFFrb2V6MlAyUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Моделювання та оптимізація для глибинного навчання<br>Матвійчук Я.М., 123б, XX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

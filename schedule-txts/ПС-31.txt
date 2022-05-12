@@ -1,0 +1,357 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи клінічної психології<br>Клименко М.Р., 112 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aTpuWZmfSZyEi7i_KgeMRZWeVZ9_CfCROUn0-MPJ-UP81%40thread.tacv2/1644524744826?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d906ea7-0c01-42f7-b64a-6515f787dabb%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aTpuWZmfSZyEi7i_KgeMRZWeVZ9_CfCROUn0-MPJ-UP81%40thread.tacv2/1644524744826?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d906ea7-0c01-42f7-b64a-6515f787dabb%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія розвитку та успіху особистості<br>Чемеринська Д.І., 322 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aYYwNLr8JqjC-N5u3qVnuA4zYNhc8YTVR2B6e-IdtDcw1%40thread.tacv2/1644406238840?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c22caa2e-c17b-4517-b082-260f2f227f06%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aYYwNLr8JqjC-N5u3qVnuA4zYNhc8YTVR2B6e-IdtDcw1%40thread.tacv2/1644406238840?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c22caa2e-c17b-4517-b082-260f2f227f06%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з  психотерапії<br>Савка І.М., 68 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=040000008200e00074c5b7101a82e0080000000056a74f08f120d8010000000000000000100000007bf3aa583bd5e54883bf4dfd1b60313d&amp;startTime=2022-02-14T12:15:00%2B00:00&amp;conversationId=19:u3N8GL4LTetsi6RzYbLzKw_kM7zHG3tw0xueNCp8x8Y1@thread.tacv2&amp;opener=1&amp;providerType=3&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=040000008200e00074c5b7101a82e0080000000056a74f08f120d8010000000000000000100000007bf3aa583bd5e54883bf4dfd1b60313d&amp;startTime=2022-02-14T12:15:00%2B00:00&amp;conversationId=19:u3N8GL4LTetsi6RzYbLzKw_kM7zHG3tw0xueNCp8x8Y1@thread.tacv2&amp;opener=1&amp;providerType=3&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія надзвичайних ситуацій<br>Вінтюк Ю.В., вибіркова329 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aToT1KXcLZ-icxwBTytNzt9wKYZrHf6D9-J1bszP4Vng1%40thread.tacv2/conversations?groupId=72a79147-1a3b-4bca-927c-041ca2531b2d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aToT1KXcLZ-icxwBTytNzt9wKYZrHf6D9-J1bszP4Vng1%40thread.tacv2/conversations?groupId=72a79147-1a3b-4bca-927c-041ca2531b2d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з дитячої психології <br>Ткач Х.Я., вибіркова68 XX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з  психотерапії<br>Савка І.М., 68 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=040000008200e00074c5b7101a82e00807e6020f40213135fd20d8010000000000000000100000003323063fa3f2384eaaca76b2aa8b4ba4&amp;startTime=2022-02-15T10:10:00%2B00:00&amp;conversationId=19:D9WEfF327KRKd4tOKol6pCeLulkqeK6gVTH8I5wNrSI1@thread.tacv2&amp;opener=1&amp;providerType=3&amp;navCtx=event-card-click&amp;eventType=Occurrence&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=040000008200e00074c5b7101a82e00807e6020f40213135fd20d8010000000000000000100000003323063fa3f2384eaaca76b2aa8b4ba4&amp;startTime=2022-02-15T10:10:00%2B00:00&amp;conversationId=19:D9WEfF327KRKd4tOKol6pCeLulkqeK6gVTH8I5wNrSI1@thread.tacv2&amp;opener=1&amp;providerType=3&amp;navCtx=event-card-click&amp;eventType=Occurrence&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з  психотерапії<br>Савка І.М., 68 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=040000008200e00074c5b7101a82e00807e6020fa38be216ee20d8010000000000000000100000002ff6f0e3f349884e9f5e5d2686f850a3&amp;startTime=2022-02-15T12:15:00%2B00:00&amp;conversationId=19:D9WEfF327KRKd4tOKol6pCeLulkqeK6gVTH8I5wNrSI1@thread.tacv2&amp;opener=1&amp;providerType=3&amp;navCtx=event-card-click&amp;eventType=Occurrence&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=040000008200e00074c5b7101a82e00807e6020fa38be216ee20d8010000000000000000100000002ff6f0e3f349884e9f5e5d2686f850a3&amp;startTime=2022-02-15T12:15:00%2B00:00&amp;conversationId=19:D9WEfF327KRKd4tOKol6pCeLulkqeK6gVTH8I5wNrSI1@thread.tacv2&amp;opener=1&amp;providerType=3&amp;navCtx=event-card-click&amp;eventType=Occurrence&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія стресу<br>Чемеринська Д.І., 68 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3axdNrjpazcw86xgvTQzcWYDvQssFZRc0fwBqdxErkj6A1%40thread.tacv2/1644580520761?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c22caa2e-c17b-4517-b082-260f2f227f06%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3axdNrjpazcw86xgvTQzcWYDvQssFZRc0fwBqdxErkj6A1%40thread.tacv2/1644580520761?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c22caa2e-c17b-4517-b082-260f2f227f06%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психопрофілактика і корекція девіантної поведінки<br>Шиделко А.В., 36 XXXIII н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія розвитку та успіху особистості<br>Романець З.О., 322 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADVhYjQ5OTI0LTBjNTctNDVhOS04ZjhjLTU5ZGY0NDgxY2U3NAFRAAgI2fGocN2AAEYAAAAA6MwGC9IvEU_MbmQyUCwKZQcAzf9QaCCiTkq3HSc5UhE0hgAAAAABDQAAzf9QaCCiTkq3HSc5UhE0hgAEex4WsQAAEA%3D%3D&amp;conversationId=19:meeting_MGQ5YzcwOWItYTUyZC00OWVmLTg5MGQtMDFlN2U1NTg5NjVj@thread.v2&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADVhYjQ5OTI0LTBjNTctNDVhOS04ZjhjLTU5ZGY0NDgxY2U3NAFRAAgI2fGocN2AAEYAAAAA6MwGC9IvEU_MbmQyUCwKZQcAzf9QaCCiTkq3HSc5UhE0hgAAAAABDQAAzf9QaCCiTkq3HSc5UhE0hgAEex4WsQAAEA%3D%3D&amp;conversationId=19:meeting_MGQ5YzcwOWItYTUyZC00OWVmLTg5MGQtMDFlN2U1NTg5NjVj@thread.v2&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психопрофілактика і корекція девіантної поведінки<br>Лялюк Г.М., 322 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія надзвичайних ситуацій<br>Вінтюк Ю.В., вибіркова322 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a0NB-3O4DyV6I78mrj7SbpBtruIptdlEBFE_5DE4tW2g1%40thread.tacv2/conversations?groupId=13285364-c5b0-4422-b092-503ae912f2e2&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a0NB-3O4DyV6I78mrj7SbpBtruIptdlEBFE_5DE4tW2g1%40thread.tacv2/conversations?groupId=13285364-c5b0-4422-b092-503ae912f2e2&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з дитячої психології <br>Ткач Х.Я., вибіркова322 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи клінічної психології<br>Клименко М.Р., 301 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aIZNbMKsQBPLqAvz8pJz3QHwfZybtbh9BwyhWVd6pjJc1%40thread.tacv2/1645103540276?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d906ea7-0c01-42f7-b64a-6515f787dabb%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aIZNbMKsQBPLqAvz8pJz3QHwfZybtbh9BwyhWVd6pjJc1%40thread.tacv2/1645103540276?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d906ea7-0c01-42f7-b64a-6515f787dabb%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія стресу<br>Партико Н.В., 301 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aLIq61M21X5e_flJ0MIDbrsb-i_jxGEB07mMd4wupcXA1%40thread.tacv2/conversations?groupId=cb7b300c-d3e5-4f73-bc11-8357b9c16fcb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aLIq61M21X5e_flJ0MIDbrsb-i_jxGEB07mMd4wupcXA1%40thread.tacv2/conversations?groupId=cb7b300c-d3e5-4f73-bc11-8357b9c16fcb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

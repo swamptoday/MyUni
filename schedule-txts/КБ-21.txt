@@ -1,0 +1,453 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технічні засоби охорони об`єктів<br>Ракобовчук Л.М., 211 XIX н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нормативно-правове забезпечення, стандарти та політика інформаційної і кібернетичної безпеки<br>Малинич С.З., 210 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aMNG7-IIVsYTRuLiZLquSwokNIw36vtnpYwnPjIzDJ8Q1%40thread.tacv2/conversations?groupId=575cc460-00f0-4f79-adc2-aa40332bc6fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aMNG7-IIVsYTRuLiZLquSwokNIw36vtnpYwnPjIzDJ8Q1%40thread.tacv2/conversations?groupId=575cc460-00f0-4f79-adc2-aa40332bc6fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Технічні засоби охорони об`єктів<br>Ракобовчук Л.М., 211 XIX н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Бази даних та знань<br>Журавчак Д.Ю., 220 XIX н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Бази даних та знань<br>Журавчак Д.Ю., 220 XIX н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Технічні засоби охорони об`єктів<br>Ракобовчук Л.М., 211 XIX н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Схемотехніка пристроїв технічного захисту інформації<br>Кеньо Г.В., 214 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q" title="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Технічні засоби охорони об`єктів<br>Ракобовчук Л.М., 211 XIX н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Схемотехніка пристроїв технічного захисту інформації<br>Кеньо Г.В., 210 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q" title="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Схемотехніка пристроїв технічного захисту інформації<br>Кеньо Г.В., 214 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q" title="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Бази даних та знань<br>Ракобовчук Л.М., 210 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Безгребельна О.П., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/81266983463?pwd=YlhFS2tFTm14NXJQZHlYbXlzNmhidz09" title="https://us05web.zoom.us/j/81266983463?pwd=YlhFS2tFTm14NXJQZHlYbXlzNmhidz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Блавт О.З., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Бази даних та знань<br>Гарасимчук О.І., 208 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09  Meeting ID: 825 296 3852 Passcode: M0nvpH" title="https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09  Meeting ID: 825 296 3852 Passcode: M0nvpH">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нормативно-правове забезпечення, стандарти та політика інформаційної і кібернетичної безпеки<br>Опірський І.Р., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ahCDhFlhdCmXHPbZUUVvW0yq0kao3Qj19IiEmYsy3mOo1%40thread.tacv2/conversations?groupId=7fc8512e-4b58-4b22-9f59-53818a5d81c5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ahCDhFlhdCmXHPbZUUVvW0yq0kao3Qj19IiEmYsy3mOo1%40thread.tacv2/conversations?groupId=7fc8512e-4b58-4b22-9f59-53818a5d81c5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Бази даних та знань<br>Гарасимчук О.І., 208 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09  Meeting ID: 825 296 3852 Passcode: M0nvpH" title="https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09  Meeting ID: 825 296 3852 Passcode: M0nvpH">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Схемотехніка пристроїв технічного захисту інформації<br>Кеньо Г.В., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q" title="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Схемотехніка пристроїв технічного захисту інформації<br>Кеньо Г.В., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q" title="https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09  Meeting ID: 722 642 1593 Passcode: avwX2Q">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічні засоби охорони об`єктів<br>Ракобовчук Л.М., 202 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічні засоби охорони об`єктів<br>Ракобовчук Л.М., 202 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

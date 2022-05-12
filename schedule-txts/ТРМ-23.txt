@@ -1,0 +1,29 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей<br>Заячук Д.М., 111 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aoDcIhX46hzpT3-YV7Bsq18wUhG6AxUU-3JTZEOHhDFg1%40thread.tacv2/conversations?groupId=a21ce8b7-460c-40e8-8bd7-ebfef5e75b12&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aoDcIhX46hzpT3-YV7Bsq18wUhG6AxUU-3JTZEOHhDFg1%40thread.tacv2/conversations?groupId=a21ce8b7-460c-40e8-8bd7-ebfef5e75b12&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

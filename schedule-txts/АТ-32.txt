@@ -1,0 +1,487 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Автомобільні двигуни<br>Сороківський О.І., 115 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09" title="https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Автомобільні двигуни<br>Сороківський О.І., 115 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09" title="https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістика експлуатації автомобілів<br>Нікіпчук С.В., 214 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09" title="https://us02web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Електронне та електричне обладнання автомобілів<br>Осмак О.А., 216 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09" title="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічна експлуатація автомобілів, частина 1<br>Пельо Р.А., 216 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83725478940?pwd=QTdLMStXbzU5bE84dVhOdUovWVlwQT09" title="https://us02web.zoom.us/j/83725478940?pwd=QTdLMStXbzU5bE84dVhOdUovWVlwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна експлуатація автомобілів, частина 1<br>Пельо Р.А., 214 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84141382579?pwd=eHZUZ0MyRVhYS1FHclNka09EZkFVUT09" title="https://us02web.zoom.us/j/84141382579?pwd=eHZUZ0MyRVhYS1FHclNka09EZkFVUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електронне та електричне обладнання автомобілів<br>Бритковський В.М., 214 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91240938796?pwd=MVU5bFBNWGhVZU41aGNXZzgraXlJQT09" title="https://zoom.us/j/91240938796?pwd=MVU5bFBNWGhVZU41aGNXZzgraXlJQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автомобільні двигуни<br>Сороківський О.І., 214 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09" title="https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістика експлуатації автомобілів<br>Нікіпчук С.В., 214 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09  Meeting ID: 634 486 685 Passcode: 4axNBt" title="https://us02web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09  Meeting ID: 634 486 685 Passcode: 4axNBt">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічне обслуговування і ремонт кузовів автомобілів<br>Юськів В.М., 214 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9060785675?pwd=eFo2WFVacTN1KzlraXk2WXpRTUYxdz09" title="https://us04web.zoom.us/j/9060785675?pwd=eFo2WFVacTN1KzlraXk2WXpRTUYxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Технічна експлуатація автомобілів, частина 1<br>Пельо Р.А., 216 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81523437426?pwd=cmk5WFcrZThQSG9TZWJPZHg4dGNHdz09" title="https://us02web.zoom.us/j/81523437426?pwd=cmk5WFcrZThQSG9TZWJPZHg4dGNHdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Технічна експлуатація автомобілів, частина 1<br>Пельо Р.А., 216 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81523437426?pwd=cmk5WFcrZThQSG9TZWJPZHg4dGNHdz09" title="https://us02web.zoom.us/j/81523437426?pwd=cmk5WFcrZThQSG9TZWJPZHg4dGNHdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Технічне обслуговування і ремонт кузовів автомобілів<br>Юськів В.М., 115 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9060785675?pwd=eFo2WFVacTN1KzlraXk2WXpRTUYxdz09" title="https://us04web.zoom.us/j/9060785675?pwd=eFo2WFVacTN1KzlraXk2WXpRTUYxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Технічне обслуговування і ремонт кузовів автомобілів<br>Юськів В.М., 115 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9060785675?pwd=eFo2WFVacTN1KzlraXk2WXpRTUYxdz09" title="https://us04web.zoom.us/j/9060785675?pwd=eFo2WFVacTN1KzlraXk2WXpRTUYxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Електронне та електричне обладнання автомобілів<br>Осмак О.А., 216 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09" title="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Автомобільні двигуни<br>Сороківський О.І., 111 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09" title="https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09https://us02web.zoom.us/j/3785176113?pwd=a2RTU0dDcGh2RWtyNWtXMXQvK2FEZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електронне та електричне обладнання автомобілів<br>Осмак О.А., 308 VI н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Зварювання і споріднені технології<br>Назар І.Б., 4 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://undp.zoom.us/j/84063251245?pwd=Y3MrZ3Q2aUFZREtCbzNDLzdvVTY4Zz09" title="https://undp.zoom.us/j/84063251245?pwd=Y3MrZ3Q2aUFZREtCbzNDLzdvVTY4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Технічна діагностика автомобіля<br>Мальнов С.І., 115 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9778035128?pwd=dmxxQjdIT0dWL2k0Tkd4V3VOaEdEdz09" title="https://zoom.us/j/9778035128?pwd=dmxxQjdIT0dWL2k0Tkd4V3VOaEdEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Технічна діагностика автомобіля<br>Мальнов С.І., 115 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9778035128?pwd=dmxxQjdIT0dWL2k0Tkd4V3VOaEdEdz09" title="https://zoom.us/j/9778035128?pwd=dmxxQjdIT0dWL2k0Tkd4V3VOaEdEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Зварювання і споріднені технології<br>Назар І.Б., 10 XVII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://undp.zoom.us/j/84063251245?pwd=Y3MrZ3Q2aUFZREtCbzNDLzdvVTY4Zz09" title="https://undp.zoom.us/j/84063251245?pwd=Y3MrZ3Q2aUFZREtCbzNDLzdvVTY4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Зварювання і споріднені технології<br>Назар І.Б., 10 XVII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://undp.zoom.us/j/84063251245?pwd=Y3MrZ3Q2aUFZREtCbzNDLzdvVTY4Zz09" title="https://undp.zoom.us/j/84063251245?pwd=Y3MrZ3Q2aUFZREtCbzNDLzdvVTY4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна діагностика автомобіля<br>Мальнов С.І., 214 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9778035128?pwd=dmxxQjdIT0dWL2k0Tkd4V3VOaEdEdz09" title="https://zoom.us/j/9778035128?pwd=dmxxQjdIT0dWL2k0Tkd4V3VOaEdEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технічна діагностика автомобіля<br>Мальнов С.І., 214 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9778035128?pwd=dmxxQjdIT0dWL2k0Tkd4V3VOaEdEdz09" title="https://zoom.us/j/9778035128?pwd=dmxxQjdIT0dWL2k0Tkd4V3VOaEdEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,280 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Системи технічного зору<br>Грицик В.В., 107a V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09" title="https://zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Системи технічного зору<br>Грицик В.В., 107a V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09" title="https://zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютеризовані системи цифрової обробки сигналів і зображень<br>Цмоць І.Г., 802б V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09" title="https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Комп`ютеризовані системи цифрової обробки сигналів і зображень<br>Цмоць І.Г., 804а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09" title="https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Комп`ютеризовані системи цифрової обробки сигналів і зображень<br>Цмоць І.Г., 804а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09" title="https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології обчислювального інтелекту<br>Ткаченко Р.О., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/awo-dbjn-wkz" title="https://meet.google.com/awo-dbjn-wkz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Технології обчислювального інтелекту<br>Ткаченко Р.О., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ajv-bfjp-egb" title="https://meet.google.com/ajv-bfjp-egb">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Технології обчислювального інтелекту<br>Ткаченко Р.О., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ajv-bfjp-egb" title="https://meet.google.com/ajv-bfjp-egb">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Надійність систем та програмного забезпечення<br>Медиковський М.О., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1YoZdMffxL4Zc8VUFz1cMPd1o-HoMVaXG-pK9XeNhZE1%40thread.tacv2/1644582054057?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22622e515b-cf7f-4799-ae90-b560d856082c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1YoZdMffxL4Zc8VUFz1cMPd1o-HoMVaXG-pK9XeNhZE1%40thread.tacv2/1644582054057?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22622e515b-cf7f-4799-ae90-b560d856082c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Надійність систем та програмного забезпечення<br>Медиковський М.О., 802б V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1YoZdMffxL4Zc8VUFz1cMPd1o-HoMVaXG-pK9XeNhZE1%40thread.tacv2/1644583421593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22622e515b-cf7f-4799-ae90-b560d856082c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1YoZdMffxL4Zc8VUFz1cMPd1o-HoMVaXG-pK9XeNhZE1%40thread.tacv2/1644583421593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22622e515b-cf7f-4799-ae90-b560d856082c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи технічного зору<br>Грицик В.В., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09" title="https://zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системи технічного зору<br>Грицик В.В., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09" title="https://zoom.us/j/94173864062?pwd=N1BJQm1vdWpweklyc2t5Q08wOHVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технології обчислювального інтелекту<br>Ткаченко Р.О., 414 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rwy-jsoy-zme" title="https://meet.google.com/rwy-jsoy-zme">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

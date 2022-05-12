@@ -1,0 +1,514 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економіка підприємств<br>Рисін М.В., 026 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae294a26de7be4fd9adc8b3c948a4aca6%40thread.tacv2/1644587286408?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b33fbf1-841e-44d7-bfe6-7b99157ddefb%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae294a26de7be4fd9adc8b3c948a4aca6%40thread.tacv2/1644587286408?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b33fbf1-841e-44d7-bfe6-7b99157ddefb%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Економіка підприємств<br>Рисін М.В., 026 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae294a26de7be4fd9adc8b3c948a4aca6%40thread.tacv2/1644587497778?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b33fbf1-841e-44d7-bfe6-7b99157ddefb%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae294a26de7be4fd9adc8b3c948a4aca6%40thread.tacv2/1644587497778?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b33fbf1-841e-44d7-bfe6-7b99157ddefb%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Основи хімії полімерів<br>Семенюк Н.Б., 026 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87216274454?pwd=UlJza2U4SmVHY1kxOURHeXc3eW1qUT09" title="https://us02web.zoom.us/j/87216274454?pwd=UlJza2U4SmVHY1kxOURHeXc3eW1qUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія основної неорганічної продукції<br>Сухацький Ю.В., 317 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aTf8EobZKnxWaFdmM_FJ1LWc_BMqdjbCAbjGZ1sMf0mk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=47877a94-ba4d-4b47-b3cb-69e5acc87f03&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aTf8EobZKnxWaFdmM_FJ1LWc_BMqdjbCAbjGZ1sMf0mk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=47877a94-ba4d-4b47-b3cb-69e5acc87f03&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Химко О.М., 318 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09" title="https://zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія основної неорганічної продукції<br>Сухацький Ю.В., 317 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aTf8EobZKnxWaFdmM_FJ1LWc_BMqdjbCAbjGZ1sMf0mk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=47877a94-ba4d-4b47-b3cb-69e5acc87f03&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aTf8EobZKnxWaFdmM_FJ1LWc_BMqdjbCAbjGZ1sMf0mk1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=47877a94-ba4d-4b47-b3cb-69e5acc87f03&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи хімії полімерів<br>Семенюк Н.Б., 023 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87216274454?pwd=UlJza2U4SmVHY1kxOURHeXc3eW1qUT09" title="https://us02web.zoom.us/j/87216274454?pwd=UlJza2U4SmVHY1kxOURHeXc3eW1qUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи хімії полімерів<br>Семенюк Н.Б., 301 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85925804480?pwd=NUVlWEx6bUNzMVQzbWFjbmYwUklyUT09" title="https://us02web.zoom.us/j/85925804480?pwd=NUVlWEx6bUNzMVQzbWFjbmYwUklyUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи хімії полімерів<br>Масюк А.С., 319 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98579582766?pwd=TWJuODE4NjVtejhBcmc2U3JxR2lQQT09" title="https://zoom.us/j/98579582766?pwd=TWJuODE4NjVtejhBcmc2U3JxR2lQQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи хімії полімерів<br>Семенюк Н.Б., 301 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85925804480?pwd=NUVlWEx6bUNzMVQzbWFjbmYwUklyUT09" title="https://us02web.zoom.us/j/85925804480?pwd=NUVlWEx6bUNzMVQzbWFjbmYwUklyUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи хімії полімерів<br>Масюк А.С., 319 VIII н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія силікатних матеріалів<br>Луцюк І.В., 010 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09" title="https://us02web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімія і технологія харчових добавок<br>Панченко Ю.В., 215 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fDfRnPAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo_QAAEA%3D%3D&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fDfRnPAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo_QAAEA%3D%3D&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія і технологія харчових добавок<br>Панченко Ю.В., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fZfb1gAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo_AAAEA%3D%3D&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fZfb1gAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo_AAAEA%3D%3D&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімія і технологія харчових добавок<br>Панченко Ю.В., 215 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fDfRnPAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo_QAAEA%3D%3D&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fDfRnPAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo_QAAEA%3D%3D&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія і технологія харчових добавок<br>Панченко Ю.В., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fZfb1gAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo_AAAEA%3D%3D&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fZfb1gAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo_AAAEA%3D%3D&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія основної неорганічної продукції<br>Сухацький Ю.В., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ajTQPn756DoXJGr5TPkWB0vVXpDSxHsobuM2M3eKTyKg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=5ce0cb1c-91e6-4e6f-a415-216f36180bb2&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ajTQPn756DoXJGr5TPkWB0vVXpDSxHsobuM2M3eKTyKg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=5ce0cb1c-91e6-4e6f-a415-216f36180bb2&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія основної неорганічної продукції<br>Сухацький Ю.В., 205 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ashQavJG_kjDgJRnVw-oIBtw-WkC3CgDN7p4eKTtakpI1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=6c677247-38fd-4166-b99a-6162730114c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ashQavJG_kjDgJRnVw-oIBtw-WkC3CgDN7p4eKTtakpI1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=6c677247-38fd-4166-b99a-6162730114c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімія мономерів<br>Моравський В.С., 028 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89927867536?pwd=S3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09" title="https://us02web.zoom.us/j/89927867536?pwd=S3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія мономерів<br>Масюк А.С., 319 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96608798151?pwd=Qi84R0o4TU5kUmYxTTdXd1VOeGxhdz09" title="https://zoom.us/j/96608798151?pwd=Qi84R0o4TU5kUmYxTTdXd1VOeGxhdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімія мономерів<br>Моравський В.С., 028 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89927867536?pwd=S3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09" title="https://us02web.zoom.us/j/89927867536?pwd=S3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія мономерів<br>Масюк А.С., 319 VIII н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Цьовх Л.П., корп. 21 , вул. Самчука 11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Стадник В.В., корп. 21 , вул. Самчука 11<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09" title="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Стасюк І.Д., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09" title="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

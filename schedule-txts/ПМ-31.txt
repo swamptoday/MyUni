@@ -1,0 +1,425 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математичне моделювання систем<br>Пабирівський В.В., 215 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5613515488?pwd=BJ-Kk0UVCpGoDYQklj3a9omnjBPdqE.1" title="https://us04web.zoom.us/j/5613515488?pwd=BJ-Kk0UVCpGoDYQklj3a9omnjBPdqE.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Візуальне програмування<br>Топилко П.І., 225а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wdn-iuge-bft" title="https://meet.google.com/wdn-iuge-bft">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Візуальне програмування<br>Пабирівський В.В., 225б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5613515488?pwd=BJ-Kk0UVCpGoDYQklj3a9omnjBPdqE.1" title="https://us04web.zoom.us/j/5613515488?pwd=BJ-Kk0UVCpGoDYQklj3a9omnjBPdqE.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Чисельні методи, частина 1<br>Пізюр Я.В., 215 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a8a6460d99ee5431e93cc56d913f7ee65%40thread.tacv2/conversations?groupId=ab88819a-d090-4802-8057-c4f102d9cc23&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a8a6460d99ee5431e93cc56d913f7ee65%40thread.tacv2/conversations?groupId=ab88819a-d090-4802-8057-c4f102d9cc23&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математична статистика<br>Юзефович Р.М., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2298738490?pwd=QkZoUjZyRVFaR1N0dHpGZno3K0ZyQT09" title="https://us04web.zoom.us/j/2298738490?pwd=QkZoUjZyRVFaR1N0dHpGZno3K0ZyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельні методи, частина 1<br>Пізюр Я.В., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Візуальне програмування<br>Гладун В.Р., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a_4kLoMygoyA0TzMgYSJH-J8K1nbHP3W_9v8oodXInBk1%40thread.tacv2/1644826747317?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c7e4da48-b06d-4ed5-923f-07798017b484%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a_4kLoMygoyA0TzMgYSJH-J8K1nbHP3W_9v8oodXInBk1%40thread.tacv2/1644826747317?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c7e4da48-b06d-4ed5-923f-07798017b484%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Візуальне програмування<br>Гладун В.Р., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a_4kLoMygoyA0TzMgYSJH-J8K1nbHP3W_9v8oodXInBk1%40thread.tacv2/1644826683499?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c7e4da48-b06d-4ed5-923f-07798017b484%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a_4kLoMygoyA0TzMgYSJH-J8K1nbHP3W_9v8oodXInBk1%40thread.tacv2/1644826683499?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c7e4da48-b06d-4ed5-923f-07798017b484%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Бізнес-планування та управління проектами<br>Шишковський С.В., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95239425310?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09 Пароль 1" title="https://zoom.us/j/95239425310?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09 Пароль 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фінансово-кредитне забезпечення власного бізнесу<br>Сергеєв О.М., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aXXb_duRc6kIKcimSjVs1QD8zrJicMt6txWHCLqqC0pU1%40thread.tacv2/1644838381335?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aXXb_duRc6kIKcimSjVs1QD8zrJicMt6txWHCLqqC0pU1%40thread.tacv2/1644838381335?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Чисельні методи, частина 1<br>Пізюр Я.В., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математичне моделювання систем<br>Уханська О.М., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ims-qsyw-qfq" title="https://meet.google.com/ims-qsyw-qfq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичне моделювання систем<br>Уханська О.М., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pxy-tmje" title="https://meet.google.com/pxy-tmje">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Чисельні методи, частина 1<br>Бандирський Б.Й., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a98fdfe44388f468bb288d90773062c14%40thread.tacv2/1644235858004?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222397559e-794b-4491-9a9b-c5fa3d059467%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a98fdfe44388f468bb288d90773062c14%40thread.tacv2/1644235858004?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222397559e-794b-4491-9a9b-c5fa3d059467%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Візуальне програмування<br>Пабирівський В.В., 225а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5613515488?pwd=BJ-Kk0UVCpGoDYQklj3a9omnjBPdqE.1" title="https://us04web.zoom.us/j/5613515488?pwd=BJ-Kk0UVCpGoDYQklj3a9omnjBPdqE.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Візуальне програмування<br>Топилко П.І., 225б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wdn-iuge-bft" title="https://meet.google.com/wdn-iuge-bft">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Чисельні методи, частина 1<br>Мединський І.П., 225c IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/fdu-fmkf-ofd" title="https://meet.google.com/fdu-fmkf-ofd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математична статистика<br>Антонова Т.М., 215 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92104979270?pwd=VWFUZlNCdmJjbk5aS1FicXQ2MTRnZz09" title="https://zoom.us/j/92104979270?pwd=VWFUZlNCdmJjbk5aS1FicXQ2MTRnZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фінансово-кредитне забезпечення власного бізнесу<br>Сергеєв О.М., 213 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aXXb_duRc6kIKcimSjVs1QD8zrJicMt6txWHCLqqC0pU1%40thread.tacv2/1644838200430?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aXXb_duRc6kIKcimSjVs1QD8zrJicMt6txWHCLqqC0pU1%40thread.tacv2/1644838200430?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Бізнес-планування та управління проектами<br>Лучко Г.Й., 213 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88284898058?pwd=TkZLeU1MY2d5eUpqeTJ5WUJTRHlVUT09 (пароль 1)" title="https://us02web.zoom.us/j/88284898058?pwd=TkZLeU1MY2d5eUpqeTJ5WUJTRHlVUT09 (пароль 1)">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

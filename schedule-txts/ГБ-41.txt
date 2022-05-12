@@ -1,0 +1,284 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., 225 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рибогосподарські споруди<br>Гнатів Р.М., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09" title="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., 217 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатація водогосподарських споруд<br>Попадюк І.Ю., 105 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09" title="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Експлуатація водогосподарських споруд<br>Попадюк І.Ю., 213 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09" title="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатація водогосподарських споруд<br>Попадюк І.Ю., 213 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09" title="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатація водогосподарських споруд<br>Попадюк І.Ю., 411 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09" title="https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рибогосподарські споруди<br>Гнатів Р.М., 214 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09" title="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рибогосподарські споруди<br>Гнатів Р.М., 214 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09" title="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

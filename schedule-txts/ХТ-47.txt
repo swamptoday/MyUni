@@ -1,0 +1,313 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Стасюк І.Д., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09" title="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Стасюк І.Д., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09" title="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2<br>Нагурський А.О., 307 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09" title="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2<br>Нагурський А.О., 307 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09" title="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Вашкурак Ю.З., 318 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09" title="https://zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розрахунок і контруювання машин та апаратів хімічної технології, частина 2<br>Атаманюк В.М., 307 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTRlN2I3MmUtNWVhMS00NDcwLWE2NjgtY2RkYzdlOGYxZTZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTRlN2I3MmUtNWVhMS00NDcwLWE2NjgtY2RkYzdlOGYxZTZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розрахунок і контруювання машин та апаратів хімічної технології, частина 2<br>Атаманюк В.М., 307 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDk5YjFlYjMtOWIzZS00OTlkLWJhZDItYWIxNDc0NTQyODhm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDk5YjFlYjMtOWIzZS00OTlkLWJhZDItYWIxNDc0NTQyODhm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розрахунок і контруювання машин та апаратів хімічної технології, частина 2<br>Нагурський А.О., 021 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09" title="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розрахунок і контруювання машин та апаратів хімічної технології, частина 2<br>Атаманюк В.М., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmU0YmQ1MTYtYWU1MS00ZmZiLWIwMWUtYTJjN2E0ZTc1Y2Iw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmU0YmQ1MTYtYWU1MS00ZmZiLWIwMWUtYTJjN2E0ZTc1Y2Iw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2<br>Нагурський А.О., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09" title="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розрахунок і контруювання машин та апаратів хімічної технології, частина 2<br>Нагурський А.О., 307 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09" title="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2<br>Нагурський А.О., 307 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09" title="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2<br>Нагурський А.О., 307 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09" title="https://zoom.us/j/95311582135?pwd=VnVPSGt5QmY5QkRHaHJJUTBoVjJSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

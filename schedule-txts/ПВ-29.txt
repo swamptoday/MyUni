@@ -1,0 +1,335 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цивільне право , частина 1<br>Маркович Х.М., 32 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2425615643?pwd=THpxVE5MeElPbmp4Tzk0ZUpmemN4dz09" title="https://us02web.zoom.us/j/2425615643?pwd=THpxVE5MeElPbmp4Tzk0ZUpmemN4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Хрипач А.Г., Заліско О.К., Блавт О.З., Самчука 11, 14.40-16.10 дівчата<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71994425527?pwd=aGJna0N4QVhiYi9KSEpjZXBkYzJ2Zz09" title="https://us04web.zoom.us/j/71994425527?pwd=aGJna0N4QVhiYi9KSEpjZXBkYzJ2Zz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/7390856939?pwd=NlpiSFpHemN5TDJYRks1ZkczMGYzdz09" title="https://us05web.zoom.us/j/7390856939?pwd=NlpiSFpHemN5TDJYRks1ZkczMGYzdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародне право<br>Богів Я.С., 26 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8537304635?pwd=TDMzb05nYUhBb0g5QnJia0VCVDdSdz09" title="https://zoom.us/j/8537304635?pwd=TDMzb05nYUhBb0g5QnJia0VCVDdSdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кримінальне право, частина 2<br>Маськовіта М.М., 26 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73754210272?pwd=d1CAeMY3yEY7sV1X8FWQkhof169Dqd.1" title="https://us04web.zoom.us/j/73754210272?pwd=d1CAeMY3yEY7sV1X8FWQkhof169Dqd.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кримінальне право, частина 2<br>Маськовіта М.М., 26 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78754921663?pwd=leZnwgzz8noq-n2-UhubH6F-LznGrc.1" title="https://us04web.zoom.us/j/78754921663?pwd=leZnwgzz8noq-n2-UhubH6F-LznGrc.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кримінальне право, частина 2<br>Гузела М.В., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09" title="https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Кадикало А.М., +ПЦ,ПД25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aa99b3acf55e6439d976f7c132e10bea5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4e4e63dc-f629-4388-bcc0-e0c65d31571e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aa99b3acf55e6439d976f7c132e10bea5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4e4e63dc-f629-4388-bcc0-e0c65d31571e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цивільне право , частина 1<br>Парасюк М.В., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9828500063?pwd=MGhjVWpNSTRPT3UrdldOeUg1eGI0dz09" title="https://us02web.zoom.us/j/9828500063?pwd=MGhjVWpNSTRPT3UrdldOeUg1eGI0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Судова риторика<br>Сковронський Д.М., 332 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ifv-fjsg-xbh" title="https://meet.google.com/ifv-fjsg-xbh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародне право<br>Сірант М.М., 332 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98432023817?pwd=TnVqbnE3L1N0TU5UUUdtY2h5ZTJmUT09" title="https://zoom.us/j/98432023817?pwd=TnVqbnE3L1N0TU5UUUdtY2h5ZTJmUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кримінальне право, частина 2<br>Гузела М.В., 34 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09" title="https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цивільне право , частина 1<br>Парасюк М.В., 34 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9828500063?pwd=MGhjVWpNSTRPT3UrdldOeUg1eGI0dz09" title="https://us02web.zoom.us/j/9828500063?pwd=MGhjVWpNSTRPT3UrdldOeUg1eGI0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Судова риторика<br>Сковронський Д.М., 324а XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/kdv-yxbg-equ" title="https://meet.google.com/kdv-yxbg-equ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Кадикало А.М., 36 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aa99b3acf55e6439d976f7c132e10bea5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4e4e63dc-f629-4388-bcc0-e0c65d31571e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aa99b3acf55e6439d976f7c132e10bea5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4e4e63dc-f629-4388-bcc0-e0c65d31571e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

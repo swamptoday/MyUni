@@ -1,0 +1,302 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Перспективні технології водоочищення<br>Буклів Р.Л., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3as9lCYfYYHsp8oCExHeVJgYPq7dd1KzYFSiLRMh1g9Io1%40thread.tacv2/conversations?groupId=88d2e229-4de7-47f5-b1c0-675eaea905e8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3as9lCYfYYHsp8oCExHeVJgYPq7dd1KzYFSiLRMh1g9Io1%40thread.tacv2/conversations?groupId=88d2e229-4de7-47f5-b1c0-675eaea905e8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології неорганічних речовин (частина 2)<br>Буклів Р.Л., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a8DXi9D2xlBjj_Pvz4kfZF7CTymojeAD1K-ZtgJ0btWM1%40thread.tacv2/conversations?groupId=47d5660e-c9a0-47da-92e8-304fa9ddb401&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a8DXi9D2xlBjj_Pvz4kfZF7CTymojeAD1K-ZtgJ0btWM1%40thread.tacv2/conversations?groupId=47d5660e-c9a0-47da-92e8-304fa9ddb401&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технології неорганічних речовин (частина 1)<br>Слюзар А.В., Сухацький Ю.В., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aE21UadmqXS3oCfI7d8USj7SXqJ3yr8x5TqvuHZ8TCc81%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=8140b845-72fa-46be-bb97-8b1822768eac&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aE21UadmqXS3oCfI7d8USj7SXqJ3yr8x5TqvuHZ8TCc81%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=8140b845-72fa-46be-bb97-8b1822768eac&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9282771193?pwd=dWRDcHVnbDh3aElrOTRLeW5xQ0wwZz09" title="https://zoom.us/j/9282771193?pwd=dWRDcHVnbDh3aElrOTRLeW5xQ0wwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технології неорганічних речовин (частина 1)<br>Слюзар А.В., Сухацький Ю.В., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aE21UadmqXS3oCfI7d8USj7SXqJ3yr8x5TqvuHZ8TCc81%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=8140b845-72fa-46be-bb97-8b1822768eac&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aE21UadmqXS3oCfI7d8USj7SXqJ3yr8x5TqvuHZ8TCc81%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=8140b845-72fa-46be-bb97-8b1822768eac&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9282771193?pwd=dWRDcHVnbDh3aElrOTRLeW5xQ0wwZz09" title="https://zoom.us/j/9282771193?pwd=dWRDcHVnbDh3aElrOTRLeW5xQ0wwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні процеси у технології неорганічних речовин<br>Гелеш А.Б., Знак З.О., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aBJJpcxFSMdnMk83dEHLdfMlZLT5xZDpVIHMribDK4c41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0aab5796-cb82-4173-9e03-2991c23c19f7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aBJJpcxFSMdnMk83dEHLdfMlZLT5xZDpVIHMribDK4c41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0aab5796-cb82-4173-9e03-2991c23c19f7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73150607790?pwd=-2e7QiE76xUkOpCUHDMqkaffUXnnBx.1" title="https://us04web.zoom.us/j/73150607790?pwd=-2e7QiE76xUkOpCUHDMqkaffUXnnBx.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Перспективні технології водоочищення<br>Буклів Р.Л., 207 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3as9lCYfYYHsp8oCExHeVJgYPq7dd1KzYFSiLRMh1g9Io1%40thread.tacv2/conversations?groupId=88d2e229-4de7-47f5-b1c0-675eaea905e8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3as9lCYfYYHsp8oCExHeVJgYPq7dd1KzYFSiLRMh1g9Io1%40thread.tacv2/conversations?groupId=88d2e229-4de7-47f5-b1c0-675eaea905e8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні процеси у технології неорганічних речовин<br>Знак З.О., Гелеш А.Б., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aBJJpcxFSMdnMk83dEHLdfMlZLT5xZDpVIHMribDK4c41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0aab5796-cb82-4173-9e03-2991c23c19f7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aBJJpcxFSMdnMk83dEHLdfMlZLT5xZDpVIHMribDK4c41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0aab5796-cb82-4173-9e03-2991c23c19f7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73150607790?pwd=-2e7QiE76xUkOpCUHDMqkaffUXnnBx.1" title="https://us04web.zoom.us/j/73150607790?pwd=-2e7QiE76xUkOpCUHDMqkaffUXnnBx.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Перспективні технології водоочищення<br>Буклів Р.Л., 207 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3as9lCYfYYHsp8oCExHeVJgYPq7dd1KzYFSiLRMh1g9Io1%40thread.tacv2/conversations?groupId=88d2e229-4de7-47f5-b1c0-675eaea905e8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3as9lCYfYYHsp8oCExHeVJgYPq7dd1KzYFSiLRMh1g9Io1%40thread.tacv2/conversations?groupId=88d2e229-4de7-47f5-b1c0-675eaea905e8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології неорганічних речовин (частина 1)<br>Курилець О.Г., 314 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ayshPDKlQX4qJTnnFFZTqcU9NWiN5Aj1_uTqM1NOAenw1%40thread.tacv2/1644567739321?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8b80e08-ac67-4969-87bb-117edf4831b4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ayshPDKlQX4qJTnnFFZTqcU9NWiN5Aj1_uTqM1NOAenw1%40thread.tacv2/1644567739321?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8b80e08-ac67-4969-87bb-117edf4831b4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні процеси у технології неорганічних речовин<br>Знак З.О., 314 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3az10-Ah7r2ICf9fdCUpP_FVy6v0UhTUlgxfHqvGmg8VI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=42f3645d-8b38-4aad-9659-ae3a23264570&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3az10-Ah7r2ICf9fdCUpP_FVy6v0UhTUlgxfHqvGmg8VI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=42f3645d-8b38-4aad-9659-ae3a23264570&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технології неорганічних речовин (частина 2)<br>Зозуля Г.І., 205 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09" title="https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Технології неорганічних речовин (частина 2)<br>Зозуля Г.І., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09" title="https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технології неорганічних речовин (частина 2)<br>Зозуля Г.І., 205 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09" title="https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Технології неорганічних речовин (частина 2)<br>Зозуля Г.І., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09" title="https://us04web.zoom.us/j/2722015462?pwd=Z3Nud2YyMm50bTZhL0VwTWFLWVJGdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

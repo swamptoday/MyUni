@@ -1,0 +1,366 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електротехніка та пожежна профілактика в електроустановках<br>Шелех Ю.Л., 202 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aE1ibhaQnylzZaK6FEJsmP3MTsayIKH8KsJoL5SLRe3g1%40thread.tacv2/1644239229060?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c051d39c-3b44-4502-925d-c671392d31b9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aE1ibhaQnylzZaK6FEJsmP3MTsayIKH8KsJoL5SLRe3g1%40thread.tacv2/1644239229060?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c051d39c-3b44-4502-925d-c671392d31b9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівельна механіка<br>Шиндер В.К., 227 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ai6b4drfgJXGmP4U7vlp8_i5V2o5HH56r-i1Qa8qXXTY1%40thread.tacv2/1644581330516?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ai6b4drfgJXGmP4U7vlp8_i5V2o5HH56r-i1Qa8qXXTY1%40thread.tacv2/1644581330516?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Гідравліка та протипожежне водопостачання<br>Чернюк В.В., 202 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Гідравліка та протипожежне водопостачання<br>Чернюк В.В., 202 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Гідравліка та протипожежне водопостачання<br>Чернюк В.В., 202 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Гідравліка та протипожежне водопостачання<br>Чернюк В.В., 202 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівельна механіка<br>Шиндер В.К., 227 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ai6b4drfgJXGmP4U7vlp8_i5V2o5HH56r-i1Qa8qXXTY1%40thread.tacv2/1644581955988?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ai6b4drfgJXGmP4U7vlp8_i5V2o5HH56r-i1Qa8qXXTY1%40thread.tacv2/1644581955988?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Фестрига С.В., Цьовх Л.П., Блавт О.З., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/87061434911?pwd=MTYwZVpRbnVDMUsvNFk3MHZiUzA1dz09" title="https://us05web.zoom.us/j/87061434911?pwd=MTYwZVpRbnVDMUsvNFk3MHZiUzA1dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Електротехніка та пожежна профілактика в електроустановках<br>Шелех Ю.Л., 405 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aE1ibhaQnylzZaK6FEJsmP3MTsayIKH8KsJoL5SLRe3g1%40thread.tacv2/1644239592288?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c051d39c-3b44-4502-925d-c671392d31b9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aE1ibhaQnylzZaK6FEJsmP3MTsayIKH8KsJoL5SLRe3g1%40thread.tacv2/1644239592288?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c051d39c-3b44-4502-925d-c671392d31b9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Електротехніка та пожежна профілактика в електроустановках<br>Шелех Ю.Л., 405 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aE1ibhaQnylzZaK6FEJsmP3MTsayIKH8KsJoL5SLRe3g1%40thread.tacv2/1644240150164?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c051d39c-3b44-4502-925d-c671392d31b9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aE1ibhaQnylzZaK6FEJsmP3MTsayIKH8KsJoL5SLRe3g1%40thread.tacv2/1644240150164?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c051d39c-3b44-4502-925d-c671392d31b9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Автоматизовані системи управління та зв`язок<br>Пелішок В.О., 303 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MmQzMmt2MG1rMXVjYWtla24xcXBvaWVrajhfMjAyMjAyMjRUMDYzMDAwWiB2b2xvZHlteXIuby5wZWxpc2hva0BscG51LnVh&amp;tmsrc=volodymyr.o.pelishok%40lpnu.ua&amp;scp=ALL" title="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MmQzMmt2MG1rMXVjYWtla24xcXBvaWVrajhfMjAyMjAyMjRUMDYzMDAwWiB2b2xvZHlteXIuby5wZWxpc2hva0BscG51LnVh&amp;tmsrc=volodymyr.o.pelishok%40lpnu.ua&amp;scp=ALL">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Автоматизовані системи управління та зв`язок<br>Пелішок В.О., 303 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnFnZ2RqNmt2NWo3ZWNwbG1yaWlqMjA0cDNfMjAyMjAyMTdUMDYzMDAwWiB2b2xvZHlteXIuby5wZWxpc2hva0BscG51LnVh&amp;tmsrc=volodymyr.o.pelishok%40lpnu.ua&amp;scp=ALL" title="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnFnZ2RqNmt2NWo3ZWNwbG1yaWlqMjA0cDNfMjAyMjAyMTdUMDYzMDAwWiB2b2xvZHlteXIuby5wZWxpc2hva0BscG51LnVh&amp;tmsrc=volodymyr.o.pelishok%40lpnu.ua&amp;scp=ALL">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівельна механіка<br>Шиндер В.К., 112а II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ai6b4drfgJXGmP4U7vlp8_i5V2o5HH56r-i1Qa8qXXTY1%40thread.tacv2/1644582073209?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ai6b4drfgJXGmP4U7vlp8_i5V2o5HH56r-i1Qa8qXXTY1%40thread.tacv2/1644582073209?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прикладна механіка<br>Данило Я.Я., 303 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09" title="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Прикладна механіка<br>Данило Я.Я., 302 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09" title="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Автоматизовані системи управління та зв`язок<br>Пелішок В.О., 201 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Njc1aWY4ZTdqdG5odXFpa290bGZlZmVmNW1fMjAyMjAyMjVUMDYzMDAwWiB2b2xvZHlteXIuby5wZWxpc2hva0BscG51LnVh&amp;tmsrc=volodymyr.o.pelishok%40lpnu.ua&amp;scp=ALL" title="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Njc1aWY4ZTdqdG5odXFpa290bGZlZmVmNW1fMjAyMjAyMjVUMDYzMDAwWiB2b2xvZHlteXIuby5wZWxpc2hva0BscG51LnVh&amp;tmsrc=volodymyr.o.pelishok%40lpnu.ua&amp;scp=ALL">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прикладна механіка<br>Данило Я.Я., 302 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09" title="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

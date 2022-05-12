@@ -1,0 +1,240 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теплогенеруючі установки теплоелектростанцій та режими їх роботи<br>Заяць М.Ф., 207 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09" title="https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теплогенеруючі установки теплоелектростанцій та режими їх роботи<br>Заяць М.Ф., 207 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09" title="https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи власних потреб атомних електростанцій<br>Василів К.М., 205а V н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Координація ізоляції в електроустановках<br>Ференсович Р.Я., 205в V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a0257ebfa9db34f39a3633dd2683def18%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=a94a7f9a-ed16-46d8-8994-e8d029570124&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a0257ebfa9db34f39a3633dd2683def18%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=a94a7f9a-ed16-46d8-8994-e8d029570124&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теплогенеруючі установки теплоелектростанцій та режими їх роботи<br>Заяць М.Ф., 57 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09" title="https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи власних потреб атомних електростанцій<br>Василів К.М., 205в V н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування електричними станціями<br>Покровський К.Б., 205а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ae38ad3188ce742eca7461d15cbe75b83%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=de6e6f7b-2e69-4589-b519-a8f82f0b5e0d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ae38ad3188ce742eca7461d15cbe75b83%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=de6e6f7b-2e69-4589-b519-a8f82f0b5e0d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи керування електричними станціями<br>Покровський К.Б., 404 V н.к., 407а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ae38ad3188ce742eca7461d15cbe75b83%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=de6e6f7b-2e69-4589-b519-a8f82f0b5e0d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ae38ad3188ce742eca7461d15cbe75b83%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=de6e6f7b-2e69-4589-b519-a8f82f0b5e0d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Координація ізоляції в електроустановках<br>Ференсович Р.Я., 305а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5e347e3efaf847da8a438c783fb0eec1%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B8?groupId=a94a7f9a-ed16-46d8-8994-e8d029570124&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5e347e3efaf847da8a438c783fb0eec1%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B8?groupId=a94a7f9a-ed16-46d8-8994-e8d029570124&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Координація ізоляції в електроустановках<br>Ференсович Р.Я., 305а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5e347e3efaf847da8a438c783fb0eec1%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B8?groupId=a94a7f9a-ed16-46d8-8994-e8d029570124&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5e347e3efaf847da8a438c783fb0eec1%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B8?groupId=a94a7f9a-ed16-46d8-8994-e8d029570124&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

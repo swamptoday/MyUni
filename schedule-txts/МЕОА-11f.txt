@@ -1,0 +1,314 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електронна комерція<br>Дзюбіна А.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09" title="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління корпоративними змінами<br>Іванюк У.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89240882246?pwd=eXNwOUZEUXJuWkdXTG42OTZRbG5iZz09" title="https://us05web.zoom.us/j/89240882246?pwd=eXNwOUZEUXJuWkdXTG42OTZRbG5iZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектний менеджмент<br>Бойко В.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd" title="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління корпоративними змінами<br>Іванюк У.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/88968403725?pwd=RFk3dUZ0bEt0YnoxYTdBWjhkUmdqQT09" title="https://us05web.zoom.us/j/88968403725?pwd=RFk3dUZ0bEt0YnoxYTdBWjhkUmdqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інфраструктура малого та середнього бізнесу<br>Прокопишин-Рашкевич Л.М., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83042496919?pwd=Z3JjbCtpWlN6QWJOazI1b09yaXhWdz09  Meeting ID: 830 4249 6919 Passcode: 55555" title="https://us02web.zoom.us/j/83042496919?pwd=Z3JjbCtpWlN6QWJOazI1b09yaXhWdz09  Meeting ID: 830 4249 6919 Passcode: 55555">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проектний менеджмент<br>Бондаренко Ю.Г., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09 Meeting ID: 828 961 0449 Passcode: 11" title="https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09 Meeting ID: 828 961 0449 Passcode: 11">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інфраструктура малого та середнього бізнесу<br>Огінок С.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09" title="https://us04web.zoom.us/j/2029330665?pwd=Z3pJaEE2Zjk1N1ZwMnBsSXp1THZXQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Консалтинг<br>Карий О.І., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83098355864?pwd=NHFLWmlvd29DeHdpR3FjNUx4U013dz09" title="https://us02web.zoom.us/j/83098355864?pwd=NHFLWmlvd29DeHdpR3FjNUx4U013dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетинговий менеджмент у малому і середньому бізнесі<br>Чухрай Н.І., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99330826764?pwd=UW5zdURuNlEzcEM3V3A2Umk0TFFzUT09" title="https://zoom.us/j/99330826764?pwd=UW5zdURuNlEzcEM3V3A2Umk0TFFzUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Прогнозування економічних процесів<br>Войцеховська Ю.В., Кулініч Т.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91955357084?pwd=dTR0bTk2Yk4wVlIyNXAwNjlNS0o2UT09" title="https://zoom.us/j/91955357084?pwd=dTR0bTk2Yk4wVlIyNXAwNjlNS0o2UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прогнозування економічних процесів<br>Кулініч Т.В., Войцеховська Ю.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83845611958?pwd=N2g4NzBMb1JQb09xQ3dhdEEvVVBvdz09" title="https://us02web.zoom.us/j/83845611958?pwd=N2g4NzBMb1JQb09xQ3dhdEEvVVBvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетинговий менеджмент у малому і середньому бізнесі<br>Кулиняк І.Я., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76994934639?pwd=0VXmjClCPKIkpXyrkCof2lfHeszHcX.1" title="https://us04web.zoom.us/j/76994934639?pwd=0VXmjClCPKIkpXyrkCof2lfHeszHcX.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електронна комерція<br>Дзюбіна А.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09" title="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Консалтинг<br>Гвоздь М.Я., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09  Meeting ID: 605 861 3984 Passcode: 7777" title="https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09  Meeting ID: 605 861 3984 Passcode: 7777">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

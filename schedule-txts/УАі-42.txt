@@ -1,0 +1,198 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Антимонопольне регулювання, частина 2<br>Михальчишин Н.Л., 205 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3atwWS9N-e0tAUKQmammZ0WkE0nX-wIX5RZQT6Ff_E0kw1%40thread.tacv2/conversations?groupId=d2f71b38-69cb-486d-a08c-760f945142d1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3atwWS9N-e0tAUKQmammZ0WkE0nX-wIX5RZQT6Ff_E0kw1%40thread.tacv2/conversations?groupId=d2f71b38-69cb-486d-a08c-760f945142d1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Антимонопольне регулювання, частина 2<br>Михальчишин Н.Л., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3atwWS9N-e0tAUKQmammZ0WkE0nX-wIX5RZQT6Ff_E0kw1%40thread.tacv2/conversations?groupId=d2f71b38-69cb-486d-a08c-760f945142d1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3atwWS9N-e0tAUKQmammZ0WkE0nX-wIX5RZQT6Ff_E0kw1%40thread.tacv2/conversations?groupId=d2f71b38-69cb-486d-a08c-760f945142d1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Антимонопольне регулювання, частина 2<br>Михальчишин Н.Л., 401 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3atwWS9N-e0tAUKQmammZ0WkE0nX-wIX5RZQT6Ff_E0kw1%40thread.tacv2/conversations?groupId=d2f71b38-69cb-486d-a08c-760f945142d1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3atwWS9N-e0tAUKQmammZ0WkE0nX-wIX5RZQT6Ff_E0kw1%40thread.tacv2/conversations?groupId=d2f71b38-69cb-486d-a08c-760f945142d1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Антимонопольне регулювання, частина 2<br>Михальчишин Н.Л., 401 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3atwWS9N-e0tAUKQmammZ0WkE0nX-wIX5RZQT6Ff_E0kw1%40thread.tacv2/conversations?groupId=d2f71b38-69cb-486d-a08c-760f945142d1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3atwWS9N-e0tAUKQmammZ0WkE0nX-wIX5RZQT6Ff_E0kw1%40thread.tacv2/conversations?groupId=d2f71b38-69cb-486d-a08c-760f945142d1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Захист прав та інтересів осіб у господарській діяльності<br>Гуменюк В.В., 110 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87930631116?pwd=YU5ZQmtFK1NMSXlvSmRRWEJGM2luQT09" title="https://us02web.zoom.us/j/87930631116?pwd=YU5ZQmtFK1NMSXlvSmRRWEJGM2luQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Захист прав та інтересів осіб у господарській діяльності<br>Гуменюк В.В., 401 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82383895352?pwd=QUVEU0huUkdBcXlPVUpZZnBpa2xFUT09" title="https://us02web.zoom.us/j/82383895352?pwd=QUVEU0huUkdBcXlPVUpZZnBpa2xFUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Захист прав та інтересів осіб у господарській діяльності<br>Гуменюк В.В., 401 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81840536836?pwd=eGlqbWhOSWpqamFXVTd1dWJGK0dKUT09" title="https://us02web.zoom.us/j/81840536836?pwd=eGlqbWhOSWpqamFXVTd1dWJGK0dKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Захист прав та інтересів осіб у господарській діяльності<br>Гуменюк В.В., 401 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86932049875?pwd=b2ZFdEdNWnN6VjV2bVRtZlhoOFN0UT09" title="https://us02web.zoom.us/j/86932049875?pwd=b2ZFdEdNWnN6VjV2bVRtZlhoOFN0UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,365 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промислова розробка програмних продуктів<br>Любінський Б.Б., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Хмарні технології<br>Сеник А.П., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/gxb-feon-vkz" title="https://meet.google.com/gxb-feon-vkz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Хмарні технології<br>Сеник А.П., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/gxb-feon-vkz" title="https://meet.google.com/gxb-feon-vkz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Хмарні технології<br>Сеник А.П., 225c IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/gxb-feon-vkz" title="https://meet.google.com/gxb-feon-vkz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Хмарні технології<br>Сеник А.П., 225c IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/gxb-feon-vkz" title="https://meet.google.com/gxb-feon-vkz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промислова розробка програмних продуктів<br>Любінський Б.Б., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Промислова розробка програмних продуктів<br>Любінський Б.Б., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хмарні технології<br>Любінський Б.Б., 509 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5H_qMuWW2yq9dxwdkQ8FxKfqQFCFWV8y95xq1fJSy5k1%40thread.tacv2/General?groupId=758f7223-94a6-4fb3-ae98-9f9ef9602d58&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5H_qMuWW2yq9dxwdkQ8FxKfqQFCFWV8y95xq1fJSy5k1%40thread.tacv2/General?groupId=758f7223-94a6-4fb3-ae98-9f9ef9602d58&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нейронні мережі<br>Алєксєєв В.І., 509 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/voo-kcbn-yfz" title="https://meet.google.com/voo-kcbn-yfz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нейронні мережі<br>Алєксєєв В.І., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/voo-kcbn-yfz" title="https://meet.google.com/voo-kcbn-yfz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промислова розробка програмних продуктів<br>Любінський Б.Б., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aNztYVdv739_YFJRS3aCWhUZ4Q3BdMpHQVK3MuhWr3K01%40thread.tacv2/General?groupId=5c7173a2-e5e8-4cfc-8939-36ac4e28771b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хмарні технології<br>Любінський Б.Б., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5H_qMuWW2yq9dxwdkQ8FxKfqQFCFWV8y95xq1fJSy5k1%40thread.tacv2/General?groupId=758f7223-94a6-4fb3-ae98-9f9ef9602d58&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5H_qMuWW2yq9dxwdkQ8FxKfqQFCFWV8y95xq1fJSy5k1%40thread.tacv2/General?groupId=758f7223-94a6-4fb3-ae98-9f9ef9602d58&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Нейронні мережі<br>Польовий В.Є., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xsq-poog-kkq" title="https://meet.google.com/xsq-poog-kkq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Нейронні мережі<br>Польовий В.Є., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xsq-poog-kkq" title="https://meet.google.com/xsq-poog-kkq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Нейронні мережі<br>Топилко П.І., 225б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/suu-zmka-ajd" title="https://meet.google.com/suu-zmka-ajd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Нейронні мережі<br>Топилко П.І., 225б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/suu-zmka-ajd" title="https://meet.google.com/suu-zmka-ajd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

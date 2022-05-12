@@ -1,0 +1,264 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи промислової екології, частина 2<br>Дячок В.В., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZhMmRkNjQtNGEzNS00MTliLWI3YzktNzMyN2U3NWFlMTdk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGZhMmRkNjQtNGEzNS00MTliLWI3YzktNzMyN2U3NWFlMTdk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи екологічно безпечних технологій<br>Руда М.В., 113 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88944626775?pwd=bGJTeEJ0aVR1WGRiYjI4R0dMNmxOQT09" title="https://us02web.zoom.us/j/88944626775?pwd=bGJTeEJ0aVR1WGRiYjI4R0dMNmxOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи екологічно безпечних технологій<br>Руда М.В., 113 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88944626775?pwd=bGJTeEJ0aVR1WGRiYjI4R0dMNmxOQT09" title="https://us02web.zoom.us/j/88944626775?pwd=bGJTeEJ0aVR1WGRiYjI4R0dMNmxOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи екологічно безпечних технологій<br>Руда М.В., 8 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85733693496?pwd=dWhXMjJ0K2ZMck9YSnppOHI4a3ljQT09" title="https://us02web.zoom.us/j/85733693496?pwd=dWhXMjJ0K2ZMck9YSnppOHI4a3ljQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи екологічно безпечних технологій<br>Руда М.В., 115 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81614596980?pwd=QVNsL3JZWk9FOWtWM0hWZi91UElYUT09" title="https://us02web.zoom.us/j/81614596980?pwd=QVNsL3JZWk9FOWtWM0hWZi91UElYUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи екологічно безпечних технологій<br>Руда М.В., 115 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81614596980?pwd=QVNsL3JZWk9FOWtWM0hWZi91UElYUT09" title="https://us02web.zoom.us/j/81614596980?pwd=QVNsL3JZWk9FOWtWM0hWZi91UElYUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи промислової екології, частина 2<br>Дячок В.В., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFjZGY4NDktY2QwZC00NTcwLWFkNjctNzM5NzhjNzI0NDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFjZGY4NDktY2QwZC00NTcwLWFkNjctNzM5NzhjNzI0NDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи промислової екології, частина 2<br>Дячок В.В., 114 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFjZGY4NDktY2QwZC00NTcwLWFkNjctNzM5NzhjNzI0NDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFjZGY4NDktY2QwZC00NTcwLWFkNjctNzM5NzhjNzI0NDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи промислової екології, частина 2<br>Дячок В.В., 114 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFjZGY4NDktY2QwZC00NTcwLWFkNjctNzM5NzhjNzI0NDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFjZGY4NDktY2QwZC00NTcwLWFkNjctNzM5NzhjNzI0NDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи промислової екології, частина 2<br>Середа А.С., 012 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2A5cFdoeIWce25zG-wT66HJv_Nsp2sjOFcei12nge901%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3dd1f031-e434-49a2-ae36-3c2b7d2f9a02&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2A5cFdoeIWce25zG-wT66HJv_Nsp2sjOFcei12nge901%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3dd1f031-e434-49a2-ae36-3c2b7d2f9a02&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи промислової екології, частина 2<br>Середа А.С., 012 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a2A5cFdoeIWce25zG-wT66HJv_Nsp2sjOFcei12nge901%40thread.tacv2/1645096315542?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22406928d7-b13c-4cc1-8ee3-a3dc67ad5075%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a2A5cFdoeIWce25zG-wT66HJv_Nsp2sjOFcei12nge901%40thread.tacv2/1645096315542?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22406928d7-b13c-4cc1-8ee3-a3dc67ad5075%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

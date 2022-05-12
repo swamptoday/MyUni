@@ -1,0 +1,358 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Туристичні ресурси України<br>Хома І.Я., 204 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c" title="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Політологія<br>Корнат Л.Я., 526а IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pus-vhfp-vdn" title="https://meet.google.com/pus-vhfp-vdn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Туристичні ресурси України<br>Хома І.Я., 204 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c" title="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Коваль А.Я., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3apIp3fuCum5Ne4GmjQ883Lrdr_uz9k69__ZaD-dH-F_01%40thread.tacv2/General?groupId=7bd53ad6-84d5-423e-aa90-78aa20a561f3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3apIp3fuCum5Ne4GmjQ883Lrdr_uz9k69__ZaD-dH-F_01%40thread.tacv2/General?groupId=7bd53ad6-84d5-423e-aa90-78aa20a561f3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Туристичні ресурси України<br>Хома І.Я., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c" title="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 4<br>Цубова О.Л., 46 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72629219219?pwd=qLbmJfvVq0fR2xEdlHWUpAhKUoeDZS.1" title="https://us04web.zoom.us/j/72629219219?pwd=qLbmJfvVq0fR2xEdlHWUpAhKUoeDZS.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 4<br>Цубова О.Л., 43 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72629219219?pwd=qLbmJfvVq0fR2xEdlHWUpAhKUoeDZS.1" title="https://us04web.zoom.us/j/72629219219?pwd=qLbmJfvVq0fR2xEdlHWUpAhKUoeDZS.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 4<br>Цубова О.Л., 42 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72629219219?pwd=qLbmJfvVq0fR2xEdlHWUpAhKUoeDZS.1" title="https://us04web.zoom.us/j/72629219219?pwd=qLbmJfvVq0fR2xEdlHWUpAhKUoeDZS.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Політологія<br>Штрайхер О.А., 204 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98991446643?pwd=QUlrL0Z2TTNHWEprVEN6TGt6ekdEUT09" title="https://zoom.us/j/98991446643?pwd=QUlrL0Z2TTNHWEprVEN6TGt6ekdEUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Гулей К.С., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6129608852?pwd=WFE3ZnBXZkhIem9DQ3JwWnU4bjYwZz09  Meeting ID: 612 960 8852 Passcode: 5678" title="https://us05web.zoom.us/j/6129608852?pwd=WFE3ZnBXZkhIem9DQ3JwWnU4bjYwZz09  Meeting ID: 612 960 8852 Passcode: 5678">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Рожко О.І., дівчата<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94262609295?pwd=TWthcTVoQ1p5a1lhd0wxUGVxeUZqQT09" title="https://zoom.us/j/94262609295?pwd=TWthcTVoQ1p5a1lhd0wxUGVxeUZqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Коваль А.Я., +СК524 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3apIp3fuCum5Ne4GmjQ883Lrdr_uz9k69__ZaD-dH-F_01%40thread.tacv2/General?groupId=7bd53ad6-84d5-423e-aa90-78aa20a561f3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3apIp3fuCum5Ne4GmjQ883Lrdr_uz9k69__ZaD-dH-F_01%40thread.tacv2/General?groupId=7bd53ad6-84d5-423e-aa90-78aa20a561f3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи інформаційних технологій<br>Федушко С.С., 524 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad832adea3d814549ad116c96498dd7d9%40thread.tacv2/1644529989108?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f95c00f-f91d-47ff-b03d-93564ba85cef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad832adea3d814549ad116c96498dd7d9%40thread.tacv2/1644529989108?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f95c00f-f91d-47ff-b03d-93564ba85cef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи інформаційних технологій<br>Федушко С.С., 524 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad832adea3d814549ad116c96498dd7d9%40thread.tacv2/1644530038199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f95c00f-f91d-47ff-b03d-93564ba85cef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad832adea3d814549ad116c96498dd7d9%40thread.tacv2/1644530038199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226f95c00f-f91d-47ff-b03d-93564ba85cef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Туристичні ресурси України<br>Хома І.Я., 517 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c" title="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Туристичні ресурси України<br>Хома І.Я., 517 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c" title="https://zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09  Meeting ID: 401 993 4893 Passcode: Krn24c">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

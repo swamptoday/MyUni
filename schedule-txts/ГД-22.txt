@@ -1,0 +1,83 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія, ч. 2<br>Перій С.С., Тарнавський В.Л., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1vsEgrAd3EtFuxwNGubUQx5kZOhs4QpwgAGOq41cpyo1%40thread.tacv2/1644324036469?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1vsEgrAd3EtFuxwNGubUQx5kZOhs4QpwgAGOq41cpyo1%40thread.tacv2/1644324036469?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aj4hlyEgmlEtdG0VC_cJl72HEeHWzLyEPnHGEgOTKjYQ1%40thread.tacv2/1644323913606?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aj4hlyEgmlEtdG0VC_cJl72HEeHWzLyEPnHGEgOTKjYQ1%40thread.tacv2/1644323913606?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">ГІС і бази даних<br>Четверіков Б.В., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3adPVP9QPkhTys2uwEt-i8_VPE9Q5wH_0pSQPd9iMUFLM1%40thread.tacv2/conversations?groupId=c719ee99-ab80-4404-bf8c-793d00c06c19&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3adPVP9QPkhTys2uwEt-i8_VPE9Q5wH_0pSQPd9iMUFLM1%40thread.tacv2/conversations?groupId=c719ee99-ab80-4404-bf8c-793d00c06c19&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">ГІС і бази даних<br>Четверіков Б.В., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3adPVP9QPkhTys2uwEt-i8_VPE9Q5wH_0pSQPd9iMUFLM1%40thread.tacv2/conversations?groupId=c719ee99-ab80-4404-bf8c-793d00c06c19&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3adPVP9QPkhTys2uwEt-i8_VPE9Q5wH_0pSQPd9iMUFLM1%40thread.tacv2/conversations?groupId=c719ee99-ab80-4404-bf8c-793d00c06c19&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Заліско О.К., Осінчук В.В., Смірнова Л.М., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3800697890?pwd=Q0krbXpycDd5SWRZZGx3MnhMeEpDZz09" title="https://us05web.zoom.us/j/3800697890?pwd=Q0krbXpycDd5SWRZZGx3MnhMeEpDZz09">URL онлайн заняття</a></span></div></div><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6679494379?pwd=REdnWmh1N0dvTW5pRnZselRyL1lKQT09" title="https://us05web.zoom.us/j/6679494379?pwd=REdnWmh1N0dvTW5pRnZselRyL1lKQT09">URL онлайн заняття</a></span></div></div><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/7390856939?pwd=NlpiSFpHemN5TDJYRks1ZkczMGYzdz09" title="https://us05web.zoom.us/j/7390856939?pwd=NlpiSFpHemN5TDJYRks1ZkczMGYzdz09">URL онлайн заняття</a></span></div></div>

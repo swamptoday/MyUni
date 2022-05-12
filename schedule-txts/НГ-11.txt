@@ -1,0 +1,387 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи нафтогазової справи<br>Лазорко О.І., 5 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09" title="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи нафтогазової справи<br>Лазорко О.І., 5 XVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09" title="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Нарисна геометрія та інженерна графіка<br>Беспалов А.Л., 103 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ad2b99462d521425ca484a67f5472d75a%40thread.tacv2/%25D0%259D%25D0%2593-11%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=aac5d7a7-6444-4d17-a6b6-3275c212005a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ad2b99462d521425ca484a67f5472d75a%40thread.tacv2/%25D0%259D%25D0%2593-11%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=aac5d7a7-6444-4d17-a6b6-3275c212005a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нарисна геометрія та інженерна графіка<br>Беспалов А.Л., 108 IV н.к., 109 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ad2b99462d521425ca484a67f5472d75a%40thread.tacv2/%25D0%259D%25D0%2593-11%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=aac5d7a7-6444-4d17-a6b6-3275c212005a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ad2b99462d521425ca484a67f5472d75a%40thread.tacv2/%25D0%259D%25D0%2593-11%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=aac5d7a7-6444-4d17-a6b6-3275c212005a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Вища математика, частина 2<br>Андрусяк І.В., 59 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73873148297?pwd=OW04YTNCS3NVZEdZNjJML0NXTEpvUT09  Meeting ID: 738 7314 8297 Passcode: h8DJjK" title="https://us04web.zoom.us/j/73873148297?pwd=OW04YTNCS3NVZEdZNjJML0NXTEpvUT09  Meeting ID: 738 7314 8297 Passcode: h8DJjK">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Андрусяк І.В., 59 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73873148297?pwd=OW04YTNCS3NVZEdZNjJML0NXTEpvUT09  Meeting ID: 738 7314 8297 Passcode: h8DJjK" title="https://us04web.zoom.us/j/73873148297?pwd=OW04YTNCS3NVZEdZNjJML0NXTEpvUT09  Meeting ID: 738 7314 8297 Passcode: h8DJjK">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Олексів Г.Д., 15а VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/erf-xneb-fpz" title="http://meet.google.com/erf-xneb-fpz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електротехніка<br>Маляр В.С., 115 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09" title="https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електротехніка<br>Маляр В.С., 115 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09" title="https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електротехніка<br>Маляр В.С., 111 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09" title="https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Бродяк О.Я., 59 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76233636186?pwd=LmvxAx0q27ac4vU-Gg14hHFzsM3HHr.1" title="https://us04web.zoom.us/j/76233636186?pwd=LmvxAx0q27ac4vU-Gg14hHFzsM3HHr.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Хрипач А.Г., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73260613366?pwd=U2N4dFA2bGk2S0dpZmJna3pUQkJOdz09" title="https://us04web.zoom.us/j/73260613366?pwd=U2N4dFA2bGk2S0dpZmJna3pUQkJOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи нафтогазової справи<br>Лазорко О.І., 5 XVI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09" title="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічна механіка, частина 1 <br>Дзюбик Л.В., 308 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95772407561?pwd=bndGS1drelRHdUlBSGVFREV3djVPQT09" title="https://zoom.us/j/95772407561?pwd=bndGS1drelRHdUlBSGVFREV3djVPQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи нафтогазової справи<br>Лазорко О.І., 5 XVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09" title="https://us02web.zoom.us/j/3236231398?pwd=NWRmQzI2K0xEdC9PaXg2QjNKMTVCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна механіка, частина 1 <br>Пасіка В.Р., 303 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/87643436084?pwd=ZlpleWNqWlAvNVhsNmlkeVV1VTZTdz09" title="https://us05web.zoom.us/j/87643436084?pwd=ZlpleWNqWlAvNVhsNmlkeVV1VTZTdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна механіка, частина 1 <br>Дзюбик Л.В., 302 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99423187041?pwd=WmRySmFabjZHQmZwbzJGMTl1RzBaQT09" title="https://zoom.us/j/99423187041?pwd=WmRySmFabjZHQmZwbzJGMTl1RzBaQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

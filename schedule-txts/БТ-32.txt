@@ -1,0 +1,462 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи ензимології та іммобілізації<br>Гавриляк В.В., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aJCyVGsY5ifKXHTMulfqFgm6OVDy1Icw1PP1sUp75qKI1%40thread.tacv2/1644870562566?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2265005b70-5da0-4809-995d-ebb3200866b0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aJCyVGsY5ifKXHTMulfqFgm6OVDy1Icw1PP1sUp75qKI1%40thread.tacv2/1644870562566?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2265005b70-5da0-4809-995d-ebb3200866b0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Генетика (загальна та молекулярна)<br>Комаровська-Порохнявець О.З., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a956a2973c067422d8fcf81a946cbed74%40thread.tacv2/Genetics%2520(lectures)?groupId=42f4469f-0819-4a09-a178-675c253ef717&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a956a2973c067422d8fcf81a946cbed74%40thread.tacv2/Genetics%2520(lectures)?groupId=42f4469f-0819-4a09-a178-675c253ef717&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичне моделювання  мікробіологічних процесів<br>Василюк С.В., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3tARa24zTXpWk2MJYoPyKa2ujSRPJwwzda8ITccISjw1%40thread.tacv2/1644493782556?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3tARa24zTXpWk2MJYoPyKa2ujSRPJwwzda8ITccISjw1%40thread.tacv2/1644493782556?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Процеси та  апарати біотехнологічних виробництв <br>Кархут А.І., 110 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aT32byQYYJT-hPvqvviwt6E-g3DnI30ktKbneYg06UiY1%40thread.tacv2/conversations?groupId=c25080b8-e19c-4d36-a7ad-be795f99864d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aT32byQYYJT-hPvqvviwt6E-g3DnI30ktKbneYg06UiY1%40thread.tacv2/conversations?groupId=c25080b8-e19c-4d36-a7ad-be795f99864d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи ензимології та іммобілізації<br>Зварич В.І., 226 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad8nzrbHE4dHoJNrScSqKjRUY9JbLTb_zZd-cK_oov0c1%40thread.tacv2/1644588759138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad8nzrbHE4dHoJNrScSqKjRUY9JbLTb_zZd-cK_oov0c1%40thread.tacv2/1644588759138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи ензимології та іммобілізації<br>Монька Н.Я., 226 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad8nzrbHE4dHoJNrScSqKjRUY9JbLTb_zZd-cK_oov0c1%40thread.tacv2/1644588759138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad8nzrbHE4dHoJNrScSqKjRUY9JbLTb_zZd-cK_oov0c1%40thread.tacv2/1644588759138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи ензимології та іммобілізації<br>Зварич В.І., 226 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad8nzrbHE4dHoJNrScSqKjRUY9JbLTb_zZd-cK_oov0c1%40thread.tacv2/1644588759138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad8nzrbHE4dHoJNrScSqKjRUY9JbLTb_zZd-cK_oov0c1%40thread.tacv2/1644588759138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи ензимології та іммобілізації<br>Монька Н.Я., 226 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ad8nzrbHE4dHoJNrScSqKjRUY9JbLTb_zZd-cK_oov0c1%40thread.tacv2/1644588759138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ad8nzrbHE4dHoJNrScSqKjRUY9JbLTb_zZd-cK_oov0c1%40thread.tacv2/1644588759138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Економіка та організація біотехнологічних виробництв (підприємництво та менеджмент)<br>Донець Д.М., 401а IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2470243526?pwd=N2JTd3JwSjFGL0dVSmdrSlBpbXNZdz09  Идентификатор конференции: 247 024 3526 Код доступа: 555" title="https://zoom.us/j/2470243526?pwd=N2JTd3JwSjFGL0dVSmdrSlBpbXNZdz09  Идентификатор конференции: 247 024 3526 Код доступа: 555">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Генетика (загальна та молекулярна)<br>Комаровська-Порохнявець О.З., 403 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a14a60e38e8b341b799d62c226db1051c%40thread.tacv2/Genetics%2520(practical)?groupId=42f4469f-0819-4a09-a178-675c253ef717&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a14a60e38e8b341b799d62c226db1051c%40thread.tacv2/Genetics%2520(practical)?groupId=42f4469f-0819-4a09-a178-675c253ef717&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Процеси та  апарати біотехнологічних виробництв <br>Кархут А.І., 138 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aT32byQYYJT-hPvqvviwt6E-g3DnI30ktKbneYg06UiY1%40thread.tacv2/conversations?groupId=c25080b8-e19c-4d36-a7ad-be795f99864d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aT32byQYYJT-hPvqvviwt6E-g3DnI30ktKbneYg06UiY1%40thread.tacv2/conversations?groupId=c25080b8-e19c-4d36-a7ad-be795f99864d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна біотехнологія, частина 2<br>Курка М.С., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a6Yk5xw5Z7F91dXhADwuUaEiuWkQpwVq9sL-NsJ-fqDE1%40thread.tacv2/1644777943846?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a6Yk5xw5Z7F91dXhADwuUaEiuWkQpwVq9sL-NsJ-fqDE1%40thread.tacv2/1644777943846?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Економіка та організація біотехнологічних виробництв (підприємництво та менеджмент)<br>Донець Д.М., 429 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2470243526?pwd=N2JTd3JwSjFGL0dVSmdrSlBpbXNZdz09  Идентификатор конференции: 247 024 3526 Код доступа: 555" title="https://zoom.us/j/2470243526?pwd=N2JTd3JwSjFGL0dVSmdrSlBpbXNZdz09  Идентификатор конференции: 247 024 3526 Код доступа: 555">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Загальна біотехнологія, частина 2<br>Бучкевич І.Р., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ajgdqjewBt-QSj2cVhJswtR8vfqkyCR3UiS7urUsnEG81%40thread.tacv2/1644864177082?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ajgdqjewBt-QSj2cVhJswtR8vfqkyCR3UiS7urUsnEG81%40thread.tacv2/1644864177082?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Загальна біотехнологія, частина 2<br>Курка М.С., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ajgdqjewBt-QSj2cVhJswtR8vfqkyCR3UiS7urUsnEG81%40thread.tacv2/1644864177082?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ajgdqjewBt-QSj2cVhJswtR8vfqkyCR3UiS7urUsnEG81%40thread.tacv2/1644864177082?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Загальна біотехнологія, частина 2<br>Бучкевич І.Р., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ajgdqjewBt-QSj2cVhJswtR8vfqkyCR3UiS7urUsnEG81%40thread.tacv2/1644864177082?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ajgdqjewBt-QSj2cVhJswtR8vfqkyCR3UiS7urUsnEG81%40thread.tacv2/1644864177082?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Загальна біотехнологія, частина 2<br>Курка М.С., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ajgdqjewBt-QSj2cVhJswtR8vfqkyCR3UiS7urUsnEG81%40thread.tacv2/1644864177082?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ajgdqjewBt-QSj2cVhJswtR8vfqkyCR3UiS7urUsnEG81%40thread.tacv2/1644864177082?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Генетика (загальна та молекулярна)<br>Комаровська-Порохнявець О.З., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/Genetics%2520(lab)?groupId=42f4469f-0819-4a09-a178-675c253ef717&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/Genetics%2520(lab)?groupId=42f4469f-0819-4a09-a178-675c253ef717&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Генетика (загальна та молекулярна)<br>Гавриляк В.В., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/1644584790798?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/1644584790798?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Генетика (загальна та молекулярна)<br>Комаровська-Порохнявець О.З., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/Genetics%2520(lab)?groupId=42f4469f-0819-4a09-a178-675c253ef717&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/Genetics%2520(lab)?groupId=42f4469f-0819-4a09-a178-675c253ef717&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Генетика (загальна та молекулярна)<br>Гавриляк В.В., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/1644584790798?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/1644584790798?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичне моделювання  мікробіологічних процесів<br>Василюк С.В., 404 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aWU8cDvGFPJF7VqgTtMVTqHpmpifB02Kx9iddl6gr2881%40thread.tacv2/1644588760534?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aWU8cDvGFPJF7VqgTtMVTqHpmpifB02Kx9iddl6gr2881%40thread.tacv2/1644588760534?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

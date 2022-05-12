@@ -1,0 +1,279 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімія<br>Коваль І.З., 106 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aCjTmPQyyogxVE8q81THc17EwgKwsMjL-0iiSJtw6JfI1%40thread.tacv2/conversations?groupId=556b176a-97fe-48d6-8abd-1f48291acacd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aCjTmPQyyogxVE8q81THc17EwgKwsMjL-0iiSJtw6JfI1%40thread.tacv2/conversations?groupId=556b176a-97fe-48d6-8abd-1f48291acacd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімія<br>Коваль І.З., Старчевський В.Л., 106 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a9OncZ6DF1d1gft5ZVe684PZy1vYPkRTtV0q0w1kLRR81%40thread.tacv2/conversations?groupId=92bd1580-acb2-4cd1-8898-76f6ccf3f66b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a9OncZ6DF1d1gft5ZVe684PZy1vYPkRTtV0q0w1kLRR81%40thread.tacv2/conversations?groupId=92bd1580-acb2-4cd1-8898-76f6ccf3f66b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна механіка, частина 3<br>Предко Р.Я., 303 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84103233084?pwd=OFNtUVhqSUg2TENhVzV2K21LQUt5Zz09" title="https://us02web.zoom.us/j/84103233084?pwd=OFNtUVhqSUg2TENhVzV2K21LQUt5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна механіка, частина 3<br>Малащенко В.О., 308 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6919005115?pwd=ZXRrLzF6bERpNWQ4NUs3cFJHNVlnQT09" title="https://us04web.zoom.us/j/6919005115?pwd=ZXRrLzF6bERpNWQ4NUs3cFJHNVlnQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Термодинаміка і теплопередача<br>Юрасова О.Г., 014 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/Ni97BoxyqT2d" title="https://join.skype.com/Ni97BoxyqT2d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Термодинаміка і теплопередача<br>Юрасова О.Г., 014 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/Ni97BoxyqT2d" title="https://join.skype.com/Ni97BoxyqT2d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Нафтогазове обладнання<br>Білобородченко В.І., 16 XVII н.к. , <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71789715869?pwd=8Kwdo9fbav_LkhhMvmihu9Ie-lXZNn.1 Идентификатор конференции: 717 8971 5869 Код доступа: P9yF1x" title="https://us04web.zoom.us/j/71789715869?pwd=8Kwdo9fbav_LkhhMvmihu9Ie-lXZNn.1 Идентификатор конференции: 717 8971 5869 Код доступа: P9yF1x">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нафтогазове обладнання<br>Білобородченко В.І., 4c XV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72671033489?pwd=HE-GsnPp5P9MaWnctuBqdgu2T0Yycy.1 Идентификатор конференции: 726 7103 3489 Код доступа: XXDd37" title="https://us04web.zoom.us/j/72671033489?pwd=HE-GsnPp5P9MaWnctuBqdgu2T0Yycy.1 Идентификатор конференции: 726 7103 3489 Код доступа: XXDd37">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нафтогазове обладнання<br>Білобородченко В.І., 4c XV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76986123114?pwd=tKvdRlqwU5xH5iLq5_-wzLPVzGynO0.1 Идентификатор конференции: 769 8612 3114 Код доступа: MrARz2" title="https://us04web.zoom.us/j/76986123114?pwd=tKvdRlqwU5xH5iLq5_-wzLPVzGynO0.1 Идентификатор конференции: 769 8612 3114 Код доступа: MrARz2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Федорів Л.М., 72 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68" title="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Федорів Л.М., 72 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68" title="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br><br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

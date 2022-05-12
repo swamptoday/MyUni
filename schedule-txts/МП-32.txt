@@ -1,0 +1,338 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання та автоматизація інженерних розрахунків<br>Магерус Н.І., 29 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWJlZDY4YTMtYTgxNS00NjliLTg2MTUtNTVlMWU4OTg0ZGQ0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWJlZDY4YTMtYTgxNS00NjliLTg2MTUtNTVlMWU4OTg0ZGQ0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання та автоматизація інженерних розрахунків<br>Магерус Н.І., 35 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTI5ZjgzNzEtZGFiNy00MjA4LWIyNzAtNjIwYzRiNTk5ZmY4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTI5ZjgzNzEtZGFiNy00MjA4LWIyNzAtNjIwYzRiNTk5ZmY4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обладнання та матеріали для виготовлення упаковок, частина 1<br>Боровець В.М., 59 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aB2pNQQ4G3CZrKYUiKjBvK_IuKKhMCgL3D-eoIafQPtA1%40thread.tacv2/conversations?groupId=799ae984-0289-4d0c-9f05-6b43d3c5a3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aB2pNQQ4G3CZrKYUiKjBvK_IuKKhMCgL3D-eoIafQPtA1%40thread.tacv2/conversations?groupId=799ae984-0289-4d0c-9f05-6b43d3c5a3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обладнання та матеріали для виготовлення упаковок, частина 1<br>Боровець В.М., 59 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aB2pNQQ4G3CZrKYUiKjBvK_IuKKhMCgL3D-eoIafQPtA1%40thread.tacv2/conversations?groupId=799ae984-0289-4d0c-9f05-6b43d3c5a3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aB2pNQQ4G3CZrKYUiKjBvK_IuKKhMCgL3D-eoIafQPtA1%40thread.tacv2/conversations?groupId=799ae984-0289-4d0c-9f05-6b43d3c5a3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологічне обладнання та процеси виготовлення машин<br>Дмитерко П.Р., 8 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aVJ2vtoCW4mguCQGBsALkFGuLeqvAvd9CO2BHfzBESTs1%40thread.tacv2/1644234994238?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aVJ2vtoCW4mguCQGBsALkFGuLeqvAvd9CO2BHfzBESTs1%40thread.tacv2/1644234994238?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологічне обладнання та процеси виготовлення машин<br>Дмитерко П.Р., 8 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aVJ2vtoCW4mguCQGBsALkFGuLeqvAvd9CO2BHfzBESTs1%40thread.tacv2/1644235072613?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aVJ2vtoCW4mguCQGBsALkFGuLeqvAvd9CO2BHfzBESTs1%40thread.tacv2/1644235072613?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологічне обладнання та процеси виготовлення машин<br>Дмитерко П.Р., 8 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aVJ2vtoCW4mguCQGBsALkFGuLeqvAvd9CO2BHfzBESTs1%40thread.tacv2/1644235117533?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aVJ2vtoCW4mguCQGBsALkFGuLeqvAvd9CO2BHfzBESTs1%40thread.tacv2/1644235117533?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологічні основи машинобудування,  частина 2<br>Кук А.М., 12 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae2990631844a48169827335525603d80%40thread.tacv2/1643711763106?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228cf84d8b-1261-456e-a345-6c81224f1cd2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae2990631844a48169827335525603d80%40thread.tacv2/1643711763106?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228cf84d8b-1261-456e-a345-6c81224f1cd2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Обладнання та матеріали для виготовлення упаковок, частина 1<br>Боровець В.М., 8 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aB2pNQQ4G3CZrKYUiKjBvK_IuKKhMCgL3D-eoIafQPtA1%40thread.tacv2/conversations?groupId=799ae984-0289-4d0c-9f05-6b43d3c5a3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aB2pNQQ4G3CZrKYUiKjBvK_IuKKhMCgL3D-eoIafQPtA1%40thread.tacv2/conversations?groupId=799ae984-0289-4d0c-9f05-6b43d3c5a3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Експлуатація та обслуговування машин<br>Кусий Я.М., 11 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85899701414?pwd=WEEybjlsQXRPL0phWGw5N1RQMU9GZz09" title="https://us02web.zoom.us/j/85899701414?pwd=WEEybjlsQXRPL0phWGw5N1RQMU9GZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатація та обслуговування машин<br>Кусий Я.М., 11 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83518275462?pwd=NUMvTFFWWVA1d2FsZFJXMEllOTZrUT09" title="https://us02web.zoom.us/j/83518275462?pwd=NUMvTFFWWVA1d2FsZFJXMEllOTZrUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологічні основи машинобудування,  частина 2<br>Кук А.М., 11 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae2990631844a48169827335525603d80%40thread.tacv2/1643711920693?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228cf84d8b-1261-456e-a345-6c81224f1cd2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae2990631844a48169827335525603d80%40thread.tacv2/1643711920693?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228cf84d8b-1261-456e-a345-6c81224f1cd2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Верстати з ЧПК та верстатні комплекси<br>Дмитерко П.Р., 23 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3apXjA8NJoG2yObO7eOJ4lWfX2iIn-qak5skvTPgLztU41%40thread.tacv2/1644235846112?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3apXjA8NJoG2yObO7eOJ4lWfX2iIn-qak5skvTPgLztU41%40thread.tacv2/1644235846112?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Верстати з ЧПК та верстатні комплекси<br>Ланець О.С., 23 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3apXjA8NJoG2yObO7eOJ4lWfX2iIn-qak5skvTPgLztU41%40thread.tacv2/1644236024317?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3apXjA8NJoG2yObO7eOJ4lWfX2iIn-qak5skvTPgLztU41%40thread.tacv2/1644236024317?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Верстати з ЧПК та верстатні комплекси<br>Ланець О.С., 8 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3apXjA8NJoG2yObO7eOJ4lWfX2iIn-qak5skvTPgLztU41%40thread.tacv2/1644236024317?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3apXjA8NJoG2yObO7eOJ4lWfX2iIn-qak5skvTPgLztU41%40thread.tacv2/1644236024317?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263ca7a5e-88fa-4c50-9368-82291c8eca4e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

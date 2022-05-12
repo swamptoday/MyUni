@@ -1,0 +1,335 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Блавт О.З., Заліско О.К., Самчука 11. 8.00-9.30<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/7390856939?pwd=NlpiSFpHemN5TDJYRks1ZkczMGYzdz09" title="https://us05web.zoom.us/j/7390856939?pwd=NlpiSFpHemN5TDJYRks1ZkczMGYzdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Алгоритмізація та програмування<br>Завущак І.І., 409 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/99678668092?pwd=UzMwdndDbmErZWxEWkt5Sm9RMjJ6Zz09&amp;from=addon" title="https://softserveinc.zoom.us/j/99678668092?pwd=UzMwdndDbmErZWxEWkt5Sm9RMjJ6Zz09&amp;from=addon">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Алгоритмізація та програмування<br>Завущак І.І., 409 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/99678668092?pwd=UzMwdndDbmErZWxEWkt5Sm9RMjJ6Zz09&amp;from=addon" title="https://softserveinc.zoom.us/j/99678668092?pwd=UzMwdndDbmErZWxEWkt5Sm9RMjJ6Zz09&amp;from=addon">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська  мова (за професійним спрямуванням)<br>Пура Я.С., 319 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2556850814?pwd=MlVaWGhMdGNhaGowNVhuSlNMQ3ZhUT09" title="https://zoom.us/j/2556850814?pwd=MlVaWGhMdGNhaGowNVhuSlNMQ3ZhUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Кузан Г.С., 17 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76879234610?pwd=jOXR8STGlMfnA4gqd-3qfxcB-slIat.1" title="https://us04web.zoom.us/j/76879234610?pwd=jOXR8STGlMfnA4gqd-3qfxcB-slIat.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Кузан Г.С., 17 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76963129450?pwd=tKOZlXyHj6hziYXknrNQCZ87PsVCeS.1" title="https://us04web.zoom.us/j/76963129450?pwd=tKOZlXyHj6hziYXknrNQCZ87PsVCeS.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Пирч Н.М., 405 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6447540548?pwd=WTFXZHZHd2xkS0Z3RWorK2lPcWpydz09" title="https://us02web.zoom.us/j/6447540548?pwd=WTFXZHZHd2xkS0Z3RWorK2lPcWpydz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дискретна математика<br>Юринець Р.В., 405 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогічна ергономіка<br>Терлецька Ю.М., 405 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99881787699?pwd=RFZmbGJia0drb1lrOUJ6MlJhV3lndz09" title="https://zoom.us/j/99881787699?pwd=RFZmbGJia0drb1lrOUJ6MlJhV3lndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Алгоритмізація та програмування<br>Завущак І.І., 405 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/99678668092?pwd=UzMwdndDbmErZWxEWkt5Sm9RMjJ6Zz09&amp;from=addon" title="https://softserveinc.zoom.us/j/99678668092?pwd=UzMwdndDbmErZWxEWkt5Sm9RMjJ6Zz09&amp;from=addon">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Пирч Н.М., 405 XXXVI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6447540548?pwd=WTFXZHZHd2xkS0Z3RWorK2lPcWpydz09" title="https://us02web.zoom.us/j/6447540548?pwd=WTFXZHZHd2xkS0Z3RWorK2lPcWpydz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Педагогічна ергономіка<br>Терлецька Ю.М., 405 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98004903505?pwd=MjhZdGk4WHhOd2o4WlBQcnVjTUsvQT09" title="https://zoom.us/j/98004903505?pwd=MjhZdGk4WHhOd2o4WlBQcnVjTUsvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дискретна математика<br>Юринець Р.В., 405 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Педагогічна ергономіка<br>Терлецька Ю.М., 405 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98004903505?pwd=MjhZdGk4WHhOd2o4WlBQcnVjTUsvQT09" title="https://zoom.us/j/98004903505?pwd=MjhZdGk4WHhOd2o4WlBQcnVjTUsvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

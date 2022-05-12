@@ -1,0 +1,345 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологічний транспорт в галузі<br>Бойко М.В., 80 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09" title="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологічний транспорт в галузі<br>Бойко М.В., 80 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09" title="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Алгоритмізація розв`язування інженерних задач<br>Лясковська С.Є., 83 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZmZDE5YWYtOGZhMi00MGZhLWE2MGMtNjdlNzU1YjlhMTI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZmZDE5YWYtOGZhMi00MGZhLWE2MGMtNjdlNzU1YjlhMTI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Алгоритмізація розв`язування інженерних задач<br>Лясковська С.Є., 83 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDA5NTczOTktMTg4NC00NWFiLTg0MjYtMmJjZDgxZTc4ZTA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDA5NTczOTktMTg4NC00NWFiLTg0MjYtMmJjZDgxZTc4ZTA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Низькотемпературні технології в галузі<br>Велика О.Т., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI4NzA2NGYtN2Q3My00NmE3LWI5OWQtOWIxMzQ1MTY1MWI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI4NzA2NGYtN2Q3My00NmE3LWI5OWQtOWIxMzQ1MTY1MWI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Низькотемпературні технології в галузі<br>Велика О.Т., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDg0NTA4OTktNTRlMS00MzIwLTg2NjAtZGVhZjQ3NjhkMTY3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDg0NTA4OTktNTRlMS00MzIwLTg2NjAtZGVhZjQ3NjhkMTY3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Алгоритмізація розв`язування інженерних задач<br>Лясковська С.Є., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjBkZjZiYTAtOWI2Yi00MzIzLTllMWYtMDgyMThhOWU4YTFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjBkZjZiYTAtOWI2Yi00MzIzLTllMWYtMDgyMThhOWU4YTFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Алгоритмізація розв`язування інженерних задач<br>Лясковська С.Є., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjJlYTVkYWMtYjIwNS00NjcyLWFiZDItNGE1MmUyZGNkYjE5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjJlYTVkYWMtYjIwNS00NjcyLWFiZDItNGE1MmUyZGNkYjE5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Матеріали харчового виробництва<br>Стефанович Т.О., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWU2YjlmY2UtOThjNC00NTAyLTk1OWItM2QwMWI1N2YyZjNk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWU2YjlmY2UtOThjNC00NTAyLTk1OWItM2QwMWI1N2YyZjNk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Матеріали харчового виробництва<br>Стефанович Т.О., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDJkYmVhOGUtNTQ0OS00MzM2LWE4YmQtMWI2MzI1OTE4ZTRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDJkYmVhOGUtNTQ0OS00MzM2LWE4YmQtMWI2MzI1OTE4ZTRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологічний транспорт в галузі<br>Шеремета Р.М., 15 XV н.к. , <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzRiOTVhYjYtYjhmZi00NTBhLWIyMjctMWI4YzY3YTM1ZTVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzRiOTVhYjYtYjhmZi00NTBhLWIyMjctMWI4YzY3YTM1ZTVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологічний транспорт в галузі<br>Шеремета Р.М., 15 XV н.к. , <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDU1NTg3YmItMGNjNS00ZDMwLWI4OTctNTEzZDFlNjRmYWRk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDU1NTg3YmItMGNjNS00ZDMwLWI4OTctNTEzZDFlNjRmYWRk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Матеріали харчового виробництва<br>Стефанович Т.О., 80 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTk3MzkyM2EtZjZhNy00MDA4LTlmM2UtOTVlYWJlNGMzYmMx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTk3MzkyM2EtZjZhNy00MDA4LTlmM2UtOTVlYWJlNGMzYmMx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Матеріали харчового виробництва<br>Стефанович Т.О., 80 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTJkMjU4N2MtMjM0OS00NjdhLWFkYjMtYzFkZDUwNDcxMGJi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTJkMjU4N2MtMjM0OS00NjdhLWFkYjMtYzFkZDUwNDcxMGJi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d6e564da-c35f-4e30-8888-77a6d1ab2e22%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Низькотемпературні технології в галузі<br>Велика О.Т., 83 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTg0ZDRjYzgtNTIyYi00MTRiLWE4MjItYWE5NzNjZGZkYjVh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTg0ZDRjYzgtNTIyYi00MTRiLWE4MjItYWE5NzNjZGZkYjVh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

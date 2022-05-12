@@ -1,0 +1,446 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи електротехніки, частина 1<br>Васильчишин І.І., 011 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8511129899?pwd=V2MyTFZZRGlGTFhQTzlmUG9OOVZnZz09" title="https://zoom.us/j/8511129899?pwd=V2MyTFZZRGlGTFhQTzlmUG9OOVZnZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Жидик У.В., 49 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2522100774?pwd=bEM2N1NMaS93VEZheTZUYzJ4amw4Zz09" title="https://us04web.zoom.us/j/2522100774?pwd=bEM2N1NMaS93VEZheTZUYzJ4amw4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Кушка Б.Г., 26 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmEyZWNjMTktNmRjZC00ZjFkLWExMDYtYTFmMTc4ODJmOTcx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295ef99e2-c16d-42e6-a655-c4856f3256a0%22%7d " title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmEyZWNjMTktNmRjZC00ZjFkLWExMDYtYTFmMTc4ODJmOTcx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295ef99e2-c16d-42e6-a655-c4856f3256a0%22%7d ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Четова Н.Й., 15 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9979974373?pwd=WWJ0c1JnbzJZQU9yTmpHZkx5bHF2UT09  Ідентифікатор конференції: 997 997 4373 Код доступу: 2KsqSF" title="https://us04web.zoom.us/j/9979974373?pwd=WWJ0c1JnbzJZQU9yTmpHZkx5bHF2UT09  Ідентифікатор конференції: 997 997 4373 Код доступу: 2KsqSF">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Козіброда Л.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09" title="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Гавриленко М.М., хлопці<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92349860190?pwd=QUNVa3kxNnd4LzhQMmtLT1dodUdPdz09" title="https://zoom.us/j/92349860190?pwd=QUNVa3kxNnd4LzhQMmtLT1dodUdPdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фізика, частина 2<br>Гончар Ф.М., 134 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a0DL_TI0VxuiM8zKXqeGYREIqrLdqhFiFEStfnk1NBlc1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2be39b3b-b54c-4051-bff3-d4ff2e1d92c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a0DL_TI0VxuiM8zKXqeGYREIqrLdqhFiFEStfnk1NBlc1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=2be39b3b-b54c-4051-bff3-d4ff2e1d92c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи електротехніки, частина 1<br>Васильчишин І.І., 115 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8511129899?pwd=V2MyTFZZRGlGTFhQTzlmUG9OOVZnZz09" title="https://zoom.us/j/8511129899?pwd=V2MyTFZZRGlGTFhQTzlmUG9OOVZnZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізика, частина 2<br>Гончар Ф.М., ел.1лаб Гол. н.к., опт.1лаб. Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3af2CcU0xPqcRmVBSbgdlxLGnMh60ua5xycycVOcykH-k1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=bc60448e-32f7-48df-a186-2620b5435587&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3af2CcU0xPqcRmVBSbgdlxLGnMh60ua5xycycVOcykH-k1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=bc60448e-32f7-48df-a186-2620b5435587&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізика, частина 2<br>Семків І.В., ел.1лаб Гол. н.к., опт.1лаб. Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93813935224?pwd=TkZLeU1MY2d5eUpqeTJ5WUJTRHlVUT09       Passcode: 1" title="https://zoom.us/j/93813935224?pwd=TkZLeU1MY2d5eUpqeTJ5WUJTRHlVUT09       Passcode: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія державності, науки та культури України<br>Барановська Н.М., 612 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97214795174?pwd=MUx2UlpYRDVUS1BqcmFndXNzRVlHZz09" title="https://zoom.us/j/97214795174?pwd=MUx2UlpYRDVUS1BqcmFndXNzRVlHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технічна механіка<br>Предко Р.Я., Данило Я.Я., 311 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84369759785?pwd=NlJTMjQxeHJmazh6VU1xLzFqSmxaZz09" title="https://us02web.zoom.us/j/84369759785?pwd=NlJTMjQxeHJmazh6VU1xLzFqSmxaZz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89696494709?pwd=VExUVVZkSzZBMGorTkxNNTQyZmZ0UT09" title="https://us02web.zoom.us/j/89696494709?pwd=VExUVVZkSzZBMGorTkxNNTQyZmZ0UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічна механіка<br>Данило Я.Я., 302 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09" title="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика, частина 2<br>Гончар Ф.М., 139 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aGgjZeEAAUkApf-cyydQgSbqwyQJZgwt8B6aMya-I9zc1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=4d24a54d-71fe-479b-9f7e-36ddd83fc61b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aGgjZeEAAUkApf-cyydQgSbqwyQJZgwt8B6aMya-I9zc1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=4d24a54d-71fe-479b-9f7e-36ddd83fc61b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи електротехніки, частина 1<br>Стахів П.Г., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3405937645?pwd=ZHZPekNQQ2ZHc3BnV3l6cjlldVAxQT09" title="https://us02web.zoom.us/j/3405937645?pwd=ZHZPekNQQ2ZHc3BnV3l6cjlldVAxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Жидик У.В., 114 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2522100774?pwd=bEM2N1NMaS93VEZheTZUYzJ4amw4Zz09" title="https://us04web.zoom.us/j/2522100774?pwd=bEM2N1NMaS93VEZheTZUYzJ4amw4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Вища математика, частина 2<br>Жидик У.В., 114 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2522100774?pwd=bEM2N1NMaS93VEZheTZUYzJ4amw4Zz09" title="https://us04web.zoom.us/j/2522100774?pwd=bEM2N1NMaS93VEZheTZUYzJ4amw4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна механіка<br>Гелетій В.М., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84721364248?pwd=UDlJN1FYQ1FKbUtrc09qY0k1eVg4dz09" title="https://us02web.zoom.us/j/84721364248?pwd=UDlJN1FYQ1FKbUtrc09qY0k1eVg4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Історія державності, науки та культури України<br>Барановська Н.М., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96289805161?pwd=bHF1czlwN09EalYvVTYwT3FOL0NpUT09" title="https://zoom.us/j/96289805161?pwd=bHF1czlwN09EalYvVTYwT3FOL0NpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи електротехніки, частина 1<br>Стахів П.Г., 114 Гол. н.к., 114 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3405937645?pwd=ZHZPekNQQ2ZHc3BnV3l6cjlldVAxQT09" title="https://us02web.zoom.us/j/3405937645?pwd=ZHZPekNQQ2ZHc3BnV3l6cjlldVAxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

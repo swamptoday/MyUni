@@ -1,0 +1,405 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи радіомовлення і телебачення<br>Протасевич В.Г., Проць Р.В., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bqq-hhdi-jrf " title="https://meet.google.com/bqq-hhdi-jrf ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Пристрої генерування і формування сигналів<br>Кузик А.О., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afAstnKiq9g-FXCVL6e4NjAuhX2CembSeKfG4gpPx_Gw1%40thread.tacv2/1644672924811?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afAstnKiq9g-FXCVL6e4NjAuhX2CembSeKfG4gpPx_Gw1%40thread.tacv2/1644672924811?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи радіомовлення і телебачення<br>Проць Р.В., Протасевич В.Г., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bqq-hhdi-jrf " title="https://meet.google.com/bqq-hhdi-jrf ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Забезпечення надійності РЕЗ<br>Озірковський Л.Д., 109 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74026342860?pwd=72c9NNxjeH7oH1y8pZ6vH6gRUpsbZI.1" title="https://us04web.zoom.us/j/74026342860?pwd=72c9NNxjeH7oH1y8pZ6vH6gRUpsbZI.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Пристрої генерування і формування сигналів<br>Кузик А.О., 201 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1644673637122?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1644673637122?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Методи приймання та обробки сигналів<br>Проць Р.В., 201 XI н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Пристрої генерування і формування сигналів<br>Кузик А.О., 201 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1644674670248?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1644674670248?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи приймання та обробки сигналів<br>Нічога В.О., 114 XI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Пристрої генерування і формування сигналів<br>Кузик А.О., 114 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1644703764752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3av2Hi_7ygELGjrxduQQPhYxJAuP2IvLdcSTEwcO1IMsA1%40thread.tacv2/1644703764752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Політологія<br>Корнат Л.Я., 213 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vto-phck-svt" title="https://meet.google.com/vto-phck-svt">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Методи приймання та обробки сигналів<br>Гнатчук М.М., 201 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%20Skype%2C%20Zoom%2C-,Google%20Meet,-%D1%82%D0%BE%D1%89%D0%BE)%20%D0%B0%20%D0%BD%D0%B5" title="https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%20Skype%2C%20Zoom%2C-,Google%20Meet,-%D1%82%D0%BE%D1%89%D0%BE)%20%D0%B0%20%D0%BD%D0%B5">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Методи приймання та обробки сигналів<br>Гнатчук М.М., 201 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%20Skype%2C%20Zoom%2C-,Google%20Meet,-%D1%82%D0%BE%D1%89%D0%BE)%20%D0%B0%20%D0%BD%D0%B5" title="https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%20Skype%2C%20Zoom%2C-,Google%20Meet,-%D1%82%D0%BE%D1%89%D0%BE)%20%D0%B0%20%D0%BD%D0%B5">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інфокомунікаційні мережі<br>Пиріг Ю.В., 301 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cxp-qdof-wxx" title="https://meet.google.com/cxp-qdof-wxx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Системи радіомовлення і телебачення<br>Гнатчук М.М., 201 XI н.к., 206 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%20Skype%2C%20Zoom%2C-,Google%20Meet,-%D1%82%D0%BE%D1%89%D0%BE)%20%D0%B0%20%D0%BD%D0%B5" title="https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%20Skype%2C%20Zoom%2C-,Google%20Meet,-%D1%82%D0%BE%D1%89%D0%BE)%20%D0%B0%20%D0%BD%D0%B5">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Системи радіомовлення і телебачення<br>Гнатчук М.М., 201 XI н.к., 206 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%20Skype%2C%20Zoom%2C-,Google%20Meet,-%D1%82%D0%BE%D1%89%D0%BE)%20%D0%B0%20%D0%BD%D0%B5" title="https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%20Skype%2C%20Zoom%2C-,Google%20Meet,-%D1%82%D0%BE%D1%89%D0%BE)%20%D0%B0%20%D0%BD%D0%B5">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Забезпечення надійності РЕЗ<br>Озірковський Л.Д., 109 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74438277072?pwd=Gr12rZFWnEPF5777NJmsuQkdOYB9S1.1" title="https://us04web.zoom.us/j/74438277072?pwd=Gr12rZFWnEPF5777NJmsuQkdOYB9S1.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інфокомунікаційні мережі<br>Климаш М.М., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rga-etke-wro" title="https://meet.google.com/rga-etke-wro">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пристрої генерування і формування сигналів<br>Кузик А.О., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afAstnKiq9g-FXCVL6e4NjAuhX2CembSeKfG4gpPx_Gw1%40thread.tacv2/1644703979651?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afAstnKiq9g-FXCVL6e4NjAuhX2CembSeKfG4gpPx_Gw1%40thread.tacv2/1644703979651?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b203fd51-e409-4832-a74a-abf5ada0ddf9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Політологія<br>Гетьманчук М.П., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9431722487?pwd=c1RTaWFlZTNaa1BjTlUvYzRDOW9yUT09" title="https://us04web.zoom.us/j/9431722487?pwd=c1RTaWFlZTNaa1BjTlUvYzRDOW9yUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

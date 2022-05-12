@@ -1,0 +1,468 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Веселовська О.В., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79278273857?pwd=SUdCMWZoaXlJbFBSMTE1eG5OaUt6dz09" title="https://us04web.zoom.us/j/79278273857?pwd=SUdCMWZoaXlJbFBSMTE1eG5OaUt6dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика<br>Коломієць О.В., 139 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aXTO5ge8Fks1FbUBWNVhR9vUoQ_YLNfpKh4Ah5tVAvoY1%40thread.tacv2/1644403048140?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e5d181e7-c027-46e8-b435-8fa6e01f8704%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aXTO5ge8Fks1FbUBWNVhR9vUoQ_YLNfpKh4Ah5tVAvoY1%40thread.tacv2/1644403048140?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e5d181e7-c027-46e8-b435-8fa6e01f8704%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Шаклеіна І.О., 507 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3986905627?pwd=S3gITdzTk6uoeMXIyC2pT00Fk6_pSP.1" title="https://us04web.zoom.us/j/3986905627?pwd=S3gITdzTk6uoeMXIyC2pT00Fk6_pSP.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Івантишин Д.О., 507 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ure-ksfi-kwh" title="https://meet.google.com/ure-ksfi-kwh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Шаклеіна І.О., 507 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3986905627?pwd=S3gITdzTk6uoeMXIyC2pT00Fk6_pSP.1" title="https://us04web.zoom.us/j/3986905627?pwd=S3gITdzTk6uoeMXIyC2pT00Fk6_pSP.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Об`єктно-орієнтоване програмування<br>Івантишин Д.О., 506 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ure-ksfi-kwh" title="https://meet.google.com/ure-ksfi-kwh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Боровик Ю.І., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76904252800?pwd=NzV1Y0s3WFJEeWFvZkNKVERFN3ladz09  Идентификатор конференции: 769 0425 2800 Код доступа: 1234" title="https://us04web.zoom.us/j/76904252800?pwd=NzV1Y0s3WFJEeWFvZkNKVERFN3ladz09  Идентификатор конференции: 769 0425 2800 Код доступа: 1234">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Веселовська О.В., 108 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72270794298?pwd=RUkyaXFWN3JpbEhDbkR1V1pHZkpsUT09" title="https://us04web.zoom.us/j/72270794298?pwd=RUkyaXFWN3JpbEhDbkR1V1pHZkpsUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Теорія інформаційних процесів і систем<br>Брич М.В., 305 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/kit-frqj-nom?authuser=0" title="https://meet.google.com/kit-frqj-nom?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Теорія інформаційних процесів і систем<br>Брич М.В., 305 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/kit-frqj-nom?authuser=0" title="https://meet.google.com/kit-frqj-nom?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика<br>Коломієць О.В., 139 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aXTO5ge8Fks1FbUBWNVhR9vUoQ_YLNfpKh4Ah5tVAvoY1%40thread.tacv2/1644403239728?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e5d181e7-c027-46e8-b435-8fa6e01f8704%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aXTO5ge8Fks1FbUBWNVhR9vUoQ_YLNfpKh4Ah5tVAvoY1%40thread.tacv2/1644403239728?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e5d181e7-c027-46e8-b435-8fa6e01f8704%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія інформаційних процесів і систем<br>Брич М.В., 109 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ewn-kmar-wgb?authuser=0" title="https://meet.google.com/ewn-kmar-wgb?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Григорович В.Г., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75304759989?pwd=c3k3anBPd1lpMUJ5bWhESWlySFVnQT09" title="https://us04web.zoom.us/j/75304759989?pwd=c3k3anBPd1lpMUJ5bWhESWlySFVnQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Об`єктно-орієнтоване програмування<br>Григорович В.Г., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75304759989?pwd=c3k3anBPd1lpMUJ5bWhESWlySFVnQT09" title="https://us04web.zoom.us/j/75304759989?pwd=c3k3anBPd1lpMUJ5bWhESWlySFVnQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика<br>Рибак О.В., Соловйов М.В., ел.4лаб Гол. н.к., мол.4лаб Гол. н.к., опт.1лаб. Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ajIj2aebLO2cr9Utlyeg8EPEN-v0hAW9xXtLncsLby101%40thread.tacv2/conversations?groupId=100bf3e7-5a67-474b-9673-c2ed8a94e392&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ajIj2aebLO2cr9Utlyeg8EPEN-v0hAW9xXtLncsLby101%40thread.tacv2/conversations?groupId=100bf3e7-5a67-474b-9673-c2ed8a94e392&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4155637290?pwd=UTFKaWpHSnhwUzF0SlE2aGk1RjZ5QT09" title="https://zoom.us/j/4155637290?pwd=UTFKaWpHSnhwUzF0SlE2aGk1RjZ5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська  мова (за професійним спрямуванням)<br>Середницька А.Я., 232 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71855665894?pwd=NI1E3g_ryb74jAjGAR5SLnFdHGTzbn.1" title="https://us04web.zoom.us/j/71855665894?pwd=NI1E3g_ryb74jAjGAR5SLnFdHGTzbn.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Балацька Л.П., 16 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/JYgfDgcgrmSL" title="https://join.skype.com/JYgfDgcgrmSL">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Балацька Л.П., 16 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/JYgfDgcgrmSL" title="https://join.skype.com/JYgfDgcgrmSL">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика<br>Рибак О.В., Соловйов М.В., ел.4лаб Гол. н.к., мол.4лаб Гол. н.к., опт.4лаб Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ajIj2aebLO2cr9Utlyeg8EPEN-v0hAW9xXtLncsLby101%40thread.tacv2/conversations?groupId=100bf3e7-5a67-474b-9673-c2ed8a94e392&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ajIj2aebLO2cr9Utlyeg8EPEN-v0hAW9xXtLncsLby101%40thread.tacv2/conversations?groupId=100bf3e7-5a67-474b-9673-c2ed8a94e392&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4155637290?pwd=UTFKaWpHSnhwUzF0SlE2aGk1RjZ5QT09" title="https://zoom.us/j/4155637290?pwd=UTFKaWpHSnhwUzF0SlE2aGk1RjZ5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Теорія інформаційних процесів і систем<br>Брич М.В., 301 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/qwe-ftqk-bzr?authuser=0" title="https://meet.google.com/qwe-ftqk-bzr?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Теорія інформаційних процесів і систем<br>Брич М.В., 301 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dbu-dbkx-uiy?authuser=0" title="https://meet.google.com/dbu-dbkx-uiy?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

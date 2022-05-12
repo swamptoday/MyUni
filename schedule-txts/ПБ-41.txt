@@ -1,0 +1,235 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівлі та споруди та їх поведінка в умовах пожежі, частина 2<br>Пелех А.Б., 224а II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2077152328?pwd=Xt2_EiVa4jeJrpNTEjYdC_yrchyQyM.1" title="https://us04web.zoom.us/j/2077152328?pwd=Xt2_EiVa4jeJrpNTEjYdC_yrchyQyM.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструкції будівель та споруд, частина 4<br>Данкевич І.П., 224а II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78950162016?pwd=Q5nnCDcjq8j2IdgADR-WLa8Fp52zfV.1" title="https://us04web.zoom.us/j/78950162016?pwd=Q5nnCDcjq8j2IdgADR-WLa8Fp52zfV.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструкції будівель та споруд, частина 4<br>Сурмай М.І., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09" title="https://zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна експертиза будівель та споруд<br>Титаренко Р.Ю., 224а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98262583427?pwd=dGN2VEoyRTF5cXJxYk5VbnJWNmpVZz09" title="https://zoom.us/j/98262583427?pwd=dGN2VEoyRTF5cXJxYk5VbnJWNmpVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технічна експертиза будівель та споруд<br>Титаренко Р.Ю., 224а II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98262583427?pwd=dGN2VEoyRTF5cXJxYk5VbnJWNmpVZz09" title="https://zoom.us/j/98262583427?pwd=dGN2VEoyRTF5cXJxYk5VbnJWNmpVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічна експертиза будівель та споруд<br>Титаренко Р.Ю., 224а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98262583427?pwd=dGN2VEoyRTF5cXJxYk5VbnJWNmpVZz09" title="https://zoom.us/j/98262583427?pwd=dGN2VEoyRTF5cXJxYk5VbnJWNmpVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівлі та споруди та їх поведінка в умовах пожежі, частина 2<br>Демчина Б.Г., 209 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aK8zLKPOKZ5ek5AHySfSebUh-Jb4OjYPqEruubGHOgm81%40thread.tacv2/conversations?groupId=9bbf084d-ad14-422d-bfee-e48978957dca&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aK8zLKPOKZ5ek5AHySfSebUh-Jb4OjYPqEruubGHOgm81%40thread.tacv2/conversations?groupId=9bbf084d-ad14-422d-bfee-e48978957dca&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівлі та споруди та їх поведінка в умовах пожежі, частина 2<br>Демчина Б.Г., 209 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aK8zLKPOKZ5ek5AHySfSebUh-Jb4OjYPqEruubGHOgm81%40thread.tacv2/conversations?groupId=9bbf084d-ad14-422d-bfee-e48978957dca&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aK8zLKPOKZ5ek5AHySfSebUh-Jb4OjYPqEruubGHOgm81%40thread.tacv2/conversations?groupId=9bbf084d-ad14-422d-bfee-e48978957dca&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструкції будівель та споруд, частина 4<br>Данкевич І.П., 109 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78950162016?pwd=Q5nnCDcjq8j2IdgADR-WLa8Fp52zfV.1" title="https://us04web.zoom.us/j/78950162016?pwd=Q5nnCDcjq8j2IdgADR-WLa8Fp52zfV.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна експертиза будівель та споруд<br>Титаренко Р.Ю., 218 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98262583427?pwd=dGN2VEoyRTF5cXJxYk5VbnJWNmpVZz09" title="https://zoom.us/j/98262583427?pwd=dGN2VEoyRTF5cXJxYk5VbnJWNmpVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

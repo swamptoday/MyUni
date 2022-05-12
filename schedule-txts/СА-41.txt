@@ -1,0 +1,475 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Ділові комунікації<br>Марцинюк Н.128 IV н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ділові комунікації<br>Марцинюк Н.208 VIa н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Ділові комунікації<br>Марцинюк Н.128 IV н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Технології великих даних<br>Юринець Р.В., 128 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Планування ІТ-проектів<br>Коць О.О., 123а IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86112332987?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09  Meeting ID: 861 1233 2987 Passcode: 0" title="https://us02web.zoom.us/j/86112332987?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09  Meeting ID: 861 1233 2987 Passcode: 0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Планування ІТ-проектів<br>Коць О.О., 128 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86112332987?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09  Meeting ID: 861 1233 2987 Passcode: 0" title="https://us02web.zoom.us/j/86112332987?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09  Meeting ID: 861 1233 2987 Passcode: 0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Планування ІТ-проектів<br>Коць О.О., 407 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86112332987?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09  Meeting ID: 861 1233 2987 Passcode: 0" title="https://us02web.zoom.us/j/86112332987?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09  Meeting ID: 861 1233 2987 Passcode: 0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Технології великих даних<br>Юринець Р.В., 122в IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Програмні засоби бізнес-аналізу<br>Березко О.Л., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93257345101?pwd=ZytLSzZzZ1o3TkQ4VXlzV2ZjKzVwZz09" title="https://zoom.us/j/93257345101?pwd=ZytLSzZzZ1o3TkQ4VXlzV2ZjKzVwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Програмні засоби бізнес-аналізу<br>Березко О.Л., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93257345101?pwd=ZytLSzZzZ1o3TkQ4VXlzV2ZjKzVwZz09" title="https://zoom.us/j/93257345101?pwd=ZytLSzZzZ1o3TkQ4VXlzV2ZjKzVwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Програмні засоби бізнес-аналізу<br>Березко О.Л., 123а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93257345101?pwd=ZytLSzZzZ1o3TkQ4VXlzV2ZjKzVwZz09" title="https://zoom.us/j/93257345101?pwd=ZytLSzZzZ1o3TkQ4VXlzV2ZjKzVwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інтелектуальна власність<br>Бублик М.І., 127 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09" title="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Технології великих даних<br>Юринець Р.В., 126 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інновації в бізнес-аналізі<br>Том'як О.І., 126б IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82063155289?pwd=NU9KNXFXQ0oyckpWZkVlalhsem9rUT09" title="https://us02web.zoom.us/j/82063155289?pwd=NU9KNXFXQ0oyckpWZkVlalhsem9rUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технології великих даних<br>Юринець Р.В., 122в IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інновації в бізнес-аналізі<br>Том'як О.І., 208 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82063155289?pwd=NU9KNXFXQ0oyckpWZkVlalhsem9rUT09" title="https://us02web.zoom.us/j/82063155289?pwd=NU9KNXFXQ0oyckpWZkVlalhsem9rUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інновації в бізнес-аналізі<br>Том'як О.І., 126а IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82063155289?pwd=NU9KNXFXQ0oyckpWZkVlalhsem9rUT09" title="https://us02web.zoom.us/j/82063155289?pwd=NU9KNXFXQ0oyckpWZkVlalhsem9rUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології великих даних<br>Берко А.Ю., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09" title="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтелектуальна власність<br>Бублик М.І., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09" title="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Інтелектуальна власність<br>Бублик М.І., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09" title="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Інтелектуальна власність<br>Бублик М.І., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09" title="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

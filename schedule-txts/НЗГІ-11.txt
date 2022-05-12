@@ -1,0 +1,203 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Картографування та 3-D моделювання просторово-часових процесів<br>Бубняк І.М., 302 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zge-ymys-igy" title="https://meet.google.com/zge-ymys-igy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Картографування та 3-D моделювання просторово-часових процесів<br>Бубняк І.М., 507 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xsx-ztgi-jru" title="https://meet.google.com/xsx-ztgi-jru">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інженерна геодинаміка територій промислово-міських агломерацій<br>Заяць О.С., 509 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jqe-oifc-ocn" title="https://meet.google.com/jqe-oifc-ocn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інженерна геодинаміка територій промислово-міських агломерацій<br>Заяць О.С., 509 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jqe-oifc-ocn" title="https://meet.google.com/jqe-oifc-ocn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія в геотехнічному інжинірінгу<br>Петров С.Л., 302 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76912803761?pwd=_6e8mYlp0x4aXoFRTNIccJBnCl-7pX.1" title="https://us04web.zoom.us/j/76912803761?pwd=_6e8mYlp0x4aXoFRTNIccJBnCl-7pX.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія в геотехнічному інжинірінгу<br>Петров С.Л., 302 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72017389328?pwd=mfIXitTZEtLofEe9GL3YwQLWpYAMgT.1" title="https://us04web.zoom.us/j/72017389328?pwd=mfIXitTZEtLofEe9GL3YwQLWpYAMgT.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Картографування та 3-D моделювання просторово-часових процесів<br>Бубняк І.М., 302 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xsx-ztgi-jru" title="https://meet.google.com/xsx-ztgi-jru">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інженерно-геологічні та гідрологічні вишукування<br>Бубняк І.М., 302 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zaz-uroa-qij" title="https://meet.google.com/zaz-uroa-qij">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інженерно-геологічні та гідрологічні вишукування<br>Бубняк І.М., 302 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bau-dyyn-xtu" title="https://meet.google.com/bau-dyyn-xtu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

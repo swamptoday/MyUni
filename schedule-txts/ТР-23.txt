@@ -1,0 +1,498 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Гадьо І.В., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/etu-remz-atq" title="https://meet.google.com/etu-remz-atq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Ліске О.М., 306 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aErMiZK83nQXrSsaj3dUlfczH4tSEd8o1ZAeQhuRfPBs1%40thread.tacv2/conversations?groupId=61fa07ee-c7da-4666-bf59-688035170085&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aErMiZK83nQXrSsaj3dUlfczH4tSEd8o1ZAeQhuRfPBs1%40thread.tacv2/conversations?groupId=61fa07ee-c7da-4666-bf59-688035170085&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Програмно-апаратні засоби в ТК і РТ<br>Мінзюк В.В., 205 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ous-bbjd-uum" title="https://meet.google.com/ous-bbjd-uum">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Цифрова схемотехніка<br>Бачик Д.Р., 204 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3anCP1RrWSLzg0J1eJx2cv8JIpQpwG8aKoH_Rb4nx64101%40thread.tacv2/1644507612340?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ee7e9b70-a4f3-41ac-85ff-8cc500afc53a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3anCP1RrWSLzg0J1eJx2cv8JIpQpwG8aKoH_Rb4nx64101%40thread.tacv2/1644507612340?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ee7e9b70-a4f3-41ac-85ff-8cc500afc53a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Паньків О.В., 108 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72203204209?pwd=WbBfRaQnl2nzKAkzD5muVvaIN8e4qM.1" title="https://us04web.zoom.us/j/72203204209?pwd=WbBfRaQnl2nzKAkzD5muVvaIN8e4qM.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Цифрова схемотехніка<br>Рицар Б.Є., 204 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jrx-mpce-eny" title="https://meet.google.com/jrx-mpce-eny">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Електродинаміка та поширення радіохвиль<br>Сторож В.Г., 114 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ajgEMKzcVtlyG3VFsSDUwyXHElPybYKJGWgaRUIXfWRo1%40thread.tacv2/1644665570819?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227a0064d7-5206-44b4-8993-005e4048b989%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ajgEMKzcVtlyG3VFsSDUwyXHElPybYKJGWgaRUIXfWRo1%40thread.tacv2/1644665570819?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227a0064d7-5206-44b4-8993-005e4048b989%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Електродинаміка та поширення радіохвиль<br>Сторож В.Г., 114 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a-GpwoLgEdOPPiITXSuX4s_2ijhZGpInFGoYzlHuJnio1%40thread.tacv2/1644664490422?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227a0064d7-5206-44b4-8993-005e4048b989%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a-GpwoLgEdOPPiITXSuX4s_2ijhZGpInFGoYzlHuJnio1%40thread.tacv2/1644664490422?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227a0064d7-5206-44b4-8993-005e4048b989%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Передавання сигналів в ІС<br>Волочій Б.Ю., 109 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/opd-ofoi-vox?authuser=0" title="https://meet.google.com/opd-ofoi-vox?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Гадьо І.В., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/etu-remz-atq" title="https://meet.google.com/etu-remz-atq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козак І.Г., Козіброда Л.В., Незгода С.П., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09" title="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Програмно-апаратні засоби в ТК і РТ<br>Мінзюк В.В., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ous-bbjd-uum" title="https://meet.google.com/ous-bbjd-uum">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрова схемотехніка<br>Рицар Б.Є., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https:/meet.google.com/gxi-ufic-cde" title="https:/meet.google.com/gxi-ufic-cde">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електродинаміка та поширення радіохвиль<br>Оборжицький В.І., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8ef42b7554884465aff56b2fa08ad3d5%40thread.tacv2/%25D0%2595%25D0%2594%25D0%259F%25D0%25A0%25D0%25A5%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F%25201?groupId=4fc9943a-4f9d-4fb7-8c87-30c2395fe371&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8ef42b7554884465aff56b2fa08ad3d5%40thread.tacv2/%25D0%2595%25D0%2594%25D0%259F%25D0%25A0%25D0%25A5%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F%25201?groupId=4fc9943a-4f9d-4fb7-8c87-30c2395fe371&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електродинаміка та поширення радіохвиль<br>Оборжицький В.І., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a7acc4f6e271340969ab2f47d4b7b8060%40thread.tacv2/%25D0%2595%25D0%2594%25D0%259F%25D0%25A0%25D0%25A5%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F%25202?groupId=4fc9943a-4f9d-4fb7-8c87-30c2395fe371&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a7acc4f6e271340969ab2f47d4b7b8060%40thread.tacv2/%25D0%2595%25D0%2594%25D0%259F%25D0%25A0%25D0%25A5%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F%25202?groupId=4fc9943a-4f9d-4fb7-8c87-30c2395fe371&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Передавання сигналів в ІС<br>Шкілюк О.П., 101 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vue-rjsi-vmx" title="https://meet.google.com/vue-rjsi-vmx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Програмно-апаратні засоби в ТК і РТ<br>Мінзюк В.В., 205 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ous-bbjd-uum" title="https://meet.google.com/ous-bbjd-uum">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Ліске О.М., 311 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aErMiZK83nQXrSsaj3dUlfczH4tSEd8o1ZAeQhuRfPBs1%40thread.tacv2/conversations?groupId=61fa07ee-c7da-4666-bf59-688035170085&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aErMiZK83nQXrSsaj3dUlfczH4tSEd8o1ZAeQhuRfPBs1%40thread.tacv2/conversations?groupId=61fa07ee-c7da-4666-bf59-688035170085&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Передавання сигналів в ІС<br>Шкілюк О.П., 101 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vue-rjsi-vmx" title="https://meet.google.com/vue-rjsi-vmx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Цифрова схемотехніка<br>Бачик Д.Р., 204 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3anCP1RrWSLzg0J1eJx2cv8JIpQpwG8aKoH_Rb4nx64101%40thread.tacv2/1644507734154?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ee7e9b70-a4f3-41ac-85ff-8cc500afc53a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3anCP1RrWSLzg0J1eJx2cv8JIpQpwG8aKoH_Rb4nx64101%40thread.tacv2/1644507734154?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ee7e9b70-a4f3-41ac-85ff-8cc500afc53a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування<br>Яковенко Є.І., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99408292483?pwd=MWV0dWtjclBFQzM4RFU3aERMcGhUZz09" title="https://zoom.us/j/99408292483?pwd=MWV0dWtjclBFQzM4RFU3aERMcGhUZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Передавання сигналів в ІС<br>Волочій Б.Ю., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/qow-fujg-wqp?authuser=0" title="https://meet.google.com/qow-fujg-wqp?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Сінельнікова М.В., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97935152634?pwd=OW9lMXZuY1F5Tk10S3dZMlNLWlpSZz09" title="https://zoom.us/j/97935152634?pwd=OW9lMXZuY1F5Tk10S3dZMlNLWlpSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

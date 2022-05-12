@@ -1,0 +1,301 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні системи і технології в логістиці<br>Гайванович Н.В., +МЕМ-11405 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84439865030?pwd=cVYwL0orOTR4L3hnNVM1NEhWYVdJZz09" title="https://us02web.zoom.us/j/84439865030?pwd=cVYwL0orOTR4L3hnNVM1NEhWYVdJZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Логістичний менеджмент<br>Шандрівська О.Є., +МЕМ-1122 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859" title="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Оптимізація логістичних рішень<br>Кузьо Н.Є., +МЕМ-11405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09" title="https://us02web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Оптимізація логістичних рішень<br>Кузьо Н.Є., +МЕМ-11201 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09" title="https://us02web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістичний менеджмент<br>Шандрівська О.Є., +МЕМ-11205 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859" title="https://zoom.us/j/3125523572?pwd=NDVqa08yVlVBb0x3aHF0Q3hpWUlxQT09  Идентификатор конференции: 312 552 3572 Код доступа: 055859">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія та організація наукових досліджень<br>Чорнописька Н.В., +МЕМ-11527 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84017460506?pwd=QUxFajVUUjNGazVVTmxyUXNLbXJRQT09" title="https://us02web.zoom.us/j/84017460506?pwd=QUxFajVUUjNGazVVTmxyUXNLbXJRQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Методологія та організація наукових досліджень<br>Чорнописька Н.В., +МЕМ-11527 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84017460506?pwd=QUxFajVUUjNGazVVTmxyUXNLbXJRQT09" title="https://us02web.zoom.us/j/84017460506?pwd=QUxFajVUUjNGazVVTmxyUXNLbXJRQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістичний контролінг<br>Крикавський Є.В., Кобилюх О.Я., +МЕМ-11527 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84591401612?pwd=NFhIZHVIbjRuWUNxVWdrWlFGclpSUT09" title="https://us02web.zoom.us/j/84591401612?pwd=NFhIZHVIbjRuWUNxVWdrWlFGclpSUT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89940031665?pwd=Mm9HRWFwQ2lsL0VzeGlsaTRNRDdxdz09" title="https://us02web.zoom.us/j/89940031665?pwd=Mm9HRWFwQ2lsL0VzeGlsaTRNRDdxdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Логістичне консультування<br>Наконечна Т.В., +МЕМ-11406 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a5ddc0e781b5c4cada1f49b88c4764679%40thread.tacv2/conversations?groupId=51ce2a9a-a26d-40c6-8ab7-6972eac34e07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a5ddc0e781b5c4cada1f49b88c4764679%40thread.tacv2/conversations?groupId=51ce2a9a-a26d-40c6-8ab7-6972eac34e07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Логістичний контролінг<br>Кобилюх О.Я., +МЕМ-11103 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81128605869?pwd=YWdwYTkyU0dmdHR3cWREQ05uUGRKUT09" title="https://us02web.zoom.us/j/81128605869?pwd=YWdwYTkyU0dmdHR3cWREQ05uUGRKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістичне консультування<br>Наконечна Т.В., +МЕМ-11109 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a5ddc0e781b5c4cada1f49b88c4764679%40thread.tacv2/conversations?groupId=51ce2a9a-a26d-40c6-8ab7-6972eac34e07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a5ddc0e781b5c4cada1f49b88c4764679%40thread.tacv2/conversations?groupId=51ce2a9a-a26d-40c6-8ab7-6972eac34e07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Оптимізація логістичних рішень<br>Кузьо Н.Є., +МЕМ-11401а IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09" title="https://us02web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інформаційні системи і технології в логістиці<br>Люльчак З.С., +МЕМ-11527 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96057636428?pwd=ZythcGx6bGZRNk5kbDkxRWNsRkVJZz09  Идентификатор конференции: 960 5763 6428 Код доступа: a3PHnE" title="https://zoom.us/j/96057636428?pwd=ZythcGx6bGZRNk5kbDkxRWNsRkVJZz09  Идентификатор конференции: 960 5763 6428 Код доступа: a3PHnE">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

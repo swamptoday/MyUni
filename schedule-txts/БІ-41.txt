@@ -1,0 +1,216 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Бізнес-планування та управління проектами<br>Ільчук П.Г., 4 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09  Meeting ID: 840 6791 2407 Passcode: 0" title="https://us02web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09  Meeting ID: 840 6791 2407 Passcode: 0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інформаційні технології організації бізнесу<br>Марковець О.В., 331 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac0d17ae4fa5947528cfb1590460e9712%40thread.tacv2/1644417137105?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac0d17ae4fa5947528cfb1590460e9712%40thread.tacv2/1644417137105?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Бізнес-планування та управління проектами<br>Ільчук П.Г., 4 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09  Meeting ID: 840 6791 2407 Passcode: 0" title="https://us02web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09  Meeting ID: 840 6791 2407 Passcode: 0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інформаційні технології організації бізнесу<br>Марковець О.В., 112 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac0d17ae4fa5947528cfb1590460e9712%40thread.tacv2/1644417231655?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac0d17ae4fa5947528cfb1590460e9712%40thread.tacv2/1644417231655?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Нанотехнології в медицині та біології<br>Заячук Д.М., 310 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aJN6uicHozeWXqvktXYS31f0bOnePRtj7cllfh4fiRPY1%40thread.tacv2/conversations?groupId=a1983eec-235c-47ee-af31-95f03dcfffd8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aJN6uicHozeWXqvktXYS31f0bOnePRtj7cllfh4fiRPY1%40thread.tacv2/conversations?groupId=a1983eec-235c-47ee-af31-95f03dcfffd8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Інформаційні системи в біомедичній інженерії<br>Невінський Д.В., 308 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bqy-hxxy-kfa" title="https://meet.google.com/bqy-hxxy-kfa">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні системи в біомедичній інженерії<br>Невінський Д.В., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ern-hxso-acq" title="https://meet.google.com/ern-hxso-acq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні системи в біомедичній інженерії<br>Невінський Д.В., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ern-hxso-acq" title="https://meet.google.com/ern-hxso-acq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нанотехнології в медицині та біології<br>Заячук Д.М., 111 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aJN6uicHozeWXqvktXYS31f0bOnePRtj7cllfh4fiRPY1%40thread.tacv2/conversations?groupId=a1983eec-235c-47ee-af31-95f03dcfffd8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aJN6uicHozeWXqvktXYS31f0bOnePRtj7cllfh4fiRPY1%40thread.tacv2/conversations?groupId=a1983eec-235c-47ee-af31-95f03dcfffd8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нанотехнології в медицині та біології<br>Заячук Д.М., 111 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aJN6uicHozeWXqvktXYS31f0bOnePRtj7cllfh4fiRPY1%40thread.tacv2/conversations?groupId=a1983eec-235c-47ee-af31-95f03dcfffd8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aJN6uicHozeWXqvktXYS31f0bOnePRtj7cllfh4fiRPY1%40thread.tacv2/conversations?groupId=a1983eec-235c-47ee-af31-95f03dcfffd8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

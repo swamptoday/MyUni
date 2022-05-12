@@ -1,0 +1,327 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Цифрові методи реалізації радіотехнічних систем<br>Лазько Л.В., 207 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rke-ztpt-eyn" title="https://meet.google.com/rke-ztpt-eyn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Цифрові методи реалізації радіотехнічних систем<br>Лазько Л.В., 207 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rke-ztpt-eyn" title="https://meet.google.com/rke-ztpt-eyn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові методи реалізації радіотехнічних систем<br>Лазько Л.В., 114 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rke-ztpt-eyn" title="https://meet.google.com/rke-ztpt-eyn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрова обробка сигналів<br>Лазько Л.В., 114 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rwg-dzjg-ons?hs=122&amp;authuser=2" title="https://meet.google.com/rwg-dzjg-ons?hs=122&amp;authuser=2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Корж Г.І., 132 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ax8xyMyxZD0E89NxKVUnnMog0F5cGLv_CEdv4RBCU4Wg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=80aa5b44-d93c-433a-a452-a6a6518c5a5e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ax8xyMyxZD0E89NxKVUnnMog0F5cGLv_CEdv4RBCU4Wg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=80aa5b44-d93c-433a-a452-a6a6518c5a5e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи теорії радіотехнічних систем, частина 2<br>Фабіровський С.Є., 110 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644611651366?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644611651366?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи теорії радіотехнічних систем, частина 2<br>Фабіровський С.Є., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644612267968?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644612267968?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Корж Г.І., 302 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aPf7QNTA-B5baUrx1BjKxESe1J_R3J-BtfuXeZH0IuEY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=38b4b96d-65d2-44a0-9bc3-22a4761318b5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aPf7QNTA-B5baUrx1BjKxESe1J_R3J-BtfuXeZH0IuEY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=38b4b96d-65d2-44a0-9bc3-22a4761318b5&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Корж Г.І., 302 III н.к., <br>,&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи теорії радіотехнічних систем, частина 2<br>Фабіровський С.Є., 114 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644612387636?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644612387636?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи теорії радіотехнічних систем, частина 2<br>Фабіровський С.Є., 114 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644612047086?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644612047086?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Основи теорії радіотехнічних систем, частина 2<br>Фабіровський С.Є., 114 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644612150723?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afpbSws8giu7m_ph3BIt_Od3tT11Z4UGY6gjhBf_FnZM1%40thread.tacv2/1644612150723?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226a0085c4-ad0f-4a36-89eb-55ac8ea2af35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Цифрова обробка сигналів<br>Лазько Л.В., 207 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rwg-dzjg-ons?hs=122&amp;authuser=2" title="https://meet.google.com/rwg-dzjg-ons?hs=122&amp;authuser=2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Цифрова обробка сигналів<br>Лазько Л.В., 207 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rwg-dzjg-ons?hs=122&amp;authuser=2" title="https://meet.google.com/rwg-dzjg-ons?hs=122&amp;authuser=2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрова обробка сигналів<br>Лазько Л.В., 207 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rwg-dzjg-ons?hs=122&amp;authuser=2" title="https://meet.google.com/rwg-dzjg-ons?hs=122&amp;authuser=2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові методи реалізації радіотехнічних систем<br>Лазько Л.В., 207 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rke-ztpt-eyn" title="https://meet.google.com/rke-ztpt-eyn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,335 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання соціального забезпечення<br>Андрейчук С.К., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09" title="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Запобігання конфліктів та професійна етика<br>Школяр М.В., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/1644309905792?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/1644309905792?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська мова (за професійним спрямуванням)<br>Теглівець Ю.В., 309 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84676094642?pwd=SjAvSGliYzZzbiszYzJjL1hXNnN3QT09" title="https://us02web.zoom.us/j/84676094642?pwd=SjAvSGliYzZzbiszYzJjL1hXNnN3QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Запобігання конфліктів та професійна етика<br>Школяр М.В., 107 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/1644310125014?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/1644310125014?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Система соціального захисту в Україні<br>Дудок К.С., 107 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97631865354?pwd=blVadHlnaUJpWXVURThDbHQ5d3pOZz09" title="https://zoom.us/j/97631865354?pwd=blVadHlnaUJpWXVURThDbHQ5d3pOZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Кузан Г.С., 17 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71851876844?pwd=9Ntfn8YsJPrq_6YJYEMcoC4-SRAWTQ.1" title="https://us04web.zoom.us/j/71851876844?pwd=9Ntfn8YsJPrq_6YJYEMcoC4-SRAWTQ.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Гулей К.С., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання соціального забезпечення<br>Яцишин І.І., 107 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aSyniQ-JcRPzPLPAh-TzaC10DrMHXk-xmGFwuIuImB1U1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dc46643a-3daf-4888-b5f1-dff57c3a2c20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aSyniQ-JcRPzPLPAh-TzaC10DrMHXk-xmGFwuIuImB1U1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dc46643a-3daf-4888-b5f1-dff57c3a2c20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Запобігання конфліктів та професійна етика<br>Школяр М.В., 107 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/1644310827912?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/1644310827912?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Калиновська О.Р., 18 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83671239803?pwd=SzBsdkdvZlF0L2hPOXd3TDRQY2xZZz09" title="https://us02web.zoom.us/j/83671239803?pwd=SzBsdkdvZlF0L2hPOXd3TDRQY2xZZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Система соціального захисту в Україні<br>Дудок К.С., 207 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98993710221?pwd=TlZ0ZGJnRjAzRVJHaEUrRWpsT1UxUT09" title="https://zoom.us/j/98993710221?pwd=TlZ0ZGJnRjAzRVJHaEUrRWpsT1UxUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання соціального забезпечення<br>Андрейчук С.К., 207 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09" title="https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Система соціального захисту в Україні<br>Дудок К.С., 105 XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97631865354?pwd=blVadHlnaUJpWXVURThDbHQ5d3pOZz09" title="https://zoom.us/j/97631865354?pwd=blVadHlnaUJpWXVURThDbHQ5d3pOZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання соціального забезпечення<br>Яцишин І.І., 205а XXIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aSyniQ-JcRPzPLPAh-TzaC10DrMHXk-xmGFwuIuImB1U1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dc46643a-3daf-4888-b5f1-dff57c3a2c20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aSyniQ-JcRPzPLPAh-TzaC10DrMHXk-xmGFwuIuImB1U1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dc46643a-3daf-4888-b5f1-dff57c3a2c20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

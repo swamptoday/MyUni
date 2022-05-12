@@ -1,0 +1,390 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Метрологія та стандартизація<br>Лазько О.В., 214 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rcb-rwxs-oei?authuser=2&amp;hl=uk" title="https://meet.google.com/rcb-rwxs-oei?authuser=2&amp;hl=uk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Метрологія та стандартизація<br>Лазько О.В., 214 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rcb-rwxs-oei?authuser=2&amp;hl=uk" title="https://meet.google.com/rcb-rwxs-oei?authuser=2&amp;hl=uk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Авіаматеріалознавство<br>Ваврух В.І., Ковбасюк Т.М., 014 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a288aed80ae0b4c6ebabb208cd8e82a89%40thread.tacv2/1644596535739?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a288aed80ae0b4c6ebabb208cd8e82a89%40thread.tacv2/1644596535739?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи аеродинаміки<br>Товстюк К.К., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/khd-qoyq-xwi" title="https://meet.google.com/khd-qoyq-xwi">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Авіаматеріалознавство<br>Ковбасюк Т.М., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a288aed80ae0b4c6ebabb208cd8e82a89%40thread.tacv2/1644597874619?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a288aed80ae0b4c6ebabb208cd8e82a89%40thread.tacv2/1644597874619?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи теорії кіл<br>Кіселичник М.Д., 214 XI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи аеродинаміки<br>Товстюк К.К., 111 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ufr-cyin-oiz" title="https://meet.google.com/ufr-cyin-oiz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Світлик В.В., Незгода С.П., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84439355760?pwd=am8vSmlDanJlSm4yQ1pWWEJtN1gxdz09  Идентификатор конференции: 844 3935 5760 Код доступа: 1234" title="https://us05web.zoom.us/j/84439355760?pwd=am8vSmlDanJlSm4yQ1pWWEJtN1gxdz09  Идентификатор конференции: 844 3935 5760 Код доступа: 1234">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Метрологія та стандартизація<br>Здеб В.Б., 106 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/trk-ftir-qyz" title="https://meet.google.com/trk-ftir-qyz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Метрологія та стандартизація<br>Здеб В.Б., 106 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xvp-cnhz-ezm" title="https://meet.google.com/xvp-cnhz-ezm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи теорії кіл<br>Кіселичник М.Д., 214 XI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія автоматичного управління<br>Ліске О.М., 310 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a_2ptJGXzm1HpkX0ULl82jN_vKFROYM6aSt7btP_c59Q1%40thread.tacv2/conversations?groupId=482bdb5b-2303-4aaf-9c4f-f781ac19290b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a_2ptJGXzm1HpkX0ULl82jN_vKFROYM6aSt7btP_c59Q1%40thread.tacv2/conversations?groupId=482bdb5b-2303-4aaf-9c4f-f781ac19290b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія автоматичного управління<br>Ліске О.М., 111 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a_2ptJGXzm1HpkX0ULl82jN_vKFROYM6aSt7btP_c59Q1%40thread.tacv2/conversations?groupId=482bdb5b-2303-4aaf-9c4f-f781ac19290b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a_2ptJGXzm1HpkX0ULl82jN_vKFROYM6aSt7btP_c59Q1%40thread.tacv2/conversations?groupId=482bdb5b-2303-4aaf-9c4f-f781ac19290b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Мікропропроцесори та мікропроцесорні системи в авіоніці<br>Вус Б.С., 306 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3afNMo68QqSEr2qtAHRYdC1jH65tfNuMPprNoGeI3ufjw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=abe6d4b6-1069-4e5e-b54c-fcceb1875b0a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3afNMo68QqSEr2qtAHRYdC1jH65tfNuMPprNoGeI3ufjw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=abe6d4b6-1069-4e5e-b54c-fcceb1875b0a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи теорії кіл<br>Якубенко І.Л., 216 XI н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Мікропропроцесори та мікропроцесорні системи в авіоніці<br>Вус Б.С., 306 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3afNMo68QqSEr2qtAHRYdC1jH65tfNuMPprNoGeI3ufjw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=abe6d4b6-1069-4e5e-b54c-fcceb1875b0a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3afNMo68QqSEr2qtAHRYdC1jH65tfNuMPprNoGeI3ufjw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=abe6d4b6-1069-4e5e-b54c-fcceb1875b0a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи теорії кіл<br>Якубенко І.Л., 216 XI н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікропропроцесори та мікропроцесорні системи в авіоніці<br>Вус Б.С., 109 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3afNMo68QqSEr2qtAHRYdC1jH65tfNuMPprNoGeI3ufjw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=abe6d4b6-1069-4e5e-b54c-fcceb1875b0a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3afNMo68QqSEr2qtAHRYdC1jH65tfNuMPprNoGeI3ufjw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=abe6d4b6-1069-4e5e-b54c-fcceb1875b0a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

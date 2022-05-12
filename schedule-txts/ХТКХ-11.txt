@@ -1,0 +1,198 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання  гідромеханічних  процесів<br>Костів І.С., 307 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/N1FbLKR1SV5F" title="https://join.skype.com/N1FbLKR1SV5F">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання  гідромеханічних  процесів<br>Гаврилів Р.І., 307 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/COeGI6cZbV7l" title="https://join.skype.com/COeGI6cZbV7l">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання хімічних реакторів<br>Гузьова І.О., 307 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9ba35e92532e4fb38846f2848c9a17b8%40thread.tacv2/1644838209605?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226325827c-86ac-4aa6-b31d-d6ffe92baeb3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9ba35e92532e4fb38846f2848c9a17b8%40thread.tacv2/1644838209605?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226325827c-86ac-4aa6-b31d-d6ffe92baeb3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання хімічних реакторів<br>Гузьова І.О., 307 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9ba35e92532e4fb38846f2848c9a17b8%40thread.tacv2/1644838296441?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226325827c-86ac-4aa6-b31d-d6ffe92baeb3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9ba35e92532e4fb38846f2848c9a17b8%40thread.tacv2/1644838296441?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226325827c-86ac-4aa6-b31d-d6ffe92baeb3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання  масообмінних процесів<br>Гнатів З.Я., 307 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmExZTc5NWQtZDA2ZS00YWU4LWI1ZDAtOTZhMTA1MTQyNDU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295095efb-0378-4292-b6f9-c47b9b9de67e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmExZTc5NWQtZDA2ZS00YWU4LWI1ZDAtOTZhMTA1MTQyNDU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295095efb-0378-4292-b6f9-c47b9b9de67e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання  масообмінних процесів<br>Гнатів З.Я., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzFiY2RiNmYtZWNiYS00MGY3LTg4ODItNDIwOGRjZWM3YjA1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295095efb-0378-4292-b6f9-c47b9b9de67e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzFiY2RiNmYtZWNiYS00MGY3LTg4ODItNDIwOGRjZWM3YjA1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295095efb-0378-4292-b6f9-c47b9b9de67e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання процесів та апаратів хімічної технології,  частина 2<br>Іващук О.С., 307 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae6NtzHBZ-efjweufKokxBrrIgDAae5RI9Kfp_UMWt2I1%40thread.tacv2/1644766597720?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae6NtzHBZ-efjweufKokxBrrIgDAae5RI9Kfp_UMWt2I1%40thread.tacv2/1644766597720?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельне моделювання процесів та апаратів хімічної технології,  частина 2<br>Іващук О.С., 307 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae6NtzHBZ-efjweufKokxBrrIgDAae5RI9Kfp_UMWt2I1%40thread.tacv2/1644766734889?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae6NtzHBZ-efjweufKokxBrrIgDAae5RI9Kfp_UMWt2I1%40thread.tacv2/1644766734889?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

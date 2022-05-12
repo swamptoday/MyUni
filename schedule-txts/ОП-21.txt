@@ -1,0 +1,556 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Статистика<br>Процак К.В., 416 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83473037487?pwd=MDlWL0JYdjFQcFBaem9KcytOdjllZz09" title="https://us02web.zoom.us/j/83473037487?pwd=MDlWL0JYdjFQcFBaem9KcytOdjllZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Економіко-математичні методи і моделі <br>Гірна О.Б., 416 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77377934096?pwd=95S9BfYOS3k_j8GbUcUe3NP-celMXN.1" title="https://us04web.zoom.us/j/77377934096?pwd=95S9BfYOS3k_j8GbUcUe3NP-celMXN.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінанси, гроші та кредит<br>Ярошевич Н.Б., 416 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aoyHZ4XOcQGf1bp93D3A50B55QoXECvt0f8EYlFSCwPY1%40thread.tacv2/1644413973222?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aoyHZ4XOcQGf1bp93D3A50B55QoXECvt0f8EYlFSCwPY1%40thread.tacv2/1644413973222?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий облік II<br>Воськало В.І., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8399781297" title="https://us02web.zoom.us/j/8399781297">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінанси, гроші та кредит<br>Віблий П.І., анг.мовою106 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09" title="https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фінанси, гроші та кредит<br>Віблий П.І., 106 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09" title="https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий облік II<br>Воськало В.І., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8399781297" title="https://us02web.zoom.us/j/8399781297">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий облік I<br>Височан О.О., 326 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/95053241596?pwd=dGpJZlpDVFFmZ1hzc2ZaRkd6azJ4Zz09" title="https://us02web.zoom.us/j/95053241596?pwd=dGpJZlpDVFFmZ1hzc2ZaRkd6azJ4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фінансовий облік II<br>Воськало Н.М., 001 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2174170526?pwd=RDBLTzBaQVAxVUx6cUtSQytZZWpCZz09" title="https://zoom.us/j/2174170526?pwd=RDBLTzBaQVAxVUx6cUtSQytZZWpCZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фінансовий облік I<br>Височан О.О., 001 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/95053241596?pwd=dGpJZlpDVFFmZ1hzc2ZaRkd6azJ4Zz09" title="https://us02web.zoom.us/j/95053241596?pwd=dGpJZlpDVFFmZ1hzc2ZaRkd6azJ4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фінансовий облік II<br>Воськало Н.М., 001 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2174170526?pwd=RDBLTzBaQVAxVUx6cUtSQytZZWpCZz09" title="https://zoom.us/j/2174170526?pwd=RDBLTzBaQVAxVUx6cUtSQytZZWpCZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фінанси, гроші та кредит<br>Ярошевич Н.Б., 207 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aoyHZ4XOcQGf1bp93D3A50B55QoXECvt0f8EYlFSCwPY1%40thread.tacv2/1644418385274?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aoyHZ4XOcQGf1bp93D3A50B55QoXECvt0f8EYlFSCwPY1%40thread.tacv2/1644418385274?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінанси, гроші та кредит<br>Ярошевич Н.Б., 207 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aoyHZ4XOcQGf1bp93D3A50B55QoXECvt0f8EYlFSCwPY1%40thread.tacv2/1644418545511?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aoyHZ4XOcQGf1bp93D3A50B55QoXECvt0f8EYlFSCwPY1%40thread.tacv2/1644418545511?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Економіко-математичні методи і моделі <br>Кузяк В.В., 426а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86565864034?pwd=RGJ0Q3dxUDhOS3JZM2EvbnM3d20zZz09" title="https://us02web.zoom.us/j/86565864034?pwd=RGJ0Q3dxUDhOS3JZM2EvbnM3d20zZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Економіко-математичні методи і моделі <br>Рикованова І.С., 426в IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86565864034?pwd=RGJ0Q3dxUDhOS3JZM2EvbnM3d20zZz09" title="https://us02web.zoom.us/j/86565864034?pwd=RGJ0Q3dxUDhOS3JZM2EvbnM3d20zZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Економіко-математичні методи і моделі <br>Рикованова І.С., 426в IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86565864034?pwd=RGJ0Q3dxUDhOS3JZM2EvbnM3d20zZz09" title="https://us02web.zoom.us/j/86565864034?pwd=RGJ0Q3dxUDhOS3JZM2EvbnM3d20zZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Економіко-математичні методи і моделі <br>Кузяк В.В., 426а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86565864034?pwd=RGJ0Q3dxUDhOS3JZM2EvbnM3d20zZz09" title="https://us02web.zoom.us/j/86565864034?pwd=RGJ0Q3dxUDhOS3JZM2EvbnM3d20zZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фінансовий облік I<br>Височан О.О., 001 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/95053241596?pwd=dGpJZlpDVFFmZ1hzc2ZaRkd6azJ4Zz09" title="https://us02web.zoom.us/j/95053241596?pwd=dGpJZlpDVFFmZ1hzc2ZaRkd6azJ4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Статистика<br>Процак К.В., 207 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88346603554?pwd=K0t3aHZZcnd0aE1EZSsyVnB1anZIUT09" title="https://us02web.zoom.us/j/88346603554?pwd=K0t3aHZZcnd0aE1EZSsyVnB1anZIUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія обліку, аналізу та аудиту<br>Лемішовська О.С., 326б IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09" title="https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Статистика<br>Процак К.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84472726538?pwd=YW44RUdJR2dMRFB4cUVtTTMwSlBHZz09" title="https://us02web.zoom.us/j/84472726538?pwd=YW44RUdJR2dMRFB4cUVtTTMwSlBHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий облік I<br>Височан О.О., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/95053241596?pwd=dGpJZlpDVFFmZ1hzc2ZaRkd6azJ4Zz09" title="https://us02web.zoom.us/j/95053241596?pwd=dGpJZlpDVFFmZ1hzc2ZaRkd6azJ4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія обліку, аналізу та аудиту<br>Лемішовська О.С., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09" title="https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінанси, гроші та кредит<br>Коць О.О., анг.мовою514 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/828583962?pwd=TkZLeU1MY2d5eUpqeTJ5WUJTRHlVUT09  Meeting ID: 828 583 962 Passcode: 0" title="https://us02web.zoom.us/j/828583962?pwd=TkZLeU1MY2d5eUpqeTJ5WUJTRHlVUT09  Meeting ID: 828 583 962 Passcode: 0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козак І.Г., 14.40.-16.10.Самчука 11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09" title="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

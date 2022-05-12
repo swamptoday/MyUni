@@ -1,0 +1,286 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Адміністративно-правове регулювання інноваційної діяльності<br>Лук'янова Г.Ю., вибіркова302 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09" title="https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз правової системи України<br>Цебенко С.Б., вибіркова302 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93552312311?pwd=SEtQQ1V2M21TRWtQR28yUUdjVmRVdz09" title="https://zoom.us/j/93552312311?pwd=SEtQQ1V2M21TRWtQR28yUUdjVmRVdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз правової системи України<br>Цебенко С.Б., вибіркова307 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93552312311?pwd=SEtQQ1V2M21TRWtQR28yUUdjVmRVdz09" title="https://zoom.us/j/93552312311?pwd=SEtQQ1V2M21TRWtQR28yUUdjVmRVdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Адміністративно-правове регулювання інноваційної діяльності<br>Крикавська І.В., вибіркова328 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09" title="https://us02web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія та практика конституціоналізму<br>Ромців О.І., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83680630191?pwd=b1lTZHRKcWU1RCsxSm42aFJsSXIvZz09" title="https://us02web.zoom.us/j/83680630191?pwd=b1lTZHRKcWU1RCsxSm42aFJsSXIvZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія та практика конституціоналізму<br>Ромців О.І., 25 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88490741338?pwd=cGc4ZUVXenhIWEJDbjBMY1hSdFdFQT09" title="https://us02web.zoom.us/j/88490741338?pwd=cGc4ZUVXenhIWEJDbjBMY1hSdFdFQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтелектуальна власність<br>Сорока С.О., вибіркова26 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8973389103?pwd=emcxRGErV1NKTy91dVlaNytQc0Z5UT09" title="https://us02web.zoom.us/j/8973389103?pwd=emcxRGErV1NKTy91dVlaNytQc0Z5UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтелектуальна власність<br>Сорока С.О., вибіркова26 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8973389103?pwd=emcxRGErV1NKTy91dVlaNytQc0Z5UT09" title="https://us02web.zoom.us/j/8973389103?pwd=emcxRGErV1NKTy91dVlaNytQc0Z5UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Адміністративно-правове регулювання інноваційної діяльності<br>Крикавська І.В., вибіркова332 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09" title="https://us02web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проблеми адміністративного права<br>Гулак Л.С., вибіркова25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95735176278?pwd=QVJHc1gvbnhwZ1lzTVFabi9CRTNoZz09" title="https://zoom.us/j/95735176278?pwd=QVJHc1gvbnhwZ1lzTVFabi9CRTNoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проблеми філософії права<br>Левицька О.В., вибіркова328 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ndg-skvu-ieu?authuser=0" title="https://meet.google.com/ndg-skvu-ieu?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проблеми філософії права<br>Левицька О.В., вибіркова328 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vgu-ouzn-upv?authuser=0" title="https://meet.google.com/vgu-ouzn-upv?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

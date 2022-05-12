@@ -1,0 +1,345 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Структурно-системне моделювання в картографії<br>Бридун А.М., 608 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09" title="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Картографування природнього середовища за космічними зображеннями<br>Согор А.Р., 608 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09" title="https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Картографування природнього середовища за космічними зображеннями<br>Согор А.Р., 608 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09" title="https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Структурно-системне моделювання в картографії<br>Бридун А.М., 608 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09" title="https://us02web.zoom.us/j/9135684222?pwd=Y1dicEhNS0JuTDdvRWFpdXBXUXNYUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи WEB-картографії<br>Юрків М.І., 608 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96385695188?pwd=OW1tZEh2eEt5TENDdUJhTWVIa3pZdz09" title="https://zoom.us/j/96385695188?pwd=OW1tZEh2eEt5TENDdUJhTWVIa3pZdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація та управління робіт в картографії<br>Согор А.Р., 608 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09" title="https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація та управління робіт в картографії<br>Согор А.Р., 608 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09" title="https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування, укладання та видання карт<br>Ярема Н.П., 608 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vmm-kwok-kjd" title="https://meet.google.com/vmm-kwok-kjd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування, укладання та видання карт<br>Сосса Р.І., 608 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5313100380?pwd=SC9ESGZWWC9oTTdSL09ORXEyWHJsZz09" title="https://zoom.us/j/5313100380?pwd=SC9ESGZWWC9oTTdSL09ORXEyWHJsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проектування, укладання та видання карт<br>Сосса Р.І., 608 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5313100380?pwd=SC9ESGZWWC9oTTdSL09ORXEyWHJsZz09" title="https://zoom.us/j/5313100380?pwd=SC9ESGZWWC9oTTdSL09ORXEyWHJsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Картознавство<br>Андрейчук Ю.М., 606 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5105514305?pwd=N2VlREQ2cXRNejFBL2F5WStsZWlmUT09" title="https://us04web.zoom.us/j/5105514305?pwd=N2VlREQ2cXRNejFBL2F5WStsZWlmUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Картознавство<br>Андрейчук Ю.М., 606 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5105514305?pwd=N2VlREQ2cXRNejFBL2F5WStsZWlmUT09" title="https://us04web.zoom.us/j/5105514305?pwd=N2VlREQ2cXRNejFBL2F5WStsZWlmUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи WEB-картографії<br>Юрків М.І., 608 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96385695188?pwd=OW1tZEh2eEt5TENDdUJhTWVIa3pZdz09" title="https://zoom.us/j/96385695188?pwd=OW1tZEh2eEt5TENDdUJhTWVIa3pZdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проектування, укладання та видання карт<br>Ярема Н.П., 608 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vmm-kwok-kjd" title="https://meet.google.com/vmm-kwok-kjd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Картознавство<br>Андрейчук Ю.М., 606 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5105514305?pwd=N2VlREQ2cXRNejFBL2F5WStsZWlmUT09" title="https://us04web.zoom.us/j/5105514305?pwd=N2VlREQ2cXRNejFBL2F5WStsZWlmUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

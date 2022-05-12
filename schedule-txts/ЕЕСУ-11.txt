@@ -1,0 +1,277 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові технології в системах захисту й автоматики розподільних електричних мереж<br>Баран П.М., 307 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ad4fa406ad5ac4903a9f534e87546a24e%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=ecdaf838-1dee-410e-9a64-7193e4db35d8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ad4fa406ad5ac4903a9f534e87546a24e%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=ecdaf838-1dee-410e-9a64-7193e4db35d8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові пристрої релейного захисту й автоматики<br>Баран П.М., 304 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a042210c38d6848609d1cdfbded6f0408%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=b478e46d-e472-4f26-b703-8329c8f09a7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a042210c38d6848609d1cdfbded6f0408%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=b478e46d-e472-4f26-b703-8329c8f09a7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Цифрові пристрої релейного захисту й автоматики<br>Кідиба В.П., 305а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8aa93aef5b4548d18d104f0ad498393e%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=b478e46d-e472-4f26-b703-8329c8f09a7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8aa93aef5b4548d18d104f0ad498393e%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=b478e46d-e472-4f26-b703-8329c8f09a7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Цифрові технології в системах захисту й автоматики розподільних електричних мереж<br>Баран П.М., 312а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ac252f142ca9a47639f6f0904579ada29%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596)?groupId=ecdaf838-1dee-410e-9a64-7193e4db35d8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ac252f142ca9a47639f6f0904579ada29%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596)?groupId=ecdaf838-1dee-410e-9a64-7193e4db35d8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Цифрові технології в системах захисту й автоматики розподільних електричних мереж<br>Баран П.М., 304 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3afc35dbaffeaf4b488dd26710be42a211%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=ecdaf838-1dee-410e-9a64-7193e4db35d8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3afc35dbaffeaf4b488dd26710be42a211%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=ecdaf838-1dee-410e-9a64-7193e4db35d8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Автоматика електроенергетичних систем<br>Коновал В.С., 305а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3acvFtQyhIlISM3-hqjggWlQJu2doK0jZgqAOkphVbGMI1%40thread.tacv2/conversations?groupId=ff14ed1b-b5a2-4aaf-b3b9-91f286e17518&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3acvFtQyhIlISM3-hqjggWlQJu2doK0jZgqAOkphVbGMI1%40thread.tacv2/conversations?groupId=ff14ed1b-b5a2-4aaf-b3b9-91f286e17518&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Автоматика електроенергетичних систем<br>Коновал В.С., 305а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3acvFtQyhIlISM3-hqjggWlQJu2doK0jZgqAOkphVbGMI1%40thread.tacv2/conversations?groupId=ff14ed1b-b5a2-4aaf-b3b9-91f286e17518&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3acvFtQyhIlISM3-hqjggWlQJu2doK0jZgqAOkphVbGMI1%40thread.tacv2/conversations?groupId=ff14ed1b-b5a2-4aaf-b3b9-91f286e17518&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Цифрові пристрої релейного захисту й автоматики<br>Баран П.М., 312а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3af06160f0c94748adb16371d23be006b9%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596)?groupId=b478e46d-e472-4f26-b703-8329c8f09a7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3af06160f0c94748adb16371d23be006b9%40thread.tacv2/%25D0%2595%25D0%2595%25D0%25A1%25D0%25A3-11%2520(%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596)?groupId=b478e46d-e472-4f26-b703-8329c8f09a7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Релейний захист і автоматика електричних станцій<br>Пришляк Я.Д., 305а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8b42b4a8ca644a539c428ab437bf7d58%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8b42b4a8ca644a539c428ab437bf7d58%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Автоматика електроенергетичних систем<br>Коновал В.С., 305а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3acvFtQyhIlISM3-hqjggWlQJu2doK0jZgqAOkphVbGMI1%40thread.tacv2/conversations?groupId=ff14ed1b-b5a2-4aaf-b3b9-91f286e17518&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3acvFtQyhIlISM3-hqjggWlQJu2doK0jZgqAOkphVbGMI1%40thread.tacv2/conversations?groupId=ff14ed1b-b5a2-4aaf-b3b9-91f286e17518&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Релейний захист і автоматика електричних станцій<br>Пришляк Я.Д., 305а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a33cccf2d7e464fc791a22f36f523a7f4%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a33cccf2d7e464fc791a22f36f523a7f4%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Релейний захист і автоматика електричних станцій<br>Пришляк Я.Д., 303 V н.к., 304 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3acf2295ea00284c3bb518abaf722b1906%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3acf2295ea00284c3bb518abaf722b1906%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

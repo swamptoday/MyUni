@@ -1,0 +1,313 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Господарський процес<br>Остапенко Л.О., 405 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/96701876475?pwd%3DUXNlZWtGRWI1YXQzOC9GZW5RT2ZhQT09&amp;sa=D&amp;source=calendar&amp;ust=1645260379546986&amp;usg=AOvVaw0egpmR64ru1ALQnstqbom9" title="https://www.google.com/url?q=https://zoom.us/j/96701876475?pwd%3DUXNlZWtGRWI1YXQzOC9GZW5RT2ZhQT09&amp;sa=D&amp;source=calendar&amp;ust=1645260379546986&amp;usg=AOvVaw0egpmR64ru1ALQnstqbom9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання зовнішньо-економічної діяльності<br>Баскакова О.І., 405 XXXVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5353602525?pwd=UXh3RVR6SHJMTTV6QVB1cDF0NTFtUT09" title="https://zoom.us/j/5353602525?pwd=UXh3RVR6SHJMTTV6QVB1cDF0NTFtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Антикорупційна діяльність в Україні<br>Шай Р.Я., 12 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19:KTB1-QkvJo36Xl7zsRHuyEfmPFpci1SpIM1ZO0lsD6U1@thread.tacv2/1644410856116?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224b0a4674-8066-4f2a-917d-7c0d32e4571f%22%7D" title="https://teams.microsoft.com/l/meetup-join/19:KTB1-QkvJo36Xl7zsRHuyEfmPFpci1SpIM1ZO0lsD6U1@thread.tacv2/1644410856116?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224b0a4674-8066-4f2a-917d-7c0d32e4571f%22%7D">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Антикорупційна діяльність в Україні<br>Шай Р.Я., 12 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19:KTB1-QkvJo36Xl7zsRHuyEfmPFpci1SpIM1ZO0lsD6U1@thread.tacv2/1644410856116?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224b0a4674-8066-4f2a-917d-7c0d32e4571f%22%7D" title="https://teams.microsoft.com/l/meetup-join/19:KTB1-QkvJo36Xl7zsRHuyEfmPFpci1SpIM1ZO0lsD6U1@thread.tacv2/1644410856116?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224b0a4674-8066-4f2a-917d-7c0d32e4571f%22%7D">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Судова медицина<br>Баран А.В., 108 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://us02web.zoom.us/j/81620145203?pwd%3DbkFVUjVDZDZET0xDV2pQY2xUaGdyZz09&amp;sa=D&amp;source=calendar&amp;ust=1645381550974402&amp;usg=AOvVaw060ZmDcoPbiCfkjHenun1Z" title="https://www.google.com/url?q=https://us02web.zoom.us/j/81620145203?pwd%3DbkFVUjVDZDZET0xDV2pQY2xUaGdyZz09&amp;sa=D&amp;source=calendar&amp;ust=1645381550974402&amp;usg=AOvVaw060ZmDcoPbiCfkjHenun1Z">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Господарське право, частина 2<br>Комарницька І.І., 329 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9649089415?pwd=dlNOT1V4eHZFaWw2Z3JXN1BiZDROQT09" title="https://zoom.us/j/9649089415?pwd=dlNOT1V4eHZFaWw2Z3JXN1BiZDROQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове забезпечення інформаційної безпеки<br>Смотрич Д.В., 329 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77849144021?pwd=8rKmm_ZOv6NEUp78jsX6d7sxd0xU49.1" title="https://us04web.zoom.us/j/77849144021?pwd=8rKmm_ZOv6NEUp78jsX6d7sxd0xU49.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Господарський процес<br>Комарницька І.І., 26 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9649089415?pwd=dlNOT1V4eHZFaWw2Z3JXN1BiZDROQT09" title="https://zoom.us/j/9649089415?pwd=dlNOT1V4eHZFaWw2Z3JXN1BiZDROQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання зовнішньо-економічної діяльності<br>Богів Я.С., 26 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8537304635?pwd=TDMzb05nYUhBb0g5QnJia0VCVDdSdz09" title="https://zoom.us/j/8537304635?pwd=TDMzb05nYUhBb0g5QnJia0VCVDdSdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове забезпечення інформаційної безпеки<br>Смотрич Д.В., 26 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77849144021?pwd=8rKmm_ZOv6NEUp78jsX6d7sxd0xU49.1" title="https://us04web.zoom.us/j/77849144021?pwd=8rKmm_ZOv6NEUp78jsX6d7sxd0xU49.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Антикорупційна діяльність в Україні<br>Марисюк К.Б., 34 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83162501088?pwd=cWxGalBWd0V2bmJxNmNJekZqUTFHZz09" title="https://us02web.zoom.us/j/83162501088?pwd=cWxGalBWd0V2bmJxNmNJekZqUTFHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Господарське право, частина 2<br>Тарнавська М.І., 34 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09" title="https://zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Судова медицина<br>Сибірна Р.І., 34 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/7096684473?pwd=WjB1Ums0SFhRV2tSMkZqdXB2ZE5pZz09 " title="https://us05web.zoom.us/j/7096684473?pwd=WjB1Ums0SFhRV2tSMkZqdXB2ZE5pZz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

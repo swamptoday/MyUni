@@ -1,0 +1,330 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія, ч. 2<br>Сідоров І.С., Покотило І.Я., Тарнавський В.Л., 514 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4Q56crupZwxuIIKXkqGf7t-D04RM_6czxptc1G-q0ns1%40thread.tacv2/1644323771436?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4Q56crupZwxuIIKXkqGf7t-D04RM_6czxptc1G-q0ns1%40thread.tacv2/1644323771436?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика. частина 2<br>Фис М.М., 609 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09" title="https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика. частина 2<br>Фис М.М., 609 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09" title="https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br><br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">ГІС і бази даних<br>Кузик З.О., 619а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09" title="https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">ГІС і бази даних<br>Кузик З.О., 602 II н.к., 619а II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09" title="https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія, ч. 2<br>Покотило І.Я., Сідоров І.С., Тарнавський В.Л., 514 II н.к., 518 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4Q56crupZwxuIIKXkqGf7t-D04RM_6czxptc1G-q0ns1%40thread.tacv2/1644324256174?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4Q56crupZwxuIIKXkqGf7t-D04RM_6czxptc1G-q0ns1%40thread.tacv2/1644324256174?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія, ч. 2<br>Покотило І.Я., Сідоров І.С., Тарнавський В.Л., 514 II н.к., 518 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4Q56crupZwxuIIKXkqGf7t-D04RM_6czxptc1G-q0ns1%40thread.tacv2/1644324314764?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4Q56crupZwxuIIKXkqGf7t-D04RM_6czxptc1G-q0ns1%40thread.tacv2/1644324314764?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геодезія, ч. 2<br>Покотило І.Я., Сідоров І.С., Тарнавський В.Л., 514 II н.к., 518 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4Q56crupZwxuIIKXkqGf7t-D04RM_6czxptc1G-q0ns1%40thread.tacv2/1644324351438?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4Q56crupZwxuIIKXkqGf7t-D04RM_6czxptc1G-q0ns1%40thread.tacv2/1644324351438?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220bc133b6-60c3-4fb4-b5fc-6374eca205e2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">ГІС і бази даних<br>Кузик З.О., 619а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09" title="https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">ГІС і бази даних<br>Кузик З.О., 619а II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09" title="https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика. частина 2<br>Фис М.М., 611 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09" title="https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 3<br>Поліщук Н.М., 14 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75907554620?pwd=a3lHQTJHY255elk3dkJ4cENDRGFIZz09" title="https://us04web.zoom.us/j/75907554620?pwd=a3lHQTJHY255elk3dkJ4cENDRGFIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 3<br>Поліщук Н.М., 14 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75907554620?pwd=a3lHQTJHY255elk3dkJ4cENDRGFIZz09" title="https://us04web.zoom.us/j/75907554620?pwd=a3lHQTJHY255elk3dkJ4cENDRGFIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

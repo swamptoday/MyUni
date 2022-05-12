@@ -1,0 +1,438 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кримінальний процес<br>Шульган І.І., 35 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93450836105?pwd=WmxtMmxwRE5kSkNwSlovN1J5aDdaUT09" title="https://zoom.us/j/93450836105?pwd=WmxtMmxwRE5kSkNwSlovN1J5aDdaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кримінальний процес<br>Шульган І.І., 35 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93450836105?pwd=WmxtMmxwRE5kSkNwSlovN1J5aDdaUT09" title="https://zoom.us/j/93450836105?pwd=WmxtMmxwRE5kSkNwSlovN1J5aDdaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конституційна юрисдикція<br>Баскакова О.І., вибіркова26 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98585095134?pwd=cmZ6RytTZ21hVkJvZzBKMmo3WThudz09" title="https://zoom.us/j/98585095134?pwd=cmZ6RytTZ21hVkJvZzBKMmo3WThudz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Адміністративне судочинство<br>Лук'янова Г.Ю., вибіркова322 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09" title="https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання державної служби в Україні<br>Хомишин І.Ю., вибіркова301 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84947801497?pwd=ME1UYVRsaHRNZjdzVitEZ0JvRC9XUT09" title="https://us02web.zoom.us/j/84947801497?pwd=ME1UYVRsaHRNZjdzVitEZ0JvRC9XUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цивільний процес<br>Василів С.С., 308 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96239052816?pwd=UURvLzFaT1dSSjkvemNOa1FjenNkQT09" title="https://zoom.us/j/96239052816?pwd=UURvLzFaT1dSSjkvemNOa1FjenNkQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конституційна юрисдикція<br>Мельниченко Б.Б., 313 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09" title="https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Діяльність фіскальних органів<br>Крикавська І.В., 322 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09" title="https://us02web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кримінальний процес<br>Цилюрик І.І., 322 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81431739147?pwd=S0tXMXRSMkRSVDRtbG1tTTR1R01lUT09" title="https://us02web.zoom.us/j/81431739147?pwd=S0tXMXRSMkRSVDRtbG1tTTR1R01lUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Цивільний процес<br>Василів С.С., 313 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93315774578?pwd=WnlNaU1aNkFzRkNJV09tZnU3UHl5QT09" title="https://zoom.us/j/93315774578?pwd=WnlNaU1aNkFzRkNJV09tZnU3UHl5QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Міжнародне приватне право<br>Ортинська Н.В., 313 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87558645592?pwd=L1ZIeGMrU3lhVk5aRE5oMFhSQ3FjUT09" title="https://us02web.zoom.us/j/87558645592?pwd=L1ZIeGMrU3lhVk5aRE5oMFhSQ3FjUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове забезпечення гендерної рівності<br>Андрусяк І.П., вибіркова313 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tyu-xigc-qxf" title="https://meet.google.com/tyu-xigc-qxf">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Юридична компаративістика<br>Коваль І.М., вибіркова313 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ibz-ywgp-cwi?authuser=5" title="https://meet.google.com/ibz-ywgp-cwi?authuser=5">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цивільний процес<br>Дашо Т.Ю., 329 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародне приватне право<br>Баскакова О.І., 313 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97212236972?pwd=NWhPYUJ6NEFwTUhmeXZxSXJQbzR3UT09" title="https://zoom.us/j/97212236972?pwd=NWhPYUJ6NEFwTUhmeXZxSXJQbzR3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове забезпечення гендерної рівності<br>Андрусяк І.П., вибіркова308 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tyu-xigc-qxf" title="https://meet.google.com/tyu-xigc-qxf">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Адміністративне судочинство<br>Лук'янова Г.Ю., вибіркова301 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09" title="https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Діяльність фіскальних органів<br>Крикавська І.В., 328 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09" title="https://us02web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Правове регулювання державної служби в Україні<br>Малець М.Р., вибіркова322 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77452039383?pwd=T6uDoqgwHrKhMCtdNtLPz9FjaRFaJH.1" title="https://us04web.zoom.us/j/77452039383?pwd=T6uDoqgwHrKhMCtdNtLPz9FjaRFaJH.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

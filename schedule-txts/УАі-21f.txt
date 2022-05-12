@@ -1,0 +1,375 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Державне і приватне страхування<br>Весоловська М.К., 23 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91892784358?pwd=cGd5bmNleUZZMWtzU2V0TXk3eXlTUT09" title="https://zoom.us/j/91892784358?pwd=cGd5bmNleUZZMWtzU2V0TXk3eXlTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Бізнес-планування та управління проектами<br>Ільчук П.Г., 4 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09  Meeting ID: 840 6791 2407 Passcode: 0" title="https://us02web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09  Meeting ID: 840 6791 2407 Passcode: 0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економіко-математичні методи і моделі <br>Скворцов Д.І., 22 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09 Пароль: 884256" title="https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09 Пароль: 884256">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технології розробки стартапів<br>Дума О.І., 3 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95688985461?pwd=UnhWUGZzYjJZUVpxUHNzV0ViMVFNUT09" title="https://zoom.us/j/95688985461?pwd=UnhWUGZzYjJZUVpxUHNzV0ViMVFNUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Державне і приватне страхування<br>Весоловська М.К., 5 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91892784358?pwd=cGd5bmNleUZZMWtzU2V0TXk3eXlTUT09" title="https://zoom.us/j/91892784358?pwd=cGd5bmNleUZZMWtzU2V0TXk3eXlTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Державне і приватне страхування<br>Весоловська М.К., 5 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91892784358?pwd=cGd5bmNleUZZMWtzU2V0TXk3eXlTUT09" title="https://zoom.us/j/91892784358?pwd=cGd5bmNleUZZMWtzU2V0TXk3eXlTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Публічний маркетинг та маркетинг територій<br>Весоловська М.К., 23 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98865746546?pwd=ajljSVZLbFpicmszTUY3ZWYzNU5tQT09" title="https://zoom.us/j/98865746546?pwd=ajljSVZLbFpicmszTUY3ZWYzNU5tQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська мова як іноземна, частина 4<br>Яремчук С.М., 408 I н.к. <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6816326355?pwd=K1l2RVU5VjFEakh6UTFHOGQ1MXRmQT09" title="https://us04web.zoom.us/j/6816326355?pwd=K1l2RVU5VjFEakh6UTFHOGQ1MXRmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська мова як іноземна, частина 4<br>Яремчук С.М., 408 I н.к. <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6816326355?pwd=K1l2RVU5VjFEakh6UTFHOGQ1MXRmQT09" title="https://us04web.zoom.us/j/6816326355?pwd=K1l2RVU5VjFEakh6UTFHOGQ1MXRmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Публічний маркетинг та маркетинг територій<br>Весоловська М.К., 5 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98865746546?pwd=ajljSVZLbFpicmszTUY3ZWYzNU5tQT09" title="https://zoom.us/j/98865746546?pwd=ajljSVZLbFpicmszTUY3ZWYzNU5tQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Бізнес-планування та управління проектами<br>Ільчук П.Г., 4 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09  Meeting ID: 840 6791 2407 Passcode: 0" title="https://us02web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09  Meeting ID: 840 6791 2407 Passcode: 0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Економіко-математичні методи і моделі <br>Скворцов Д.І., 4 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09 Пароль: 884256" title="https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09 Пароль: 884256">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління фінансами та державна бюджетна політика<br>Другов О.О., 23 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84315187325?pwd=RnR0M3dkZ1h5RlNqcDZaSnRRQUMrZz09" title="https://us02web.zoom.us/j/84315187325?pwd=RnR0M3dkZ1h5RlNqcDZaSnRRQUMrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління фінансами та державна бюджетна політика<br>Весоловська М.К., 5 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94904747798?pwd=Y0lHVWppYW5OUzZJYitmbGpKaXRFUT09" title="https://zoom.us/j/94904747798?pwd=Y0lHVWppYW5OUzZJYitmbGpKaXRFUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технології розробки стартапів<br>Дума О.І., 3 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95688985461?pwd=UnhWUGZzYjJZUVpxUHNzV0ViMVFNUT09" title="https://zoom.us/j/95688985461?pwd=UnhWUGZzYjJZUVpxUHNzV0ViMVFNUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Публічний маркетинг та маркетинг територій<br>Весоловська М.К., 3 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98865746546?pwd=ajljSVZLbFpicmszTUY3ZWYzNU5tQT09" title="https://zoom.us/j/98865746546?pwd=ajljSVZLbFpicmszTUY3ZWYzNU5tQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління фінансами та державна бюджетна політика<br>Другов О.О., 3 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82964407159?pwd=NGd0NWJaRlp6cnRCSE15OU9tYTJNQT09" title="https://us02web.zoom.us/j/82964407159?pwd=NGd0NWJaRlp6cnRCSE15OU9tYTJNQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,492 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Молекулярна біологія  <br>Бучкевич І.Р., Крвавич А.С., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3wX9jqyfAneFoUxNJXUBdVPO9Amp4o2bvQqWMP_qf881%40thread.tacv2/1644788813128?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3wX9jqyfAneFoUxNJXUBdVPO9Amp4o2bvQqWMP_qf881%40thread.tacv2/1644788813128?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімія 3 (аналітична хімія, інструментальні методи аналізу), частина 2<br>Стаднік В.Є., Ятчишин Й.Й., Гумінілович Р.Р., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZjOTg4NTMtN2MxZi00YWMxLTg5YTUtOWMwNzcxYzI0NzIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2259597b4b-732d-4210-ac13-4318029fb1ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZjOTg4NTMtN2MxZi00YWMxLTg5YTUtOWMwNzcxYzI0NzIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2259597b4b-732d-4210-ac13-4318029fb1ef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімія 3 (аналітична хімія, інструментальні методи аналізу), частина 2<br>Стаднік В.Є., Ятчишин Й.Й., Гумінілович Р.Р., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZjOTg4NTMtN2MxZi00YWMxLTg5YTUtOWMwNzcxYzI0NzIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2259597b4b-732d-4210-ac13-4318029fb1ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZjOTg4NTMtN2MxZi00YWMxLTg5YTUtOWMwNzcxYzI0NzIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2259597b4b-732d-4210-ac13-4318029fb1ef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна мікробіологія і вірусологія<br>Червецова В.Г., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aqJRwzyMzc7wDD2vv684uVlyKanGclbctBKVrTKAHZXE1%40thread.tacv2/1644836313392?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aqJRwzyMzc7wDD2vv684uVlyKanGclbctBKVrTKAHZXE1%40thread.tacv2/1644836313392?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна мікробіологія і вірусологія<br>Червецова В.Г., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aqJRwzyMzc7wDD2vv684uVlyKanGclbctBKVrTKAHZXE1%40thread.tacv2/1644836629440?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aqJRwzyMzc7wDD2vv684uVlyKanGclbctBKVrTKAHZXE1%40thread.tacv2/1644836629440?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімія 3 (аналітична хімія, інструментальні методи аналізу), частина 2<br>Гумінілович Р.Р., 214 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjJkZTQzZTEtOGQ2Yi00OTRjLWEyZDktYjA3MjljYmJlZjYx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2259597b4b-732d-4210-ac13-4318029fb1ef%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjJkZTQzZTEtOGQ2Yi00OTRjLWEyZDktYjA3MjljYmJlZjYx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2259597b4b-732d-4210-ac13-4318029fb1ef%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інформатика<br>Будз І.С., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a402dc754e9f74396a09dee47025a1520%40thread.tacv2/1644576070701?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2239b3ab0d-cccd-41b4-9be4-bf9eb89c7645%22%7d " title="https://teams.microsoft.com/l/meetup-join/19%3a402dc754e9f74396a09dee47025a1520%40thread.tacv2/1644576070701?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2239b3ab0d-cccd-41b4-9be4-bf9eb89c7645%22%7d ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інформатика<br>Будз І.С., 506 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a402dc754e9f74396a09dee47025a1520%40thread.tacv2/1644576070701?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2239b3ab0d-cccd-41b4-9be4-bf9eb89c7645%22%7d ." title="https://teams.microsoft.com/l/meetup-join/19%3a402dc754e9f74396a09dee47025a1520%40thread.tacv2/1644576070701?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2239b3ab0d-cccd-41b4-9be4-bf9eb89c7645%22%7d .">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інформатика<br>Ментинський С.М., 507 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95859395881?pwd=enNaTWJtbmtlMjFCZzJOMWhQNjFaQT09" title="https://zoom.us/j/95859395881?pwd=enNaTWJtbmtlMjFCZzJOMWhQNjFaQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Загальна мікробіологія і вірусологія<br>Червецова В.Г., 226 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644839056752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644839056752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Загальна мікробіологія і вірусологія<br>Крвавич А.С., 226 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644839056752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644839056752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Загальна мікробіологія і вірусологія<br>Червецова В.Г., 226 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644839794606?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644839794606?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Загальна мікробіологія і вірусологія<br>Крвавич А.С., 226 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644839056752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644839056752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Загальна мікробіологія і вірусологія<br>Червецова В.Г., 226 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644843466336?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644843466336?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Загальна мікробіологія і вірусологія<br>Крвавич А.С., 226 VIII н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Загальна мікробіологія і вірусологія<br>Червецова В.Г., 226 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644842631591?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644842631591?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Загальна мікробіологія і вірусологія<br>Крвавич А.С., 226 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644842631591?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ayZnsnmOYvG96610zzVxQuVlWb8kC27ODtikZw-PFTl81%40thread.tacv2/1644842631591?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Цьовх Л.П.,  14-40  16-00 корп.21 вул.Самчука 11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_3_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Стадник В.В.,  14-40  16-00 корп.21 вул.Самчука 11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09" title="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09">URL онлайн заняття</a></span></div></div>    
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козіброда Л.В.,  14-40  16-00 корп.21 вул.Самчука 11<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09" title="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімія канцерогенів<br>Яремкевич О.С., 138 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGVkMWY4NGUtZTFjMi00OTRlLTk3MWMtNDYxODAxZjVjOGZj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ff27ba66-91e6-478e-961e-ba3135b8fcbc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGVkMWY4NGUtZTFjMi00OTRlLTk3MWMtNDYxODAxZjVjOGZj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ff27ba66-91e6-478e-961e-ba3135b8fcbc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Хімія канцерогенів<br>Яремкевич О.С., 227 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a5xPCn1rj51W0Yl-5WsSovbQQFl5Op0bvOfvVlQm-CPE1%40thread.tacv2/1645774754727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ff27ba66-91e6-478e-961e-ba3135b8fcbc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a5xPCn1rj51W0Yl-5WsSovbQQFl5Op0bvOfvVlQm-CPE1%40thread.tacv2/1645774754727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ff27ba66-91e6-478e-961e-ba3135b8fcbc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Хімія канцерогенів<br>Федоришин О.М., 227 VIII н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Молекулярна біологія  <br>Марінцова Н.Г., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:FqcoJcQIDlmjYpvYvPMXH7kTp1mIrsba0WsJ9zn6PDg1@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:FqcoJcQIDlmjYpvYvPMXH7kTp1mIrsba0WsJ9zn6PDg1@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

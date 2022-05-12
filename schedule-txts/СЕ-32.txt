@@ -1,0 +1,491 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи електроприводу повних і гібридних електромобілів та міського електротранспорту<br>Щур І.З., Козій В.Б., 129 Гол. н.к., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aIZuHkGzQr5yqbvvtoa1luANBM1Vz4xTNqHV7cGrcyVE1%40thread.tacv2/1644684686036?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22599e4326-6528-4fe5-993e-46fbbcdfd217%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aIZuHkGzQr5yqbvvtoa1luANBM1Vz4xTNqHV7cGrcyVE1%40thread.tacv2/1644684686036?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22599e4326-6528-4fe5-993e-46fbbcdfd217%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи електроприводу повних і гібридних електромобілів та міського електротранспорту<br>Щур І.З., Козій В.Б., 129 Гол. н.к., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aIZuHkGzQr5yqbvvtoa1luANBM1Vz4xTNqHV7cGrcyVE1%40thread.tacv2/1644684686036?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22599e4326-6528-4fe5-993e-46fbbcdfd217%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aIZuHkGzQr5yqbvvtoa1luANBM1Vz4xTNqHV7cGrcyVE1%40thread.tacv2/1644684686036?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22599e4326-6528-4fe5-993e-46fbbcdfd217%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Електрообладнання та енергетичні системи живлення повних і гібридних електромобілів та міського електротранспорту<br>Марущак Я.Ю., 121 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09" title="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи електроприводу повних і гібридних електромобілів та міського електротранспорту<br>Щур І.З., 119 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aIZuHkGzQr5yqbvvtoa1luANBM1Vz4xTNqHV7cGrcyVE1%40thread.tacv2/1644683164857?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22599e4326-6528-4fe5-993e-46fbbcdfd217%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aIZuHkGzQr5yqbvvtoa1luANBM1Vz4xTNqHV7cGrcyVE1%40thread.tacv2/1644683164857?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22599e4326-6528-4fe5-993e-46fbbcdfd217%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи мехатроніки<br>Ткачук В.І., 121 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1644351314392?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1644351314392?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи мехатроніки<br>Ткачук В.І., 121 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1644351641063?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1644351641063?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи цифрового керування та програмування мікроконтролерів<br>Копчак Б.Л., Мороз В.І., +ЕЕ-33117 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи цифрового керування та програмування мікроконтролерів<br>Копчак Б.Л., Мороз В.І., 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Електрообладнання та енергетичні системи живлення повних і гібридних електромобілів та міського електротранспорту<br>Марущак Я.Ю., 116 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09" title="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електрообладнання та енергетичні системи живлення повних і гібридних електромобілів та міського електротранспорту<br>Марущак Я.Ю., 116 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09" title="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системи нагромадження електричної енергії<br>Козій В.Б., Кузнєцов О.О., 129 Гол. н.к., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3alul82-1xp-ue5yeCTTpoLDjqcySJIElErMO-V90kaS41%40thread.tacv2/1644664777657?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3alul82-1xp-ue5yeCTTpoLDjqcySJIElErMO-V90kaS41%40thread.tacv2/1644664777657?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системи нагромадження електричної енергії<br>Козій В.Б., Кузнєцов О.О., 129 Гол. н.к., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3alul82-1xp-ue5yeCTTpoLDjqcySJIElErMO-V90kaS41%40thread.tacv2/1644664777657?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3alul82-1xp-ue5yeCTTpoLDjqcySJIElErMO-V90kaS41%40thread.tacv2/1644664777657?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи проектування елементів та систем повних і гібридних електромобілів та міського електротранспорту<br>Маляр А.В., 116 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3awek1uy37BpJJI2HAGZ54NWNdY4s3Dg7aFClQle8Tx1c1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e3f5cfd2-c028-4e79-a719-09e074ee39ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3awek1uy37BpJJI2HAGZ54NWNdY4s3Dg7aFClQle8Tx1c1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e3f5cfd2-c028-4e79-a719-09e074ee39ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи проектування елементів та систем повних і гібридних електромобілів та міського електротранспорту<br>Маляр А.В., 141 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3awek1uy37BpJJI2HAGZ54NWNdY4s3Dg7aFClQle8Tx1c1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e3f5cfd2-c028-4e79-a719-09e074ee39ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3awek1uy37BpJJI2HAGZ54NWNdY4s3Dg7aFClQle8Tx1c1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e3f5cfd2-c028-4e79-a719-09e074ee39ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи проектування елементів та систем повних і гібридних електромобілів та міського електротранспорту<br>Маляр А.В., 119 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3awek1uy37BpJJI2HAGZ54NWNdY4s3Dg7aFClQle8Tx1c1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e3f5cfd2-c028-4e79-a719-09e074ee39ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3awek1uy37BpJJI2HAGZ54NWNdY4s3Dg7aFClQle8Tx1c1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e3f5cfd2-c028-4e79-a719-09e074ee39ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Електрообладнання та енергетичні системи живлення повних і гібридних електромобілів та міського електротранспорту<br>Цяпа В.Б., 129 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aijc38qrpOpGW64EIHIDZekeMqjtdiY8nKwZzisoxKVo1%40thread.tacv2/1644783934023?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227468446d-dc52-44df-862f-7d9c66561c94%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aijc38qrpOpGW64EIHIDZekeMqjtdiY8nKwZzisoxKVo1%40thread.tacv2/1644783934023?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227468446d-dc52-44df-862f-7d9c66561c94%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Електрообладнання та енергетичні системи живлення повних і гібридних електромобілів та міського електротранспорту<br>Марущак Я.Ю., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09" title="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Електрообладнання та енергетичні системи живлення повних і гібридних електромобілів та міського електротранспорту<br>Марущак Я.Ю., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09" title="https://zoom.us/j/7311967364?pwd=MVo4c3FPNmszMUZVbW5zWldJcEVEdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Електрообладнання та енергетичні системи живлення повних і гібридних електромобілів та міського електротранспорту<br>Цяпа В.Б., 129 Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aijc38qrpOpGW64EIHIDZekeMqjtdiY8nKwZzisoxKVo1%40thread.tacv2/1644783934023?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227468446d-dc52-44df-862f-7d9c66561c94%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aijc38qrpOpGW64EIHIDZekeMqjtdiY8nKwZzisoxKVo1%40thread.tacv2/1644783934023?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227468446d-dc52-44df-862f-7d9c66561c94%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи мехатроніки<br>Ткачук В.І., 121 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1644351367801?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1644351367801?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи електроприводу повних і гібридних електромобілів та міського електротранспорту<br>Щур І.З., 117 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aIZuHkGzQr5yqbvvtoa1luANBM1Vz4xTNqHV7cGrcyVE1%40thread.tacv2/1644683671655?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22599e4326-6528-4fe5-993e-46fbbcdfd217%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aIZuHkGzQr5yqbvvtoa1luANBM1Vz4xTNqHV7cGrcyVE1%40thread.tacv2/1644683671655?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22599e4326-6528-4fe5-993e-46fbbcdfd217%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи нагромадження електричної енергії<br>Кузнєцов О.О., 209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aOxJXvTzwJoSnOIRbQFywG1ihTu4a528DOCxbbzHpc4E1%40thread.tacv2/1644333594012?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aOxJXvTzwJoSnOIRbQFywG1ihTu4a528DOCxbbzHpc4E1%40thread.tacv2/1644333594012?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи цифрового керування та програмування мікроконтролерів<br>Копчак Б.Л., Мороз В.І., +ЕЕ209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

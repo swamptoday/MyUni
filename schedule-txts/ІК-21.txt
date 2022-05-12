@@ -1,0 +1,391 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Англійська технічна мова<br>Ділай М.П., 108 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85106208791?pwd=Y2w2bmpRQVFBbU9ldTRNTE1EOGZndz09  Идентификатор конференции: 851 0620 8791 Код доступа: 1111" title="https://us02web.zoom.us/j/85106208791?pwd=Y2w2bmpRQVFBbU9ldTRNTE1EOGZndz09  Идентификатор конференции: 851 0620 8791 Код доступа: 1111">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Англійська технічна мова<br>Горін О.Р., 229 III н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75805841239?pwd=GfTPWaqHYGofBR_Acd2iybbkqPnbnJ.1#success" title="https://us04web.zoom.us/j/75805841239?pwd=GfTPWaqHYGofBR_Acd2iybbkqPnbnJ.1#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Теорія інформації та кодування<br>Бурачок Р.А., 305 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ohx-exnv-kdv?authuser=1" title="https://meet.google.com/ohx-exnv-kdv?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технології та протоколи інформаційних систем<br>Бугиль Б.А., 215 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jgx-qafu-cbd" title="https://meet.google.com/jgx-qafu-cbd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технології та протоколи інформаційних систем<br>Бугиль Б.А., 215 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jgx-qafu-cbd" title="https://meet.google.com/jgx-qafu-cbd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козак І.Г., Незгода С.П., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09" title="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Англійська технічна мова<br>Ділай М.П., 331 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85106208791?pwd=Y2w2bmpRQVFBbU9ldTRNTE1EOGZndz09  Идентификатор конференции: 851 0620 8791 Код доступа: 1111" title="https://us02web.zoom.us/j/85106208791?pwd=Y2w2bmpRQVFBbU9ldTRNTE1EOGZndz09  Идентификатор конференции: 851 0620 8791 Код доступа: 1111">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Англійська технічна мова<br>Горін О.Р., 232 III н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75805841239?pwd=GfTPWaqHYGofBR_Acd2iybbkqPnbnJ.1#success" title="https://us04web.zoom.us/j/75805841239?pwd=GfTPWaqHYGofBR_Acd2iybbkqPnbnJ.1#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Технології та протоколи інформаційних систем<br>Бак Р.І., 215 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hnt-ersm-wft" title="https://meet.google.com/hnt-ersm-wft">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Теорія інформації та кодування<br>Бурачок Р.А., 305 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rgp-kvry-khs?authuser=1" title="https://meet.google.com/rgp-kvry-khs?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Технології та протоколи інформаційних систем<br>Бак Р.І., 215 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hnt-ersm-wft" title="https://meet.google.com/hnt-ersm-wft">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Теорія інформації та кодування<br>Бурачок Р.А., 305 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/yfq-nxpg-cnf?authuser=1" title="https://meet.google.com/yfq-nxpg-cnf?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Сінельнікова М.В., 213 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97472405072?pwd=RU5nRW9tRFBNMW5PZi9qVHdpc3F6UT09" title="https://zoom.us/j/97472405072?pwd=RU5nRW9tRFBNMW5PZi9qVHdpc3F6UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Теорія інформації та кодування<br>Бурачок Р.А., 305 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ybd-muds-yok?authuser=1" title="https://meet.google.com/ybd-muds-yok?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології та протоколи інформаційних систем<br>Костів О.Л., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://orestkostiv.my.webex.com/orestkostiv.my/j.php?MTID=mefee7db041657fe1197a1b12229dee30" title="https://orestkostiv.my.webex.com/orestkostiv.my/j.php?MTID=mefee7db041657fe1197a1b12229dee30">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Сінельнікова М.В., 110 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96165198424?pwd=UGFOSjl4a21mMVJGMndnYnc0V3hLdz09" title="https://zoom.us/j/96165198424?pwd=UGFOSjl4a21mMVJGMndnYnc0V3hLdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія інформації та кодування<br>Бурачок Р.А., 109 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/nzt-gqsz-gmt?authuser=1" title="https://meet.google.com/nzt-gqsz-gmt?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технології та протоколи інформаційних систем<br>Костів О.Л., 109 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://orestkostiv.my.webex.com/orestkostiv.my/j.php?MTID=m63af0c6c64c76f2a902ec03650fb3c85" title="https://orestkostiv.my.webex.com/orestkostiv.my/j.php?MTID=m63af0c6c64c76f2a902ec03650fb3c85">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія інформації та кодування<br>Бурачок Р.А., 109 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zof-mask-jdp?authuser=1" title="https://meet.google.com/zof-mask-jdp?authuser=1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>
