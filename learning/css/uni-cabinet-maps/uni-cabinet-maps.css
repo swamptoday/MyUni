@@ -42,10 +42,13 @@
   width:60vw;
 }
 
-@media (min-width:360px) and(max-width:428px){
+@media (min-width:360px) and (max-width:428px){
   .swiper-container {
-    width: 80vw;
-    height:60vw;
-    
+    width: 300px;
+    height:180px;
+  }
+
+  .mapImage{
+    width:260px;
   }
 }
