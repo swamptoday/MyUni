@@ -11,6 +11,15 @@
     }
 }
 
+@media (min-width:800px) and (max-width:1080px){
+    #showButton{
+      margin-left:30px;
+    }
+    #groupButton{
+        margin-left:20px;
+      }
+  }
+
 .schedule-content{
     text-align:center;
 }
