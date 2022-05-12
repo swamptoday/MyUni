@@ -30645,4 +30645,57 @@ div.tagsinput span.tag a {
   }
 }
 
+@media (min-width:360px) and (max-width:810px){
+  .schedule-content{
+      font-size: 13px;
+  }
+}
+
+.schedule-content{
+  text-align:center;
+}
+
+.day_name{
+  text-align: left;
+}
+
+.class_number{
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-align:left; 
+  color:aliceblue;
+}
+
+.group_chys{
+  padding-bottom: 2px;
+}
+
+.sub_1_full{
+  padding-right: 1px;
+}
+
+.sub_2_full{
+  padding-left: 1px;
+}
+
+.sub_1_chys{
+  padding-right: 1px;
+  padding-bottom: 2px;
+}
+
+.sub_2_chys{
+  padding-left: 1px;
+  padding-bottom: 2px;
+}
+
+.sub_1_znam{
+  padding-right: 1px;
+}
+
+.sub_2_znam{
+  padding-left: 1px;
+}
+
+
+
 /*# sourceMappingURL=../maps/vertical-layout-light/style.css.map */
