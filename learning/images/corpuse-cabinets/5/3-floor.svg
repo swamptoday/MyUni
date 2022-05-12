@@ -2,10 +2,12 @@
 <svg
    id="Layer_1"
    data-name="Layer 1"
-   viewBox="0 0 2927.72 1061.17"
+   viewBox="0 0 2245.0394 1587.4015"
    version="1.1"
    sodipodi:docname="3-floor.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   width="594mm"
+   height="420mm"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,14 +22,31 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.43754185"
-     inkscape:cx="1463.86"
-     inkscape:cy="530.235"
+     inkscape:cx="1429.5775"
+     inkscape:cy="749.64258"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="Layer_1"
+     units="mm"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:document-units="mm">
+    <sodipodi:guide
+       position="1140.4623,1927.9404"
+       orientation="0,-1"
+       id="guide33938" />
+    <sodipodi:guide
+       position="-733.64414,1973.6502"
+       orientation="0.70710678,-0.70710678"
+       id="guide33940" />
+    <sodipodi:guide
+       position="18.283966,844.61543"
+       orientation="1,0"
+       id="guide48852" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <style
@@ -35,7 +54,7 @@
   </defs>
   <g
      id="g394"
-     transform="matrix(1.5322076,0,0,1.5322076,-8.49296,-207.25133)">
+     transform="matrix(1.3849533,0,0,1.3849533,-229.22699,92.693609)">
     <g
        id="Overlay">
       <g
@@ -506,7 +525,7 @@
        id="line152" />
     <polygon
        class="cls-8"
-       points="1089.52,560.78 1087.89,563.45 1086.26,556.21 1092.58,560.09 "
+       points="1092.58,560.09 1089.52,560.78 1087.89,563.45 1086.26,556.21 "
        id="polygon154" />
     <line
        class="cls-7"
@@ -517,7 +536,7 @@
        id="line156" />
     <polygon
        class="cls-8"
-       points="582.19,790.03 580.97,787.15 587.79,790.03 580.97,792.91 "
+       points="580.97,792.91 582.19,790.03 580.97,787.15 587.79,790.03 "
        id="polygon158" />
     <line
        class="cls-7"
@@ -528,7 +547,7 @@
        id="line160" />
     <polygon
        class="cls-8"
-       points="517.83,763.36 519.05,766.24 512.23,763.36 519.05,760.48 "
+       points="519.05,760.48 517.83,763.36 519.05,766.24 512.23,763.36 "
        id="polygon162" />
     <line
        class="cls-7"
@@ -557,7 +576,7 @@
        id="path170" />
     <polygon
        class="cls-8"
-       points="1040.57,639.4 1043.41,638.09 1040.75,645 1037.65,638.28 "
+       points="1037.65,638.28 1040.57,639.4 1043.41,638.09 1040.75,645 "
        id="polygon172" />
     <rect
        class="cls-4"
@@ -784,4 +803,15 @@
        d="m 1022.23,518.45 c 0,9.4 15.93,-3.27 28.55,-3.27 12.62,0 24.73,6.48 24.73,-2.91 0,-9.39 -19.36,-20.88 -32,-20.88 -12.64,0 -21.28,17.67 -21.28,27.06 z"
        id="path260" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:116.492px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83635"
+     x="12.465546"
+     y="130.44809"
+     id="text1216"><tspan
+       sodipodi:role="line"
+       id="tspan1214"
+       x="12.465546"
+       y="130.44809"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:116.492px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:1.83635">Третій Поверх</tspan></text>
 </svg>
