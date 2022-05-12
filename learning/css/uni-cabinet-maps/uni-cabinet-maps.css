@@ -31,21 +31,6 @@
   align-items: center;
 }
 
-html,
-body {
-  position: relative;
-  height: 100%;
-}
-
-body {
-  background: #eee;
-  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  color: white;
-  margin: 0;
-  padding: 0;
-}
-
 .swiper-slide {
   text-align: center;
   font-size: 48px;
@@ -64,4 +49,8 @@ body {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
+}
+
+#corpusDropDown{
+  margin-bottom: 5px;
 }
