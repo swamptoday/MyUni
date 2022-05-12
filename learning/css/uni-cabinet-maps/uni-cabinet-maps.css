@@ -1,6 +1,6 @@
 .swiper-container {
-  width: 60vw;
-  height:50vw;
+  width: 55vw;
+  height:45vw;
   margin-left: auto;
   margin-right: auto;
   position: relative;
@@ -39,16 +39,21 @@
 }
 
 .mapImage{
-  width:60vw;
+  width:55vw;
 }
 
 @media (min-width:360px) and (max-width:428px){
   .swiper-container {
     width: 300px;
-    height:180px;
+    height:300px;
+  }
   }
 
-  .mapImage{
-    width:260px;
+  @media (min-width:800px) and (max-width:926px){
+    #showButton{
+      margin-left:30px;
+    }
   }
-}
+
+
+
