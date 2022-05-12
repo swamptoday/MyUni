@@ -8,9 +8,11 @@ function instituteText(element)
     document.getElementById("instituteButton").innerText = element.innerText;
 }
 
-function getschedule()
-{
-    groupName = document.getElementById("groupButton").innerText;
-    instituteName = document.getElementById("instituteButton").innerText;
-    urlText = "https://student.lpnu.ua/students_schedule?departmentparent_abbrname_selective=" + instituteName + "&studygroup_abbrname_selective=" + groupName + "&semestrduration=1";
+const logFileText = async file => {
+    const response = await fetch(file)
+    const text = await response.text()
+    console.log(text)
 }
+
+logFileText('АВ-11.txt')
+//readTextFile("file:///C:/MyData/DesktopУнивер/MyUni Project/MyUni/MyUni/schedule-txts");АВ-11.txt

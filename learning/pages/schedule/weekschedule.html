@@ -18,16 +18,17 @@
   <!-- End plugin css for this page -->
   <!-- inject:css -->
   <link rel="stylesheet" href="../../css/vertical-layout-light/style.css">
+  <link rel="stylesheet" href="../../css/schedule/weekschedule.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="../../images/favicon.png" />
+  <link rel="shortcut icon" href="../../images/My Uni logo.svg" />
 </head>
 <body>
   <div class="container-scroller">
     <!-- partial:partials/_navbar.html -->
     <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
       <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-        <a class="navbar-brand brand-logo mr-5" href="../../index1.html"><img src="../../images/logo.svg" class="mr-2" alt="logo"/></a>
-        <a class="navbar-brand brand-logo-mini" href="../../index1.html"><img src="../../images/logo-mini.svg" alt="logo"/></a>
+        <a class="navbar-brand brand-logo mr-5" href="../../index1.html"><img src="../../images/My Uni logo+name2.svg" class="mr-2" alt="logo"/></a>
+        <a class="navbar-brand brand-logo-mini" href="../../index1.html"><img src="../../images/My Uni logo.svg" alt="logo"/></a>
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
         <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
@@ -379,12 +380,12 @@
                     <div class="col-md-12 grid-margin">
                         <div class="row">
                             <div class="col-md-2">
-                                <div class="btn-group">
-                                    <button type="button" id="instituteButton" class="btn btn-primary">Інститут</button>
+                                <div class="btn-group" id="instituteDropDown">
+                                    <button type="button"  id="instituteButton" class="btn btn-primary">Інститут</button>
                                     <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" id="dropdownMenuSplitButton1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         <span class="sr-only">Toggle Dropdown</span>
                                     </button>
-                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuSplitButton1">
+                                    <div class="dropdown-menu" id="instituteDropDown" aria-labelledby="dropdownMenuSplitButton1">
                                         <h6 class="dropdown-header">Оберіть інститут</h6>
                                         <a id="istituteItem" onclick="instituteText(this)" class="dropdown-item" href="#">ІКНІ</a>
                                         <a id="istituteItem" onclick="instituteText(this)" class="dropdown-item" href="#">ІКТА</a>
@@ -393,7 +394,7 @@
                                 </div>
                             </div>
                             <div class="col-md-2">
-                                <div class="btn-group">
+                                <div class="btn-group" id="groupDropDown">
                                     <button type="button" id="groupButton" class="btn btn-primary">Група</button>
                                     <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" id="dropdownMenuSplitButton1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         <span class="sr-only">Toggle Dropdown</span>
@@ -407,12 +408,457 @@
                                 </div>
                             </div>
                             <div class="col-md-2">
-                                <button type="button" id="showButton" onclick="getschedule()" class="btn btn-outline-primary btn-fw">Показати</button>
+                                <button type="button" id="showButton" onclick="readText('../../schedule-txts/АВ-11.txt')" class="btn btn-outline-primary btn-fw">Показати</button>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
+                <div class="row justify-content-center schedule-content" style="text-align: center;">
+                  <div class="col-md-10 grid-margin transparent">
+                    <div class="card mb-3">
+                      <div class="card-body ">
+                        <p class="card-title day_name">Понеділок</p>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col stretch-card transparent group_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">1</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">2</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-12 stretch-card transparent group_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">3</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-12 stretch-card transparent group_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">4</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_1_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>   
+                    </div>
+                  </div>
+                </div>
+                <div class="row justify-content-center schedule-content" style="text-align: center;">
+                  <div class="col-md-10 grid-margin transparent">
+                    <div class="card mb-3">
+                      <div class="card-body ">
+                        <p class="card-title day_name">Вівторок</p>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col stretch-card transparent group_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">1</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">2</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-12 stretch-card transparent group_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">3</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-12 stretch-card transparent group_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">4</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_1_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>   
+                    </div>
+                  </div>
+                </div>
+                <div class="row justify-content-center schedule-content" style="text-align: center;">
+                  <div class="col-md-10 grid-margin transparent">
+                    <div class="card mb-3">
+                      <div class="card-body ">
+                        <p class="card-title day_name">Середа</p>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col stretch-card transparent group_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">1</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">2</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-12 stretch-card transparent group_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">3</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-12 stretch-card transparent group_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">4</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_1_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>   
+                    </div>
+                  </div>
+                </div>
+                <div class="row justify-content-center schedule-content" style="text-align: center;">
+                  <div class="col-md-10 grid-margin transparent">
+                    <div class="card mb-3">
+                      <div class="card-body ">
+                        <p class="card-title day_name">Четвер</p>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col stretch-card transparent group_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">1</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">2</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-12 stretch-card transparent group_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">3</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-12 stretch-card transparent group_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">4</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_1_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>   
+                    </div>
+                  </div>
+                </div>
+                <div class="row justify-content-center schedule-content" style="text-align: center;">
+                  <div class="col-md-10 grid-margin transparent">
+                    <div class="card mb-3">
+                      <div class="card-body ">
+                        <p class="card-title day_name">П'ятниця</p>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col stretch-card transparent group_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">1</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">2</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_full">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-12 stretch-card transparent group_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">3</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-12 stretch-card transparent group_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row justify-content-center mb-4">
+                          <div class="col-6 stretch-card transparent sub_1_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-0 class_number">4</p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_chys">
+                            <div class="card card-light-blue">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_1_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-6 stretch-card transparent sub_2_znam">
+                            <div class="card card-tale">
+                              <div class="card-body">
+                                <p class="mb-4"></p>
+                                <div class="group_content">Комп`ютерні технології та програмування, частина 2<br>Ділай І.В., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09" title="https://zoom.us/j/95172296435?pwd=c0dNZ1NRRDVZQUxrZVJmQ3cyeSs0UT09">URL онлайн заняття</a></span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>   
+                    </div>
+                  </div>
+                </div>
+          </div>
         <!-- content-wrapper ends -->
         <!-- partial:partials/_footer.html -->
         <footer class="footer">
