@@ -30696,6 +30696,11 @@ div.tagsinput span.tag a {
   padding-left: 1px;
 }
 
+.myDropDown{
+  height: 200px;
+   overflow: auto;
+}
+
 
 
 /*# sourceMappingURL=../maps/vertical-layout-light/style.css.map */

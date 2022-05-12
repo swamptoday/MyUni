@@ -17,6 +17,7 @@
   <link rel="stylesheet" type="../../text/css" href="../../js/select.dataTables.min.css">
   <!-- End plugin css for this page -->
   <!-- inject:css -->
+
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css" />
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
@@ -381,19 +382,40 @@
       <div class="main-panel">
         <div class="content-wrapper">
           <div class="row">
+            <div class="col-md-12 grid-margin">
+                <div class="row">
+                    <div class="col-md-2">
+                        <div class="btn-group" id="corpusDropDown">
+                            <button type="button"  id="corpusButton" class="btn btn-primary">Корпус</button>
+                            <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" id="dropdownMenuSplitButton1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="sr-only">Toggle Dropdown</span>
+                            </button>
+                            <div class="dropdown-menu myDropDown" id="corpusDropDownitems" aria-labelledby="dropdownMenuSplitButton1">
+                            </div>
+                        </div>
+                     </div>
+                    
+                    <div class="col-md-2">
+                        <button type="button" id="showButton" onclick="readText('../../schedule-txts/АВ-11.txt')" class="btn btn-outline-primary btn-fw">Показати</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+          <div class="row">
             <div class="col-md-12 grid-margin stretch-card">
               <div class="card">
                 <div class="card-body">
+                  <p class="card-title" id="floornum" style="font-size:24px;text-align:center">Перший поверх</p>
                   <div class="swiper-container">
                     <div class="swiper-wrapper">
                       <div class="swiper-slide" >
-                        <img src="../../images/corpuse-cabinets/5/3-floor.svg" width="900px"  />
+                        <img onmouseover="changename(this)" src="../../images/corpuse-cabinets/5/3-floor.svg" width="900px" title="3" />
                       </div>
                       <div class="swiper-slide">
-                        <img src="../../images/corpuse-cabinets/5/2-floor.svg" width="900px"  />
+                        <img onmouseover="changename(this)" src="../../images/corpuse-cabinets/5/2-floor.svg" width="900px" title="2" />
                       </div>
                       <div class="swiper-slide">
-                        <img src="../../images/corpuse-cabinets/5/1-floor.svg" width="900px"  />
+                        <img onmouseover="changename(this)" src="../../images/corpuse-cabinets/5/1-floor.svg" width="900px" title="1" />
                       </div>
                     </div>
                     <!-- Add Pagination -->
