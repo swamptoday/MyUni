@@ -15,7 +15,7 @@
   text-align: center;
   font-size: 48px;
   font-weight: 500;
-
+  position:relative;
   border:solid 3px; 
   border-color:rgb(228, 241, 252);
   /* Center slide text vertically */
@@ -33,6 +33,14 @@
   align-items: center;
 }
 
+.swiper-slide svg{
+  position:absolute;
+  top:0;
+  left:-1px;
+  width: 100%;
+  height: 100%;
+}
+
 
 #corpusDropDown{
   margin-bottom: 5px;
@@ -44,8 +52,11 @@
 
 @media (min-width:360px) and (max-width:428px){
   .swiper-container {
-    width: 300px;
+    width: 80vw;
     height:300px;
+  }
+  .mapImage{
+    width:80vw;
   }
   }
 
@@ -55,5 +66,24 @@
     }
   }
 
+.cabinet{
+  fill:none;
+  
+  cursor:pointer;
+  pointer-events: all;
+}
 
+.cabinet:hover{
+  animation: cabinetHighlight 2s linear infinite;
+}
 
+@keyframes cabinetHighlight{
+  0%{
+    stroke:black;
+    stroke-width: 3px;
+  }
+  100%{
+    stroke:black;
+    stroke-width: 3px;
+  }
+}
