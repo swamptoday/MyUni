@@ -432,7 +432,7 @@ var imagesMap
 ]
 
 var cabinetmap = "<svg viewbox='" + "0 0 2245.0394 1587.4015" + "'>";
-for(var i = 0; i < 3; i++)
+for(var i = 0; i < 20; i++)
 {
   cabinetmap = cabinetmap + "<path class='cabinet' d='" + cabinetsInfo[i].datapath + "' />";   
   
