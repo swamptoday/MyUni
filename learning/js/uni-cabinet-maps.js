@@ -440,3 +440,13 @@ for(var i = 0; i < 20; i++)
 cabinetmap = cabinetmap + "</svg> <img class='mapImage' scr='" + "../../images/corpuse-cabinets/5/3-floor.svg" + "' title = '" + cabinetsInfo[i].datacorpus + "-й корпус " + cabinetsInfo[(i-1)].datafloor + "-й поверх' / >";
 console.log(cabinetmap);
 document.getElementById("1-floor").innerHTML = cabinetmap;
+
+cabinetmap = "<svg viewbox='" + "0 0 2245.0394 1587.4017" + "'>";
+for(var i = 20; i < 30; i++)
+{
+  cabinetmap = cabinetmap + "<path class='cabinet' d='" + cabinetsInfo[i].datapath + "' />";   
+  
+}
+cabinetmap = cabinetmap + "</svg> <img class='mapImage' scr='" + "../../images/corpuse-cabinets/5/2-floor.svg" + "' title = '" + cabinetsInfo[i].datacorpus + "-й корпус " + cabinetsInfo[(i-1)].datafloor + "-й поверх' / >";
+console.log(cabinetmap);
+document.getElementById("2-floor").innerHTML = cabinetmap;
