@@ -20,13 +20,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.41139167"
-     inkscape:cx="1595.8029"
-     inkscape:cy="865.35539"
-     inkscape:window-width="2100"
-     inkscape:window-height="1246"
-     inkscape:window-x="2391"
-     inkscape:window-y="24"
+     inkscape:zoom="0.82278334"
+     inkscape:cx="707.9628"
+     inkscape:cy="1119.3712"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_2"
      units="mm"
@@ -1302,5 +1302,12 @@
          x="168.70889"
          y="205.02379"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.9758px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:1.16614">Перший Поверх</tspan></text>
+    <text
+       class="cls-9"
+       id="text198"
+       x="460.92764"
+       y="741.83051"
+       style="font-size:21.1493px;font-family:ArialRoundedMTBold, 'Arial Rounded MT Bold';isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:1.08484"
+       transform="scale(0.99216101,1.0079009)">WC</text>
   </g>
 </svg>
