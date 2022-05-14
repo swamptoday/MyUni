@@ -2,17 +2,17 @@
 <svg
    viewBox="0 0 2245.0394 1587.4015"
    version="1.1"
-   id="svg869"
+   id="svg430"
    sodipodi:docname="1-floor.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    width="594mm"
    height="420mm"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview871"
+     id="namedview432"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -20,1294 +20,1439 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.82278334"
-     inkscape:cx="707.9628"
-     inkscape:cy="1119.3712"
+     units="mm"
+     inkscape:zoom="0.4658741"
+     inkscape:cx="851.08831"
+     inkscape:cy="865.04058"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_2"
-     units="mm"
+     inkscape:current-layer="svg430"
      inkscape:document-units="mm" />
   <defs
-     id="defs443">
+     id="defs4">
     <style
-       id="style441">.cls-1{fill:#eae3fc;}.cls-2{fill:#6a5fd3;}.cls-3{fill:#47479c;}.cls-4{fill:#dce7fd;}.cls-5{fill:#849ff3;}.cls-6{fill:#5757cb;}.cls-7{font-size:27px;font-family:ArialRoundedMTBold, Arial Rounded MT Bold;}.cls-8{font-size:14px;}.cls-10,.cls-22,.cls-8{font-family:MyriadPro-Regular, Myriad Pro;}.cls-9{fill:#8ac4dd;}.cls-10{font-size:12px;}.cls-11{letter-spacing:0.01em;}.cls-12{letter-spacing:-0.01em;}.cls-13{letter-spacing:-0.01em;}.cls-14{letter-spacing:0.02em;}.cls-15{letter-spacing:0em;}.cls-16{letter-spacing:-0.01em;}.cls-17{letter-spacing:0em;}.cls-18{letter-spacing:0em;}.cls-19{letter-spacing:0em;}.cls-20{letter-spacing:0em;}.cls-21{letter-spacing:0em;}.cls-22{font-size:5px;}.cls-23{letter-spacing:-0.01em;}.cls-24{letter-spacing:0em;}.cls-25{letter-spacing:0em;}.cls-26{letter-spacing:-0.01em;}.cls-27{letter-spacing:0em;}.cls-28{letter-spacing:0.01em;}.cls-29,.cls-30{fill:none;stroke:#6a5fd3;stroke-miterlimit:10;}.cls-29{stroke-linecap:round;stroke-width:2px;}.cls-30{stroke-width:5px;}</style>
+       id="style2">.cls-1{fill:#eae3fc;}.cls-2{fill:#6a5fd3;}.cls-3{fill:#47479c;}.cls-4{fill:#dce7fd;}.cls-5{fill:#849ff3;}.cls-6{fill:#5757cb;}.cls-7{font-size:27px;font-family:ArialRoundedMTBold, Arial Rounded MT Bold;}.cls-8{font-size:14px;}.cls-10,.cls-22,.cls-8{font-family:MyriadPro-Regular, Myriad Pro;}.cls-9{fill:#8ac4dd;}.cls-10{font-size:12px;}.cls-11{letter-spacing:0.01em;}.cls-12{letter-spacing:-0.01em;}.cls-13{letter-spacing:-0.01em;}.cls-14{letter-spacing:0.02em;}.cls-15{letter-spacing:0em;}.cls-16{letter-spacing:-0.01em;}.cls-17{letter-spacing:0em;}.cls-18{letter-spacing:0em;}.cls-19{letter-spacing:0em;}.cls-20{letter-spacing:0em;}.cls-21{letter-spacing:0em;}.cls-22{font-size:5px;}.cls-23{letter-spacing:-0.01em;}.cls-24{letter-spacing:0em;}.cls-25{letter-spacing:0em;}.cls-26{letter-spacing:-0.01em;}.cls-27{letter-spacing:0em;}.cls-28{letter-spacing:0.01em;}.cls-29,.cls-30{fill:none;stroke:#6a5fd3;stroke-miterlimit:10;}.cls-29{stroke-linecap:round;stroke-width:2px;}.cls-30{stroke-width:5px;}</style>
   </defs>
   <g
-     id="Layer_2"
-     data-name="Layer 2"
-     transform="matrix(1.5747307,0,0,1.5747307,-246.63097,-188.6586)">
-    <g
-       id="g424"
-       transform="matrix(0.89928248,0,0,0.89928248,-59.010639,227.62426)">
-      <g
-         id="overlay">
-        <path
-           class="cls-1"
-           d="m 544,916.6 a 3,3 0 0 1 -3,-3 v -47.29 a 3,3 0 0 1 3,-3 h 90 V 737 h -57.84 v 17.33 a 3,3 0 0 1 -3,3 h -58.8 a 3,3 0 0 1 -3,-3 V 737 h -251 a 3,3 0 0 1 -3,-3 V 481 a 3,3 0 0 1 3,-3 H 569 v -17 a 3,3 0 0 1 3,-3 h 68 a 3,3 0 0 1 3,3 v 18.27 l 365,3 v -20.49 a 2.7,2.7 0 0 1 0,-0.49 31.67,31.67 0 0 1 20.45,-24.62 31.2,31.2 0 0 1 10.45,-1.8 32.13,32.13 0 0 1 22.7,9.52 2.44,2.44 0 0 1 0.32,0.4 l 14.18,20.38 1.38,-1.09 452.7,-329.78 a 3,3 0 0 1 1.76,-0.57 2.63,2.63 0 0 1 0.49,0 3,3 0 0 1 2,1.22 l 156.12,220.5 59.74,-40.8 a 3.06,3.06 0 0 1 1.7,-0.52 3.41,3.41 0 0 1 0.55,0.05 3,3 0 0 1 1.93,1.26 l 42.5,62.65 a 3,3 0 0 1 -0.76,4.14 l -760.74,533.83 a 3,3 0 0 1 -1.72,0.54 z"
-           id="path445" />
-        <path
-           class="cls-2"
-           d="m 1532,136.73 157.83,222.9 62.17,-42.46 42.5,62.64 -760.75,533.79 H 544 v -47.29 h 93 V 734 h -63.84 v 20.33 h -58.8 V 734 h -254 V 481 H 572 v -20 h 68 v 21.25 l 371,3.07 v -23.54 a 28.65,28.65 0 0 1 18.5,-22.28 28,28 0 0 1 9.44,-1.63 29,29 0 0 1 20.56,8.63 l 16,23 3.78,-3 L 1532,136.73 m 0,-6 a 5.94,5.94 0 0 0 -3.53,1.15 l -451.64,329 -12.38,-17.81 a 6.18,6.18 0 0 0 -0.66,-0.78 35.11,35.11 0 0 0 -24.79,-10.42 33.87,33.87 0 0 0 -11.47,2 34.68,34.68 0 0 0 -22.4,26.94 6.61,6.61 0 0 0 -0.08,1 v 17.49 l -359,-3 V 461 a 6,6 0 0 0 -6,-6 H 572 a 6,6 0 0 0 -6,6 v 14 H 260.32 a 6,6 0 0 0 -6,6 v 253 a 6,6 0 0 0 6,6 h 248 v 14.33 a 6,6 0 0 0 6,6 h 58.8 a 6,6 0 0 0 6,-6 V 740 H 631 v 120.31 h -87 a 6,6 0 0 0 -6,6 v 47.29 a 6,6 0 0 0 6,6 h 489.75 a 6,6 0 0 0 3.44,-1.09 l 760.74,-533.79 a 6,6 0 0 0 1.52,-8.28 L 1757,313.8 a 6,6 0 0 0 -3.84,-2.53 6.14,6.14 0 0 0 -1.12,-0.1 6.07,6.07 0 0 0 -3.39,1 l -57.31,39.14 -154.46,-218.05 a 6,6 0 0 0 -3.93,-2.45 5.22,5.22 0 0 0 -1,-0.08 z"
-           id="path447" />
-      </g>
-      <rect
-         class="cls-3"
-         x="1437.34"
-         y="174.77"
-         width="134.75"
-         height="102.7"
-         rx="10"
-         transform="rotate(-35.6,1504.5895,226.132)"
-         id="rect450" />
-      <rect
-         class="cls-4"
-         x="1411.79"
-         y="227.53999"
-         width="40.110001"
-         height="119.85"
-         rx="10"
-         transform="matrix(0.81,-0.58,0.58,0.81,100.24,887.17)"
-         id="rect452" />
-      <rect
-         class="cls-4"
-         x="1012.79"
-         y="453.98001"
-         width="518.12"
-         height="43"
-         rx="10"
-         transform="rotate(-35.6,1271.7311,475.47612)"
-         id="rect454" />
-      <rect
-         class="cls-5"
-         x="1356.33"
-         y="407.23001"
-         width="181.55"
-         height="185.63"
-         rx="9"
-         transform="rotate(-34.61,1446.9696,500.04582)"
-         id="rect456" />
-      <rect
-         class="cls-6"
-         x="1294.08"
-         y="484.70999"
-         width="81.709999"
-         height="185.28999"
-         rx="10"
-         transform="rotate(-34.61,1334.8054,577.33822)"
-         id="rect458" />
-      <rect
-         class="cls-5"
-         x="1505.01"
-         y="307.45999"
-         width="184.87"
-         height="174.69"
-         rx="10"
-         transform="rotate(55.32,1597.3849,394.74438)"
-         id="rect460" />
-      <rect
-         class="cls-5"
-         x="1496.36"
-         y="282.12"
-         width="188.24001"
-         height="134.52"
-         rx="10"
-         transform="rotate(55.32,1590.4129,349.33139)"
-         id="rect462" />
-      <rect
-         class="cls-5"
-         x="1242.52"
-         y="299.39001"
-         width="181.3"
-         height="89.760002"
-         rx="10"
-         transform="rotate(-35.6,1333.0413,344.28191)"
-         id="rect464" />
-      <text
-         class="cls-7"
-         transform="rotate(-34.67,1241.973,-1928.7505)"
-         id="text466">105</text>
-      <text
-         class="cls-7"
-         transform="rotate(-34.67,1442.3534,-2328.5418)"
-         id="text468">106</text>
-      <text
-         class="cls-7"
-         transform="rotate(-34.67,1570.1887,-2028.4654)"
-         id="text470">107</text>
-      <rect
-         class="cls-5"
-         x="1098.86"
-         y="435.16"
-         width="89.410004"
-         height="89.099998"
-         rx="10"
-         transform="rotate(-35.6,1143.4615,479.69603)"
-         id="rect472" />
-      <rect
-         class="cls-5"
-         x="1174.71"
-         y="382.70999"
-         width="87.860001"
-         height="88.089996"
-         rx="10"
-         transform="rotate(-35.6,1218.5394,426.75533)"
-         id="rect474" />
-      <text
-         class="cls-7"
-         transform="matrix(0.82,-0.57,0.57,0.82,1200.05,444.89)"
-         id="text478">104<tspan
-   class="cls-8"
-   x="48.130001"
-   y="0"
-   id="tspan476">а</tspan></text>
-      <text
-         class="cls-7"
-         transform="matrix(0.83,-0.56,0.56,0.83,1129.06,498.63)"
-         id="text480">104</text>
-      <rect
-         class="cls-5"
-         x="1206"
-         y="554"
-         width="88"
-         height="45"
-         rx="10"
-         transform="rotate(55,1250.0077,576.50746)"
-         id="rect482" />
-      <text
-         class="cls-7"
-         transform="rotate(53.69,58.670344,1493.2543)"
-         id="text484">109</text>
-      <text
-         class="cls-7"
-         transform="rotate(54.99,122.25405,1534.1829)"
-         id="text486">108</text>
-      <path
-         class="cls-9"
-         d="M 1017,572 V 461.4 c 0,0 7.22,-33.69 37.61,-9.54 30.39,24.15 64.46,87.1 64.46,87.1 L 1094,557 1057.68,507.57 c 0,0 -5.68,-6.57 -9.68,2.43 v 66 h -31 z"
-         id="path488" />
-      <text
-         class="cls-10"
-         transform="translate(1026.15,488.06)"
-         id="text498">1-1 <tspan
-   class="cls-11"
-   x="18.540001"
-   y="0"
-   id="tspan490">с</tspan><tspan
-   class="cls-12"
-   x="24.02"
-   y="0"
-   id="tspan492">х</tspan><tspan
-   class="cls-13"
-   x="29.41"
-   y="0"
-   id="tspan494">о</tspan><tspan
-   x="35.919998"
-   y="0"
-   id="tspan496">ди</tspan></text>
-      <text
-         class="cls-10"
-         transform="translate(1087.33,709.29)"
-         id="text510">ве<tspan
-   class="cls-14"
-   x="12.01"
-   y="0"
-   id="tspan500">с</tspan><tspan
-   class="cls-13"
-   x="17.58"
-   y="0"
-   id="tspan502">т</tspan><tspan
-   x="22.43"
-   y="0"
-   id="tspan504">иб</tspan><tspan
-   class="cls-15"
-   x="35.41"
-   y="0"
-   id="tspan506">ю</tspan><tspan
-   x="43.919998"
-   y="0"
-   id="tspan508">ль</tspan></text>
-      <text
-         class="cls-10"
-         transform="translate(779.71,885.59)"
-         id="text520"><tspan
-           class="cls-12"
-           id="tspan512">т</tspan><tspan
-           x="4.7600002"
-           y="0"
-           id="tspan514">ам</tspan><tspan
-           class="cls-16"
-           x="18.219999"
-           y="0"
-           id="tspan516">б</tspan><tspan
-           class="cls-17"
-           x="24.43"
-           y="0"
-           id="tspan518">ур 1-13</tspan></text>
-      <rect
-         class="cls-4"
-         x="640"
-         y="729"
-         width="476"
-         height="122"
-         rx="10"
-         id="rect522" />
-      <rect
-         class="cls-4"
-         x="640"
-         y="788"
-         width="390"
-         height="123"
-         rx="10"
-         id="rect524" />
-      <text
-         class="cls-10"
-         transform="translate(921.02,697.86)"
-         id="text548"><tspan
-           class="cls-18"
-           id="tspan526">д</tspan><tspan
-           x="6.3099999"
-           y="0"
-           id="tspan528">опо</tspan><tspan
-           class="cls-19"
-           x="25.98"
-           y="0"
-           id="tspan530">м</tspan><tspan
-           x="33.68"
-           y="0"
-           id="tspan532">іжне</tspan><tspan
-           x="0"
-           y="14.4"
-           id="tspan534">при</tspan><tspan
-           class="cls-20"
-           x="19.969999"
-           y="14.4"
-           id="tspan536">м</tspan><tspan
-           class="cls-21"
-           x="27.67"
-           y="14.4"
-           id="tspan538">і</tspan><tspan
-           class="cls-18"
-           x="30.48"
-           y="14.4"
-           id="tspan540">щ</tspan><tspan
-           x="39.419998"
-           y="14.4"
-           id="tspan542">ен</tspan><tspan
-           class="cls-15"
-           x="51.98"
-           y="14.4"
-           id="tspan544">н</tspan><tspan
-           class="cls-21"
-           x="58.580002"
-           y="14.4"
-           id="tspan546">я 1</tspan></text>
-      <text
-         class="cls-22"
-         transform="translate(976.32,676.79)"
-         id="text550">1-11</text>
-      <text
-         class="cls-22"
-         transform="translate(995.18,676.87)"
-         id="text552">1-12</text>
-      <rect
-         class="cls-5"
-         x="767"
-         y="635"
-         width="143"
-         height="92"
-         rx="10"
-         id="rect554" />
-      <text
-         class="cls-7"
-         transform="translate(828.35,691.29)"
-         id="text556">4</text>
-      <rect
-         class="cls-5"
-         x="639"
-         y="635"
-         width="91"
-         height="91"
-         rx="10"
-         id="rect558" />
-      <text
-         class="cls-7"
-         transform="translate(674.05,689.92)"
-         id="text560">5</text>
-      <rect
-         class="cls-5"
-         x="824"
-         y="488"
-         width="182"
-         height="88"
-         rx="10"
-         id="rect562" />
-      <rect
-         class="cls-5"
-         x="643"
-         y="488"
-         width="175"
-         height="88"
-         rx="10"
-         id="rect564" />
-      <text
-         class="cls-7"
-         transform="translate(719.93,540.91)"
-         id="text566">3</text>
-      <text
-         class="cls-7"
-         transform="translate(909.74,537.67)"
-         id="text568">2</text>
-      <text
-         class="cls-10"
-         transform="translate(589.82,608.86)"
-         id="text578"><tspan
-           class="cls-23"
-           id="tspan570">к</tspan><tspan
-           x="5.6799998"
-           y="0"
-           id="tspan572">ори</tspan><tspan
-           class="cls-24"
-           x="25.74"
-           y="0"
-           id="tspan574">д</tspan><tspan
-           x="32.049999"
-           y="0"
-           id="tspan576">ор</tspan></text>
-      <text
-         class="cls-10"
-         transform="translate(612.13,530.91)"
-         id="text586"><tspan
-           class="cls-12"
-           id="tspan580">х</tspan><tspan
-           class="cls-25"
-           x="5.3899999"
-           y="0"
-           id="tspan582">о</tspan><tspan
-           x="12.02"
-           y="0"
-           id="tspan584">л</tspan></text>
-      <text
-         class="cls-10"
-         transform="translate(549,508.52)"
-         id="text602"><tspan
-           class="cls-20"
-           id="tspan588">с</tspan><tspan
-           x="5.4099998"
-           y="0"
-           id="tspan590">ан</tspan><tspan
-           class="cls-26"
-           x="17.75"
-           y="0"
-           id="tspan592">в</tspan><tspan
-           class="cls-27"
-           x="23.620001"
-           y="0"
-           id="tspan594">у</tspan><tspan
-           x="29.33"
-           y="0"
-           id="tspan596">з</tspan><tspan
-           class="cls-25"
-           x="34.5"
-           y="0"
-           id="tspan598">о</tspan><tspan
-           x="41.139999"
-           y="0"
-           id="tspan600">л</tspan></text>
-      <rect
-         class="cls-6"
-         x="512"
-         y="525"
-         width="101"
-         height="27"
-         rx="10"
-         transform="rotate(90,562.5,538.5)"
-         id="rect604" />
-      <rect
-         class="cls-6"
-         x="555.56"
-         y="552"
-         width="69.440002"
-         height="37"
-         rx="10"
-         transform="rotate(180,590.28,570.5)"
-         id="rect606" />
-      <rect
-         class="cls-6"
-         x="600.87"
-         y="555.13"
-         width="37.040001"
-         height="30.780001"
-         rx="10"
-         transform="rotate(-90,619.39,570.52)"
-         id="rect608" />
-      <rect
-         class="cls-6"
-         x="557"
-         y="488"
-         width="43"
-         height="37"
-         rx="8.5"
-         transform="rotate(180,578.5,506.5)"
-         id="rect610" />
-      <rect
-         class="cls-4"
-         x="517"
-         y="729"
-         width="42"
-         height="22"
-         rx="8.5"
-         id="rect612" />
-      <rect
-         class="cls-4"
-         x="572"
-         y="465"
-         width="46"
-         height="20"
-         rx="10"
-         id="rect614" />
-      <rect
-         class="cls-5"
-         x="451"
-         y="638"
-         width="89"
-         height="88"
-         rx="10"
-         id="rect616" />
-      <text
-         class="cls-7"
-         transform="translate(470.76,690.77)"
-         id="text618">101</text>
-      <rect
-         class="cls-5"
-         x="363"
-         y="638"
-         width="77"
-         height="88"
-         rx="10"
-         id="rect620" />
-      <text
-         class="cls-7"
-         transform="translate(372.45,690.9)"
-         id="text624">102<tspan
-   class="cls-8"
-   x="48.130001"
-   y="0"
-   id="tspan622">б</tspan></text>
-      <rect
-         class="cls-3"
-         x="366"
-         y="486"
-         width="77"
-         height="103"
-         rx="10"
-         id="rect626" />
-      <rect
-         class="cls-5"
-         x="449"
-         y="486"
-         width="94"
-         height="103"
-         rx="10"
-         id="rect628" />
-      <text
-         class="cls-7"
-         transform="translate(470.52,546.71)"
-         id="text630">103</text>
-      <rect
-         class="cls-4"
-         x="344"
-         y="591"
-         width="698"
-         height="35"
-         rx="10"
-         id="rect632" />
-      <rect
-         class="cls-4"
-         x="548"
-         y="605"
-         width="77"
-         height="121"
-         rx="10"
-         id="rect634" />
-      <rect
-         class="cls-4"
-         x="739"
-         y="611"
-         width="21"
-         height="134"
-         rx="10"
-         id="rect636" />
-      <text
-         class="cls-10"
-         transform="translate(278.24,503.02)"
-         id="text646">б<tspan
-   class="cls-28"
-   x="6.3400002"
-   y="0"
-   id="tspan638">а</tspan><tspan
-   x="12.19"
-   y="0"
-   id="tspan640">л</tspan><tspan
-   class="cls-23"
-   x="18.280001"
-   y="0"
-   id="tspan642">к</tspan><tspan
-   x="23.950001"
-   y="0"
-   id="tspan644">он</tspan></text>
-      <rect
-         class="cls-3"
-         x="1701.3"
-         y="336.60999"
-         width="76.309998"
-         height="68.639999"
-         rx="10"
-         transform="rotate(-34.68,1739.5894,370.92008)"
-         id="rect648" />
-      <rect
-         class="cls-4"
-         x="294"
-         y="526"
-         width="65"
-         height="167"
-         rx="10"
-         id="rect650" />
-      <rect
-         class="cls-3"
-         x="921"
-         y="635"
-         width="90"
-         height="90"
-         rx="10"
-         id="rect652" />
-      <path
-         class="cls-3"
-         d="M 350,696 H 302 A 12,12 0 0 1 290,684 V 534 a 12,12 0 0 1 12,-12 h 48 a 12,12 0 0 1 9,4.1 V 499 a 12,12 0 0 0 -12,-12 h -68 a 12,12 0 0 0 -12,12 v 219 a 12,12 0 0 0 12,12 h 68 a 12,12 0 0 0 12,-12 v -26.1 a 12,12 0 0 1 -9,4.1 z"
-         id="path654" />
-      <rect
-         class="cls-4"
-         x="1014"
-         y="591"
-         width="204"
-         height="197"
-         rx="22.309999"
-         id="rect666" />
-      <rect
-         class="cls-4"
-         x="602"
-         y="465"
-         width="35"
-         height="84"
-         rx="12"
-         id="rect668" />
-      <rect
-         class="cls-4"
-         x="577"
-         y="528"
-         width="47"
-         height="21"
-         rx="10.5"
-         id="rect670" />
-      <rect
-         class="cls-4"
-         x="1104.3101"
-         y="570.46997"
-         width="161.14999"
-         height="206.81"
-         rx="12"
-         transform="rotate(-35.6,1184.7644,673.84658)"
-         id="rect672" />
-      <rect
-         class="cls-4"
-         x="1047"
-         y="666.65997"
-         width="158.45"
-         height="158.23"
-         rx="10"
-         transform="rotate(-34.61,1126.1035,745.73551)"
-         id="rect674" />
-      <rect
-         class="cls-4"
-         x="1240.72"
-         y="625.78003"
-         width="100.99"
-         height="77.120003"
-         rx="12"
-         transform="rotate(56.25,1291.2496,664.39019)"
-         id="rect676" />
-      <rect
-         class="cls-4"
-         x="548"
-         y="869"
-         width="129"
-         height="42"
-         rx="10"
-         id="rect678" />
-      <rect
-         class="cls-4"
-         x="990.21997"
-         y="822.87"
-         width="144.83"
-         height="55.990002"
-         rx="10"
-         transform="rotate(-33.98,1062.6499,850.87293)"
-         id="rect680" />
-      <rect
-         class="cls-4"
-         x="979.64001"
-         y="504.48999"
-         width="156.88"
-         height="54.73"
-         rx="10"
-         transform="rotate(73.67,1058.046,531.79765)"
-         id="rect682" />
-      <circle
-         class="cls-4"
-         cx="1039.5"
-         cy="468.5"
-         r="27.5"
-         id="circle684" />
-      <rect
-         class="cls-4"
-         x="966.5"
-         y="506.5"
-         width="148"
-         height="57"
-         rx="10"
-         transform="rotate(-90,1040.5,535)"
-         id="rect686" />
-      <rect
-         class="cls-4"
-         x="995.96002"
-         y="493.54999"
-         width="146.92999"
-         height="56.220001"
-         rx="10"
-         transform="rotate(-120,1069.4269,521.65944)"
-         id="rect688" />
-      <rect
-         class="cls-4"
-         x="1000.96"
-         y="490.54999"
-         width="146.92999"
-         height="56.220001"
-         rx="10"
-         transform="rotate(-125.6,1074.4028,518.67791)"
-         id="rect690" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="572"
-         x2="1047"
-         y2="572"
-         id="line692" />
-      <line
-         class="cls-29"
-         x1="1092.8"
-         y1="555.72998"
-         x2="1117.2"
-         y2="538.27002"
-         id="line694" />
-      <line
-         class="cls-29"
-         x1="1090.8"
-         y1="552.72998"
-         x2="1115.2"
-         y2="535.27002"
-         id="line696" />
-      <line
-         class="cls-29"
-         x1="1088.8"
-         y1="549.72998"
-         x2="1113.2"
-         y2="532.27002"
-         id="line698" />
-      <line
-         class="cls-29"
-         x1="1086.8"
-         y1="546.72998"
-         x2="1111.2"
-         y2="529.27002"
-         id="line700" />
-      <line
-         class="cls-29"
-         x1="1084.8"
-         y1="543.72998"
-         x2="1109.2"
-         y2="526.27002"
-         id="line702" />
-      <line
-         class="cls-29"
-         x1="1082.8"
-         y1="540.72998"
-         x2="1107.2"
-         y2="523.27002"
-         id="line704" />
-      <line
-         class="cls-29"
-         x1="1080.8"
-         y1="537.72998"
-         x2="1105.2"
-         y2="520.27002"
-         id="line706" />
-      <line
-         class="cls-29"
-         x1="1078.8"
-         y1="534.72998"
-         x2="1103.2"
-         y2="517.27002"
-         id="line708" />
-      <line
-         class="cls-29"
-         x1="1076.8"
-         y1="531.72998"
-         x2="1101.2"
-         y2="514.27002"
-         id="line710" />
-      <line
-         class="cls-29"
-         x1="1074.8"
-         y1="528.72998"
-         x2="1099.2"
-         y2="511.26999"
-         id="line712" />
-      <line
-         class="cls-29"
-         x1="1072.8"
-         y1="525.72998"
-         x2="1097.2"
-         y2="508.26999"
-         id="line714" />
-      <line
-         class="cls-29"
-         x1="1070.8"
-         y1="522.72998"
-         x2="1095.2"
-         y2="505.26999"
-         id="line716" />
-      <line
-         class="cls-29"
-         x1="1068.8"
-         y1="519.72998"
-         x2="1093.2"
-         y2="502.26999"
-         id="line718" />
-      <line
-         class="cls-29"
-         x1="1066.8"
-         y1="516.72998"
-         x2="1091.2"
-         y2="499.26999"
-         id="line720" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="568"
-         x2="1047"
-         y2="568"
-         id="line722" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="564"
-         x2="1047"
-         y2="564"
-         id="line724" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="560"
-         x2="1047"
-         y2="560"
-         id="line726" />
-      <line
-         class="cls-29"
-         x1="358"
-         y1="691"
-         x2="346"
-         y2="691"
-         id="line728" />
-      <line
-         class="cls-29"
-         x1="358"
-         y1="687"
-         x2="346"
-         y2="687"
-         id="line730" />
-      <line
-         class="cls-29"
-         x1="358"
-         y1="683"
-         x2="346"
-         y2="683"
-         id="line732" />
-      <line
-         class="cls-29"
-         x1="358"
-         y1="679"
-         x2="346"
-         y2="679"
-         id="line734" />
-      <line
-         class="cls-29"
-         x1="358"
-         y1="675"
-         x2="346"
-         y2="675"
-         id="line736" />
-      <line
-         class="cls-29"
-         x1="358"
-         y1="671"
-         x2="346"
-         y2="671"
-         id="line738" />
-      <line
-         class="cls-29"
-         x1="358"
-         y1="667"
-         x2="346"
-         y2="667"
-         id="line740" />
-      <line
-         class="cls-29"
-         x1="576"
-         y1="718"
-         x2="576"
-         y2="704"
-         id="line742" />
-      <line
-         class="cls-29"
-         x1="581"
-         y1="718"
-         x2="581"
-         y2="704"
-         id="line744" />
-      <line
-         class="cls-29"
-         x1="586"
-         y1="718"
-         x2="586"
-         y2="704"
-         id="line746" />
-      <line
-         class="cls-29"
-         x1="578"
-         y1="481"
-         x2="578"
-         y2="467"
-         id="line748" />
-      <line
-         class="cls-29"
-         x1="582"
-         y1="481"
-         x2="582"
-         y2="467"
-         id="line750" />
-      <line
-         class="cls-29"
-         x1="586"
-         y1="481"
-         x2="586"
-         y2="467"
-         id="line752" />
-      <line
-         class="cls-29"
-         x1="590"
-         y1="481"
-         x2="590"
-         y2="467"
-         id="line754" />
-      <line
-         class="cls-29"
-         x1="594"
-         y1="481"
-         x2="594"
-         y2="467"
-         id="line756" />
-      <line
-         class="cls-29"
-         x1="598"
-         y1="481"
-         x2="598"
-         y2="467"
-         id="line758" />
-      <line
-         class="cls-29"
-         x1="602"
-         y1="481"
-         x2="602"
-         y2="467"
-         id="line760" />
-      <line
-         class="cls-29"
-         x1="566"
-         y1="694"
-         x2="566"
-         y2="680"
-         id="line762" />
-      <line
-         class="cls-29"
-         x1="571"
-         y1="694"
-         x2="571"
-         y2="680"
-         id="line764" />
-      <line
-         class="cls-29"
-         x1="576"
-         y1="694"
-         x2="576"
-         y2="680"
-         id="line766" />
-      <line
-         class="cls-29"
-         x1="581"
-         y1="694"
-         x2="581"
-         y2="680"
-         id="line768" />
-      <line
-         class="cls-29"
-         x1="586"
-         y1="694"
-         x2="586"
-         y2="680"
-         id="line770" />
-      <line
-         class="cls-29"
-         x1="591"
-         y1="694"
-         x2="591"
-         y2="680"
-         id="line772" />
-      <line
-         class="cls-29"
-         x1="596"
-         y1="694"
-         x2="596"
-         y2="680"
-         id="line774" />
-      <line
-         class="cls-29"
-         x1="601"
-         y1="694"
-         x2="601"
-         y2="680"
-         id="line776" />
-      <line
-         class="cls-29"
-         x1="606"
-         y1="694"
-         x2="606"
-         y2="680"
-         id="line778" />
-      <line
-         class="cls-29"
-         x1="591"
-         y1="718"
-         x2="591"
-         y2="704"
-         id="line780" />
-      <line
-         class="cls-29"
-         x1="596"
-         y1="718"
-         x2="596"
-         y2="704"
-         id="line782" />
-      <line
-         class="cls-29"
-         x1="601"
-         y1="718"
-         x2="601"
-         y2="704"
-         id="line784" />
-      <line
-         class="cls-29"
-         x1="606"
-         y1="718"
-         x2="606"
-         y2="704"
-         id="line786" />
-      <line
-         class="cls-29"
-         x1="611"
-         y1="718"
-         x2="611"
-         y2="704"
-         id="line788" />
-      <line
-         class="cls-29"
-         x1="616"
-         y1="718"
-         x2="616"
-         y2="704"
-         id="line790" />
-      <line
-         class="cls-29"
-         x1="524"
-         y1="749"
-         x2="524"
-         y2="735"
-         id="line792" />
-      <line
-         class="cls-29"
-         x1="528"
-         y1="749"
-         x2="528"
-         y2="735"
-         id="line794" />
-      <line
-         class="cls-29"
-         x1="532"
-         y1="749"
-         x2="532"
-         y2="735"
-         id="line796" />
-      <line
-         class="cls-29"
-         x1="536"
-         y1="749"
-         x2="536"
-         y2="735"
-         id="line798" />
-      <line
-         class="cls-29"
-         x1="540"
-         y1="749"
-         x2="540"
-         y2="735"
-         id="line800" />
-      <line
-         class="cls-29"
-         x1="544"
-         y1="749"
-         x2="544"
-         y2="735"
-         id="line802" />
-      <line
-         class="cls-29"
-         x1="548"
-         y1="749"
-         x2="548"
-         y2="735"
-         id="line804" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="556"
-         x2="1047"
-         y2="556"
-         id="line806" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="552"
-         x2="1047"
-         y2="552"
-         id="line808" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="548"
-         x2="1047"
-         y2="548"
-         id="line810" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="544"
-         x2="1047"
-         y2="544"
-         id="line812" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="540"
-         x2="1047"
-         y2="540"
-         id="line814" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="536"
-         x2="1047"
-         y2="536"
-         id="line816" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="532"
-         x2="1047"
-         y2="532"
-         id="line818" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="528"
-         x2="1047"
-         y2="528"
-         id="line820" />
-      <line
-         class="cls-29"
-         x1="1017"
-         y1="524"
-         x2="1047"
-         y2="524"
-         id="line822" />
-      <path
-         class="cls-4"
-         d="m 1085,499.28 -15.64,11.2 a 5.6,5.6 0 0 1 -7.65,-1.07 c -10.92,-13.8 -13.73,-2 -14.45,5.55 a 5.58,5.58 0 0 1 -5.57,5 h -19.79 a 5.59,5.59 0 0 1 -5.57,-5 c -3.83,-34.58 2.28,-134.58 70.2,-23.22 a 5.59,5.59 0 0 1 -1.53,7.54 z"
-         id="path824" />
-      <line
-         class="cls-29"
-         x1="1108.98"
-         y1="550.02002"
-         x2="1076.02"
-         y2="503.98001"
-         id="line826" />
-      <polygon
-         class="cls-2"
-         points="1073.59,500.58 1079.28,504.07 1076.53,504.69 1075.06,507.09 "
-         id="polygon828" />
-      <line
-         class="cls-29"
-         x1="521"
-         y1="742"
-         x2="552.82001"
-         y2="742"
-         id="line830" />
-      <polygon
-         class="cls-2"
-         points="557,742 550.86,744.59 551.96,742 550.86,739.41 "
-         id="polygon832" />
-      <line
-         class="cls-29"
-         x1="574"
-         y1="474"
-         x2="605.82001"
-         y2="474"
-         id="line834" />
-      <polygon
-         class="cls-2"
-         points="610,474 603.86,476.59 604.96,474 603.86,471.41 "
-         id="polygon836" />
-      <line
-         class="cls-29"
-         x1="574"
-         y1="711"
-         x2="620.82001"
-         y2="711"
-         id="line838" />
-      <polygon
-         class="cls-2"
-         points="625,711 618.86,713.59 619.96,711 618.86,708.41 "
-         id="polygon840" />
-      <line
-         class="cls-29"
-         x1="610"
-         y1="687"
-         x2="561.17999"
-         y2="687"
-         id="line842" />
-      <polygon
-         class="cls-2"
-         points="557,687 563.14,684.41 562.04,687 563.14,689.59 "
-         id="polygon844" />
-      <line
-         class="cls-29"
-         x1="625"
-         y1="711"
-         x2="626"
-         y2="711"
-         id="line846" />
-      <line
-         class="cls-29"
-         x1="626"
-         y1="687"
-         x2="626"
-         y2="711"
-         id="line848" />
-      <line
-         class="cls-29"
-         x1="610"
-         y1="687"
-         x2="626"
-         y2="687"
-         id="line850" />
-      <path
-         class="cls-29"
-         d="m 1076,504 c -2.91,-3.9 -7.87,-10.59 -14,-19 -13.69,-18.79 -24,-20.25 -27,6 -2.16,18.94 -2.5,28.69 -2.5,28.69 -0.48,13.83 -0.77,33 0,56.62"
-         id="path852" />
-      <polygon
-         class="cls-2"
-         points="1032.64,580.48 1029.85,574.43 1032.47,575.44 1035.03,574.26 "
-         id="polygon854" />
-      <line
-         class="cls-30"
-         x1="753"
-         y1="918"
-         x2="737.5"
-         y2="940.5"
-         id="line856" />
-      <line
-         class="cls-30"
-         x1="786.21997"
-         y1="916.90997"
-         x2="803.5"
-         y2="940.5"
-         id="line858" />
-      <line
-         class="cls-30"
-         x1="844"
-         y1="918"
-         x2="828.5"
-         y2="940.5"
-         id="line860" />
-      <line
-         class="cls-30"
-         x1="877.21997"
-         y1="916.90997"
-         x2="894.5"
-         y2="940.5"
-         id="line862" />
-      <line
-         class="cls-30"
-         x1="927"
-         y1="918"
-         x2="911.5"
-         y2="940.5"
-         id="line864" />
-      <line
-         class="cls-30"
-         x1="960.21997"
-         y1="916.90997"
-         x2="977.5"
-         y2="940.5"
-         id="line866" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.9758px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16614"
-       x="168.70889"
-       y="205.02379"
-       id="text1216"><tspan
-         sodipodi:role="line"
-         id="tspan1214"
-         x="168.70889"
-         y="205.02379"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.9758px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:1.16614">Перший Поверх</tspan></text>
-    <text
-       class="cls-9"
-       id="text198"
-       x="460.92764"
-       y="741.83051"
-       style="font-size:21.1493px;font-family:ArialRoundedMTBold, 'Arial Rounded MT Bold';isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:1.08484"
-       transform="scale(0.99216101,1.0079009)">WC</text>
+     id="overlay"
+     transform="matrix(1.4206475,0,0,1.4206475,-323.33634,117.50619)">
+    <path
+       class="cls-1"
+       d="m 544,916.6 a 3,3 0 0 1 -3,-3 v -47.29 a 3,3 0 0 1 3,-3 h 90 V 737 h -57.84 v 17.33 a 3,3 0 0 1 -3,3 h -58.8 a 3,3 0 0 1 -3,-3 V 737 h -251 a 3,3 0 0 1 -3,-3 V 481 a 3,3 0 0 1 3,-3 H 569 v -17 a 3,3 0 0 1 3,-3 h 68 a 3,3 0 0 1 3,3 v 18.27 l 365,3 v -20.49 a 2.7,2.7 0 0 1 0,-0.49 31.67,31.67 0 0 1 20.45,-24.62 31.2,31.2 0 0 1 10.45,-1.8 32.13,32.13 0 0 1 22.7,9.52 2.44,2.44 0 0 1 0.32,0.4 l 14.18,20.38 1.38,-1.09 452.7,-329.78 a 3,3 0 0 1 1.76,-0.57 2.63,2.63 0 0 1 0.49,0 3,3 0 0 1 2,1.22 l 156.12,220.5 59.74,-40.8 a 3.06,3.06 0 0 1 1.7,-0.52 3.41,3.41 0 0 1 0.55,0.05 3,3 0 0 1 1.93,1.26 l 42.5,62.65 a 3,3 0 0 1 -0.76,4.14 l -760.74,533.83 a 3,3 0 0 1 -1.72,0.54 z"
+       id="path6" />
+    <path
+       class="cls-2"
+       d="m 1532,136.73 157.83,222.9 62.17,-42.46 42.5,62.64 -760.75,533.79 H 544 v -47.29 h 93 V 734 h -63.84 v 20.33 h -58.8 V 734 h -254 V 481 H 572 v -20 h 68 v 21.25 l 371,3.07 v -23.54 a 28.65,28.65 0 0 1 18.5,-22.28 28,28 0 0 1 9.44,-1.63 29,29 0 0 1 20.56,8.63 l 16,23 3.78,-3 L 1532,136.73 m 0,-6 a 5.94,5.94 0 0 0 -3.53,1.15 l -451.64,329 -12.38,-17.81 a 6.18,6.18 0 0 0 -0.66,-0.78 35.11,35.11 0 0 0 -24.79,-10.42 33.87,33.87 0 0 0 -11.47,2 34.68,34.68 0 0 0 -22.4,26.94 6.61,6.61 0 0 0 -0.08,1 v 17.49 l -359,-3 V 461 a 6,6 0 0 0 -6,-6 H 572 a 6,6 0 0 0 -6,6 v 14 H 260.32 a 6,6 0 0 0 -6,6 v 253 a 6,6 0 0 0 6,6 h 248 v 14.33 a 6,6 0 0 0 6,6 h 58.8 a 6,6 0 0 0 6,-6 V 740 H 631 v 120.31 h -87 a 6,6 0 0 0 -6,6 v 47.29 a 6,6 0 0 0 6,6 h 489.75 a 6,6 0 0 0 3.44,-1.09 l 760.74,-533.79 a 6,6 0 0 0 1.52,-8.28 L 1757,313.8 a 6,6 0 0 0 -3.84,-2.53 6.14,6.14 0 0 0 -1.12,-0.1 6.07,6.07 0 0 0 -3.39,1 l -57.31,39.14 -154.46,-218.05 a 6,6 0 0 0 -3.93,-2.45 5.22,5.22 0 0 0 -1,-0.08 z"
+       id="path8" />
   </g>
+  <rect
+     class="cls-3"
+     x="1121.8121"
+     y="1343.1025"
+     width="191.43225"
+     height="145.9005"
+     rx="14.206475"
+     transform="rotate(-35.599999)"
+     id="rect11"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="1046.5116"
+     y="1340.2335"
+     width="56.768089"
+     height="169.62491"
+     rx="14.153101"
+     transform="rotate(-35.604533)"
+     id="rect13"
+     style="stroke-width:1.41531" />
+  <rect
+     class="cls-4"
+     x="374.29889"
+     y="1480.9843"
+     width="736.06592"
+     height="61.087845"
+     rx="14.206475"
+     transform="rotate(-35.599999)"
+     id="rect15"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-5"
+     x="824.47241"
+     y="1536.7451"
+     width="257.91855"
+     height="263.71481"
+     rx="12.785828"
+     transform="rotate(-34.61)"
+     id="rect17"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-6"
+     x="701.86731"
+     y="1536.879"
+     width="116.08111"
+     height="263.23175"
+     rx="14.206475"
+     transform="rotate(-34.61)"
+     id="rect19"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-5"
+     x="1537.1019"
+     y="-1336.0437"
+     width="262.6351"
+     height="248.17291"
+     rx="14.206475"
+     transform="rotate(55.32)"
+     id="rect21"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-5"
+     x="1476.0281"
+     y="-1336.0909"
+     width="267.4227"
+     height="191.1055"
+     rx="14.206475"
+     transform="rotate(55.32)"
+     id="rect23"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-5"
+     x="792.88184"
+     y="1346.9038"
+     width="257.56342"
+     height="127.51733"
+     rx="14.206475"
+     transform="rotate(-35.599999)"
+     id="rect25"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     transform="rotate(-34.669999)"
+     id="text27"
+     x="910.36017"
+     y="1406.2048"
+     style="stroke-width:1.42065">105</text>
+  <text
+     class="cls-7"
+     transform="rotate(-34.669999)"
+     id="text29"
+     x="1182.8997"
+     y="1668.9852"
+     style="stroke-width:1.42065">106</text>
+  <text
+     class="cls-7"
+     transform="rotate(-34.669999)"
+     id="text31"
+     x="908.15167"
+     y="1696.5999"
+     style="stroke-width:1.42065">107</text>
+  <rect
+     class="cls-5"
+     x="527.14203"
+     y="1347.0493"
+     width="127.0201"
+     height="126.57969"
+     rx="14.206475"
+     transform="rotate(-35.599999)"
+     id="rect33"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-5"
+     x="658.74512"
+     y="1348.6819"
+     width="124.81809"
+     height="125.14484"
+     rx="14.206475"
+     transform="rotate(-35.599999)"
+     id="rect35"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     transform="rotate(-34.804013)"
+     id="text39"
+     x="704.27429"
+     y="1407.264"
+     style="stroke-width:1.41873">104<tspan
+   class="cls-8"
+   x="772.55768"
+   y="1407.264"
+   id="tspan37"
+   style="font-size:18.6667px;stroke-width:1.41873">а</tspan></text>
+  <text
+     class="cls-7"
+     transform="rotate(-34.007493)"
+     id="text41"
+     x="597.46649"
+     y="1404.2188"
+     style="stroke-width:1.42242">104</text>
+  <rect
+     class="cls-5"
+     x="1541.0201"
+     y="-682.32025"
+     width="125.01698"
+     height="63.929138"
+     rx="14.206475"
+     transform="rotate(55)"
+     id="rect43"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     transform="rotate(53.69)"
+     id="text45"
+     x="1581.9213"
+     y="-599.86249"
+     style="stroke-width:1.42065">109</text>
+  <text
+     class="cls-7"
+     transform="rotate(54.990001)"
+     id="text47"
+     x="1625.1299"
+     y="-736.80585"
+     style="stroke-width:1.42065">108</text>
+  <path
+     class="cls-9"
+     d="M 1121.4622,934.11656 V 776.99295 c 0,0 10.257,-47.86162 53.4305,-13.55298 43.1735,34.30864 91.575,123.7384 91.575,123.7384 l -35.6157,25.62848 -51.5979,-70.22261 c 0,0 -8.0693,-9.33365 -13.7519,3.45218 v 93.76273 h -44.04 z"
+     id="path49"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-10"
+     id="text59"
+     x="1134.4611"
+     y="814.86743"
+     style="stroke-width:1.42065">1-1 <tspan
+   class="cls-11"
+   x="1160.7999"
+   y="814.86743"
+   id="tspan51"
+   style="stroke-width:1.42065">с</tspan><tspan
+   class="cls-12"
+   x="1168.5851"
+   y="814.86743"
+   id="tspan53"
+   style="stroke-width:1.42065">х</tspan><tspan
+   class="cls-13"
+   x="1176.2423"
+   y="814.86743"
+   id="tspan55"
+   style="stroke-width:1.42065">о</tspan><tspan
+   x="1185.4907"
+   y="814.86743"
+   id="tspan57"
+   style="stroke-width:1.42065">ди</tspan></text>
+  <text
+     class="cls-10"
+     id="text71"
+     x="1221.3763"
+     y="1129.1573"
+     style="stroke-width:1.42065">ве<tspan
+   class="cls-14"
+   x="1238.4382"
+   y="1129.1573"
+   id="tspan61"
+   style="stroke-width:1.42065">с</tspan><tspan
+   class="cls-13"
+   x="1246.3513"
+   y="1129.1573"
+   id="tspan63"
+   style="stroke-width:1.42065">т</tspan><tspan
+   x="1253.2415"
+   y="1129.1573"
+   id="tspan65"
+   style="stroke-width:1.42065">иб</tspan><tspan
+   class="cls-15"
+   x="1271.6814"
+   y="1129.1573"
+   id="tspan67"
+   style="stroke-width:1.42065">ю</tspan><tspan
+   x="1283.7711"
+   y="1129.1573"
+   id="tspan69"
+   style="stroke-width:1.42065">ль</tspan></text>
+  <text
+     class="cls-10"
+     id="text81"
+     x="784.35675"
+     y="1379.6174"
+     style="stroke-width:1.42065"><tspan
+       class="cls-12"
+       id="tspan73"
+       style="stroke-width:1.42065">т</tspan><tspan
+       x="791.11902"
+       y="1379.6174"
+       id="tspan75"
+       style="stroke-width:1.42065">ам</tspan><tspan
+       class="cls-16"
+       x="810.24091"
+       y="1379.6174"
+       id="tspan77"
+       style="stroke-width:1.42065">б</tspan><tspan
+       class="cls-17"
+       x="819.06311"
+       y="1379.6174"
+       id="tspan79"
+       style="stroke-width:1.42065">ур 1-13</tspan></text>
+  <rect
+     class="cls-4"
+     x="585.87805"
+     y="1157.1582"
+     width="676.22821"
+     height="173.319"
+     rx="14.206475"
+     id="rect83"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="585.87805"
+     y="1240.9764"
+     width="554.05255"
+     height="174.73964"
+     rx="14.206475"
+     id="rect85"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-10"
+     id="text109"
+     x="985.1084"
+     y="1112.9193"
+     style="stroke-width:1.42065"><tspan
+       class="cls-18"
+       id="tspan87"
+       style="stroke-width:1.42065">д</tspan><tspan
+       x="994.07269"
+       y="1112.9193"
+       id="tspan89"
+       style="stroke-width:1.42065">опо</tspan><tspan
+       class="cls-19"
+       x="1022.0168"
+       y="1112.9193"
+       id="tspan91"
+       style="stroke-width:1.42065">м</tspan><tspan
+       x="1032.9558"
+       y="1112.9193"
+       id="tspan93"
+       style="stroke-width:1.42065">іжне</tspan><tspan
+       x="985.1084"
+       y="1133.3766"
+       id="tspan95"
+       style="stroke-width:1.42065">при</tspan><tspan
+       class="cls-20"
+       x="1013.4788"
+       y="1133.3766"
+       id="tspan97"
+       style="stroke-width:1.42065">м</tspan><tspan
+       class="cls-21"
+       x="1024.4177"
+       y="1133.3766"
+       id="tspan99"
+       style="stroke-width:1.42065">і</tspan><tspan
+       class="cls-18"
+       x="1028.4098"
+       y="1133.3766"
+       id="tspan101"
+       style="stroke-width:1.42065">щ</tspan><tspan
+       x="1041.1104"
+       y="1133.3766"
+       id="tspan103"
+       style="stroke-width:1.42065">ен</tspan><tspan
+       class="cls-15"
+       x="1058.9537"
+       y="1133.3766"
+       id="tspan105"
+       style="stroke-width:1.42065">н</tspan><tspan
+       class="cls-21"
+       x="1068.33"
+       y="1133.3766"
+       id="tspan107"
+       style="stroke-width:1.42065">я 1</tspan></text>
+  <text
+     class="cls-22"
+     id="text111"
+     x="1063.6702"
+     y="1082.9862"
+     style="stroke-width:1.42065">1-11</text>
+  <text
+     class="cls-22"
+     id="text113"
+     x="1090.4636"
+     y="1083.0999"
+     style="stroke-width:1.42065">1-12</text>
+  <rect
+     class="cls-5"
+     x="766.30029"
+     y="1023.6174"
+     width="203.15259"
+     height="130.69957"
+     rx="14.206475"
+     id="rect115"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     id="text117"
+     x="853.45703"
+     y="1103.5856"
+     style="stroke-width:1.42065">4</text>
+  <rect
+     class="cls-5"
+     x="584.4574"
+     y="1023.6174"
+     width="129.27892"
+     height="129.27892"
+     rx="14.206475"
+     id="rect119"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     id="text121"
+     x="634.2511"
+     y="1101.6393"
+     style="stroke-width:1.42065">5</text>
+  <rect
+     class="cls-5"
+     x="847.27722"
+     y="814.78217"
+     width="258.55783"
+     height="125.01698"
+     rx="14.206475"
+     id="rect123"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-5"
+     x="590.14001"
+     y="814.78217"
+     width="248.61331"
+     height="125.01698"
+     rx="14.206475"
+     id="rect125"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     id="text127"
+     x="699.43042"
+     y="889.94861"
+     style="stroke-width:1.42065">3</text>
+  <text
+     class="cls-7"
+     id="text129"
+     x="969.0835"
+     y="885.3457"
+     style="stroke-width:1.42065">2</text>
+  <text
+     class="cls-10"
+     id="text139"
+     x="514.58997"
+     y="986.48163"
+     style="stroke-width:1.42065"><tspan
+       class="cls-23"
+       id="tspan131"
+       style="stroke-width:1.42065">к</tspan><tspan
+       x="522.65924"
+       y="986.48163"
+       id="tspan133"
+       style="stroke-width:1.42065">ори</tspan><tspan
+       class="cls-24"
+       x="551.15741"
+       y="986.48163"
+       id="tspan135"
+       style="stroke-width:1.42065">д</tspan><tspan
+       x="560.1217"
+       y="986.48163"
+       id="tspan137"
+       style="stroke-width:1.42065">ор</tspan></text>
+  <text
+     class="cls-10"
+     id="text147"
+     x="546.28461"
+     y="875.74213"
+     style="stroke-width:1.42065"><tspan
+       class="cls-12"
+       id="tspan141"
+       style="stroke-width:1.42065">х</tspan><tspan
+       class="cls-25"
+       x="553.94189"
+       y="875.74213"
+       id="tspan143"
+       style="stroke-width:1.42065">о</tspan><tspan
+       x="563.36078"
+       y="875.74213"
+       id="tspan145"
+       style="stroke-width:1.42065">л</tspan></text>
+  <text
+     class="cls-10"
+     id="text163"
+     x="456.59915"
+     y="843.93384"
+     style="stroke-width:1.42065"><tspan
+       class="cls-20"
+       id="tspan149"
+       style="stroke-width:1.42065">с</tspan><tspan
+       x="464.28485"
+       y="843.93384"
+       id="tspan151"
+       style="stroke-width:1.42065">ан</tspan><tspan
+       class="cls-26"
+       x="481.81564"
+       y="843.93384"
+       id="tspan153"
+       style="stroke-width:1.42065">в</tspan><tspan
+       class="cls-27"
+       x="490.15485"
+       y="843.93384"
+       id="tspan155"
+       style="stroke-width:1.42065">у</tspan><tspan
+       x="498.26672"
+       y="843.93384"
+       id="tspan157"
+       style="stroke-width:1.42065">з</tspan><tspan
+       class="cls-25"
+       x="505.61148"
+       y="843.93384"
+       id="tspan159"
+       style="stroke-width:1.42065">о</tspan><tspan
+       x="515.04456"
+       y="843.93384"
+       id="tspan161"
+       style="stroke-width:1.42065">л</tspan></text>
+  <rect
+     class="cls-6"
+     x="814.78217"
+     y="-494.95667"
+     width="143.4854"
+     height="38.357483"
+     rx="14.206475"
+     transform="rotate(90)"
+     id="rect165"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-6"
+     x="-564.56836"
+     y="-958.26758"
+     width="98.649765"
+     height="52.563957"
+     rx="14.206475"
+     transform="scale(-1)"
+     id="rect167"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-6"
+     x="-958.32446"
+     y="534.73474"
+     width="52.620785"
+     height="43.727531"
+     rx="14.206475"
+     transform="rotate(-90)"
+     id="rect169"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-6"
+     x="-529.05212"
+     y="-867.34613"
+     width="61.087841"
+     height="52.563957"
+     rx="12.075503"
+     transform="scale(-1)"
+     id="rect171"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="411.13843"
+     y="1157.1582"
+     width="59.667194"
+     height="31.254246"
+     rx="12.075503"
+     id="rect173"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="489.27402"
+     y="782.1073"
+     width="65.349785"
+     height="28.412951"
+     rx="14.206475"
+     id="rect175"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-5"
+     x="317.37567"
+     y="1027.8793"
+     width="126.43763"
+     height="125.01698"
+     rx="14.206475"
+     id="rect177"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     id="text179"
+     x="345.44769"
+     y="1102.8469"
+     style="stroke-width:1.42065">101</text>
+  <rect
+     class="cls-5"
+     x="192.3587"
+     y="1027.8793"
+     width="109.39086"
+     height="125.01698"
+     rx="14.206475"
+     id="rect181"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     id="text185"
+     x="205.78381"
+     y="1103.0315"
+     style="stroke-width:1.42065">102<tspan
+   class="cls-8"
+   x="274.15958"
+   y="1103.0315"
+   id="tspan183"
+   style="font-size:18.6667px;stroke-width:1.42065">б</tspan></text>
+  <rect
+     class="cls-3"
+     x="196.62065"
+     y="811.94086"
+     width="109.38985"
+     height="146.32669"
+     rx="14.206475"
+     id="rect187"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-5"
+     x="314.53439"
+     y="811.94086"
+     width="133.54086"
+     height="146.32669"
+     rx="14.206475"
+     id="rect189"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-7"
+     id="text191"
+     x="345.10672"
+     y="898.18835"
+     style="stroke-width:1.42065">103</text>
+  <rect
+     class="cls-4"
+     x="165.36639"
+     y="961.10889"
+     width="991.61194"
+     height="49.722664"
+     rx="14.206475"
+     id="rect193"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="455.1785"
+     y="980.99792"
+     width="109.38985"
+     height="171.89835"
+     rx="14.206475"
+     id="rect195"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="726.52216"
+     y="989.52179"
+     width="29.833597"
+     height="190.36676"
+     rx="14.206475"
+     id="rect197"
+     style="stroke-width:1.42065" />
+  <text
+     class="cls-10"
+     id="text207"
+     x="71.944618"
+     y="836.1203"
+     style="stroke-width:1.42065">б<tspan
+   class="cls-28"
+   x="80.951523"
+   y="836.1203"
+   id="tspan199"
+   style="stroke-width:1.42065">а</tspan><tspan
+   x="89.262314"
+   y="836.1203"
+   id="tspan201"
+   style="stroke-width:1.42065">л</tspan><tspan
+   class="cls-23"
+   x="97.914055"
+   y="836.1203"
+   id="tspan203"
+   style="stroke-width:1.42065">к</tspan><tspan
+   x="105.96913"
+   y="836.1203"
+   id="tspan205"
+   style="stroke-width:1.42065">он</tspan></text>
+  <rect
+     class="cls-3"
+     x="1343.0374"
+     y="1706.7078"
+     width="108.40961"
+     height="97.513245"
+     rx="14.206475"
+     transform="rotate(-34.68)"
+     id="rect209"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="94.334023"
+     y="868.76678"
+     width="92.342087"
+     height="237.24814"
+     rx="14.206475"
+     id="rect211"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-3"
+     x="985.08002"
+     y="1023.6174"
+     width="127.85828"
+     height="127.85828"
+     rx="14.206475"
+     id="rect213"
+     style="stroke-width:1.42065" />
+  <path
+     class="cls-3"
+     d="M 173.89028,1110.2769 H 105.69921 A 17.04777,17.04777 0 0 1 88.651435,1093.2291 V 880.13196 a 17.04777,17.04777 0 0 1 17.047775,-17.04778 h 68.19107 a 17.04777,17.04777 0 0 1 12.78583,5.82466 V 830.40929 A 17.04777,17.04777 0 0 0 169.62834,813.36152 H 73.024313 a 17.04777,17.04777 0 0 0 -17.047771,17.04777 v 311.12181 a 17.04777,17.04777 0 0 0 17.047771,17.0478 h 96.604027 a 17.04777,17.04777 0 0 0 17.04777,-17.0478 v -37.0789 a 17.04777,17.04777 0 0 1 -12.78583,5.8247 z"
+     id="path215"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="1117.2002"
+     y="961.10889"
+     width="289.8121"
+     height="279.86755"
+     rx="31.694645"
+     id="rect227"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="531.89343"
+     y="782.1073"
+     width="49.722664"
+     height="119.33439"
+     rx="17.04777"
+     id="rect229"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="496.37726"
+     y="871.60809"
+     width="66.770432"
+     height="29.833597"
+     rx="14.916799"
+     id="rect231"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="363.35718"
+     y="1521.8838"
+     width="228.93735"
+     height="293.80411"
+     rx="17.04777"
+     transform="rotate(-35.599999)"
+     id="rect233"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="267.4404"
+     y="1584.6268"
+     width="225.10159"
+     height="224.78905"
+     rx="14.206475"
+     transform="rotate(-34.61)"
+     id="rect235"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="1653.5463"
+     y="-719.37561"
+     width="143.47119"
+     height="109.56034"
+     rx="17.04777"
+     transform="rotate(56.25)"
+     id="rect237"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="455.1785"
+     y="1356.0488"
+     width="183.26353"
+     height="59.667194"
+     rx="14.206475"
+     id="rect239"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="137.32603"
+     y="1726.3785"
+     width="205.75238"
+     height="79.542053"
+     rx="14.206475"
+     transform="rotate(-33.98)"
+     id="rect241"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="1061.9521"
+     y="-924.38812"
+     width="222.87119"
+     height="77.752037"
+     rx="14.206474"
+     transform="rotate(73.67)"
+     id="rect243"
+     style="stroke-width:1.42065" />
+  <circle
+     class="cls-4"
+     cx="1153.4268"
+     cy="787.07953"
+     r="39.067806"
+     id="circle245"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="-986.68048"
+     y="1114.3589"
+     width="210.25583"
+     height="80.976906"
+     rx="14.206475"
+     transform="rotate(-90)"
+     id="rect247"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="-1449.3756"
+     y="564.4826"
+     width="208.73572"
+     height="79.868805"
+     rx="14.206475"
+     transform="rotate(-120)"
+     id="rect249"
+     style="stroke-width:1.42065" />
+  <rect
+     class="cls-4"
+     x="-1502.5737"
+     y="438.53589"
+     width="208.73573"
+     height="79.868805"
+     rx="14.206475"
+     transform="rotate(-125.6)"
+     id="rect251"
+     style="stroke-width:1.42065" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="934.11658"
+     x2="1164.0815"
+     y2="934.11658"
+     id="line253" />
+  <line
+     class="cls-29"
+     x1="1229.1473"
+     y1="911.00262"
+     x2="1263.811"
+     y2="886.19812"
+     id="line255" />
+  <line
+     class="cls-29"
+     x1="1226.306"
+     y1="906.74066"
+     x2="1260.9697"
+     y2="881.93622"
+     id="line257" />
+  <line
+     class="cls-29"
+     x1="1223.4647"
+     y1="902.4787"
+     x2="1258.1284"
+     y2="877.67426"
+     id="line259" />
+  <line
+     class="cls-29"
+     x1="1220.6234"
+     y1="898.2168"
+     x2="1255.2871"
+     y2="873.41229"
+     id="line261" />
+  <line
+     class="cls-29"
+     x1="1217.7821"
+     y1="893.95483"
+     x2="1252.4458"
+     y2="869.15039"
+     id="line263" />
+  <line
+     class="cls-29"
+     x1="1214.9408"
+     y1="889.69287"
+     x2="1249.6045"
+     y2="864.88843"
+     id="line265" />
+  <line
+     class="cls-29"
+     x1="1212.0995"
+     y1="885.43097"
+     x2="1246.7632"
+     y2="860.62646"
+     id="line267" />
+  <line
+     class="cls-29"
+     x1="1209.2583"
+     y1="881.16901"
+     x2="1243.9219"
+     y2="856.36456"
+     id="line269" />
+  <line
+     class="cls-29"
+     x1="1206.417"
+     y1="876.90704"
+     x2="1241.0806"
+     y2="852.1026"
+     id="line271" />
+  <line
+     class="cls-29"
+     x1="1203.5757"
+     y1="872.64514"
+     x2="1238.2394"
+     y2="847.84064"
+     id="line273" />
+  <line
+     class="cls-29"
+     x1="1200.7344"
+     y1="868.38318"
+     x2="1235.3981"
+     y2="843.57867"
+     id="line275" />
+  <line
+     class="cls-29"
+     x1="1197.8931"
+     y1="864.12122"
+     x2="1232.5568"
+     y2="839.31671"
+     id="line277" />
+  <line
+     class="cls-29"
+     x1="1195.0518"
+     y1="859.85931"
+     x2="1229.7155"
+     y2="835.05481"
+     id="line279" />
+  <line
+     class="cls-29"
+     x1="1192.2104"
+     y1="855.59735"
+     x2="1226.8741"
+     y2="830.79285"
+     id="line281" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="928.43396"
+     x2="1164.0815"
+     y2="928.43396"
+     id="line283" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="922.7514"
+     x2="1164.0815"
+     y2="922.7514"
+     id="line285" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="917.06879"
+     x2="1164.0815"
+     y2="917.06879"
+     id="line287" />
+  <line
+     class="cls-29"
+     x1="185.25546"
+     y1="1103.1736"
+     x2="168.20769"
+     y2="1103.1736"
+     id="line289" />
+  <line
+     class="cls-29"
+     x1="185.25546"
+     y1="1097.491"
+     x2="168.20769"
+     y2="1097.491"
+     id="line291" />
+  <line
+     class="cls-29"
+     x1="185.25546"
+     y1="1091.8085"
+     x2="168.20769"
+     y2="1091.8085"
+     id="line293" />
+  <line
+     class="cls-29"
+     x1="185.25546"
+     y1="1086.1259"
+     x2="168.20769"
+     y2="1086.1259"
+     id="line295" />
+  <line
+     class="cls-29"
+     x1="185.25546"
+     y1="1080.4432"
+     x2="168.20769"
+     y2="1080.4432"
+     id="line297" />
+  <line
+     class="cls-29"
+     x1="185.25546"
+     y1="1074.7606"
+     x2="168.20769"
+     y2="1074.7606"
+     id="line299" />
+  <line
+     class="cls-29"
+     x1="185.25546"
+     y1="1069.0781"
+     x2="168.20769"
+     y2="1069.0781"
+     id="line301" />
+  <line
+     class="cls-29"
+     x1="494.95663"
+     y1="1141.5311"
+     x2="494.95663"
+     y2="1121.6421"
+     id="line303" />
+  <line
+     class="cls-29"
+     x1="502.05984"
+     y1="1141.5311"
+     x2="502.05984"
+     y2="1121.6421"
+     id="line305" />
+  <line
+     class="cls-29"
+     x1="509.16309"
+     y1="1141.5311"
+     x2="509.16309"
+     y2="1121.6421"
+     id="line307" />
+  <line
+     class="cls-29"
+     x1="497.79791"
+     y1="804.83765"
+     x2="497.79791"
+     y2="784.94855"
+     id="line309" />
+  <line
+     class="cls-29"
+     x1="503.4805"
+     y1="804.83765"
+     x2="503.4805"
+     y2="784.94855"
+     id="line311" />
+  <line
+     class="cls-29"
+     x1="509.16309"
+     y1="804.83765"
+     x2="509.16309"
+     y2="784.94855"
+     id="line313" />
+  <line
+     class="cls-29"
+     x1="514.8457"
+     y1="804.83765"
+     x2="514.8457"
+     y2="784.94855"
+     id="line315" />
+  <line
+     class="cls-29"
+     x1="520.52826"
+     y1="804.83765"
+     x2="520.52826"
+     y2="784.94855"
+     id="line317" />
+  <line
+     class="cls-29"
+     x1="526.21088"
+     y1="804.83765"
+     x2="526.21088"
+     y2="784.94855"
+     id="line319" />
+  <line
+     class="cls-29"
+     x1="531.89343"
+     y1="804.83765"
+     x2="531.89343"
+     y2="784.94855"
+     id="line321" />
+  <line
+     class="cls-29"
+     x1="480.75015"
+     y1="1107.4355"
+     x2="480.75015"
+     y2="1087.5465"
+     id="line323" />
+  <line
+     class="cls-29"
+     x1="487.85339"
+     y1="1107.4355"
+     x2="487.85339"
+     y2="1087.5465"
+     id="line325" />
+  <line
+     class="cls-29"
+     x1="494.95663"
+     y1="1107.4355"
+     x2="494.95663"
+     y2="1087.5465"
+     id="line327" />
+  <line
+     class="cls-29"
+     x1="502.05984"
+     y1="1107.4355"
+     x2="502.05984"
+     y2="1087.5465"
+     id="line329" />
+  <line
+     class="cls-29"
+     x1="509.16309"
+     y1="1107.4355"
+     x2="509.16309"
+     y2="1087.5465"
+     id="line331" />
+  <line
+     class="cls-29"
+     x1="516.26636"
+     y1="1107.4355"
+     x2="516.26636"
+     y2="1087.5465"
+     id="line333" />
+  <line
+     class="cls-29"
+     x1="523.36957"
+     y1="1107.4355"
+     x2="523.36957"
+     y2="1087.5465"
+     id="line335" />
+  <line
+     class="cls-29"
+     x1="530.47278"
+     y1="1107.4355"
+     x2="530.47278"
+     y2="1087.5465"
+     id="line337" />
+  <line
+     class="cls-29"
+     x1="537.57605"
+     y1="1107.4355"
+     x2="537.57605"
+     y2="1087.5465"
+     id="line339" />
+  <line
+     class="cls-29"
+     x1="516.26636"
+     y1="1141.5311"
+     x2="516.26636"
+     y2="1121.6421"
+     id="line341" />
+  <line
+     class="cls-29"
+     x1="523.36957"
+     y1="1141.5311"
+     x2="523.36957"
+     y2="1121.6421"
+     id="line343" />
+  <line
+     class="cls-29"
+     x1="530.47278"
+     y1="1141.5311"
+     x2="530.47278"
+     y2="1121.6421"
+     id="line345" />
+  <line
+     class="cls-29"
+     x1="537.57605"
+     y1="1141.5311"
+     x2="537.57605"
+     y2="1121.6421"
+     id="line347" />
+  <line
+     class="cls-29"
+     x1="544.67926"
+     y1="1141.5311"
+     x2="544.67926"
+     y2="1121.6421"
+     id="line349" />
+  <line
+     class="cls-29"
+     x1="551.78253"
+     y1="1141.5311"
+     x2="551.78253"
+     y2="1121.6421"
+     id="line351" />
+  <line
+     class="cls-29"
+     x1="421.08295"
+     y1="1185.5712"
+     x2="421.08295"
+     y2="1165.6821"
+     id="line353" />
+  <line
+     class="cls-29"
+     x1="426.76553"
+     y1="1185.5712"
+     x2="426.76553"
+     y2="1165.6821"
+     id="line355" />
+  <line
+     class="cls-29"
+     x1="432.44812"
+     y1="1185.5712"
+     x2="432.44812"
+     y2="1165.6821"
+     id="line357" />
+  <line
+     class="cls-29"
+     x1="438.13071"
+     y1="1185.5712"
+     x2="438.13071"
+     y2="1165.6821"
+     id="line359" />
+  <line
+     class="cls-29"
+     x1="443.81332"
+     y1="1185.5712"
+     x2="443.81332"
+     y2="1165.6821"
+     id="line361" />
+  <line
+     class="cls-29"
+     x1="449.49591"
+     y1="1185.5712"
+     x2="449.49591"
+     y2="1165.6821"
+     id="line363" />
+  <line
+     class="cls-29"
+     x1="455.1785"
+     y1="1185.5712"
+     x2="455.1785"
+     y2="1165.6821"
+     id="line365" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="911.38623"
+     x2="1164.0815"
+     y2="911.38623"
+     id="line367" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="905.70361"
+     x2="1164.0815"
+     y2="905.70361"
+     id="line369" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="900.021"
+     x2="1164.0815"
+     y2="900.021"
+     id="line371" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="894.33844"
+     x2="1164.0815"
+     y2="894.33844"
+     id="line373" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="888.65582"
+     x2="1164.0815"
+     y2="888.65582"
+     id="line375" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="882.97327"
+     x2="1164.0815"
+     y2="882.97327"
+     id="line377" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="877.29065"
+     x2="1164.0815"
+     y2="877.29065"
+     id="line379" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="871.60809"
+     x2="1164.0815"
+     y2="871.60809"
+     id="line381" />
+  <line
+     class="cls-29"
+     x1="1121.4622"
+     y1="865.92548"
+     x2="1164.0815"
+     y2="865.92548"
+     id="line383" />
+  <path
+     class="cls-4"
+     d="m 1218.0662,830.80707 -22.2189,15.91126 a 7.955626,7.955626 0 0 1 -10.868,-1.5201 c -15.5135,-19.60493 -19.5055,-2.84129 -20.5283,7.8846 a 7.9272131,7.9272131 0 0 1 -7.913,7.10323 h -28.1147 a 7.9414195,7.9414195 0 0 1 -7.913,-7.10323 c -5.441,-49.12599 3.2391,-191.19074 99.7295,-32.98744 a 7.9414195,7.9414195 0 0 1 -2.1736,10.71168 z"
+     id="path385"
+     style="stroke-width:1.42065" />
+  <line
+     class="cls-29"
+     x1="1252.1333"
+     y1="902.89075"
+     x2="1205.3088"
+     y2="837.48413"
+     id="line387" />
+  <polygon
+     class="cls-2"
+     points="1076.53,504.69 1075.06,507.09 1073.59,500.58 1079.28,504.07 "
+     id="polygon389"
+     transform="matrix(1.4206475,0,0,1.4206475,-323.33634,121.50619)" />
+  <line
+     class="cls-29"
+     x1="416.82101"
+     y1="1175.6266"
+     x2="462.02603"
+     y2="1175.6266"
+     id="line391" />
+  <polygon
+     class="cls-2"
+     points="551.96,742 550.86,739.41 557,742 550.86,744.59 "
+     id="polygon393"
+     transform="matrix(1.4206475,0,0,1.4206475,-323.33634,121.50619)" />
+  <line
+     class="cls-29"
+     x1="492.11533"
+     y1="794.89313"
+     x2="537.32031"
+     y2="794.89313"
+     id="line395" />
+  <polygon
+     class="cls-2"
+     points="604.96,474 603.86,471.41 610,474 603.86,476.59 "
+     id="polygon397"
+     transform="matrix(1.4206475,0,0,1.4206475,-323.33634,121.50619)" />
+  <line
+     class="cls-29"
+     x1="492.11533"
+     y1="1131.5865"
+     x2="558.63007"
+     y2="1131.5865"
+     id="line399" />
+  <polygon
+     class="cls-2"
+     points="619.96,711 618.86,708.41 625,711 618.86,713.59 "
+     id="polygon401"
+     transform="matrix(1.4206475,0,0,1.4206475,-323.33634,121.50619)" />
+  <line
+     class="cls-29"
+     x1="543.25861"
+     y1="1097.491"
+     x2="473.90262"
+     y2="1097.491"
+     id="line403" />
+  <polygon
+     class="cls-2"
+     points="562.04,687 563.14,689.59 557,687 563.14,684.41 "
+     id="polygon405"
+     transform="matrix(1.4206475,0,0,1.4206475,-323.33634,121.50619)" />
+  <line
+     class="cls-29"
+     x1="564.56836"
+     y1="1131.5865"
+     x2="565.98901"
+     y2="1131.5865"
+     id="line407" />
+  <line
+     class="cls-29"
+     x1="565.98901"
+     y1="1097.491"
+     x2="565.98901"
+     y2="1131.5865"
+     id="line409" />
+  <line
+     class="cls-29"
+     x1="543.25861"
+     y1="1097.491"
+     x2="565.98901"
+     y2="1097.491"
+     id="line411" />
+  <path
+     class="cls-29"
+     d="m 1205.2804,837.51253 c -4.1341,-5.54053 -11.1805,-15.04466 -19.8891,-26.9923 -19.4487,-26.69397 -34.0955,-28.76811 -38.3575,8.52388 -3.0686,26.90707 -3.5516,40.75838 -3.5516,40.75838 -0.6819,19.64755 -1.0939,46.88137 0,80.43706"
+     id="path413" />
+  <polygon
+     class="cls-2"
+     points="1032.47,575.44 1035.03,574.26 1032.64,580.48 1029.85,574.43 "
+     id="polygon415"
+     transform="matrix(1.4206475,0,0,1.4206475,-323.33634,121.50619)" />
+  <line
+     class="cls-30"
+     x1="746.41125"
+     y1="1425.6606"
+     x2="724.39117"
+     y2="1457.6251"
+     id="line417" />
+  <line
+     class="cls-30"
+     x1="793.6051"
+     y1="1424.1121"
+     x2="818.15393"
+     y2="1457.6251"
+     id="line419" />
+  <line
+     class="cls-30"
+     x1="875.69012"
+     y1="1425.6606"
+     x2="853.6701"
+     y2="1457.6251"
+     id="line421" />
+  <line
+     class="cls-30"
+     x1="922.88403"
+     y1="1424.1121"
+     x2="947.43286"
+     y2="1457.6251"
+     id="line423" />
+  <line
+     class="cls-30"
+     x1="993.60388"
+     y1="1425.6606"
+     x2="971.58386"
+     y2="1457.6251"
+     id="line425" />
+  <line
+     class="cls-30"
+     x1="1040.7977"
+     y1="1424.1121"
+     x2="1065.3466"
+     y2="1457.6251"
+     id="line427" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:116.492px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83636"
+     x="46.417603"
+     y="151.33293"
+     id="text1216"><tspan
+       sodipodi:role="line"
+       id="tspan1214"
+       x="46.417603"
+       y="151.33293"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:116.492px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:1.83636">Перший Поверх</tspan></text>
+  <text
+     class="cls-8"
+     id="text204"
+     x="500.32355"
+     y="943.49408"
+     style="font-size:27px;font-family:ArialRoundedMTBold, 'Arial Rounded MT Bold';stroke-width:1.39084">WC</text>
 </svg>
