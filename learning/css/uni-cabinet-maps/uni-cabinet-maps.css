@@ -68,22 +68,110 @@
 
 .cabinet{
   fill:none;
-  
   cursor:pointer;
   pointer-events: all;
+ 
 }
 
 .cabinet:hover{
   animation: cabinetHighlight 2s linear infinite;
 }
 
+
 @keyframes cabinetHighlight{
   0%{
     stroke:black;
-    stroke-width: 3px;
+    stroke-width: 5px;
   }
   100%{
     stroke:black;
-    stroke-width: 3px;
+    stroke-width: 5px;
+  }
+}
+
+#tooltip {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 14px;
+  padding: 5px;
+  background: aliceblue;
+  border-radius: 10px;
+  box-shadow: 0 0 10px black;
+  display: none;
+}
+#tooltip2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 14px;
+  padding: 5px;
+  background: aliceblue;
+  border-radius: 10px;
+  box-shadow: 0 0 10px black;
+  display: none;
+}
+
+#tooltip3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 14px;
+  padding: 5px;
+  background: aliceblue;
+  border-radius: 10px;
+  box-shadow: 0 0 10px black;
+  display: none;
+}
+
+#information3 {
+  visibility: hidden;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  border-radius: 20px;
+  padding: 25px;
+  width: 500px;
+}
+
+#information2 {
+  visibility: hidden;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  border-radius: 20px;
+  padding: 25px;
+  width: 500px;
+}
+
+#information {
+  visibility: hidden;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  border-radius: 20px;
+  padding: 25px;
+  width: 500px;
+}
+
+@media (min-width:360px) and (max-width:1080px){
+  h2{
+    font-size: 16px;
+    font-weight: bold;
+  }
+  #information{
+    width: 300px;
+  }
+  #information2{
+    width: 300px;
+  }
+  #information3{
+    width: 300px;
   }
 }
