@@ -432,7 +432,7 @@ var imagesMap
 ]
 
 //adding vector borders to maps
-var cabinetmap1 = "<svg viewbox='" + viewboxes[0] + "'>";
+var cabinetmap1 = "<svg viewbox='" + viewboxes[0] + "' style='left:-8px;'>";
 var cabinetmap2 = "<svg viewbox='" + viewboxes[1] + "'>";
 var cabinetmap3 = "<svg viewbox='" + viewboxes[2] + "'>";
 for(i = 0; i < cabinetsInfo.length; i++)
