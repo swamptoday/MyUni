@@ -596,8 +596,11 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
   height: auto;
+}
+
+.scaleimgs {
+  transform: scale(-1, 1);
 }
 
 .img-thumbnail {
@@ -17510,6 +17513,21 @@ iframe {
 .majestic-tabs .nav-link.active,
 .majestic-tabs .nav-item.show .nav-link {
   border-bottom-color: #DF6951;
+}
+
+@media (min-width:360px) and (max-width:1080px){
+  .imgsize{
+    max-width:100%;
+  }
+  #manager{
+    text-align: center;
+  }
+  #validation{
+    text-align: center;
+  }
+  #marketer{
+    text-align: center;
+  }
 }
 
 /*-----------------------------------------------
