@@ -17515,7 +17515,7 @@ iframe {
   border-bottom-color: #DF6951;
 }
 
-@media (min-width:360px) and (max-width:1080px){
+@media (min-width:100px) and (max-width:1080px){
   .imgsize{
     max-width:100%;
   }
