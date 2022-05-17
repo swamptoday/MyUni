@@ -3,7 +3,7 @@
 const city = document.querySelector('#city');
 const country = document.querySelector('#country');
 
-  $.get("http://ipinfo.io", function(response) {
+  $.get("https://ipinfo.io", function(response) {
     city.innerText = response.city;
     country.innerText = response.country;
     cityfortemp = response.city;
