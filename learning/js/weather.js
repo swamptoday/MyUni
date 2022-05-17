@@ -2,8 +2,10 @@
 
 const city = document.querySelector('#city');
 const country = document.querySelector('#country');
+var i = 0;
 
   $.get("https://ipinfo.io", function(response) {
+    i = 1;
     city.innerText = response.city;
     country.innerText = response.country;
     cityfortemp = response.city;
@@ -21,6 +23,17 @@ function weatherBalloon( cityName ) {
   });
 }
 
-window.onload = function() {
-  weatherBalloon(cityfortemp);
+if(i == 1)
+{
+  window.onload = function() {
+    weatherBalloon(cityfortemp);
+  }
+}
+else
+{
+  window.onload = function() {
+    weatherBalloon('Lviv');
+    city.innerText = 'Lviv';
+    country.innerText = 'UA';
+  }
 }
