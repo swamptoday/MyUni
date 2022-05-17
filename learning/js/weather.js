@@ -11,6 +11,7 @@ var i = 0;
     cityfortemp = response.city;
 }, "jsonp");
 
+
 function weatherBalloon( cityName ) {
   var key = 'a692c4bc95275382624df8e34d89d462';
   fetch('https://api.openweathermap.org/data/2.5/weather?q=' + cityName + '&appid=' + key)  
@@ -22,18 +23,10 @@ function weatherBalloon( cityName ) {
     // catch any errors
   });
 }
+ 
 
-if(i == 1)
-{
   window.onload = function() {
     weatherBalloon(cityfortemp);
   }
-}
-else
-{
-  window.onload = function() {
-    weatherBalloon('Lviv');
-    city.innerText = 'Lviv';
-    country.innerText = 'UA';
-  }
-}
+
+
