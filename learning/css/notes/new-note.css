@@ -14,7 +14,7 @@
     width:150px;
 }
 
-@media (min-width:401px) and (max-width:667px) {
+@media (min-width:400px) and (max-width:667px) {
     .pageName {
         font-size:18px;
     }

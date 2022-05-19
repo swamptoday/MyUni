@@ -1,0 +1,32 @@
+.pageName {
+    font-size:22px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.mynotesCard {
+    border: 1px solid #4B49AC;
+    height:500px;
+    overflow: scroll;
+}
+
+.noteCard {
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 10px;
+    margin-bottom:15px;
+    width: 100%;
+}
+
+.deleteNote {
+    position:absolute;
+    right:30px;
+}
+
+@media (min-width:360px) and (max-width:1080px) {
+    .pageName {
+        font-size:18px;
+    }
+    .textNote {
+        font-size: 14px;
+    }
+}
