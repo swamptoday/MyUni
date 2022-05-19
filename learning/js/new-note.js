@@ -5,7 +5,7 @@ saveButton.addEventListener("click", function(e)
 {
     if(Cookies.get('cookieNumber') == null)
     {
-        Cookies.set('cookieNumber', 1, {expires: 60 });
+        Cookies.set('cookieNumber', 1, {expires: 5 }, { sameSite:'none' });
         setCookie();
     }
     else
@@ -22,8 +22,8 @@ function setCookie()
     {
         var cookieNumber = Cookies.get('cookieNumber');
         var cookieName = 'note' + cookieNumber;
-        Cookies.set(cookieName, note, {expires: 5 });
-        Cookies.set('cookieNumber', (Number(cookieNumber) + Number(1)), {expires: 60 });
+        Cookies.set(cookieName, note, {expires: 5 }, { sameSite:'none' });
+        Cookies.set('cookieNumber', (Number(cookieNumber) + Number(1)), {expires: 60 }, { sameSite:'none' });
         userInput.value = '';
     }
 }
