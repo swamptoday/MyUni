@@ -36,7 +36,7 @@ function checkonNumber(fullcookie)
     var check = ' cookieNumber';
     var check2 = 'cookieNumber';
     var j = 0;
-    for(var i = 0; i < 12; i++)
+    for(var i = 0; i < 13; i++)
     {
         if (fullcookie[i] == check[i])
         {
