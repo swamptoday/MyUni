@@ -49,7 +49,8 @@ function checkonNumber(fullcookie)
     }
     else
     {
-        for(var i = 0; i < 12; i++)
+        j=0;
+        for(var i = 0; i < 13; i++)
         {
             if (fullcookie[i] == check2[i])
             {
