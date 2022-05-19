@@ -14,12 +14,29 @@
     width:150px;
 }
 
-@media (min-width:360px) and (max-width:1080px) {
+@media (min-width:401px) and (max-width:667px) {
     .pageName {
         font-size:18px;
     }
     #saveButton {
         width:120px;
+        font-size:14px;
+    }
+}
+
+@media (min-width:0) and (max-width:400px) {
+    .pageName {
+        font-size:18px;
+    }
+    .btn.btn-icon {
+        width: 35px;
+        height: 35px;
+        padding: 0;
+    }
+    #saveButton {
+        width:100px;
+        height:35px;
+        padding: 0;
         font-size:14px;
     }
 }
