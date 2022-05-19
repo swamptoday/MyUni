@@ -1,0 +1,25 @@
+.pageName {
+    font-size:22px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.newnoteCard {
+    border: 1px solid #4B49AC;
+}
+
+#saveButton {
+    position:absolute;
+    right:5px;
+    width:150px;
+}
+
+@media (min-width:360px) and (max-width:1080px) {
+    .pageName {
+        font-size:18px;
+    }
+    #saveButton {
+        width:120px;
+        font-size:14px;
+    }
+}
