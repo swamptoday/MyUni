@@ -9,10 +9,11 @@ function instituteText(element)
 }
 
 const logFileText = async file => {
-    const response = await fetch(file)
-    const text = await response.text()
-    console.log(text)
+    const response = await fetch(file);
+    const text = await response.text();
+    console.log(text);
+    alert(text[1]);
 }
 
-logFileText('АВ-11.txt')
+logFileText('АВ-11.txt');
 //readTextFile("file:///C:/MyData/DesktopУнивер/MyUni Project/MyUni/MyUni/schedule-txts");АВ-11.txt
