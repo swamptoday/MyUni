@@ -1,5 +1,12 @@
+.chatimage
+    {
+        width: 45vw;
+    }
 
-.catimage {
-    border-radius: 20%;
-    border: 4px solid rgb(23, 1, 104);
+@media (min-width:360px) and (max-width:1000px)
+{
+    .chatimage
+    {
+        width: 250px;
+    }
 }
