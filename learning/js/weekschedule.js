@@ -19,12 +19,7 @@ var parttext = '';
 const logFileText = async file => {
     const response = await fetch(file);
     const text = await response.text();
-        
-    for (i; i<40;i++)
-    {
-        parttext = parttext + text[i];
-    }
-    console.log(parttext);
+    console.log(text);
     
 }
 
