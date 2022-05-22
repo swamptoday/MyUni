@@ -20,7 +20,14 @@ const logFileText = async file => {
     const response = await fetch(file);
     const text = await response.text();
     console.log(text);
-    alert(text[10]+text[11]+text[12]);
+    for(i; i<text.length;i++)
+    {
+        if((text[i]+text[i+1]+text[i+2]+text[i+3]+text[i+4]+text[i+5]) == 'header')
+        {
+            alert(text[i+8]+text[i+9]);
+            break;
+        }
+    }
     
 }
 
