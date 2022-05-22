@@ -22,7 +22,7 @@ const logFileText = async file => {
         
     for (i; i<40;i++)
     {
-        parttext[i] = text[i];
+        parttext = parttext + text[i];
     }
     console.log(parttext);
     
