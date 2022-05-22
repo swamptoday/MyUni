@@ -14,12 +14,12 @@ const Thursday = document.querySelector('#Thursday');
 const Friday = document.querySelector('#Friday');
 var i = 0;
 var j = 0;
-var parttext;
+var parttext = '';
 
 const logFileText = async file => {
     const response = await fetch(file);
     const text = await response.text();
-    
+        
     for (i; i<40;i++)
     {
         parttext[i] = text[i];
