@@ -20,6 +20,7 @@ const logFileText = async file => {
     const response = await fetch(file);
     const text = await response.text();
     console.log(text);
+    alert(text[10]+text[11]+text[12]);
     
 }
 
