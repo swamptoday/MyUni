@@ -43,7 +43,7 @@ function checkonNumber(fullcookie)
             j++;
         }
     }
-    if (j == 12)
+    if (j == 13)
     {
         return 0;
     }
