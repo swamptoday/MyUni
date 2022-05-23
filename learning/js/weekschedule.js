@@ -22,7 +22,7 @@ var k = 0;
 var a = 1;
 var h = 0;
 
-
+var text1 = '';
 
 showButton.addEventListener("click", buttonClick);
 
@@ -30,7 +30,7 @@ function buttonClick()
 {
     const groupButton = document.querySelector('#groupButton');
     var schedule_file = groupButton.innerText;
-    var text1 = '';
+    text1 = '';
     logFileText(schedule_file + '.txt');
 }
 
