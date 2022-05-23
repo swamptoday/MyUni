@@ -605,6 +605,9 @@
 	font-size: 25px;
 	content: "\e6b6";
 }
+.ti-calendar3:before {
+	content: "\e6b6";
+}
 .ti-book:before {
 	content: "\e6b7";
 }
