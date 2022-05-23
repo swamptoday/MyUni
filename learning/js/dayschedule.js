@@ -9,6 +9,7 @@ weekDay[5] = "П'ятниця";
 weekDay[6] = "Субота";
 var result = weekDay[date.getDay()];
 
+var weekDayfortxt = new Array(7);
 weekDayfortxt[0] = "Неділя";
 weekDayfortxt[1] = "Пн";
 weekDayfortxt[2] = "Вт";
