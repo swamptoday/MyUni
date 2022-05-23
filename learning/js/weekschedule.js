@@ -34,7 +34,7 @@ const logFileText = async file => {
 }
 
 
-logFileText('АВ-11.txt');
+logFileText('ГД-11.txt');
 
 
 function get_schedule(text1)
