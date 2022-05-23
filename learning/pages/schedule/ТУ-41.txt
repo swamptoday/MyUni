@@ -1,0 +1,372 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спеціалізований туризм<br>Габа М.І., 313 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWE4ZmZkMzgtMzljOC00NGVmLWIzMmUtZmM4NjY3MjY0MDZm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWE4ZmZkMzgtMzljOC00NGVmLWIzMmUtZmM4NjY3MjY0MDZm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спеціалізований туризм<br>Габа М.І., 313 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWE4ZmZkMzgtMzljOC00NGVmLWIzMmUtZmM4NjY3MjY0MDZm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWE4ZmZkMzgtMzljOC00NGVmLWIzMmUtZmM4NjY3MjY0MDZm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Корчак Б.О., 137 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Корчак Б.О., 137 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Професійний етикет<br>Недзвецька О.В., 111 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73761709266?pwd=MaNNbg3KMadGi7lrjwFaZew9Kx4IQc.1" title="https://us04web.zoom.us/j/73761709266?pwd=MaNNbg3KMadGi7lrjwFaZew9Kx4IQc.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Професійний етикет<br>Недзвецька О.В., 111 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73249609291?pwd=wV1TmJQLWCFnPxcvsqPzFqfgXCFb8d.1" title="https://us04web.zoom.us/j/73249609291?pwd=wV1TmJQLWCFnPxcvsqPzFqfgXCFb8d.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Професійний етикет<br>Недзвецька О.В., 111 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79697809022?pwd=5Yima7pL_wlDtpkzSy9SlFFASrchme.1" title="https://us04web.zoom.us/j/79697809022?pwd=5Yima7pL_wlDtpkzSy9SlFFASrchme.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Спеціалізований туризм<br>Москвяк Я.Є., 509 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5775354351?pwd=ZTBYMGEvR1JZVDBUL1U4VnlZTmpzZz09 " title="https://us04web.zoom.us/j/5775354351?pwd=ZTBYMGEvR1JZVDBUL1U4VnlZTmpzZz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спеціалізований туризм<br>Москвяк Я.Є., 311 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5775354351?pwd=ZTBYMGEvR1JZVDBUL1U4VnlZTmpzZz09 " title="https://us04web.zoom.us/j/5775354351?pwd=ZTBYMGEvR1JZVDBUL1U4VnlZTmpzZz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Спеціалізований туризм<br>Москвяк Я.Є., 403 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5775354351?pwd=ZTBYMGEvR1JZVDBUL1U4VnlZTmpzZz09 " title="https://us04web.zoom.us/j/5775354351?pwd=ZTBYMGEvR1JZVDBUL1U4VnlZTmpzZz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геотуризм<br>Лущик М.В., 137 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09" title="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геотуризм<br>Лущик М.В., 137 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09" title="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Корчак Б.О., 307 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геотуризм<br>Лущик М.В., 307 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09" title="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Корчак Б.О., 307 III н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Корчак Б.О., 307 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aIwTQefzXzs-5jzLXPJgEHEGOokciDN5w39qMDZfeyOs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3859ab86-26a9-43b7-9b85-54dae73fa419&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

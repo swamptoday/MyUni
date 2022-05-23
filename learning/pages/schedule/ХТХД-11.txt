@@ -1,0 +1,362 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Біологічно активні добавки<br>Панченко Ю.В., 215 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2e9M8aBAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo9QAAEA%3D%3D&amp;conversationId=19:meeting_ODNhOWI1NWQtZjAxMC00ZmRmLWI3MDEtODVmNDhmMGJjYzkw@thread.v2&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2e9M8aBAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo9QAAEA%3D%3D&amp;conversationId=19:meeting_ODNhOWI1NWQtZjAxMC00ZmRmLWI3MDEtODVmNDhmMGJjYzkw@thread.v2&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Екологічні аспекти та  технології  переробки відходів харчових та косметичних виробництв<br>Васильєв В.П., 215 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTFmMTNlYjktMGIyOC00MTljLTgzMTctZDZhNDJiM2UxZGU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTFmMTNlYjktMGIyOC00MTljLTgzMTctZDZhNDJiM2UxZGU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Біологічно активні добавки<br>Панченко Ю.В., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2e9M8aBAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo9gAAEA%3D%3D&amp;conversationId=19:meeting_ZjllYzZjZjUtNzQ2Zi00ZTE0LTk1MDYtZGUwZTc3NTk2ZGYx@thread.v2&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2e9M8aBAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo9gAAEA%3D%3D&amp;conversationId=19:meeting_ZjllYzZjZjUtNzQ2Zi00ZTE0LTk1MDYtZGUwZTc3NTk2ZGYx@thread.v2&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Екологічні аспекти та  технології  переробки відходів харчових та косметичних виробництв<br>Васильєв В.П., 215 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc0ODBkZjAtMjE5NC00ODJlLTk0NjQtMzI5NTMyODYyODQy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc0ODBkZjAtMjE5NC00ODJlLTk0NjQtMzI5NTMyODYyODQy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Експертиза та контроль якості продуктів харчування та косметичних засобів <br>Васильєв В.П., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzM2NzYwNTctOTJmYS00NGQyLWJiY2YtM2ViYjk0NTQ3OWFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzM2NzYwNTctOTJmYS00NGQyLWJiY2YtM2ViYjk0NTQ3OWFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Токсикологія продуктів харчування та косметичних засобів (частина 2)<br>Стецишин Ю.Б., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NjhmNDliZGEtMTcyYi00MWU2LWFiMDEtOGVhN2M1NWU0ZWI2@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NjhmNDliZGEtMTcyYi00MWU2LWFiMDEtOGVhN2M1NWU0ZWI2@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Експертиза та контроль якості продуктів харчування та косметичних засобів <br>Васильєв В.П., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjIyYjUwYTMtM2Y5OC00ZWY5LWE0YjMtOTM4ZDk2YjBmNDQ1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjIyYjUwYTMtM2Y5OC00ZWY5LWE0YjMtOTM4ZDk2YjBmNDQ1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Токсикологія продуктів харчування та косметичних засобів (частина 2)<br>Стецишин Ю.Б., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NjhmNDliZGEtMTcyYi00MWU2LWFiMDEtOGVhN2M1NWU0ZWI2@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NjhmNDliZGEtMTcyYi00MWU2LWFiMDEtOGVhN2M1NWU0ZWI2@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Полімери у виробництві продуктів харчування та косметичних засобів<br>Когут А.М., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDMxZGYzNGUtOTZmYi00NTk0LWJkNTAtNTViOTdmMDUxZDY1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDMxZGYzNGUtOTZmYi00NTk0LWJkNTAtNTViOTdmMDUxZDY1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Полімери у виробництві продуктів харчування та косметичних засобів<br>Когут А.М., 202 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQwODU5NzYtMzVhZi00MTQ3LWJlYjUtZjAzMDNjNTU1YTZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQwODU5NzYtMzVhZi00MTQ3LWJlYjUtZjAzMDNjNTU1YTZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Полімери у виробництві продуктів харчування та косметичних засобів<br>Когут А.М., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDMxZGYzNGUtOTZmYi00NTk0LWJkNTAtNTViOTdmMDUxZDY1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDMxZGYzNGUtOTZmYi00NTk0LWJkNTAtNTViOTdmMDUxZDY1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Полімери у виробництві продуктів харчування та косметичних засобів<br>Когут А.М., 202 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQwODU5NzYtMzVhZi00MTQ3LWJlYjUtZjAzMDNjNTU1YTZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQwODU5NzYtMzVhZi00MTQ3LWJlYjUtZjAzMDNjNTU1YTZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dd1aaa91-076e-4b14-9edb-a7ec16594363%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Біологічно активні добавки<br>Панченко Ю.В., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fZfb1gAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo9wAAEA%3D%3D&amp;conversationId=19:meeting_NTVlMGM0ODQtZWQ3OC00Y2ZhLTlkMGItZmZkYjZjMzBhMTI4@thread.v2&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User" title="https://teams.microsoft.com/_#/scheduling-form/?eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2fZfb1gAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAEkmKo9wAAEA%3D%3D&amp;conversationId=19:meeting_NTVlMGM0ODQtZWQ3OC00Y2ZhLTlkMGItZmZkYjZjMzBhMTI4@thread.v2&amp;opener=1&amp;providerType=0&amp;navCtx=event-card-click&amp;calendarType=User">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Екологічні аспекти та  технології  переробки відходів харчових та косметичних виробництв<br>Васильєв В.П., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWZjYzk3OGYtYjc0Mi00ODJlLWEyY2YtOTI3ZjJlYjlkZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWZjYzk3OGYtYjc0Mi00ODJlLWEyY2YtOTI3ZjJlYjlkZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Токсикологія продуктів харчування та косметичних засобів (частина 2)<br>Стецишин Ю.Б., 215 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NTUyOTBkZjItYzExMS00ZjU5LWJjNjQtMDJiNDYyMGY3ZGQz@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NTUyOTBkZjItYzExMS00ZjU5LWJjNjQtMDJiNDYyMGY3ZGQz@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Експертиза та контроль якості продуктів харчування та косметичних засобів <br>Васильєв В.П., 215 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzQ5NTFhMzEtZDUzYS00ZWI3LThiY2UtNTM3ZTcwNjVkNDE2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzQ5NTFhMzEtZDUzYS00ZWI3LThiY2UtNTM3ZTcwNjVkNDE2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Токсикологія продуктів харчування та косметичних засобів (частина 2)<br>Стецишин Ю.Б., 215 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NTUyOTBkZjItYzExMS00ZjU5LWJjNjQtMDJiNDYyMGY3ZGQz@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NTUyOTBkZjItYzExMS00ZjU5LWJjNjQtMDJiNDYyMGY3ZGQz@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Експертиза та контроль якості продуктів харчування та косметичних засобів <br>Васильєв В.П., 215 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdiOTI0YTctNzE0ZS00ZWZiLWEzOGUtOTRlYzUwNTcxYTIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdiOTI0YTctNzE0ZS00ZWZiLWEzOGUtOTRlYzUwNTcxYTIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,301 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Васійчук В.О., 236 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a5TLiINFjutynhp8F_bSFr1SH3fxKbVpu6a4fHyBxuAs1%40thread.tacv2/1644821805919?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a5TLiINFjutynhp8F_bSFr1SH3fxKbVpu6a4fHyBxuAs1%40thread.tacv2/1644821805919?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Васійчук В.О., 114 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3agVKmozDCb2vmY-bc0p6I3xO5JCgbE9dWcaSbG50y9441%40thread.tacv2/1644822069359?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3agVKmozDCb2vmY-bc0p6I3xO5JCgbE9dWcaSbG50y9441%40thread.tacv2/1644822069359?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичне моделювання в системному проектуванні<br>Соколовський Я.І., 327 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4540328862?pwd=enc5WThYZVU5SGdLV282Wm1BQ3lOdz09" title="https://us02web.zoom.us/j/4540328862?pwd=enc5WThYZVU5SGdLV282Wm1BQ3lOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Математичне моделювання в системному проектуванні<br>Соколовський Я.І., 501 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4540328862?pwd=enc5WThYZVU5SGdLV282Wm1BQ3lOdz09" title="https://us02web.zoom.us/j/4540328862?pwd=enc5WThYZVU5SGdLV282Wm1BQ3lOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичне моделювання в системному проектуванні<br>Соколовський Я.І., 327 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4540328862?pwd=enc5WThYZVU5SGdLV282Wm1BQ3lOdz09" title="https://us02web.zoom.us/j/4540328862?pwd=enc5WThYZVU5SGdLV282Wm1BQ3lOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дискретні моделі в системному проектуванні<br>Каркульовський В.І., 327 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/81500656596?pwd=aURkS0pseG9BTVZML1R2NEpKa1ZkUT09" title="https://us05web.zoom.us/j/81500656596?pwd=aURkS0pseG9BTVZML1R2NEpKa1ZkUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Васійчук В.О., 117 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3agVKmozDCb2vmY-bc0p6I3xO5JCgbE9dWcaSbG50y9441%40thread.tacv2/1644822240618?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3agVKmozDCb2vmY-bc0p6I3xO5JCgbE9dWcaSbG50y9441%40thread.tacv2/1644822240618?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Математичне моделювання в системному проектуванні<br>Соколовський Я.І., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4540328862?pwd=enc5WThYZVU5SGdLV282Wm1BQ3lOdz09" title="https://us02web.zoom.us/j/4540328862?pwd=enc5WThYZVU5SGdLV282Wm1BQ3lOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Дискретні моделі в системному проектуванні<br>Кривий Р.З., 321 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/tey-gccm-fqd" title="http://meet.google.com/tey-gccm-fqd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дискретні моделі в системному проектуванні<br>Кривий Р.З., 327 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/81500656596?pwd=aURkS0pseG9BTVZML1R2NEpKa1ZkUT09" title="https://us05web.zoom.us/j/81500656596?pwd=aURkS0pseG9BTVZML1R2NEpKa1ZkUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Дискретні моделі в системному проектуванні<br>Кривий Р.З., 321 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/ups-gsbj-ppr" title="http://meet.google.com/ups-gsbj-ppr">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Васійчук В.О., 307 III н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aEpwg0hQyekFL0yqvXxKcLG9UdgYMRmdxS1pOowlzKxg1%40thread.tacv2/1644822845769?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aEpwg0hQyekFL0yqvXxKcLG9UdgYMRmdxS1pOowlzKxg1%40thread.tacv2/1644822845769?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Васійчук В.О., 307 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aEpwg0hQyekFL0yqvXxKcLG9UdgYMRmdxS1pOowlzKxg1%40thread.tacv2/1644822845769?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aEpwg0hQyekFL0yqvXxKcLG9UdgYMRmdxS1pOowlzKxg1%40thread.tacv2/1644822845769?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22696ff214-05e5-45b9-a88b-2a9a294ae0d8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

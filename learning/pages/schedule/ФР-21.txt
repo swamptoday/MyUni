@@ -1,0 +1,485 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біологічна хімія та молекулярна біологія<br>Марінцова Н.Г., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:-Hovu2aMZWsqrY-CC7VvKQG_oQ405jfrJbaXXg5GPWE1@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:-Hovu2aMZWsqrY-CC7VvKQG_oQ405jfrJbaXXg5GPWE1@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біологічна хімія та молекулярна біологія<br>Марінцова Н.Г., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:-Hovu2aMZWsqrY-CC7VvKQG_oQ405jfrJbaXXg5GPWE1@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:-Hovu2aMZWsqrY-CC7VvKQG_oQ405jfrJbaXXg5GPWE1@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інформатика<br>Будз І.С., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae9138210338540ac864725a6c3329007%40thread.tacv2/1644575950924?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2239b3ab0d-cccd-41b4-9be4-bf9eb89c7645%22%7d " title="https://teams.microsoft.com/l/meetup-join/19%3ae9138210338540ac864725a6c3329007%40thread.tacv2/1644575950924?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2239b3ab0d-cccd-41b4-9be4-bf9eb89c7645%22%7d ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Медична ботаніка<br>Стадницька Н.Є., 214 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/suy-yzrn-ccr " title="https://meet.google.com/suy-yzrn-ccr ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Чурсінова О.Ю., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a0I-epE70mY2u43dleWpnXD-vJlTj3XBHg7MJ18rG89s1%40thread.tacv2/conversations?groupId=48c53002-d043-49de-86c7-88cdb8f1d305&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a0I-epE70mY2u43dleWpnXD-vJlTj3XBHg7MJ18rG89s1%40thread.tacv2/conversations?groupId=48c53002-d043-49de-86c7-88cdb8f1d305&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біологічна хімія та молекулярна біологія<br>Марінцова Н.Г., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:-Hovu2aMZWsqrY-CC7VvKQG_oQ405jfrJbaXXg5GPWE1@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:-Hovu2aMZWsqrY-CC7VvKQG_oQ405jfrJbaXXg5GPWE1@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Медична ботаніка<br>Монька Н.Я., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaMGWHpj9U1405cblXmW8bIEbV1_ysUwE1B18RqEzJ241%40thread.tacv2/1644587934330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaMGWHpj9U1405cblXmW8bIEbV1_ysUwE1B18RqEzJ241%40thread.tacv2/1644587934330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Медична ботаніка<br>Яремкевич О.С., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaMGWHpj9U1405cblXmW8bIEbV1_ysUwE1B18RqEzJ241%40thread.tacv2/1644587934330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaMGWHpj9U1405cblXmW8bIEbV1_ysUwE1B18RqEzJ241%40thread.tacv2/1644587934330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Чурсінова О.Ю., 108 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a0I-epE70mY2u43dleWpnXD-vJlTj3XBHg7MJ18rG89s1%40thread.tacv2/conversations?groupId=48c53002-d043-49de-86c7-88cdb8f1d305&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a0I-epE70mY2u43dleWpnXD-vJlTj3XBHg7MJ18rG89s1%40thread.tacv2/conversations?groupId=48c53002-d043-49de-86c7-88cdb8f1d305&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Медична ботаніка<br>Монька Н.Я., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaMGWHpj9U1405cblXmW8bIEbV1_ysUwE1B18RqEzJ241%40thread.tacv2/1644587934330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaMGWHpj9U1405cblXmW8bIEbV1_ysUwE1B18RqEzJ241%40thread.tacv2/1644587934330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Медична ботаніка<br>Яремкевич О.С., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaMGWHpj9U1405cblXmW8bIEbV1_ysUwE1B18RqEzJ241%40thread.tacv2/1644587934330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaMGWHpj9U1405cblXmW8bIEbV1_ysUwE1B18RqEzJ241%40thread.tacv2/1644587934330?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229900f942-7c8b-4d17-9054-066dea6f5d52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інформатика<br>Будз І.С., 504 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aed757622949145f9a3372806d79dc096%40thread.tacv2/1644576128056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2239b3ab0d-cccd-41b4-9be4-bf9eb89c7645%22%7d." title="https://teams.microsoft.com/l/meetup-join/19%3aed757622949145f9a3372806d79dc096%40thread.tacv2/1644576128056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2239b3ab0d-cccd-41b4-9be4-bf9eb89c7645%22%7d.">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інформатика<br>Філь Б.М., 505 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/fek-eihu-yed" title="https://meet.google.com/fek-eihu-yed">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Біологічна хімія та молекулярна біологія<br>Яремкевич О.С., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODYwMTM4N2EtZGIxZC00YzY2LWJkODEtOTRmNmU1MWViYTE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ff27ba66-91e6-478e-961e-ba3135b8fcbc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODYwMTM4N2EtZGIxZC00YzY2LWJkODEtOTRmNmU1MWViYTE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ff27ba66-91e6-478e-961e-ba3135b8fcbc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Біологічна хімія та молекулярна біологія<br>Федорова О.В., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRiNDM1MzgtOTMxOC00ZTI2LTlmOTEtMDAwZDM4MDczM2Rl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRiNDM1MzgtOTMxOC00ZTI2LTlmOTEtMDAwZDM4MDczM2Rl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Токсикологічна хімія<br>Курка М.С., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a_9YRHUL5VcAqa7UZMnQTcjVa4_k9ZR1G74FKxgxdoCc1%40thread.tacv2/1644862465860?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a_9YRHUL5VcAqa7UZMnQTcjVa4_k9ZR1G74FKxgxdoCc1%40thread.tacv2/1644862465860?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Токсикологічна хімія<br>Паращин Ж.Д., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZjRkYmY0ZjMtNDg5OC00NjQ0LWFhM2UtMmZkNTY4YjQ4Y2Nj%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252c%2522Oid%2522%253a%2522c102f2f1-c74b-45bf-bcb0-1a72c4dfd4e0%2522%257d%26anon%3Dtrue&amp;type=meetup-join&amp;deeplinkId=ff680348-04a7-4ea2-aed7-56fd4174f27f&amp;directDl=true&amp;msLaunch=true&amp;enableMobilePage=true&amp;suppressPrompt=true" title="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZjRkYmY0ZjMtNDg5OC00NjQ0LWFhM2UtMmZkNTY4YjQ4Y2Nj%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252c%2522Oid%2522%253a%2522c102f2f1-c74b-45bf-bcb0-1a72c4dfd4e0%2522%257d%26anon%3Dtrue&amp;type=meetup-join&amp;deeplinkId=ff680348-04a7-4ea2-aed7-56fd4174f27f&amp;directDl=true&amp;msLaunch=true&amp;enableMobilePage=true&amp;suppressPrompt=true">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Токсикологічна хімія<br>Курка М.С., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a_9YRHUL5VcAqa7UZMnQTcjVa4_k9ZR1G74FKxgxdoCc1%40thread.tacv2/1644862465860?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a_9YRHUL5VcAqa7UZMnQTcjVa4_k9ZR1G74FKxgxdoCc1%40thread.tacv2/1644862465860?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Токсикологічна хімія<br>Паращин Ж.Д., 236 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OTE1MmRjMzUtNDVmNi00ZDE2LWEyOWEtYjk2NmI3MDgwYTYw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252c%2522Oid%2522%253a%2522c102f2f1-c74b-45bf-bcb0-1a72c4dfd4e0%2522%257d%26anon%3Dtrue&amp;type=meetup-join&amp;deeplinkId=2db7fee1-77c4-4e51-a801-317364347c6f&amp;directDl=true&amp;msLaunch=true&amp;enableMobilePage=true&amp;suppressPrompt=true" title="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OTE1MmRjMzUtNDVmNi00ZDE2LWEyOWEtYjk2NmI3MDgwYTYw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252c%2522Oid%2522%253a%2522c102f2f1-c74b-45bf-bcb0-1a72c4dfd4e0%2522%257d%26anon%3Dtrue&amp;type=meetup-join&amp;deeplinkId=2db7fee1-77c4-4e51-a801-317364347c6f&amp;directDl=true&amp;msLaunch=true&amp;enableMobilePage=true&amp;suppressPrompt=true">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Медична ботаніка<br>Стадницька Н.Є., 138 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84769295558?pwd=dzFMZDhoMVFGY1NIWjQyZGM0Q1ZDQT09" title="https://us02web.zoom.us/j/84769295558?pwd=dzFMZDhoMVFGY1NIWjQyZGM0Q1ZDQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Цьовх Л.П.,  14-40  16-00 корп.21 вул.Самчука 11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Стадник В.В.,  14-40  16-00 корп.21 вул.Самчука 11<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09" title="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Медична ботаніка<br>Стадницька Н.Є., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83930914746?pwd=a05VR1dscDV2UWZlZHQ4a1hacGRtZz09" title="https://us02web.zoom.us/j/83930914746?pwd=a05VR1dscDV2UWZlZHQ4a1hacGRtZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Токсикологічна хімія<br>Курка М.С., 240 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a6Yk5xw5Z7F91dXhADwuUaEiuWkQpwVq9sL-NsJ-fqDE1%40thread.tacv2/1644777943846?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a6Yk5xw5Z7F91dXhADwuUaEiuWkQpwVq9sL-NsJ-fqDE1%40thread.tacv2/1644777943846?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,159 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Конструкції з дерева та пластмас<br>Сурмай М.І., 217 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09" title="https://zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Реконструкція будівель і споруд<br>Хміль Р.Є., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2647560351?pwd=U3BXVXB6a1FQRm9vYnJpeGM1OWxSUT09" title="https://us04web.zoom.us/j/2647560351?pwd=U3BXVXB6a1FQRm9vYnJpeGM1OWxSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Реконструкція будівель і споруд<br>Хміль Р.Є., 218 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2647560351?pwd=U3BXVXB6a1FQRm9vYnJpeGM1OWxSUT09" title="https://us04web.zoom.us/j/2647560351?pwd=U3BXVXB6a1FQRm9vYnJpeGM1OWxSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Випробування будівель і споруд<br>Бобало Т.В., 109 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09" title="https://zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Випробування будівель і споруд<br>Бобало Т.В., 109 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09" title="https://zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструкції з дерева та пластмас<br>Верба В.Б., 109 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09" title="https://zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Конструкції з дерева та пластмас<br>Верба В.Б., 109 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09" title="https://zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

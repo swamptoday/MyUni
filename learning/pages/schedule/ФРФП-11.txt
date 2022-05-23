@@ -1,0 +1,272 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content"> Контроль якості лікарських засобів<br>Журахівська Л.Р., Болібрух Л.Д., 227 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:Qet1aGk7V7g0DdJhbP1-1_JtlFGyDp8FIDKUq0Cl21M1@thread.tacv2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:Qet1aGk7V7g0DdJhbP1-1_JtlFGyDp8FIDKUq0Cl21M1@thread.tacv2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія біологічно-активних речовин, біомедполімерів і наноструктур<br>Заярнюк Н.Л., 227 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRnB9-Ce9wv1AMai_4o0Xki8YdQkQeBIpcf-jLn7creU1%40thread.tacv2/1644515595268?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRnB9-Ce9wv1AMai_4o0Xki8YdQkQeBIpcf-jLn7creU1%40thread.tacv2/1644515595268?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія і застосування лікувальних косметичних засобів<br>Федорова О.В., 227 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2IxMjFmMWUtMzMzZC00MmYwLWFkN2EtZTgzMDQwMzRkYjVh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2IxMjFmMWUtMzMzZC00MmYwLWFkN2EtZTgzMDQwMzRkYjVh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content"> Контроль якості лікарських засобів<br>Хом'як С.В., 226 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a_sMZ_bg93Xiu9EUlhhN9lf7kx0wGVnZ2AcvxAT3PSR41%40thread.tacv2/1644586183437?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226786fb86-668e-4eb7-a1fa-8932cafc593e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a_sMZ_bg93Xiu9EUlhhN9lf7kx0wGVnZ2AcvxAT3PSR41%40thread.tacv2/1644586183437?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226786fb86-668e-4eb7-a1fa-8932cafc593e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія і застосування лікувальних косметичних засобів<br>Федорова О.В., 227 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWFjMjc5Y2ItNGRhNS00YjdhLWFlNjUtYTVmNGYwM2QyNTJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWFjMjc5Y2ItNGRhNS00YjdhLWFlNjUtYTVmNGYwM2QyNTJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2243d5aba3-6205-479b-943d-22ac06a85aa2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content"> Контроль якості лікарських засобів<br>Хом'як С.В., 226 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a_sMZ_bg93Xiu9EUlhhN9lf7kx0wGVnZ2AcvxAT3PSR41%40thread.tacv2/1644586183437?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226786fb86-668e-4eb7-a1fa-8932cafc593e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a_sMZ_bg93Xiu9EUlhhN9lf7kx0wGVnZ2AcvxAT3PSR41%40thread.tacv2/1644586183437?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226786fb86-668e-4eb7-a1fa-8932cafc593e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Промислове обладнання хіміко-фармацевтичних підприємств<br>Стасевич М.В., 227 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aOctOwqVG_6OuZuq6Jaq_EB_1vEkiUC-m_pUcvW8tx641%40thread.tacv2/1644316929932?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aOctOwqVG_6OuZuq6Jaq_EB_1vEkiUC-m_pUcvW8tx641%40thread.tacv2/1644316929932?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Промислове обладнання хіміко-фармацевтичних підприємств<br>Стасевич М.В., 227 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aOctOwqVG_6OuZuq6Jaq_EB_1vEkiUC-m_pUcvW8tx641%40thread.tacv2/1644317063559?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aOctOwqVG_6OuZuq6Jaq_EB_1vEkiUC-m_pUcvW8tx641%40thread.tacv2/1644317063559?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промислова технологія фармацевтичних виробництв, частина 2<br>Заярнюк Н.Л., 236 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9X3UCn8TCJVoShwb93ZKBeBcMUrVbyNKoE1dji0oLn01%40thread.tacv2/1644516997262?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9X3UCn8TCJVoShwb93ZKBeBcMUrVbyNKoE1dji0oLn01%40thread.tacv2/1644516997262?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія біологічно-активних речовин, біомедполімерів і наноструктур<br>Заярнюк Н.Л., Стадницька Н.Є., 138 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/opz-uoqy-ejt " title="https://meet.google.com/opz-uoqy-ejt ">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRnB9-Ce9wv1AMai_4o0Xki8YdQkQeBIpcf-jLn7creU1%40thread.tacv2/1644516853504?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRnB9-Ce9wv1AMai_4o0Xki8YdQkQeBIpcf-jLn7creU1%40thread.tacv2/1644516853504?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промислова технологія фармацевтичних виробництв, частина 2<br>Губицька І.І., Конечна Р.Т., 227 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aKZ8MBBbCa_rWVibx6GcYXOEORPFH0WTDJjYRNCmw8ts1%40thread.tacv2/1650545840619?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22de707e2d-ce4b-4ae2-96c5-77e70dd59f07%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aKZ8MBBbCa_rWVibx6GcYXOEORPFH0WTDJjYRNCmw8ts1%40thread.tacv2/1650545840619?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22de707e2d-ce4b-4ae2-96c5-77e70dd59f07%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a_zlskTdZWg6zmNs99wo_v28eI7SFxBtXxgRMi1ONuZY1%40thread.tacv2/conversations?groupId=da7845a3-f360-4fb0-a979-f03df2b33a67&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a_zlskTdZWg6zmNs99wo_v28eI7SFxBtXxgRMi1ONuZY1%40thread.tacv2/conversations?groupId=da7845a3-f360-4fb0-a979-f03df2b33a67&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Промислова технологія фармацевтичних виробництв, частина 2<br>Губицька І.І., 227 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aKZ8MBBbCa_rWVibx6GcYXOEORPFH0WTDJjYRNCmw8ts1%40thread.tacv2/1650545924497?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22de707e2d-ce4b-4ae2-96c5-77e70dd59f07%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aKZ8MBBbCa_rWVibx6GcYXOEORPFH0WTDJjYRNCmw8ts1%40thread.tacv2/1650545924497?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22de707e2d-ce4b-4ae2-96c5-77e70dd59f07%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,372 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівельна механіка, частина 2<br>Шиндер В.К., 227 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aekNLwFoYfPy0v-GcZajUyvXo7HkUHMeciTCgNPBFNFM1%40thread.tacv2/1644581536750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aekNLwFoYfPy0v-GcZajUyvXo7HkUHMeciTCgNPBFNFM1%40thread.tacv2/1644581536750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Конструкції будівель та споруд, частина 2<br>Канюк В.М., 218 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6878344359?" title="https://us04web.zoom.us/j/6878344359?">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Пожежна профілактика в будівництві<br>Вашкевич Р.В., 218 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84718464413?pwd=TWdYdGIvSmFvdnpWMGR5K01NM0lYQT09" title="https://us02web.zoom.us/j/84718464413?pwd=TWdYdGIvSmFvdnpWMGR5K01NM0lYQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Методи досліджень вогнестійкості будівельних конструкцій<br>Пелех А.Б., 109 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2077152328?pwd=Xt2_EiVa4jeJrpNTEjYdC_yrchyQyM.1" title="https://us04web.zoom.us/j/2077152328?pwd=Xt2_EiVa4jeJrpNTEjYdC_yrchyQyM.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пожежна профілактика в будівництві<br>Вашкевич Р.В., 218 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85378758722?pwd=YU5jbEpYTEFCZzNIS0phTzVmdGRrdz09" title="https://us02web.zoom.us/j/85378758722?pwd=YU5jbEpYTEFCZzNIS0phTzVmdGRrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пожежна профілактика в будівництві<br>Вашкевич Р.В., 218 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87014734015?pwd=UHIxMjRzMVNYNHhOWWhMM2F5ZzhMQT09" title="https://us02web.zoom.us/j/87014734015?pwd=UHIxMjRzMVNYNHhOWWhMM2F5ZzhMQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія розвитку та припинення горіння<br>Олійник Л.П., 104 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a-PhGp-NsFC6ddIJbJXhQ9tnRakfJ0PXveBz2jvqsnRo1%40thread.tacv2/conversations?groupId=dff8e328-1cd2-4ac3-854e-519c5ea784ce&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a-PhGp-NsFC6ddIJbJXhQ9tnRakfJ0PXveBz2jvqsnRo1%40thread.tacv2/conversations?groupId=dff8e328-1cd2-4ac3-854e-519c5ea784ce&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія розвитку та припинення горіння<br>Олійник Л.П., 104 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arP713EOUM8zWr-KNMAhvWPUtcoCeqLeR2WB9SNYklgw1%40thread.tacv2/conversations?groupId=86d0eae2-6d40-4ad2-9454-6688439c4715&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arP713EOUM8zWr-KNMAhvWPUtcoCeqLeR2WB9SNYklgw1%40thread.tacv2/conversations?groupId=86d0eae2-6d40-4ad2-9454-6688439c4715&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія розвитку та припинення горіння<br>Олійник Л.П., Реутський В.В., 104 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aJglaS_rHSnEq5LYnCnFjHPUTi8sSvQbnmQ3swPNL7001%40thread.tacv2/conversations?groupId=52f894ff-7ad5-4ace-b880-fc9013ac5e32&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aJglaS_rHSnEq5LYnCnFjHPUTi8sSvQbnmQ3swPNL7001%40thread.tacv2/conversations?groupId=52f894ff-7ad5-4ace-b880-fc9013ac5e32&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Будівельна механіка, частина 2<br>Шиндер В.К., 112а II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aekNLwFoYfPy0v-GcZajUyvXo7HkUHMeciTCgNPBFNFM1%40thread.tacv2/1644845305919?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aekNLwFoYfPy0v-GcZajUyvXo7HkUHMeciTCgNPBFNFM1%40thread.tacv2/1644845305919?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструкції будівель та споруд, частина 2<br>Канюк В.М., 218 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6878344359?" title="https://us04web.zoom.us/j/6878344359?">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи досліджень вогнестійкості будівельних конструкцій<br>Демчина Б.Г., 218 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aDMQJ1vj02mHV9x3sgcYoBGLUnHq5Ce7fvtVBCpyL96w1%40thread.tacv2/conversations?groupId=106a1cac-4539-415c-9f35-fa4562cd7ea8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aDMQJ1vj02mHV9x3sgcYoBGLUnHq5Ce7fvtVBCpyL96w1%40thread.tacv2/conversations?groupId=106a1cac-4539-415c-9f35-fa4562cd7ea8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вогнезахист будівельних конструкцій<br>Шналь Т.М., 218 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5424495718" title="https://zoom.us/j/5424495718">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вогнезахист будівельних конструкцій<br>Данкевич І.П., 209 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78950162016?pwd=Q5nnCDcjq8j2IdgADR-WLa8Fp52zfV.1" title="https://us04web.zoom.us/j/78950162016?pwd=Q5nnCDcjq8j2IdgADR-WLa8Fp52zfV.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструкції будівель та споруд, частина 2<br>Канюк В.М., 209 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6878344359?" title="https://us04web.zoom.us/j/6878344359?">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи досліджень вогнестійкості будівельних конструкцій<br>Пелех А.Б., 109 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2077152328?pwd=Xt2_EiVa4jeJrpNTEjYdC_yrchyQyM.1" title="https://us04web.zoom.us/j/2077152328?pwd=Xt2_EiVa4jeJrpNTEjYdC_yrchyQyM.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

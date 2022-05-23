@@ -1,0 +1,208 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління проектами<br>Гайванович Н.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83194310539?pwd=ZVRFcDliQVFLQnE1OThTQ2xoMnFwZz09" title="https://us02web.zoom.us/j/83194310539?pwd=ZVRFcDliQVFLQnE1OThTQ2xoMnFwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингова політика розподілу<br>Калинець К.С., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75137497291?pwd=HaSNWRdomG3kbPfcOW7QA04BqUEyYI.1" title="https://us04web.zoom.us/j/75137497291?pwd=HaSNWRdomG3kbPfcOW7QA04BqUEyYI.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістичний менеджмент<br>Фігун Н.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91474645191?pwd=ZEhuSklnVkxhRFdadHN1V1hNRXRsdz09" title="https://zoom.us/j/91474645191?pwd=ZEhuSklnVkxhRFdadHN1V1hNRXRsdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Маркетинговий менеджмент<br>Дмитрів А.Я., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/4572251620?pwd=c3ppekJtdk1XUUt0dW9IS2VOaGp3UT09" title="https://us05web.zoom.us/j/4572251620?pwd=c3ppekJtdk1XUUt0dW9IS2VOaGp3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетинговий менеджмент<br>Дмитрів А.Я., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89986336368?pwd=NHplU3N5cXZjajZ4cWlwa3hxUnZsUT09" title="https://us05web.zoom.us/j/89986336368?pwd=NHplU3N5cXZjajZ4cWlwa3hxUnZsUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингова політика розподілу<br>Калинець К.С., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77167554125?pwd=uXLv-0qjHgN4tYT-LQa3crnMAeEOsq.1" title="https://us04web.zoom.us/j/77167554125?pwd=uXLv-0qjHgN4tYT-LQa3crnMAeEOsq.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Логістичний менеджмент<br>Фігун Н.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91474645191?pwd=ZEhuSklnVkxhRFdadHN1V1hNRXRsdz09" title="https://zoom.us/j/91474645191?pwd=ZEhuSklnVkxhRFdadHN1V1hNRXRsdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління проектами<br>Гайванович Н.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84254787667?pwd=WmFKQXJ6NnhNa2g2VWJpYUVhQ1dRUT09" title="https://us02web.zoom.us/j/84254787667?pwd=WmFKQXJ6NnhNa2g2VWJpYUVhQ1dRUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління проектами<br>Гайванович Н.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85423815637?pwd=aW0xOFFldVBDMGttK3dVT3p6TTRIZz09" title="https://us02web.zoom.us/j/85423815637?pwd=aW0xOFFldVBDMGttK3dVT3p6TTRIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

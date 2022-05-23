@@ -1,0 +1,350 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи супутникової навігації<br>Цюпак І.М., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9kYsTvq9ROgOtqItbou2Pk_NNW5aB4mMpn_ysFZ5Xrc1%40thread.tacv2/1645308477691?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9kYsTvq9ROgOtqItbou2Pk_NNW5aB4mMpn_ysFZ5Xrc1%40thread.tacv2/1645308477691?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи супутникової навігації<br>Цюпак І.М., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9kYsTvq9ROgOtqItbou2Pk_NNW5aB4mMpn_ysFZ5Xrc1%40thread.tacv2/1645308477691?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9kYsTvq9ROgOtqItbou2Pk_NNW5aB4mMpn_ysFZ5Xrc1%40thread.tacv2/1645308477691?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Морська геодезія<br>Серант О.В., 613 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Космічна геодезія<br>Савчин І.Р., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.live.com/meet/9436610434290" title="https://teams.live.com/meet/9436610434290">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Методи опрацювання ГНСС-вимірювань<br>Серант О.В., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи супутникової навігації<br>Цюпак І.М., 346 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9kYsTvq9ROgOtqItbou2Pk_NNW5aB4mMpn_ysFZ5Xrc1%40thread.tacv2/1645308477691?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9kYsTvq9ROgOtqItbou2Pk_NNW5aB4mMpn_ysFZ5Xrc1%40thread.tacv2/1645308477691?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Космічна геодезія<br>Савчин І.Р., 617 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.live.com/meet/9492510999019" title="https://teams.live.com/meet/9492510999019">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація та управління робіт в галузі природознавства<br>Янків-Вітковська Л.М., 346 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tic-qtnq-cfz?hs=122&amp;authuser=0" title="https://meet.google.com/tic-qtnq-cfz?hs=122&amp;authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація та управління робіт в галузі природознавства<br>Янків-Вітковська Л.М., 346 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tic-qtnq-cfz?hs=122&amp;authuser=0" title="https://meet.google.com/tic-qtnq-cfz?hs=122&amp;authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи опрацювання ГНСС-вимірювань<br>Серант О.В., 617 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Космічна геодезія<br>Савчин І.Р., 617 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.live.com/meet/9472132008512" title="https://teams.live.com/meet/9472132008512">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи опрацювання ГНСС-вимірювань<br>Серант О.В., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи наукових досліджень<br>Янків-Вітковська Л.М., 346 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWYxODk3ZGEtMzQyZS00ZDQyLWFmZTAtNWE1NmZiZDU3YWJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d23f11c6-e633-441b-a4d3-4c4ae1394b26%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWYxODk3ZGEtMzQyZS00ZDQyLWFmZTAtNWE1NmZiZDU3YWJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d23f11c6-e633-441b-a4d3-4c4ae1394b26%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи наукових досліджень<br>Янків-Вітковська Л.М., 346 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWFiYzI3OWUtZGFlZC00ZGNhLWExNDMtZDMyMWRhNzQ0Y2Yw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d23f11c6-e633-441b-a4d3-4c4ae1394b26%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWFiYzI3OWUtZGFlZC00ZGNhLWExNDMtZDMyMWRhNzQ0Y2Yw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d23f11c6-e633-441b-a4d3-4c4ae1394b26%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Морська геодезія<br>Двуліт П.Д., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bzv-fuug-gvq" title="https://meet.google.com/bzv-fuug-gvq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

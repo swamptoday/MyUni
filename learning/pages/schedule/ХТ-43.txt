@@ -1,0 +1,272 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Стасюк І.Д., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09" title="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Стасюк І.Д., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09" title="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів<br>Семеген Р.І., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теплові процеси і агрегати в силікатних технологіях<br>Вахула Я.І., Семеген Р.І., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09" title="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Теплові процеси і агрегати в силікатних технологіях<br>Якимечко Я.Б., 005 IX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Теплові процеси і агрегати в силікатних технологіях<br>Семеген Р.І., 012 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Теплові процеси і агрегати в силікатних технологіях<br>Семеген Р.І., 012 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Теплові процеси і агрегати в силікатних технологіях<br>Якимечко Я.Б., 005 IX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теплові процеси і агрегати в силікатних технологіях<br>Вахула Я.І., Семеген Р.І., 012 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09" title="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теплові процеси і агрегати в силікатних технологіях<br>Вахула Я.І., Семеген Р.І., 012 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09" title="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Щеглюк М.Р., 318 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92787595310?pwd=dlFVOWZtUmNNdHNCU0lvL0JBbldKZz09  " title="https://zoom.us/j/92787595310?pwd=dlFVOWZtUmNNdHNCU0lvL0JBbldKZz09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів<br>Семеген Р.І., 012 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09" title="https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

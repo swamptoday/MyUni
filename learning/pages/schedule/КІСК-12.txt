@@ -1,0 +1,354 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Комп`ютерні системи штучного інтелекту<br>Лучечко А.П., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09" title="https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Комп`ютерні системи штучного інтелекту<br>Лучечко А.П., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09" title="https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Дослідження і проектування спеціалізованих комп`ютерних систем<br>Клим Г.І., 904б V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Дослідження і проектування спеціалізованих комп`ютерних систем<br>Клим Г.І., 904б V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерні системи штучного інтелекту<br>Лучечко А.П., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09" title="https://us04web.zoom.us/j/5454758812?pwd=MTRYMWdLM1grUkk1QnlGL1JnK3dTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження і проектування програмних систем<br>Клим Г.І., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління проектами<br>Ільчук П.Г., 4 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83192563037?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09  Meeting ID: 831 9256 3037 Passcode: 1" title="https://us02web.zoom.us/j/83192563037?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09  Meeting ID: 831 9256 3037 Passcode: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження і проектування вбудованих комп`ютерних систем<br>Кочан Р.В., 906 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a21588c67ce1b4aa396b37281a965796d%40thread.tacv2/1644961756801?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a21588c67ce1b4aa396b37281a965796d%40thread.tacv2/1644961756801?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження і проектування спеціалізованих комп`ютерних систем<br>Клим Г.І., 906 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Дослідження і проектування спеціалізованих комп`ютерних систем<br>Клим Г.І., 906 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Дослідження і проектування програмних систем<br>Клим Г.І., 906 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Дослідження і проектування вбудованих комп`ютерних систем<br>Трембач Б.Р., 904а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95680998455?pwd%3Dakp1ekk4Z1U5TmdmUy80NVVrZzJQUT09&amp;sa=D&amp;source=calendar&amp;ust=1649764462960235&amp;usg=AOvVaw2GDAvzmLAkrvLTAU5HLwud" title="https://zoom.us/j/95680998455?pwd%3Dakp1ekk4Z1U5TmdmUy80NVVrZzJQUT09&amp;sa=D&amp;source=calendar&amp;ust=1649764462960235&amp;usg=AOvVaw2GDAvzmLAkrvLTAU5HLwud">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Дослідження і проектування вбудованих комп`ютерних систем<br>Трембач Б.Р., 904а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95680998455?pwd%3Dakp1ekk4Z1U5TmdmUy80NVVrZzJQUT09&amp;sa=D&amp;source=calendar&amp;ust=1649764462960235&amp;usg=AOvVaw2GDAvzmLAkrvLTAU5HLwud" title="https://zoom.us/j/95680998455?pwd%3Dakp1ekk4Z1U5TmdmUy80NVVrZzJQUT09&amp;sa=D&amp;source=calendar&amp;ust=1649764462960235&amp;usg=AOvVaw2GDAvzmLAkrvLTAU5HLwud">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Дослідження і проектування програмних систем<br>Шпіцер А.С., 907 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/urs-yrgp-wgk" title="https://meet.google.com/urs-yrgp-wgk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Дослідження і проектування програмних систем<br>Шпіцер А.С., 907 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/urs-yrgp-wgk" title="https://meet.google.com/urs-yrgp-wgk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Управління проектами<br>Ільчук П.Г., 5 V н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Управління проектами<br>Ільчук П.Г., 5 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83192563037?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09  Meeting ID: 831 9256 3037 Passcode: 1" title="https://us02web.zoom.us/j/83192563037?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09  Meeting ID: 831 9256 3037 Passcode: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

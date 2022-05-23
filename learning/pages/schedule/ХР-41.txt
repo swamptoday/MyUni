@@ -1,0 +1,259 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Компонування обладнання<br>Лудин А.М., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aZJedrgfsiK2nQo3eV1UAHCXmP00i_KpfMNSRoOCVcCA1%40thread.tacv2/1644591872090?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aZJedrgfsiK2nQo3eV1UAHCXmP00i_KpfMNSRoOCVcCA1%40thread.tacv2/1644591872090?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Компонування обладнання<br>Лудин А.М., 339 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aZJedrgfsiK2nQo3eV1UAHCXmP00i_KpfMNSRoOCVcCA1%40thread.tacv2/1644594307549?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aZJedrgfsiK2nQo3eV1UAHCXmP00i_KpfMNSRoOCVcCA1%40thread.tacv2/1644594307549?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування підприємств галузі<br>Мельник Ю.Р., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09" title="https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів<br>Фединець В.О., 138 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99923522822?pwd=SXBXNE1QTXZnNDhCSWpzdHFLMEpnQT09" title="https://zoom.us/j/99923522822?pwd=SXBXNE1QTXZnNDhCSWpzdHFLMEpnQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів<br>Фединець В.О., 138 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99923522822?pwd=SXBXNE1QTXZnNDhCSWpzdHFLMEpnQT09" title="https://zoom.us/j/99923522822?pwd=SXBXNE1QTXZnNDhCSWpzdHFLMEpnQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Компонування обладнання<br>Лудин А.М., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aZJedrgfsiK2nQo3eV1UAHCXmP00i_KpfMNSRoOCVcCA1%40thread.tacv2/1644594442961?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aZJedrgfsiK2nQo3eV1UAHCXmP00i_KpfMNSRoOCVcCA1%40thread.tacv2/1644594442961?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Компонування обладнання<br>Лудин А.М., 339 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aZJedrgfsiK2nQo3eV1UAHCXmP00i_KpfMNSRoOCVcCA1%40thread.tacv2/1644594397152?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aZJedrgfsiK2nQo3eV1UAHCXmP00i_KpfMNSRoOCVcCA1%40thread.tacv2/1644594397152?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd21e4aa-d20b-45b7-ad85-517b0dcefde9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Автоматизація виробничих процесів<br>Фединець В.О., 404 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97486806652?pwd=T2hTYXZtNlExTGliZmxsOWRnaGpHZz09" title="https://zoom.us/j/97486806652?pwd=T2hTYXZtNlExTGliZmxsOWRnaGpHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування підприємств галузі<br>Мельник Ю.Р., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09" title="https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування підприємств галузі<br>Мельник Ю.Р., 339 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09" title="https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування підприємств галузі<br>Мельник Ю.Р., 339 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09" title="https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

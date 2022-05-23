@@ -1,0 +1,282 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія вина<br>Дзіняк Б.О., 325 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8481447582?pwd=OU11TkdMWnFrTVVBVW9FS0pQTEd0QT09" title="https://zoom.us/j/8481447582?pwd=OU11TkdMWnFrTVVBVW9FS0pQTEd0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія спирту та лікеро-горілчаних напоїв<br>Мельник С.Р., Хлібишин Ю.Я., 325 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93663018135?pwd=UVk2dFNMWWY1RVlDcjBSYmVEZVp0QT09" title="https://zoom.us/j/93663018135?pwd=UVk2dFNMWWY1RVlDcjBSYmVEZVp0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія спирту та лікеро-горілчаних напоїв<br>Хлібишин Ю.Я., Мельник С.Р., 325 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09" title="https://us02web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96382797123?pwd=NENlYVJObGhiUWlISjJoOVVjbnFNZz09" title="https://zoom.us/j/96382797123?pwd=NENlYVJObGhiUWlISjJoOVVjbnFNZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія спирту та лікеро-горілчаних напоїв<br>Хлібишин Ю.Я., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09" title="https://zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія спирту та лікеро-горілчаних напоїв<br>Хлібишин Ю.Я., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09" title="https://zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія хлібопекарських дріжджів<br>Березовська Н.І., 323 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09" title="https://us02web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія вина<br>Кічура Д.Б., 117 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09" title="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія хлібопекарських дріжджів<br>Березовська Н.І., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09" title="https://us02web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія вина<br>Кічура Д.Б., 117 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09" title="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія хлібопекарських дріжджів<br>Березовська Н.І., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09" title="https://us02web.zoom.us/j/5789491218?pwd=NUNUM2p3QWJrQVJPRGdjTW9LajN0UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мікробіологія продуктів бродіння і  виноробства<br>Паляниця Л.Я., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мікробіологія продуктів бродіння і  виноробства<br>Паляниця Л.Я., 322 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мікробіологія продуктів бродіння і  виноробства<br>Паляниця Л.Я., 322 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

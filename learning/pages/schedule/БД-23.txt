@@ -1,0 +1,358 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія будівельного виробництва<br>Брайченко С.П., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09" title="https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Транспорт і шляхи сполучення<br>Новицький Ю.Л., 308 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3agDqtUxbFbxbyV6M5PDJaNOLTojTa4-PutXE_j3MIwCA1%40thread.tacv2/1643919968711?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22458b67e9-24b8-4d5b-8495-88a271e19ab3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3agDqtUxbFbxbyV6M5PDJaNOLTojTa4-PutXE_j3MIwCA1%40thread.tacv2/1643919968711?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22458b67e9-24b8-4d5b-8495-88a271e19ab3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Будівельне матеріалознавство<br>Позняк О.Р., Саницький М.А., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6861751540?pwd=eFpHU2YwRkZ4VXRCMnovUGZVZzBQZz09  Meeting ID: 686 175 1540 Passcode: cF5njY" title="https://us02web.zoom.us/j/6861751540?pwd=eFpHU2YwRkZ4VXRCMnovUGZVZzBQZz09  Meeting ID: 686 175 1540 Passcode: cF5njY">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія будівельного виробництва<br>Брайченко С.П., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09" title="https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Будівельна механіка<br>Давидчак О.Р., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afGJEUMocVSsmgj5ompEE-UjTHs2ZjK0EJ5wgDlNXyl01%40thread.tacv2/1644928917334?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228b13346d-e645-4252-8993-e2df85c44ca9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afGJEUMocVSsmgj5ompEE-UjTHs2ZjK0EJ5wgDlNXyl01%40thread.tacv2/1644928917334?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228b13346d-e645-4252-8993-e2df85c44ca9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівельне матеріалознавство<br>Позняк О.Р., Саницький М.А., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6861751540?pwd=eFpHU2YwRkZ4VXRCMnovUGZVZzBQZz09  Meeting ID: 686 175 1540 Passcode: cF5njY" title="https://us02web.zoom.us/j/6861751540?pwd=eFpHU2YwRkZ4VXRCMnovUGZVZzBQZz09  Meeting ID: 686 175 1540 Passcode: cF5njY">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Водопостачання і водовідведення<br>Матлай І.І., 212 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09" title="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Будівельне матеріалознавство<br>Позняк О.Р., 416 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6861751540?pwd=eFpHU2YwRkZ4VXRCMnovUGZVZzBQZz09  Meeting ID: 686 175 1540 Passcode: cF5njY" title="https://us02web.zoom.us/j/6861751540?pwd=eFpHU2YwRkZ4VXRCMnovUGZVZzBQZz09  Meeting ID: 686 175 1540 Passcode: cF5njY">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Водопостачання і водовідведення<br>Матлай І.І., Орел В.І., 106 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09" title="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09" title="https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія будівельного виробництва<br>Кіракевич І.І., 417 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3406477454?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09" title="https://us04web.zoom.us/j/3406477454?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Осінчук В.В., Цьовх Л.П., Блавт О.З., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3800697890?pwd=Q0krbXpycDd5SWRZZGx3MnhMeEpDZz09" title="https://us05web.zoom.us/j/3800697890?pwd=Q0krbXpycDd5SWRZZGx3MnhMeEpDZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівельне матеріалознавство<br>Русин Б.Г., Сидор Н.І., 319 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5956524027?pwd=QUZiaW42eVd4YnR2VnZrK1pDM2lrUT09  Meeting ID: 595 652 4027 Passcode: Qd6aB9" title="https://us04web.zoom.us/j/5956524027?pwd=QUZiaW42eVd4YnR2VnZrK1pDM2lrUT09  Meeting ID: 595 652 4027 Passcode: Qd6aB9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівельна механіка<br>Іваницький Я.Л., 227 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8169291356?pwd=cG1rRUFuSjgrZ04rbTJWZmlqdURXZz09" title="https://us02web.zoom.us/j/8169291356?pwd=cG1rRUFuSjgrZ04rbTJWZmlqdURXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водопостачання і водовідведення<br>Мисак І.В., 227 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99716489501?pwd=djRoZ01YaVhDcEp2bFVvRmRad2lFQT09" title="https://zoom.us/j/99716489501?pwd=djRoZ01YaVhDcEp2bFVvRmRad2lFQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Транспорт і шляхи сполучення<br>Гуняк О.М., 310 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDUxNTlkOGYtYTEwZC00MjY0LTlhMjItNTE3ZjE5ZjJkODNl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220202e7ca-c97d-414c-8cbe-918d0f786367%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDUxNTlkOGYtYTEwZC00MjY0LTlhMjItNTE3ZjE5ZjJkODNl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220202e7ca-c97d-414c-8cbe-918d0f786367%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Будівельна механіка<br>Давидчак О.Р., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afGJEUMocVSsmgj5ompEE-UjTHs2ZjK0EJ5wgDlNXyl01%40thread.tacv2/1644928762091?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228b13346d-e645-4252-8993-e2df85c44ca9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afGJEUMocVSsmgj5ompEE-UjTHs2ZjK0EJ5wgDlNXyl01%40thread.tacv2/1644928762091?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228b13346d-e645-4252-8993-e2df85c44ca9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,343 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Екологічна безпека<br>Руда М.В., 230 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87601771206?pwd=TkoyNEs4WEdWa3lnNmtveVpLRzQzQT09" title="https://us02web.zoom.us/j/87601771206?pwd=TkoyNEs4WEdWa3lnNmtveVpLRzQzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Екологічна безпека<br>Руда М.В., 230 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87601771206?pwd=TkoyNEs4WEdWa3lnNmtveVpLRzQzQT09" title="https://us02web.zoom.us/j/87601771206?pwd=TkoyNEs4WEdWa3lnNmtveVpLRzQzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Екологічна безпека<br>Гивлюд А.М., 230 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87170573496" title="https://us02web.zoom.us/j/87170573496">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Природоохоронне законодавство та екологічне право<br>Тарнавська М.І., 230 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09" title="https://zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Природоохоронне законодавство та екологічне право<br>Марич Х.М., 230 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71629252503?pwd=anArL6l7u92jEKIbp7l3RaRDTmqUgI.1  Meeting ID: 716 2925 2503 Passcode: YmtVu0" title="https://us04web.zoom.us/j/71629252503?pwd=anArL6l7u92jEKIbp7l3RaRDTmqUgI.1  Meeting ID: 716 2925 2503 Passcode: YmtVu0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Економіка природокористування<br>Ягольник С.Г., 230 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8850778896?pwd=R2ZyODJQd01NU2ZDQWtxeVl2clYwUT09" title="https://us02web.zoom.us/j/8850778896?pwd=R2ZyODJQd01NU2ZDQWtxeVl2clYwUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ландшафтна екологія<br>Чайка О.Г., 230 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9250640637?pwd=a2hxRVVUbk4vbFJkRmg2ak0wLzVEZz09" title="https://zoom.us/j/9250640637?pwd=a2hxRVVUbk4vbFJkRmg2ak0wLzVEZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ландшафтна екологія<br>Чайка О.Г., 230 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9250640637?pwd=a2hxRVVUbk4vbFJkRmg2ak0wLzVEZz09" title="https://zoom.us/j/9250640637?pwd=a2hxRVVUbk4vbFJkRmg2ak0wLzVEZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нормування антропогенного навантаження на навколишнє середовище<br>Шибанова А.М., 230 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95380366686?pwd=dE0xL3hmOFRvM215WkhBTnF5cytXUT09" title="https://zoom.us/j/95380366686?pwd=dE0xL3hmOFRvM215WkhBTnF5cytXUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нормування антропогенного навантаження на навколишнє середовище<br>Шибанова А.М., 230 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96903915091?pwd=clEzYkNCaUpLSkc2eXI4T1BjTU9GUT09" title="https://zoom.us/j/96903915091?pwd=clEzYkNCaUpLSkc2eXI4T1BjTU9GUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ландшафтна екологія<br>Чайка О.Г., 230 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9250640637?pwd=a2hxRVVUbk4vbFJkRmg2ak0wLzVEZz09" title="https://zoom.us/j/9250640637?pwd=a2hxRVVUbk4vbFJkRmg2ak0wLzVEZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економіка природокористування<br>Русин-Гриник Р.Р., 230 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82015327699?pwd=M0tyajc4VkdpY2NvUk1iTzFSUmdrUT09  Идентификатор конференции: 820 1532 7699 Код доступа: 33333" title="https://us02web.zoom.us/j/82015327699?pwd=M0tyajc4VkdpY2NvUk1iTzFSUmdrUT09  Идентификатор конференции: 820 1532 7699 Код доступа: 33333">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нормування антропогенного навантаження на навколишнє середовище<br>Шибанова А.М., 231 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92510547270?pwd=bW1UQWdkbkI0dkdjVmVBd1BWMlRzdz09" title="https://zoom.us/j/92510547270?pwd=bW1UQWdkbkI0dkdjVmVBd1BWMlRzdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Рожко О.І., корп. 21 , вул. Самчука 11<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94262609295?pwd=TWthcTVoQ1p5a1lhd0wxUGVxeUZqQT09" title="https://zoom.us/j/94262609295?pwd=TWthcTVoQ1p5a1lhd0wxUGVxeUZqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Світлик В.В., корп. 21 , вул. Самчука 11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/82644603929?pwd=VENRVXl0UVhVVytjUzZYc0pmRjlFQT09  Идентификатор конференции: 826 4460 3929 Код доступа: 1234" title="https://us05web.zoom.us/j/82644603929?pwd=VENRVXl0UVhVVytjUzZYc0pmRjlFQT09  Идентификатор конференции: 826 4460 3929 Код доступа: 1234">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

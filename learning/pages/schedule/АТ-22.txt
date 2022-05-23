@@ -1,0 +1,420 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Матеріалознавство та технологія конструкційних матеріалів<br>Кушпір В.І., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWVmODcxNmYtOTg5Yy00MTdlLWJlN2ItZDFmOTRiOGU3NmFm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219422029-c83f-44d0-bc21-e9e4249c1136%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWVmODcxNmYtOTg5Yy00MTdlLWJlN2ItZDFmOTRiOGU3NmFm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219422029-c83f-44d0-bc21-e9e4249c1136%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Матеріалознавство та технологія конструкційних матеріалів<br>Кушпір В.І., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGMxNGQ4YmYtN2NmMi00MmEyLWI0ZmQtYWEzMGRkZDQzOGI3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219422029-c83f-44d0-bc21-e9e4249c1136%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGMxNGQ4YmYtN2NmMi00MmEyLWI0ZmQtYWEzMGRkZDQzOGI3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219422029-c83f-44d0-bc21-e9e4249c1136%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Взаємозамінність, стандартизація і технічні вимірювання<br>Сліпчук А.М., 111 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a-r4YnZatxhCgPPho0dy-lShGr2n6ecr1IioZEhxdjQc1%40thread.tacv2/conversations?groupId=c359c1d1-861c-4c7f-b9f7-9b69540ea6fe&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a-r4YnZatxhCgPPho0dy-lShGr2n6ecr1IioZEhxdjQc1%40thread.tacv2/conversations?groupId=c359c1d1-861c-4c7f-b9f7-9b69540ea6fe&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автомобілі, частина 1<br>Пороховський Ю.В., 111 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09" title="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електротехніка, електроніка, мікропроцесорна техніка<br>Гамола О.Є., 115 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a5zC3quO3sI439ctE6iB7RhZxtt0MzdOdFOi98588RqM1%40thread.tacv2/conversations?groupId=5302e9e4-c446-40a2-b7da-2b05b361e6cc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a5zC3quO3sI439ctE6iB7RhZxtt0MzdOdFOi98588RqM1%40thread.tacv2/conversations?groupId=5302e9e4-c446-40a2-b7da-2b05b361e6cc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Теорія машин і механізмів<br>Сологуб Б.В., 302 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09" title="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Теорія машин і механізмів<br>Данило Я.Я., 302 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09" title="https://us04web.zoom.us/j/2571958140?pwd=bEhLcCs2anpkaVNzd0FhNmNFT09jQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електротехніка, електроніка, мікропроцесорна техніка<br>Гамола О.Є., 7 XVI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a5zC3quO3sI439ctE6iB7RhZxtt0MzdOdFOi98588RqM1%40thread.tacv2/conversations?groupId=5302e9e4-c446-40a2-b7da-2b05b361e6cc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a5zC3quO3sI439ctE6iB7RhZxtt0MzdOdFOi98588RqM1%40thread.tacv2/conversations?groupId=5302e9e4-c446-40a2-b7da-2b05b361e6cc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Взаємозамінність, стандартизація і технічні вимірювання<br>Кусий Я.М., 50 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83116692235?pwd=S1dtbFQzSlF3Wk0xZ1Fmbmh1enNWdz09" title="https://us02web.zoom.us/j/83116692235?pwd=S1dtbFQzSlF3Wk0xZ1Fmbmh1enNWdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Взаємозамінність, стандартизація і технічні вимірювання<br>Сліпчук А.М., 50 XIV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aKhv3j-mHdWVaROOVwp-w2sWkIFYopq5Vwp49IQQwzQ81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6dc5f389-4931-4782-913b-a85e7a001a95&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aKhv3j-mHdWVaROOVwp-w2sWkIFYopq5Vwp49IQQwzQ81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6dc5f389-4931-4782-913b-a85e7a001a95&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електротехніка, електроніка, мікропроцесорна техніка<br>Гамола О.Є., 114 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ap1T_MykRoel4Y5bDoay0W3j9KlHs1AjtfcPmBEO97hU1%40thread.tacv2/conversations?groupId=8c700e1a-a0ac-4a20-91da-35d13a07fe02&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ap1T_MykRoel4Y5bDoay0W3j9KlHs1AjtfcPmBEO97hU1%40thread.tacv2/conversations?groupId=8c700e1a-a0ac-4a20-91da-35d13a07fe02&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія машин і механізмів<br>Сологуб Б.В., 111 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09" title="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Автомобілі, частина 1<br>Пороховський Ю.В., 114 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09" title="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Матеріалознавство та технологія конструкційних матеріалів<br>Кушпір В.І., 014 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjEwY2ViMjMtOGJiMS00ZThhLWE2YzMtZDY2NmUzYjg5MjY3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219422029-c83f-44d0-bc21-e9e4249c1136%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjEwY2ViMjMtOGJiMS00ZThhLWE2YzMtZDY2NmUzYjg5MjY3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219422029-c83f-44d0-bc21-e9e4249c1136%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Матеріалознавство та технологія конструкційних матеріалів<br>Лемішка І.А., 014 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjEwY2ViMjMtOGJiMS00ZThhLWE2YzMtZDY2NmUzYjg5MjY3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219422029-c83f-44d0-bc21-e9e4249c1136%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjEwY2ViMjMtOGJiMS00ZThhLWE2YzMtZDY2NmUzYjg5MjY3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219422029-c83f-44d0-bc21-e9e4249c1136%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Взаємозамінність, стандартизація і технічні вимірювання<br>Сліпчук А.М., 50 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aGc8SHCmrcNP9EpCBsZ6m_haqvoPmnvens7VzQ-ZtJBU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=46802794-24cd-464b-8918-8227eb94286f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aGc8SHCmrcNP9EpCBsZ6m_haqvoPmnvens7VzQ-ZtJBU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=46802794-24cd-464b-8918-8227eb94286f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія машин і механізмів<br>Сологуб Б.В., 303 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09" title="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Автомобілі, частина 1<br>Осмак О.А., 114 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09" title="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Андрес А.С., Павлось Р.М., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86799528320" title="https://us02web.zoom.us/j/86799528320">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8926647299?pwd=RV9rKpnVcIcvArYns6v1gsbp7NvFl2.1" title="https://us04web.zoom.us/j/8926647299?pwd=RV9rKpnVcIcvArYns6v1gsbp7NvFl2.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Автомобілі, частина 1<br>Осмак О.А., 114 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09" title="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,330 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів і мікропроцесорна техніка<br>Ділай І.В., 8 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94754227014?pwd=MjFzSlhiSzY4a2wwYnFvbHE4RFBrZz09" title="https://zoom.us/j/94754227014?pwd=MjFzSlhiSzY4a2wwYnFvbHE4RFBrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів і мікропроцесорна техніка<br>Ділай І.В., 8 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91300928229?pwd=Q1Rtczd5YzFtZHBkRm5iZElDODNCQT09" title="https://zoom.us/j/91300928229?pwd=Q1Rtczd5YzFtZHBkRm5iZElDODNCQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій<br>Ковбасюк Т.М., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644683679443?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644683679443?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій<br>Ковбасюк Т.М., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644683679443?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644683679443?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Автоматизація виробничих процесів і мікропроцесорна техніка<br>Ділай І.В., 78 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92011390574?pwd=eEw0M2gvaEdYcVhucFlyTzhzd3A0UT09" title="https://zoom.us/j/92011390574?pwd=eEw0M2gvaEdYcVhucFlyTzhzd3A0UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів і мікропроцесорна техніка<br>Васильківський І.С., 318 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94795371341?pwd=dzRaZERKaDZ5eGpSeTJJc01reXdZQT09" title="https://zoom.us/j/94795371341?pwd=dzRaZERKaDZ5eGpSeTJJc01reXdZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація виробничих процесів і мікропроцесорна техніка<br>Васильківський І.С., 318 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96819364001?pwd=UmtLcmpwYTA0K1dWZWo5OEZHckdPUT09" title="https://zoom.us/j/96819364001?pwd=UmtLcmpwYTA0K1dWZWo5OEZHckdPUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій<br>Ковбасюк Т.М., 015а VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644685226260?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644685226260?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій<br>Ковбасюк Т.М., 015а VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644685518395?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644685518395?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій<br>Ковбасюк Т.М., 015а VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644685518395?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644685518395?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій<br>Ковбасюк Т.М., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644685051157?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aQcf8siwaaTs9w-6eEtUSDdtiK6j2tdylL1bGjnzHtbo1%40thread.tacv2/1644685051157?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи наукових досліджень<br>Тростянчин А.М., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmJkYjMyMTMtZGUwOS00NTIzLThhZTQtNzlmOWNiMWM3OWIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmJkYjMyMTMtZGUwOS00NTIzLThhZTQtNzlmOWNiMWM3OWIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи наукових досліджень<br>Тростянчин А.М., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTAyNjU0ZTYtMGM2OS00NGY3LWE1YTYtN2FjYmEwZDRjYzI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTAyNjU0ZTYtMGM2OS00NGY3LWE1YTYtN2FjYmEwZDRjYzI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи наукових досліджень<br>Тростянчин А.М., 29 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWY3OTFkMTEtMTgwMi00YTY1LWFkNTktMDYyYTI3N2EzOTA0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWY3OTFkMTEtMTgwMi00YTY1LWFkNTktMDYyYTI3N2EzOTA0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

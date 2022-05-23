@@ -1,0 +1,405 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., 312 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84143593274?pwd=Vit5cTJKclRiVWVIRVlGeUk1RnFzUT09" title="https://us05web.zoom.us/j/84143593274?pwd=Vit5cTJKclRiVWVIRVlGeUk1RnFzUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., 312 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84143593274?pwd=Vit5cTJKclRiVWVIRVlGeUk1RnFzUT09" title="https://us05web.zoom.us/j/84143593274?pwd=Vit5cTJKclRiVWVIRVlGeUk1RnFzUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геологія з основами геоморфології<br>Захарко Я.М., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adiREsFRiDJq44g97YmH_Lj9sI3uX3iyMMt7qyNvaCA01%40thread.tacv2/1643750567099?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adiREsFRiDJq44g97YmH_Lj9sI3uX3iyMMt7qyNvaCA01%40thread.tacv2/1643750567099?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геологія з основами геоморфології<br>Захарко Я.М., 115 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adiREsFRiDJq44g97YmH_Lj9sI3uX3iyMMt7qyNvaCA01%40thread.tacv2/1643750963426?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adiREsFRiDJq44g97YmH_Lj9sI3uX3iyMMt7qyNvaCA01%40thread.tacv2/1643750963426?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Хвойницька-Перейма Х.М., 231 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/85934259463?pwd=cGQ3Wkc5bm5PN1J1dDRGeGVxTHhCZz09" title="https://us05web.zoom.us/j/85934259463?pwd=cGQ3Wkc5bm5PN1J1dDRGeGVxTHhCZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Екологія людини<br>Дячок В.В., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTM5MDVhN2EtMTU4Yy00MDAyLWEwYzMtMGNjMzc1MjlhNWFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTM5MDVhN2EtMTU4Yy00MDAyLWEwYzMtMGNjMzc1MjlhNWFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Грунтознавство та екологія ландшафтів<br>Захарко Я.М., Сабадаш В.В., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aFo8FPgE3fpT-JlOAI4oL7kDGURsn-1VFaU6HJuEFyx41%40thread.tacv2/1643751861904?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aFo8FPgE3fpT-JlOAI4oL7kDGURsn-1VFaU6HJuEFyx41%40thread.tacv2/1643751861904?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmE2MjBlZmEtN2I0NC00ZjA5LTg5YTUtYjUxMzEyZGJjZWVm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmE2MjBlZmEtN2I0NC00ZjA5LTg5YTUtYjUxMzEyZGJjZWVm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Геологія з основами геоморфології<br>Захарко Я.М., 115 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adiREsFRiDJq44g97YmH_Lj9sI3uX3iyMMt7qyNvaCA01%40thread.tacv2/1643751553133?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adiREsFRiDJq44g97YmH_Lj9sI3uX3iyMMt7qyNvaCA01%40thread.tacv2/1643751553133?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Грунтознавство та екологія ландшафтів<br>Захарко Я.М., Петрушка К.І., 115 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aFo8FPgE3fpT-JlOAI4oL7kDGURsn-1VFaU6HJuEFyx41%40thread.tacv2/1643751996176?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aFo8FPgE3fpT-JlOAI4oL7kDGURsn-1VFaU6HJuEFyx41%40thread.tacv2/1643751996176?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88674417869?pwd=Vjl2YXNwRHBjb0t2UE9WZyswSVlJUT09" title="https://us02web.zoom.us/j/88674417869?pwd=Vjl2YXNwRHBjb0t2UE9WZyswSVlJUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Грунтознавство та екологія ландшафтів<br>Захарко Я.М., Петрушка К.І., 115 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aFo8FPgE3fpT-JlOAI4oL7kDGURsn-1VFaU6HJuEFyx41%40thread.tacv2/1643752112117?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aFo8FPgE3fpT-JlOAI4oL7kDGURsn-1VFaU6HJuEFyx41%40thread.tacv2/1643752112117?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Грунтознавство та екологія ландшафтів<br>Захарко Я.М., Сабадаш В.В., 113 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac_OriNsKIAisTvO9e6zpDY4GT4WPaq-y8y90o7Cj4SE1%40thread.tacv2/1644581757547?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac_OriNsKIAisTvO9e6zpDY4GT4WPaq-y8y90o7Cj4SE1%40thread.tacv2/1644581757547?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aFo8FPgE3fpT-JlOAI4oL7kDGURsn-1VFaU6HJuEFyx41%40thread.tacv2/1643752189169?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aFo8FPgE3fpT-JlOAI4oL7kDGURsn-1VFaU6HJuEFyx41%40thread.tacv2/1643752189169?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b5540427-6258-4835-a9c1-0968d324bc88%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Екологія людини<br>Сабадаш В.В., 113 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac_OriNsKIAisTvO9e6zpDY4GT4WPaq-y8y90o7Cj4SE1%40thread.tacv2/1644580448352?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac_OriNsKIAisTvO9e6zpDY4GT4WPaq-y8y90o7Cj4SE1%40thread.tacv2/1644580448352?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce391eff-8803-4661-986e-ba565544c673%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Екологія людини<br>Голодовська О.Я., 012 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94263061363?pwd=dTQzN3hjVFp6bEdWaml2Q2NBNzZZQT09" title="https://zoom.us/j/94263061363?pwd=dTQzN3hjVFp6bEdWaml2Q2NBNzZZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Агроекологія<br>Венгер Л.О., 8 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94017815226?pwd=NkdUcTFIV2JnQTBPREJkNkVjQm5Idz09" title="https://zoom.us/j/94017815226?pwd=NkdUcTFIV2JnQTBPREJkNkVjQm5Idz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Агроекологія<br>Венгер Л.О., 113 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94017815226?pwd=NkdUcTFIV2JnQTBPREJkNkVjQm5Idz09" title="https://zoom.us/j/94017815226?pwd=NkdUcTFIV2JnQTBPREJkNkVjQm5Idz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Екологія людини<br>Голодовська О.Я., 012 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94263061363?pwd=dTQzN3hjVFp6bEdWaml2Q2NBNzZZQT09" title="https://zoom.us/j/94263061363?pwd=dTQzN3hjVFp6bEdWaml2Q2NBNzZZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Агроекологія<br>Венгер Л.О., 8 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94017815226?pwd=NkdUcTFIV2JnQTBPREJkNkVjQm5Idz09" title="https://zoom.us/j/94017815226?pwd=NkdUcTFIV2JnQTBPREJkNkVjQm5Idz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Світлик В.В., корп. 21 , вул. Самчука 11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/82644603929?pwd=VENRVXl0UVhVVytjUzZYc0pmRjlFQT09  Идентификатор конференции: 826 4460 3929 Код доступа: 1234" title="https://us05web.zoom.us/j/82644603929?pwd=VENRVXl0UVhVVytjUzZYc0pmRjlFQT09  Идентификатор конференции: 826 4460 3929 Код доступа: 1234">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Рожко О.І., корп. 21 , вул. Самчука 11<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94262609295?pwd=TWthcTVoQ1p5a1lhd0wxUGVxeUZqQT09" title="https://zoom.us/j/94262609295?pwd=TWthcTVoQ1p5a1lhd0wxUGVxeUZqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

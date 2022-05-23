@@ -1,0 +1,316 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Гідропневмопривод та гідропневмоавтоматика<br>Гаврильченко О.В., 56 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzU2MDhiYmMtYWVkOC00NmU1LWEzNmQtN2M0ZTYyYjI0M2Ez%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzU2MDhiYmMtYWVkOC00NmU1LWEzNmQtN2M0ZTYyYjI0M2Ez%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Гідропневмопривод та гідропневмоавтоматика<br>Гаврильченко О.В., 56 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjI2YjU3ZjktYzI3Ni00ZjhhLWIyYjgtZGJmZmIzNjIzNmY5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjI2YjU3ZjktYzI3Ni00ZjhhLWIyYjgtZGJmZmIzNjIzNmY5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи ЧПК технологічного обладнання<br>Гурей В.І., 21 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRwYqMCBnnyrYfZ5mSUQ4ZD2zNDOYZaCrkM670mwTrhM1%40thread.tacv2/1644785948474?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRwYqMCBnnyrYfZ5mSUQ4ZD2zNDOYZaCrkM670mwTrhM1%40thread.tacv2/1644785948474?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи ЧПК технологічного обладнання<br>Гурей В.І., 21 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRwYqMCBnnyrYfZ5mSUQ4ZD2zNDOYZaCrkM670mwTrhM1%40thread.tacv2/1644786324025?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRwYqMCBnnyrYfZ5mSUQ4ZD2zNDOYZaCrkM670mwTrhM1%40thread.tacv2/1644786324025?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Деталі машин, частина 2<br>Предко Р.Я., 308 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89375223230?pwd=c0VFL1VyTWN5MnVCZnBTVmUwcFlUUT09" title="https://us02web.zoom.us/j/89375223230?pwd=c0VFL1VyTWN5MnVCZnBTVmUwcFlUUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Експлуатація та обслуговування машин<br>Кусий Я.М., 12 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83262154654?pwd=UUZURTF6VTBXUmxjdWliNWVySmRjQT09" title="https://us02web.zoom.us/j/83262154654?pwd=UUZURTF6VTBXUmxjdWliNWVySmRjQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Деталі машин, частина 2<br>Малащенко В.О., 308 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6919005115?pwd=ZXRrLzF6bERpNWQ4NUs3cFJHNVlnQT09" title="https://us04web.zoom.us/j/6919005115?pwd=ZXRrLzF6bERpNWQ4NUs3cFJHNVlnQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Гідропневмопривод та гідропневмоавтоматика<br>Гаврильченко О.В., 29 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdjY2Y4NmYtZmFlZC00NDYzLThlOTMtOWNkZjFlZWExOGE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdjY2Y4NmYtZmFlZC00NDYzLThlOTMtOWNkZjFlZWExOGE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатація та обслуговування машин<br>Кусий Я.М., 12 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84853248675?pwd=TWh4MzBTWkZyUXNwdktQYzl1Ykl4QT09" title="https://us02web.zoom.us/j/84853248675?pwd=TWh4MzBTWkZyUXNwdktQYzl1Ykl4QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Експлуатація та обслуговування машин<br>Кусий Я.М., 12 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86284613167?pwd=NGxEVEFQTlJtY3VNSzJiNkEwR3ZpQT09" title="https://us02web.zoom.us/j/86284613167?pwd=NGxEVEFQTlJtY3VNSzJiNkEwR3ZpQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Деталі машин, частина 2<br>Предко Р.Я., 311 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89381175645?pwd=eXRIUXNtR08vOWUrRjZIU3BPQzR2UT09" title="https://us02web.zoom.us/j/89381175645?pwd=eXRIUXNtR08vOWUrRjZIU3BPQzR2UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні основи робототехніки<br>Корендій В.М., 21 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmY4Y2EwZDEtYjkzZi00MjJlLThiNTctYTc2MGQ1Y2ZkYzRl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260a8475-6051-4e83-8fbd-a1e7e7bfefe5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmY4Y2EwZDEtYjkzZi00MjJlLThiNTctYTc2MGQ1Y2ZkYzRl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260a8475-6051-4e83-8fbd-a1e7e7bfefe5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні основи робототехніки<br>Ступницький В.В., 21 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTNkZmEwMGEtNDI3Ny00ZGJlLTliMTktOGM1YzJhNTI5ZTIy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260a8475-6051-4e83-8fbd-a1e7e7bfefe5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTNkZmEwMGEtNDI3Ny00ZGJlLTliMTktOGM1YzJhNTI5ZTIy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22260a8475-6051-4e83-8fbd-a1e7e7bfefe5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br><br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,171 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатаційні матеріали<br>Червінський Т.І., 317 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95873789961?pwd=QlVDU1RqYWIwSW1CVWY3SnEvVWlOdz09" title="https://zoom.us/j/95873789961?pwd=QlVDU1RqYWIwSW1CVWY3SnEvVWlOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатаційні матеріали<br>Червінський Т.І., 312 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95873789961?pwd=QlVDU1RqYWIwSW1CVWY3SnEvVWlOdz09" title="https://zoom.us/j/95873789961?pwd=QlVDU1RqYWIwSW1CVWY3SnEvVWlOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструювання і розрахунок автомобілів, частина 2<br>Попович В.В., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91843360394?pwd=WWlqdWlyNXA5c0x6bDhBcFI1SzZZdz09" title="https://zoom.us/j/91843360394?pwd=WWlqdWlyNXA5c0x6bDhBcFI1SzZZdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструювання і розрахунок автомобілів, частина 2<br>Попович В.В., 218 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91699352755?pwd=bDkwb24yNFF2U0JCZ20rQXh0OURXZz09" title="https://zoom.us/j/91699352755?pwd=bDkwb24yNFF2U0JCZ20rQXh0OURXZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерний дизайн в автомобілебудуванні<br>Попович В.В., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96665169986?pwd=dVBtR0FVUElZazB5TENlMElUS3cyQT09" title="https://zoom.us/j/96665169986?pwd=dVBtR0FVUElZazB5TENlMElUS3cyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерний дизайн в автомобілебудуванні<br>Попович В.В., 218 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94872930707?pwd=SXBpY01wcElxb2c2ZEdqbG9qU2tZQT09" title="https://zoom.us/j/94872930707?pwd=SXBpY01wcElxb2c2ZEdqbG9qU2tZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерний дизайн в автомобілебудуванні<br>Попович В.В., 218 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99121366529?pwd=Q2t0eWM5VWd0SUpxTjBHc3lFRDlMdz09" title="https://zoom.us/j/99121366529?pwd=Q2t0eWM5VWd0SUpxTjBHc3lFRDlMdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

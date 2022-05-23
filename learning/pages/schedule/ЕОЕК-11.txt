@@ -1,0 +1,193 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз антропогенних факторів кліматичних змін<br>Тимчук І.С., 012 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRUJlV3n1UW6UBke4p_LqFeseFkR3tFeqt8uC2rGJF6M1%40thread.tacv2/1644831084461?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226898a3c8-f48c-47cc-8fac-fe031ef6d147%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRUJlV3n1UW6UBke4p_LqFeseFkR3tFeqt8uC2rGJF6M1%40thread.tacv2/1644831084461?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226898a3c8-f48c-47cc-8fac-fe031ef6d147%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Кліматичний менеджмент<br>Люта О.В., 012 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9GfFhczdCLClBy_adrN66LL1bYknD-Tpm1gcg0lXTmI1%40thread.tacv2/1644786090174?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b7b1a74e-e782-407e-a720-371225c5c107%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9GfFhczdCLClBy_adrN66LL1bYknD-Tpm1gcg0lXTmI1%40thread.tacv2/1644786090174?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b7b1a74e-e782-407e-a720-371225c5c107%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Кліматичний менеджмент<br>Люта О.В., 012 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9GfFhczdCLClBy_adrN66LL1bYknD-Tpm1gcg0lXTmI1%40thread.tacv2/1644785948124?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b7b1a74e-e782-407e-a720-371225c5c107%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9GfFhczdCLClBy_adrN66LL1bYknD-Tpm1gcg0lXTmI1%40thread.tacv2/1644785948124?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b7b1a74e-e782-407e-a720-371225c5c107%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стратегія адаптації до змін клімату<br>Попович О.Р., 012 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3alSCBdWvQzMotAVw7s-15x-pywyaFtJd01A43WVeFMY81%40thread.tacv2/1644432054452?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3alSCBdWvQzMotAVw7s-15x-pywyaFtJd01A43WVeFMY81%40thread.tacv2/1644432054452?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стратегія адаптації до змін клімату<br>Попович О.Р., 012 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3alSCBdWvQzMotAVw7s-15x-pywyaFtJd01A43WVeFMY81%40thread.tacv2/1644432299738?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3alSCBdWvQzMotAVw7s-15x-pywyaFtJd01A43WVeFMY81%40thread.tacv2/1644432299738?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22267966cd-ed73-4658-a4c6-10aa1a14460c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз антропогенних факторів кліматичних змін<br>Тимчук І.С., 012 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRUJlV3n1UW6UBke4p_LqFeseFkR3tFeqt8uC2rGJF6M1%40thread.tacv2/1644947685977?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226898a3c8-f48c-47cc-8fac-fe031ef6d147%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRUJlV3n1UW6UBke4p_LqFeseFkR3tFeqt8uC2rGJF6M1%40thread.tacv2/1644947685977?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226898a3c8-f48c-47cc-8fac-fe031ef6d147%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інспекційна діяльність<br>Одноріг З.С., 012 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success" title="https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інспекційна діяльність<br>Одноріг З.С., 012 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success" title="https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

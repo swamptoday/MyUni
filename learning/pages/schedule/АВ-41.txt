@@ -1,0 +1,421 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікропроцесорні та програмні засоби автоматизації<br>Кріль О.В., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95640471400?pwd=UUJ2MVVja1BFVUVPYlNrSm9KNzhTZz09" title="https://zoom.us/j/95640471400?pwd=UUJ2MVVja1BFVUVPYlNrSm9KNzhTZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизовані системи керування технологічними процесами<br>Матіко Ф.Д., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3b1eee6b46f14cf5af57f6e83debc541%40thread.tacv2/1613203907366?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3b1eee6b46f14cf5af57f6e83debc541%40thread.tacv2/1613203907366?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизовані системи керування технологічними процесами<br>Матіко Ф.Д., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3b1eee6b46f14cf5af57f6e83debc541%40thread.tacv2/1613203907366?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3b1eee6b46f14cf5af57f6e83debc541%40thread.tacv2/1613203907366?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Автоматизовані системи керування технологічними процесами<br>Биць О.М., 86 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRLHimteBVB8RpaDeTxt3iDh5y5_1XXr9Z-g8txAmAPM1%40thread.tacv2/1644783124695?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226133ca55-7502-45ec-b8c5-be827ad875c9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRLHimteBVB8RpaDeTxt3iDh5y5_1XXr9Z-g8txAmAPM1%40thread.tacv2/1644783124695?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226133ca55-7502-45ec-b8c5-be827ad875c9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Підприємництво та менеджмент<br>Антоненко О.М., 008 Гол. н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Мікропроцесорні та програмні засоби автоматизації<br>Федоришин Р.М., 82 X н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95019865401?pwd=OXd4NnpDZEtVODh1SnNFTW8wcHFOdz09" title="https://zoom.us/j/95019865401?pwd=OXd4NnpDZEtVODh1SnNFTW8wcHFOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Мікропроцесорні та програмні засоби автоматизації<br>Федоришин Р.М., 82 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98316021617?pwd=VlBTOU1MM2lyd0J6Y0hFT1M4a2xRZz09" title="https://zoom.us/j/98316021617?pwd=VlBTOU1MM2lyd0J6Y0hFT1M4a2xRZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікропроцесорні та програмні засоби автоматизації<br>Кріль О.В., 510 II н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікропроцесорні та програмні засоби автоматизації<br>Кріль О.В., 510 II н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Мікропроцесорні та програмні засоби автоматизації<br>Федоришин Р.М., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95019865401?pwd=OXd4NnpDZEtVODh1SnNFTW8wcHFOdz09" title="https://zoom.us/j/95019865401?pwd=OXd4NnpDZEtVODh1SnNFTW8wcHFOdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Мікропроцесорні та програмні засоби автоматизації<br>Федоришин Р.М., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98316021617?pwd=VlBTOU1MM2lyd0J6Y0hFT1M4a2xRZz09" title="https://zoom.us/j/98316021617?pwd=VlBTOU1MM2lyd0J6Y0hFT1M4a2xRZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизовані системи керування технологічними процесами<br>Матіко Ф.Д., 51 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3b1eee6b46f14cf5af57f6e83debc541%40thread.tacv2/1613203907366?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3b1eee6b46f14cf5af57f6e83debc541%40thread.tacv2/1613203907366?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікропроцесорні та програмні засоби автоматизації<br>Кріль О.В., 51 X н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Підприємництво та менеджмент<br>Гринів Н.Т., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1YX1725NaxI4WvW6GLziUdVpX3w3C7V0lnlq8TqM63g1%40thread.tacv2/conversations?groupId=acad3d2d-374e-4ad1-bdb3-e60372dcd058&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1YX1725NaxI4WvW6GLziUdVpX3w3C7V0lnlq8TqM63g1%40thread.tacv2/conversations?groupId=acad3d2d-374e-4ad1-bdb3-e60372dcd058&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Підприємництво та менеджмент<br>Гринів Н.Т., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a1YX1725NaxI4WvW6GLziUdVpX3w3C7V0lnlq8TqM63g1%40thread.tacv2/conversations?groupId=acad3d2d-374e-4ad1-bdb3-e60372dcd058&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a1YX1725NaxI4WvW6GLziUdVpX3w3C7V0lnlq8TqM63g1%40thread.tacv2/conversations?groupId=acad3d2d-374e-4ad1-bdb3-e60372dcd058&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Автоматизовані системи керування технологічними процесами<br>Биць О.М., 86 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRLHimteBVB8RpaDeTxt3iDh5y5_1XXr9Z-g8txAmAPM1%40thread.tacv2/1644783255456?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226133ca55-7502-45ec-b8c5-be827ad875c9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRLHimteBVB8RpaDeTxt3iDh5y5_1XXr9Z-g8txAmAPM1%40thread.tacv2/1644783255456?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226133ca55-7502-45ec-b8c5-be827ad875c9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Сб</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Автоматизовані системи керування технологічними процесами<br>Биць О.М., 86 X н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3abqluGIgiKXg-3DsP1W2Pu2o3KPKrCsBwH9E-31qf8F81%40thread.tacv2/1644784769295?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226133ca55-7502-45ec-b8c5-be827ad875c9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3abqluGIgiKXg-3DsP1W2Pu2o3KPKrCsBwH9E-31qf8F81%40thread.tacv2/1644784769295?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226133ca55-7502-45ec-b8c5-be827ad875c9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Автоматизовані системи керування технологічними процесами<br>Биць О.М., 86 X н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3abqluGIgiKXg-3DsP1W2Pu2o3KPKrCsBwH9E-31qf8F81%40thread.tacv2/1644784807729?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226133ca55-7502-45ec-b8c5-be827ad875c9%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3abqluGIgiKXg-3DsP1W2Pu2o3KPKrCsBwH9E-31qf8F81%40thread.tacv2/1644784807729?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226133ca55-7502-45ec-b8c5-be827ad875c9%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

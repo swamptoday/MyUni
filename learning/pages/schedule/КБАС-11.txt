@@ -1,0 +1,326 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Комп`ютерні методи розроблення пристроїв кібербезпеки<br>Горпенюк А.Я., 210 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arRunDP7bHWy2K_XUG-Q2xhhRKjzQ5ODsdtHcYlfPRtY1%40thread.tacv2/conversations?groupId=03d0b676-8f31-42d5-841e-1646d3daf139&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arRunDP7bHWy2K_XUG-Q2xhhRKjzQ5ODsdtHcYlfPRtY1%40thread.tacv2/conversations?groupId=03d0b676-8f31-42d5-841e-1646d3daf139&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками IT-проектів<br>Кулиняк І.Я., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71128998190?pwd=FvuDN7aooLv59zsW9qKcL8_QPlbsxX.1" title="https://us04web.zoom.us/j/71128998190?pwd=FvuDN7aooLv59zsW9qKcL8_QPlbsxX.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління ризиками IT-проектів<br>Кулиняк І.Я., 404 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75385435690?pwd=l8TgCkR_pQmiNKCuy7Z6fSzmRLP5BJ.1" title="https://us04web.zoom.us/j/75385435690?pwd=l8TgCkR_pQmiNKCuy7Z6fSzmRLP5BJ.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Високоровіневе програмування систем захисту комп`ютерних мереж<br>Тишик І.Я., 221 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2fNIePApWKGdFRNtD-B2F7CAYUlJRCVolAFYxJPjsIU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61b00c3e-5ae2-4d8f-b57d-2bb03a3e566d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2fNIePApWKGdFRNtD-B2F7CAYUlJRCVolAFYxJPjsIU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=61b00c3e-5ae2-4d8f-b57d-2bb03a3e566d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Комп`ютерні методи розроблення пристроїв кібербезпеки<br>Зеляновський Ю.Є., 201 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2676145636" title="https://us04web.zoom.us/j/2676145636">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи безпеки інтелектуальних об`єктів<br>Микитин Г.В., 210 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/invite/jiQsxsVAHL6O" title="https://join.skype.com/invite/jiQsxsVAHL6O">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Системи безпеки інтелектуальних об`єктів<br>Микитин Г.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/invite/jiQsxsVAHL6O" title="https://join.skype.com/invite/jiQsxsVAHL6O">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи безпеки інтелектуальних об`єктів<br>Микитин Г.В., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/invite/jiQsxsVAHL6O" title="https://join.skype.com/invite/jiQsxsVAHL6O">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Високоровіневе програмування систем захисту комп`ютерних мереж<br>Тишик І.Я., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3avXDxLZ8MZ78wKU6d8em975Cm37RvLjID2rVGqZ4MA5o1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b427e332-3d10-4658-bc71-4837616d3b10&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3avXDxLZ8MZ78wKU6d8em975Cm37RvLjID2rVGqZ4MA5o1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b427e332-3d10-4658-bc71-4837616d3b10&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Комп`ютерні методи розроблення пристроїв кібербезпеки<br>Зеляновський Ю.Є., 201 XIX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2676145636" title="https://us04web.zoom.us/j/2676145636">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Безпека розподілених мереж і хмарних технологій<br>Партика А.І., 223 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZhNjU1Y2ItOGEyNC00ODliLWFlNGItZjliMmIzNzg2YWRl%40thread.v2/0?context=%7b%22Tid%22%3a%226c51c659-9d52-41af-81f7-dde16380e813%22%2c%22Oid%22%3a%2214025d00-a260-43f4-abf4-7814ebf5f01a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZhNjU1Y2ItOGEyNC00ODliLWFlNGItZjliMmIzNzg2YWRl%40thread.v2/0?context=%7b%22Tid%22%3a%226c51c659-9d52-41af-81f7-dde16380e813%22%2c%22Oid%22%3a%2214025d00-a260-43f4-abf4-7814ebf5f01a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Безпека розподілених мереж і хмарних технологій<br>Партика А.І., 223 XIX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZhNjU1Y2ItOGEyNC00ODliLWFlNGItZjliMmIzNzg2YWRl%40thread.v2/0?context=%7b%22Tid%22%3a%226c51c659-9d52-41af-81f7-dde16380e813%22%2c%22Oid%22%3a%2214025d00-a260-43f4-abf4-7814ebf5f01a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZhNjU1Y2ItOGEyNC00ODliLWFlNGItZjliMmIzNzg2YWRl%40thread.v2/0?context=%7b%22Tid%22%3a%226c51c659-9d52-41af-81f7-dde16380e813%22%2c%22Oid%22%3a%2214025d00-a260-43f4-abf4-7814ebf5f01a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Безпека розподілених мереж і хмарних технологій<br>Партика А.І., 223 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZhNjU1Y2ItOGEyNC00ODliLWFlNGItZjliMmIzNzg2YWRl%40thread.v2/0?context=%7b%22Tid%22%3a%226c51c659-9d52-41af-81f7-dde16380e813%22%2c%22Oid%22%3a%2214025d00-a260-43f4-abf4-7814ebf5f01a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWZhNjU1Y2ItOGEyNC00ODliLWFlNGItZjliMmIzNzg2YWRl%40thread.v2/0?context=%7b%22Tid%22%3a%226c51c659-9d52-41af-81f7-dde16380e813%22%2c%22Oid%22%3a%2214025d00-a260-43f4-abf4-7814ebf5f01a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Сб</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Високоровіневе програмування систем захисту комп`ютерних мереж<br>Тишик І.Я., 210 XIX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3avXDxLZ8MZ78wKU6d8em975Cm37RvLjID2rVGqZ4MA5o1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b427e332-3d10-4658-bc71-4837616d3b10&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3avXDxLZ8MZ78wKU6d8em975Cm37RvLjID2rVGqZ4MA5o1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b427e332-3d10-4658-bc71-4837616d3b10&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,401 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія масової комунікації<br>Білограць Х.Р., 301 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82861860249?pwd=dDRRa0w1SXlzNGxtamdlVFkrWGovZz09" title="https://us02web.zoom.us/j/82861860249?pwd=dDRRa0w1SXlzNGxtamdlVFkrWGovZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи наукових досліджень<br>Гарматій О.В., 301 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89629292133?pwd=WmJxTFU2dkxNbU1GSU5SSFJ2Y2tEUT09" title="https://us02web.zoom.us/j/89629292133?pwd=WmJxTFU2dkxNbU1GSU5SSFJ2Y2tEUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Слов`янські мови, частина 2<br>Випасняк Г.О., 45а VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/IBQv9QwCDlCQ" title="https://join.skype.com/IBQv9QwCDlCQ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Журналістське розслідування на телебаченні<br>Гоцур О.І., вибіркова113 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75185608507?pwd=3GWwyM-nQxx9yTFOWATmlnwzsdFzLO.1" title="https://us04web.zoom.us/j/75185608507?pwd=3GWwyM-nQxx9yTFOWATmlnwzsdFzLO.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Зарубіжна журналістика<br>Семен Н.Ф., 302 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09" title="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи термінознавства<br>Булик-Верхола С.З., вибіркова34 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96549162442?pwd=NEN6eEpzV2RReXlyRzc2OFBLdHdRdz09" title="https://zoom.us/j/96549162442?pwd=NEN6eEpzV2RReXlyRzc2OFBLdHdRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Зарубіжна журналістика<br>Семен Н.Ф., 32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09" title="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Зарубіжна журналістика<br>Семен Н.Ф., 32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09" title="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Журналістське розслідування на телебаченні<br>Гоцур О.І., вибіркова32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75185608507?pwd=3GWwyM-nQxx9yTFOWATmlnwzsdFzLO.1" title="https://us04web.zoom.us/j/75185608507?pwd=3GWwyM-nQxx9yTFOWATmlnwzsdFzLO.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Зарубіжна журналістика<br>Семен Н.Ф., 26 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09" title="https://us02web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Журналістська майстерність, частина 2<br>Залізняк Ю.Б., 302 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4886766881?pwd=cGY5Ym1xR1NqcWk4QmhmeHB2SWJLQT09" title="https://us04web.zoom.us/j/4886766881?pwd=cGY5Ym1xR1NqcWk4QmhmeHB2SWJLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Журналістська майстерність, частина 2<br>Залізняк Ю.Б., 302 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4886766881?pwd=cGY5Ym1xR1NqcWk4QmhmeHB2SWJLQT09" title="https://us04web.zoom.us/j/4886766881?pwd=cGY5Ym1xR1NqcWk4QmhmeHB2SWJLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Термінознавчий практикум<br>Булик-Верхола С.З., вибіркова329 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96549162442?pwd=NEN6eEpzV2RReXlyRzc2OFBLdHdRdz09" title="https://zoom.us/j/96549162442?pwd=NEN6eEpzV2RReXlyRzc2OFBLdHdRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія масової комунікації<br>Білограць Х.Р., 108 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89553747479?pwd=UmFERzMzRzNYLy8zQXhhMTYvZFNqZz09" title="https://us02web.zoom.us/j/89553747479?pwd=UmFERzMzRzNYLy8zQXhhMTYvZFNqZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія масової комунікації<br>Білограць Х.Р., 108 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89553747479?pwd=UmFERzMzRzNYLy8zQXhhMTYvZFNqZz09" title="https://us02web.zoom.us/j/89553747479?pwd=UmFERzMzRzNYLy8zQXhhMTYvZFNqZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи наукових досліджень<br>Гарматій О.В., 108 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89629292133?pwd=WmJxTFU2dkxNbU1GSU5SSFJ2Y2tEUT09" title="https://us02web.zoom.us/j/89629292133?pwd=WmJxTFU2dkxNbU1GSU5SSFJ2Y2tEUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Слов`янські мови, частина 2<br>Нанівський Р.С., 42 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9161386012?pwd=LzNRR0MrWlZ1TmRTazdjWXhiMVJKZz09" title="https://zoom.us/j/9161386012?pwd=LzNRR0MrWlZ1TmRTazdjWXhiMVJKZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

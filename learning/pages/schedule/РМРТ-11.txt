@@ -1,0 +1,289 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Реставраційна етика і академічне письмо<br>Рибчинський О.В., 113 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDU4NDZkNjItZjExMC00NjE4LWE0YWQtMjk3YzFlYmI4Mzk2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDU4NDZkNjItZjExMC00NjE4LWE0YWQtMjk3YzFlYmI4Mzk2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Реставраційна етика і академічне письмо<br>Рибчинський О.В., 113 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDU4NDZkNjItZjExMC00NjE4LWE0YWQtMjk3YzFlYmI4Mzk2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDU4NDZkNjItZjExMC00NjE4LWE0YWQtMjk3YzFlYmI4Mzk2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Концептуальні проблеми сучасної реставрації творів мистецтва та архітектурної деталі з каменю<br>Демків М.В., 113 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Скульптурне копіювання твору мистецтва з натурального каменю, частина 2<br>Ших О.І., 002 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Концептуальні проблеми сучасної реставрації творів мистецтва та архітектурної деталі з каменю<br>Демків М.В., 113 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Скульптурне копіювання твору мистецтва з натурального каменю, частина 2<br>Ших О.І., 002 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хіміко-технологічні процеси і явища в реставрації<br>Мельник В.А., 102 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хіміко-технологічні процеси і явища в реставрації<br>Мельник В.А., 102 XIX н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методика реставрації фасадів пам`яток архітектури<br>Рибчинський О.В., 102 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWFjYWI4MDQtYjQxZS00NzNmLWE2ZWUtY2NjZTNhZWIxOTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWFjYWI4MDQtYjQxZS00NzNmLWE2ZWUtY2NjZTNhZWIxOTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методика реставрації фасадів пам`яток архітектури<br>Рибчинський О.В., 102 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWFjYWI4MDQtYjQxZS00NzNmLWE2ZWUtY2NjZTNhZWIxOTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWFjYWI4MDQtYjQxZS00NzNmLWE2ZWUtY2NjZTNhZWIxOTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Реставрація твору мистецтва з натурального каменю<br>Рибчинський О.В., 002 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Реставрація твору мистецтва з натурального каменю<br>Рибчинський О.В., 002 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Реставрація твору мистецтва з натурального каменю<br>Рибчинський О.В., 002 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

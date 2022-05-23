@@ -1,0 +1,230 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія скляних виробів<br>Вахула Я.І., 012 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09" title="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія скляних виробів<br>Вахула Я.І., 012 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09" title="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин<br>Боровець З.І., Якимечко Я.Б., 012 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин<br>Якимечко Я.Б., Боровець З.І., 012 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин<br>Якимечко Я.Б., Боровець З.І., 005 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин<br>Якимечко Я.Б., Боровець З.І., 005 IX н.к., 006 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин<br>Якимечко Я.Б., Боровець З.І., 005 IX н.к., 006 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09" title="https://us05web.zoom.us/j/89739643575?pwd=MEk4eXFYQmFqSWRSSnVvZnRyVEw3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія скляних виробів<br>Магорівська Г.Я., 111 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія скляних виробів<br>Магорівська Г.Я., 111 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія скляних виробів<br>Вахула Я.І., 010 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09" title="https://zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

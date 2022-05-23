@@ -1,0 +1,286 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи моделювання інноваційних бізнес-процесів<br>Кулініч Т.В., 515 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644492458986?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644492458986?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи моделювання інноваційних бізнес-процесів<br>Кулініч Т.В., 515 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644492665453?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644492665453?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розвиток персоналу інноваційних підприємств<br>Просович О.П., 515 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79541367698?pwd=dMTgouyIIsbYQ9kitRjmP3Uog1HplQ.1" title="https://us04web.zoom.us/j/79541367698?pwd=dMTgouyIIsbYQ9kitRjmP3Uog1HplQ.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження ринку інноваційних продуктів<br>Кулиняк І.Я., 417 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77814182099?pwd=6HaDCG9iu746kX1Kg_DuwVBhjC3_sJ.1" title="https://us04web.zoom.us/j/77814182099?pwd=6HaDCG9iu746kX1Kg_DuwVBhjC3_sJ.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи моделювання інноваційних бізнес-процесів<br>Жайворонок І.Р., 425 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644492781020?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644492781020?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розвиток персоналу інноваційних підприємств<br>Просович О.П., 425 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79541367698?pwd=dMTgouyIIsbYQ9kitRjmP3Uog1HplQ.1" title="https://us04web.zoom.us/j/79541367698?pwd=dMTgouyIIsbYQ9kitRjmP3Uog1HplQ.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розвиток персоналу інноваційних підприємств<br>Просович О.П., 406 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79541367698?pwd=dMTgouyIIsbYQ9kitRjmP3Uog1HplQ.1" title="https://us04web.zoom.us/j/79541367698?pwd=dMTgouyIIsbYQ9kitRjmP3Uog1HplQ.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження ринку інноваційних продуктів<br>Бойко В.В., 515 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd" title="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження ринку інноваційних продуктів<br>Бойко В.В., 515 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd" title="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження ринку інноваційних продуктів<br>Бойко В.В., 427(1) IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd" title="https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09  Meeting ID: 825 608 6388 Passcode: sd08Wd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи моделювання інноваційних бізнес-процесів<br>Кулініч Т.В., 427(1) IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644492987665?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644492987665?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи моделювання інноваційних бізнес-процесів<br>Кулініч Т.В., 425 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644493146143?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ab06e245cb2b441068b10232ae697499d%40thread.tacv2/1644493146143?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f9202b78-f93c-4367-a862-7ce07debfff3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

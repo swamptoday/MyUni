@@ -1,0 +1,242 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інституційне забезпечення ринку нерухомості<br>Винарчик Л.В., 617 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09" title="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інституційне забезпечення ринку нерухомості<br>Винарчик Л.В., 617 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09" title="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Планування та прогнозування розвитку ринку нерухомості<br>Гулько О.Р., 506 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2470150292?pwd=djF0bXdIMVdxb1pSL0xJanFWTVZqdz09" title="https://us02web.zoom.us/j/2470150292?pwd=djF0bXdIMVdxb1pSL0xJanFWTVZqdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Планування та прогнозування розвитку ринку нерухомості<br>Гулько О.Р., 506 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2470150292?pwd=djF0bXdIMVdxb1pSL0xJanFWTVZqdz09" title="https://us02web.zoom.us/j/2470150292?pwd=djF0bXdIMVdxb1pSL0xJanFWTVZqdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Планування та прогнозування розвитку ринку нерухомості<br>Гулько О.Р., 506 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/2470150292?pwd=djF0bXdIMVdxb1pSL0xJanFWTVZqdz09" title="https://us02web.zoom.us/j/2470150292?pwd=djF0bXdIMVdxb1pSL0xJanFWTVZqdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Професійна та цивільна безпека<br>Витрикуш Н.М., 236 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09" title="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Професійна та цивільна безпека<br>Витрикуш Н.М., 302 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09" title="https://us02web.zoom.us/j/4108603840?pwd=MnBSeFFneDB4UmQ4Q2RGR3dWRGJxZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економіко-математичні методи і моделі в оцінці нерухомості<br>Калиніченко Ю.В., 504 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8993949593?pwd=MWdGUkZvSmJDblZYOWF0dm1tK3B1UT09" title="https://us02web.zoom.us/j/8993949593?pwd=MWdGUkZvSmJDblZYOWF0dm1tK3B1UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Економіко-математичні методи і моделі в оцінці нерухомості<br>Калиніченко Ю.В., 504 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8993949593?pwd=MWdGUkZvSmJDblZYOWF0dm1tK3B1UT09" title="https://us02web.zoom.us/j/8993949593?pwd=MWdGUkZvSmJDblZYOWF0dm1tK3B1UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Економіко-математичні методи і моделі в оцінці нерухомості<br>Калиніченко Ю.В., 504 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8993949593?pwd=MWdGUkZvSmJDblZYOWF0dm1tK3B1UT09" title="https://us02web.zoom.us/j/8993949593?pwd=MWdGUkZvSmJDblZYOWF0dm1tK3B1UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

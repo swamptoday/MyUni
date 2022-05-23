@@ -1,0 +1,425 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтелектуальні системи<br>Тисяк406 II н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування інформаційних систем<br>Басюк Т.М., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us06web.zoom.us/j/91266312531?pwd=Kzk5azJCeEwzTDdvRmlRQ0tIWXRydz09" title="https://us06web.zoom.us/j/91266312531?pwd=Kzk5azJCeEwzTDdvRmlRQ0tIWXRydz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>корп.21 вул.Самчука.11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Програмне забезпечення мобільних пристроїв<br>Теслюк Т.В., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99740442883?pwd=WHNmMnR2ZEhtM1JZZ3hJRjFBNW1sZz09" title="https://zoom.us/j/99740442883?pwd=WHNmMnR2ZEhtM1JZZ3hJRjFBNW1sZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Віртуалізація та розгортання інформаційних систем<br>Шестакевич Т.В., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://vns.lpnu.ua/course/view.php?id=13734" title="https://vns.lpnu.ua/course/view.php?id=13734">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання складних систем<br>Пелещак І.Р., 525 IV н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Віртуалізація та розгортання інформаційних систем<br>Прищепа Г.О., 123 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75762556571?pwd=3vCF1-deI6GUwnIWjzcdnfu4x2r6fw.1" title="https://us04web.zoom.us/j/75762556571?pwd=3vCF1-deI6GUwnIWjzcdnfu4x2r6fw.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Моделювання складних систем<br>Пелещак І.Р., 124 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9437718128?pwd=RmROdko5UE5uV1VHdWU1cmVQazlzZz09" title="https://us04web.zoom.us/j/9437718128?pwd=RmROdko5UE5uV1VHdWU1cmVQazlzZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Віртуалізація та розгортання інформаційних систем<br>Прищепа Г.О., 123 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75762556571?pwd=3vCF1-deI6GUwnIWjzcdnfu4x2r6fw.1" title="https://us04web.zoom.us/j/75762556571?pwd=3vCF1-deI6GUwnIWjzcdnfu4x2r6fw.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Моделювання складних систем<br>Пелещак І.Р., 124 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9437718128?pwd=RmROdko5UE5uV1VHdWU1cmVQazlzZz09" title="https://us04web.zoom.us/j/9437718128?pwd=RmROdko5UE5uV1VHdWU1cmVQazlzZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Політологія<br>Волинець О.О., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95974482986?pwd=S00za292UjlpeHhmN0VRVzFqTzJnQT09" title="https://zoom.us/j/95974482986?pwd=S00za292UjlpeHhmN0VRVzFqTzJnQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Політологія<br>Волинець О.О., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9114879537?pwd=RUk1Wm9QWjVhcE03VGpEVmhRMjg5dz09" title="https://us02web.zoom.us/j/9114879537?pwd=RUk1Wm9QWjVhcE03VGpEVmhRMjg5dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інтелектуальні системи<br>Пелещак Р.М., 126б IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09" title="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Проектування інформаційних систем<br>Табачишин Д.Р., 123а IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73655745687?pwd=rYEIWxMsN7UxFUlqXwPS-Ce-AoCff9.1" title="https://us04web.zoom.us/j/73655745687?pwd=rYEIWxMsN7UxFUlqXwPS-Ce-AoCff9.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інтелектуальні системи<br>Пелещак Р.М., 126б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09" title="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Проектування інформаційних систем<br>Табачишин Д.Р., 123а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73655745687?pwd=rYEIWxMsN7UxFUlqXwPS-Ce-AoCff9.1" title="https://us04web.zoom.us/j/73655745687?pwd=rYEIWxMsN7UxFUlqXwPS-Ce-AoCff9.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Віртуалізація та розгортання інформаційних систем<br>Прищепа Г.О., 123а IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75762556571?pwd=3vCF1-deI6GUwnIWjzcdnfu4x2r6fw.1" title="https://us04web.zoom.us/j/75762556571?pwd=3vCF1-deI6GUwnIWjzcdnfu4x2r6fw.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Віртуалізація та розгортання інформаційних систем<br>Прищепа Г.О., 123а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75762556571?pwd=3vCF1-deI6GUwnIWjzcdnfu4x2r6fw.1" title="https://us04web.zoom.us/j/75762556571?pwd=3vCF1-deI6GUwnIWjzcdnfu4x2r6fw.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Програмне забезпечення мобільних пристроїв<br>Теслюк Т.В., 123 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93985904163?pwd=aHhMS1ovMzNUMWV0c2RMUFN2ZnYzQT09" title="https://zoom.us/j/93985904163?pwd=aHhMS1ovMzNUMWV0c2RMUFN2ZnYzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Програмне забезпечення мобільних пристроїв<br>Теслюк Т.В., 123 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99526601370?pwd=ZjlsL0x4WENkUDZkMnE1Tmx4SWZSZz09" title="https://zoom.us/j/99526601370?pwd=ZjlsL0x4WENkUDZkMnE1Tmx4SWZSZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

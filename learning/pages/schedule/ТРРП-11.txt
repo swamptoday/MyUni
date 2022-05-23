@@ -1,0 +1,302 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія наукових досліджень<br>Товстюк К.К., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tjk-ddfr-dkq" title="https://meet.google.com/tjk-ddfr-dkq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія наукових досліджень<br>Товстюк К.К., 306 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/riz-bpeg-fmp" title="https://meet.google.com/riz-bpeg-fmp">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мультимедійні технології<br>Мінзюк В.В., 207 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/kxr-mjnk-dmw" title="https://meet.google.com/kxr-mjnk-dmw">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Мультимедійні технології<br>Мінзюк В.В., 207 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/kxr-mjnk-dmw" title="https://meet.google.com/kxr-mjnk-dmw">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи радіозв`язку та передавання інформації<br>Прудиус І.Н., 206 XI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтелектуальна власність<br>Кучмій Г.Л., 213 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2Lm1XG6rtar1pudrzQSlwkQ5K_wwEyMJ5THbHaUXhSI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9d460f1-c5ba-43cb-999d-20a74d5cfbc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2Lm1XG6rtar1pudrzQSlwkQ5K_wwEyMJ5THbHaUXhSI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9d460f1-c5ba-43cb-999d-20a74d5cfbc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інтелектуальна власність<br>Кучмій Г.Л., 213 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2Lm1XG6rtar1pudrzQSlwkQ5K_wwEyMJ5THbHaUXhSI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9d460f1-c5ba-43cb-999d-20a74d5cfbc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2Lm1XG6rtar1pudrzQSlwkQ5K_wwEyMJ5THbHaUXhSI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9d460f1-c5ba-43cb-999d-20a74d5cfbc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікропроцесори в радіоелектронних пристроях та системах<br>Маньковський С.В., 214 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aZfcrGJpYprQj-eTd2zYal9jykMzM0rPfmirPkI1kJCo1%40thread.tacv2/1645091035084?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c1e07cb2-8228-4a28-87eb-1d3df5d5cd9f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aZfcrGJpYprQj-eTd2zYal9jykMzM0rPfmirPkI1kJCo1%40thread.tacv2/1645091035084?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c1e07cb2-8228-4a28-87eb-1d3df5d5cd9f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системи радіозв`язку та передавання інформації<br>Сторож В.Г., 114 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3agoX9SCcNdo_eHEfjrrsrMXgWbd0UCx_jf6oDRyWV_mI1%40thread.tacv2/1644666682018?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227a0064d7-5206-44b4-8993-005e4048b989%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3agoX9SCcNdo_eHEfjrrsrMXgWbd0UCx_jf6oDRyWV_mI1%40thread.tacv2/1644666682018?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227a0064d7-5206-44b4-8993-005e4048b989%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи радіозв`язку та передавання інформації<br>Прудиус І.Н., 206 XI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікропроцесори в радіоелектронних пристроях та системах<br>Шаповалов Ю.І., 114 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aRpobQhqTbz-GIxy3XkmxLf5_bNkNnp5bspucEkqksLs1%40thread.tacv2/1644939047163?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2218673b2b-f266-4a5f-9223-3e9b94e5bf41%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aRpobQhqTbz-GIxy3XkmxLf5_bNkNnp5bspucEkqksLs1%40thread.tacv2/1644939047163?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2218673b2b-f266-4a5f-9223-3e9b94e5bf41%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Телевізійні системи та пристрої відображення інформації<br>Матієшин Ю.М., 206 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDY4ODc0MDYtYjE4Ni00NTBkLTg5YTgtNGU0YmYxN2YxZjg0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ed37d5-ae84-4007-bf69-0bc32fcd4636%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDY4ODc0MDYtYjE4Ni00NTBkLTg5YTgtNGU0YmYxN2YxZjg0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ed37d5-ae84-4007-bf69-0bc32fcd4636%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Телевізійні системи та пристрої відображення інформації<br>Матієшин Ю.М., 206 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NThmODNiZWUtN2ZlYy00ZGYwLTk0OGEtZTFjMmIyNTQxYzI1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ed37d5-ae84-4007-bf69-0bc32fcd4636%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NThmODNiZWUtN2ZlYy00ZGYwLTk0OGEtZTFjMmIyNTQxYzI1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ed37d5-ae84-4007-bf69-0bc32fcd4636%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Телевізійні системи та пристрої відображення інформації<br>Матієшин Ю.М., 206 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjExNWQ5YTUtOTc5Yy00ZDE3LTlmMGMtY2ZmMWQyYzBjN2Iz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ed37d5-ae84-4007-bf69-0bc32fcd4636%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjExNWQ5YTUtOTc5Yy00ZDE3LTlmMGMtY2ZmMWQyYzBjN2Iz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219ed37d5-ae84-4007-bf69-0bc32fcd4636%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,372 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Куспиш О.В., Самчука 11. 8.00-9.30<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88494943035?pwd=ODNpVmw3bzJ6MUlkMFVEQjduOXJMQT09" title="https://us02web.zoom.us/j/88494943035?pwd=ODNpVmw3bzJ6MUlkMFVEQjduOXJMQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія держави і права зарубіжних країн<br>Макарчук В.С., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmQ3NDAyZDgtNDY1My00MWE2LWJmZDgtODI4YjRiYTFmN2Nj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2273683e93-ac9d-4e4b-b984-aafb3be4bf60%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmQ3NDAyZDgtNDY1My00MWE2LWJmZDgtODI4YjRiYTFmN2Nj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2273683e93-ac9d-4e4b-b984-aafb3be4bf60%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія держави і права зарубіжних країн<br>Макарчук В.С., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTlkMjZkYzUtZjYwYi00ZjE5LTg0MWQtODRlYTAxOGVkODlk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2273683e93-ac9d-4e4b-b984-aafb3be4bf60%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTlkMjZkYzUtZjYwYi00ZjE5LTg0MWQtODRlYTAxOGVkODlk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2273683e93-ac9d-4e4b-b984-aafb3be4bf60%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія права<br>Токарська А.С., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97488636383?pwd=eHNoMDNUMnRyRnM3UXhhY2N3RnJVQT09" title="https://zoom.us/j/97488636383?pwd=eHNoMDNUMnRyRnM3UXhhY2N3RnJVQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія держави і права зарубіжних країн<br>Беліченко О.В., 11 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79805487172?pwd=D9s60qP-AhQ8lFDIg4vPFs27bBZsIB.1" title="https://us04web.zoom.us/j/79805487172?pwd=D9s60qP-AhQ8lFDIg4vPFs27bBZsIB.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія держави і права зарубіжних країн<br>Беліченко О.В., 11 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79805487172?pwd=D9s60qP-AhQ8lFDIg4vPFs27bBZsIB.1" title="https://us04web.zoom.us/j/79805487172?pwd=D9s60qP-AhQ8lFDIg4vPFs27bBZsIB.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи Римського приватного права<br>Цебенко С.Б., 12 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99197108306?pwd=Z1BaN0k2TFgzbGdiTHNKQ3hUSHlTQT09" title="https://zoom.us/j/99197108306?pwd=Z1BaN0k2TFgzbGdiTHNKQ3hUSHlTQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Лучит Л.В., 28 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaa30a032cef549bebada7c9f96975216%40thread.tacv2/PV%252015?groupId=64f77435-7f5a-49ab-a679-546f0c69f31b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaa30a032cef549bebada7c9f96975216%40thread.tacv2/PV%252015?groupId=64f77435-7f5a-49ab-a679-546f0c69f31b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Гаврилюк М.В., 42 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aqyVMj3H2mzr8ZK9soJVTbxemMWiLeTBtMmmO1fmNwzs1%40thread.tacv2/conversations?groupId=17c0dc42-0954-4cec-8e05-de7d72666d29&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aqyVMj3H2mzr8ZK9soJVTbxemMWiLeTBtMmmO1fmNwzs1%40thread.tacv2/conversations?groupId=17c0dc42-0954-4cec-8e05-de7d72666d29&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія права<br>Колич О.І., 27 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94932349807?pwd=VXdOYkdSVWtYUDY4UFJJS3ZEaFBIdz09" title="https://zoom.us/j/94932349807?pwd=VXdOYkdSVWtYUDY4UFJJS3ZEaFBIdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська мова (за професійним спрямуванням)<br>Кирик Г.І., 27 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71540631988?pwd=qFCsXP6CL9spGxS7nIKdAoklNJJg1d.1  Идентификатор конференции: 715 4063 1988 Код доступа: EwN648" title="https://us04web.zoom.us/j/71540631988?pwd=qFCsXP6CL9spGxS7nIKdAoklNJJg1d.1  Идентификатор конференции: 715 4063 1988 Код доступа: EwN648">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конституційне право України<br>Ковальчук О.Б., 36 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTlhZjFlNmUtMDg4Yy00YTg0LThjYjEtZGQ2NzgyNmIzZmQw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef68f8a5-654e-4d02-8fce-d8873b5c5f2c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTlhZjFlNmUtMDg4Yy00YTg0LThjYjEtZGQ2NzgyNmIzZmQw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef68f8a5-654e-4d02-8fce-d8873b5c5f2c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конституційне право України<br>Ковальчук О.Б., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGJkN2JmODEtNmExMS00ODk2LTliMDUtNmE5ZjU0ZWUwMGJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef68f8a5-654e-4d02-8fce-d8873b5c5f2c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGJkN2JmODEtNmExMS00ODk2LTliMDUtNmE5ZjU0ZWUwMGJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef68f8a5-654e-4d02-8fce-d8873b5c5f2c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи Римського приватного права<br>Макарчук В.С., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTM2ZDU1YzktMGI4OS00MzViLWE5NjQtZGNlOWY3OTEwMmFh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2273683e93-ac9d-4e4b-b984-aafb3be4bf60%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTM2ZDU1YzktMGI4OS00MzViLWE5NjQtZGNlOWY3OTEwMmFh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2273683e93-ac9d-4e4b-b984-aafb3be4bf60%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конституційне право України<br>Ковальчук О.Б., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTY4OGI3MjEtZTEyMC00ZjBkLTgyZTItZGU1MGZhNTAyN2Y1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef68f8a5-654e-4d02-8fce-d8873b5c5f2c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTY4OGI3MjEtZTEyMC00ZjBkLTgyZTItZGU1MGZhNTAyN2Y1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef68f8a5-654e-4d02-8fce-d8873b5c5f2c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конституційне право України<br>Ковальчук О.Б., 25 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjkxZmU4MWYtODQ4YS00NzQ2LWI5ZWUtMzdmNmU0ZjM5MmNh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef68f8a5-654e-4d02-8fce-d8873b5c5f2c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjkxZmU4MWYtODQ4YS00NzQ2LWI5ZWUtMzdmNmU0ZjM5MmNh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef68f8a5-654e-4d02-8fce-d8873b5c5f2c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

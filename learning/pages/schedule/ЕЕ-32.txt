@@ -1,0 +1,431 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електромеханотронні перетворювачі систем автоматики<br>Біляковський І.Є., 116 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Електромеханотронні перетворювачі систем автоматики<br>Біляковський І.Є., 116 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи мехатроніки<br>Ткачук В.І., 124 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aWcxGgRlN7xsc6-wG4n0yVPnKKp7XGN6OhNs1M19Kh241%40thread.tacv2/1644352201727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aWcxGgRlN7xsc6-wG4n0yVPnKKp7XGN6OhNs1M19Kh241%40thread.tacv2/1644352201727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи мехатроніки<br>Ткачук В.І., 117 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aWcxGgRlN7xsc6-wG4n0yVPnKKp7XGN6OhNs1M19Kh241%40thread.tacv2/1644352201727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aWcxGgRlN7xsc6-wG4n0yVPnKKp7XGN6OhNs1M19Kh241%40thread.tacv2/1644352201727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електромеханотронні перетворювачі систем автоматики<br>Біляковський І.Є., 116 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи релейного захисту та автоматики електроенергетичних систем<br>Кідиба В.П., 312в V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a22235753876e4d23b1ef3b7265013675%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%2520(%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a22235753876e4d23b1ef3b7265013675%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%2520(%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи комп`ютерних технологій проектування<br>Макарчук О.В., 117 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a12ddb48ac10c434a85a6b8bcf08fec21%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F%2520%25D0%25B7%2520%25D0%259E%25D0%259A%25D0%25A2%25D0%259F?groupId=9fb8b549-17ed-4bd7-9249-ccb998a48121&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a12ddb48ac10c434a85a6b8bcf08fec21%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F%2520%25D0%25B7%2520%25D0%259E%25D0%259A%25D0%25A2%25D0%259F?groupId=9fb8b549-17ed-4bd7-9249-ccb998a48121&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи цифрового керування та програмування мікроконтролерів<br>Копчак Б.Л., Мороз В.І., 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи цифрового керування та програмування мікроконтролерів<br>Копчак Б.Л., Мороз В.І., 116 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи мехатроніки<br>Ткачук В.І., 121 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aWcxGgRlN7xsc6-wG4n0yVPnKKp7XGN6OhNs1M19Kh241%40thread.tacv2/1644352312782?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aWcxGgRlN7xsc6-wG4n0yVPnKKp7XGN6OhNs1M19Kh241%40thread.tacv2/1644352312782?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи комп`ютерних технологій проектування<br>Климко В.І., Каша Л.В., 504 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aYa43LSCOj88Yi7iR0z0BkgyerCOkSnZpQmExarnJZgI1%40thread.tacv2/1644354677198?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aYa43LSCOj88Yi7iR0z0BkgyerCOkSnZpQmExarnJZgI1%40thread.tacv2/1644354677198?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи комп`ютерних технологій проектування<br>Каша Л.В., Климко В.І., 504 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aYa43LSCOj88Yi7iR0z0BkgyerCOkSnZpQmExarnJZgI1%40thread.tacv2/1644354677198?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aYa43LSCOj88Yi7iR0z0BkgyerCOkSnZpQmExarnJZgI1%40thread.tacv2/1644354677198?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Електромеханотронні перетворювачі систем автоматики<br>Біляковський І.Є., 116с Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Електромеханотронні перетворювачі систем автоматики<br>Біляковський І.Є., 116с Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Електромеханотронні перетворювачі систем автоматики<br>Біляковський І.Є., 116с Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Електромеханотронні перетворювачі систем автоматики<br>Біляковський І.Є., 116с Гол. н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3apLzGOaOa613TGbm7LUHb0fv2-u3oLSeD43a6j7t_vCE1%40thread.tacv2/conversations?groupId=4dc92719-65f1-4830-a04a-af18a43eef3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи релейного захисту та автоматики електроенергетичних систем<br>Баран П.М., Ференсович Р.Я., 303 V н.к., 304 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a9b33089d95a3495ab22d4207aa545a4e%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a9b33089d95a3495ab22d4207aa545a4e%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи релейного захисту та автоматики електроенергетичних систем<br>Баран П.М., 307 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a41afaece96b445d89f07cadfa479a43a%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a41afaece96b445d89f07cadfa479a43a%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи цифрового керування та програмування мікроконтролерів<br>Копчак Б.Л., Мороз В.І., +СЕ209 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae685fb43cff24db289237978410269e1%40thread.tacv2/conversations?groupId=2c15b5ae-e4a3-4150-8b57-eb0a20fe64de&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3auFuMslmMXdbBjVHe48UwbrlEpDnFPc8Voazgq3wuRwU1%40thread.tacv2/conversations?groupId=62943ab8-1df8-43c8-bf50-04b9c113fe87&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

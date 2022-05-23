@@ -1,0 +1,394 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування, частина 2<br>Кинаш Ю.Є., Кинаш Ю.Є., 912 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/heb-ykwm-efy" title="https://meet.google.com/heb-ykwm-efy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інформаційне забезпечення та технології у видавничо-друкарській справі, частина 2<br>Марцишин Р.С., 802б V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xii-fkax-tkr" title="https://meet.google.com/xii-fkax-tkr">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Додрукарське опрацювання інформації<br>Сеньківська Н.Є., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://us04web.zoom.us/j/75942315445?pwd%3DajNZYy9FcS9seHVuMTk0R0NGRHJMQT09&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2RskfVgTCait3hWCHx0yuo" title="https://www.google.com/url?q=https://us04web.zoom.us/j/75942315445?pwd%3DajNZYy9FcS9seHVuMTk0R0NGRHJMQT09&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw2RskfVgTCait3hWCHx0yuo">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Теорія кольору та кольороутворення<br>Лотошинська Н.Д., 414 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79149257926?pwd=6JOokcH_KzdM4jePGtmM3g28XDVozx.1" title="https://us04web.zoom.us/j/79149257926?pwd=6JOokcH_KzdM4jePGtmM3g28XDVozx.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Теорія кольору та кольороутворення<br>Лотошинська Н.Д., 414 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75582720672?pwd=tVfb-8xnMmu26CqLV3IEdxKeqQhU9W.1" title="https://us04web.zoom.us/j/75582720672?pwd=tVfb-8xnMmu26CqLV3IEdxKeqQhU9W.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування, частина 2<br>Кинаш Ю.Є., Кинаш Ю.Є., 908 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/heb-ykwm-efy" title="https://meet.google.com/heb-ykwm-efy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи цифрової обробки сигналів<br>Кинаш Ю.Є., Кинаш Ю.Є., 908 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/heb-ykwm-efy" title="https://meet.google.com/heb-ykwm-efy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи цифрової обробки сигналів<br>Кинаш Ю.Є., Кинаш Ю.Є., 908 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/heb-ykwm-efy" title="https://meet.google.com/heb-ykwm-efy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційне забезпечення та технології у видавничо-друкарській справі, частина 2<br>Марцишин Р.С., 908 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xii-fkax-tkr" title="https://meet.google.com/xii-fkax-tkr">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи цифрової обробки сигналів<br>Рашкевич Ю.М., 908 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/qpd-yoyf-aeo" title="https://meet.google.com/qpd-yoyf-aeo">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування, частина 2<br>Кинаш Ю.Є., 311 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/heb-ykwm-efy" title="https://meet.google.com/heb-ykwm-efy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія кольору та кольороутворення<br>Лотошинська Н.Д., 311 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76035829907?pwd=zSPudRj5XMuGI36XnZ1_8hempdGabB.1" title="https://us04web.zoom.us/j/76035829907?pwd=zSPudRj5XMuGI36XnZ1_8hempdGabB.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія кольору та кольороутворення<br>Лотошинська Н.Д., 311 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76035829907?pwd=zSPudRj5XMuGI36XnZ1_8hempdGabB.1" title="https://us04web.zoom.us/j/76035829907?pwd=zSPudRj5XMuGI36XnZ1_8hempdGabB.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Додрукарське опрацювання інформації<br>Сеньківська Н.Є., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://us04web.zoom.us/j/77044271899?pwd%3DM0l6dEN3TElFSU51a0RZSVhYWktyQT09&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1-UHiSMbBisNdm_rvy8cBZ" title="https://www.google.com/url?q=https://us04web.zoom.us/j/77044271899?pwd%3DM0l6dEN3TElFSU51a0RZSVhYWktyQT09&amp;sa=D&amp;source=calendar&amp;usd=2&amp;usg=AOvVaw1-UHiSMbBisNdm_rvy8cBZ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інформаційне забезпечення та технології у видавничо-друкарській справі, частина 2<br>Марцишин Р.С., 802б V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xii-fkax-tkr" title="https://meet.google.com/xii-fkax-tkr">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Додрукарське опрацювання інформації<br>Лотошинська Н.Д., 414 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79843594534?pwd=XLw8rbqzfhBMuBrSShYYHFjx3k5ZY2.1" title="https://us04web.zoom.us/j/79843594534?pwd=XLw8rbqzfhBMuBrSShYYHFjx3k5ZY2.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Об`єктно-орієнтоване програмування, частина 2<br>Кинаш Ю.Є., Кинаш Ю.Є., 414 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/heb-ykwm-efy" title="https://meet.google.com/heb-ykwm-efy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

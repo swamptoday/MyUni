@@ -1,0 +1,336 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Маркетингові дослідження<br>Капраль О.Р., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85313094101?pwd=eEdEeHNpQUdReWhWQmRPdlBmQTBRUT09" title="https://us02web.zoom.us/j/85313094101?pwd=eEdEeHNpQUdReWhWQmRPdlBmQTBRUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Маркетингові дослідження<br>Капраль О.Р., 405 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85313094101?pwd=eEdEeHNpQUdReWhWQmRPdlBmQTBRUT09" title="https://us02web.zoom.us/j/85313094101?pwd=eEdEeHNpQUdReWhWQmRPdlBmQTBRUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Маркетингові дослідження<br>Лихолат С.М., 401а IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93097882824?pwd=L09kY2pva0pxanM2V2Nua0l3ZS9sUT09" title="https://zoom.us/j/93097882824?pwd=L09kY2pva0pxanM2V2Nua0l3ZS9sUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління людським капіталом<br>Бойківська Г.М., 508 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ae3d6db58d333464085ba9892d692e0d8%40thread.tacv2/%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F%2520%25D0%25BB%25D1%258E%25D0%25B4%25D1%2581%25D1%258C%25D0%25BA%25D0%25B8%25D0%25BC%2520%25D0%25BA%25D0%25B0%25D0%25BF%25D1%2596%25D1%2582%25D0%25B0%25D0%25BB%25D0%25BE%25D0%25BC?groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ae3d6db58d333464085ba9892d692e0d8%40thread.tacv2/%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F%2520%25D0%25BB%25D1%258E%25D0%25B4%25D1%2581%25D1%258C%25D0%25BA%25D0%25B8%25D0%25BC%2520%25D0%25BA%25D0%25B0%25D0%25BF%25D1%2596%25D1%2582%25D0%25B0%25D0%25BB%25D0%25BE%25D0%25BC?groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Мацьків О.О., 311 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3anL3r6tGjsjcrikaVnWqHnthWryJdd2-SOwD9hhhHVFQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a3c5fc34-c146-4f87-908c-240ea2753079&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3anL3r6tGjsjcrikaVnWqHnthWryJdd2-SOwD9hhhHVFQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a3c5fc34-c146-4f87-908c-240ea2753079&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Мацьків О.О., 303 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3anL3r6tGjsjcrikaVnWqHnthWryJdd2-SOwD9hhhHVFQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a3c5fc34-c146-4f87-908c-240ea2753079&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3anL3r6tGjsjcrikaVnWqHnthWryJdd2-SOwD9hhhHVFQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a3c5fc34-c146-4f87-908c-240ea2753079&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організаційна поведінка<br>Захарчин Г.М., 205 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ad11e1bbbd6014525a9fbc139675fb619%40thread.tacv2/%25D0%259E%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D0%25B9%25D0%25BD%25D0%25B0%2520%25D0%25BF%25D0%25BE%25D0%25B2%25D0%25B5%25D0%25B4%25D1%2596%25D0%25BD%25D0%25BA%25D0%25B8?groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ad11e1bbbd6014525a9fbc139675fb619%40thread.tacv2/%25D0%259E%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D0%25B9%25D0%25BD%25D0%25B0%2520%25D0%25BF%25D0%25BE%25D0%25B2%25D0%25B5%25D0%25B4%25D1%2596%25D0%25BD%25D0%25BA%25D0%25B8?groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління персоналом<br>Гончар С.Й., 205 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3au9Q-pBOHDM2XV0MSr0z_DceuC8S-76lmqbb2CzUE_Xc1%40thread.tacv2/conversations?groupId=5b4e656c-cac8-4cd7-8143-49824a7e0881&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3au9Q-pBOHDM2XV0MSr0z_DceuC8S-76lmqbb2CzUE_Xc1%40thread.tacv2/conversations?groupId=5b4e656c-cac8-4cd7-8143-49824a7e0881&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Управління продуктивністю праці<br>Панас Я.В., 205 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:03b4a485ef084a9ea6848ed54fed2c5c@thread.tacv2/1644768721383?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;parentMessageId=1644768721383&amp;teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-37%20(21%2F22%20%D0%BD.%D1%80.)&amp;channelName=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8E%20%D0%BF%D1%80%D0%B0%D1%86%D1%96&amp;createdTime=1644768721383" title="https://teams.microsoft.com/l/message/19:03b4a485ef084a9ea6848ed54fed2c5c@thread.tacv2/1644768721383?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;parentMessageId=1644768721383&amp;teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-37%20(21%2F22%20%D0%BD.%D1%80.)&amp;channelName=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8E%20%D0%BF%D1%80%D0%B0%D1%86%D1%96&amp;createdTime=1644768721383">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організаційна поведінка<br>Захарчин Г.М., 508 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ad11e1bbbd6014525a9fbc139675fb619%40thread.tacv2/%25D0%259E%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D0%25B9%25D0%25BD%25D0%25B0%2520%25D0%25BF%25D0%25BE%25D0%25B2%25D0%25B5%25D0%25B4%25D1%2596%25D0%25BD%25D0%25BA%25D0%25B8?groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ad11e1bbbd6014525a9fbc139675fb619%40thread.tacv2/%25D0%259E%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D0%25B9%25D0%25BD%25D0%25B0%2520%25D0%25BF%25D0%25BE%25D0%25B2%25D0%25B5%25D0%25B4%25D1%2596%25D0%25BD%25D0%25BA%25D0%25B8?groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління продуктивністю праці<br>Панас Я.В., 508 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:03b4a485ef084a9ea6848ed54fed2c5c@thread.tacv2/1644768643715?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;parentMessageId=1644768643715&amp;teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-37%20(21%2F22%20%D0%BD.%D1%80.)&amp;channelName=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8E%20%D0%BF%D1%80%D0%B0%D1%86%D1%96&amp;createdTime=1644768643715" title="https://teams.microsoft.com/l/message/19:03b4a485ef084a9ea6848ed54fed2c5c@thread.tacv2/1644768643715?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;parentMessageId=1644768643715&amp;teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-37%20(21%2F22%20%D0%BD.%D1%80.)&amp;channelName=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8E%20%D0%BF%D1%80%D0%B0%D1%86%D1%96&amp;createdTime=1644768643715">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління людським капіталом<br>Бойківська Г.М., 508 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ae3d6db58d333464085ba9892d692e0d8%40thread.tacv2/%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F%2520%25D0%25BB%25D1%258E%25D0%25B4%25D1%2581%25D1%258C%25D0%25BA%25D0%25B8%25D0%25BC%2520%25D0%25BA%25D0%25B0%25D0%25BF%25D1%2596%25D1%2582%25D0%25B0%25D0%25BB%25D0%25BE%25D0%25BC?groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ae3d6db58d333464085ba9892d692e0d8%40thread.tacv2/%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F%2520%25D0%25BB%25D1%258E%25D0%25B4%25D1%2581%25D1%258C%25D0%25BA%25D0%25B8%25D0%25BC%2520%25D0%25BA%25D0%25B0%25D0%25BF%25D1%2596%25D1%2582%25D0%25B0%25D0%25BB%25D0%25BE%25D0%25BC?groupId=20663ae1-e7d1-4776-8543-452814e28007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Мацьків О.О., 137 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3anL3r6tGjsjcrikaVnWqHnthWryJdd2-SOwD9hhhHVFQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a3c5fc34-c146-4f87-908c-240ea2753079&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3anL3r6tGjsjcrikaVnWqHnthWryJdd2-SOwD9hhhHVFQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a3c5fc34-c146-4f87-908c-240ea2753079&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління персоналом<br>Гончар С.Й., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae5LL3a5iWBzI9R73pCYAWmpg7QcSMvvq3weSNMPvfEo1%40thread.tacv2/conversations?groupId=b94c9231-3d78-45ae-97ce-55e6c62d2cf9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae5LL3a5iWBzI9R73pCYAWmpg7QcSMvvq3weSNMPvfEo1%40thread.tacv2/conversations?groupId=b94c9231-3d78-45ae-97ce-55e6c62d2cf9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингові дослідження<br>Гайванович Н.В., 116 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84472173578?pwd=N1pmaXFkZ1B2OE4xclNEZFM1clVPQT09" title="https://us02web.zoom.us/j/84472173578?pwd=N1pmaXFkZ1B2OE4xclNEZFM1clVPQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,380 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Сенькович О.Р., 72 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09" title="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Сенькович О.Р., 72 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09" title="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Новосілець О.В., 7 XVI н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85826291929?pwd=SW83cjRVQTRkVEtIcG14SW9nMkNBdz09" title="https://us02web.zoom.us/j/85826291929?pwd=SW83cjRVQTRkVEtIcG14SW9nMkNBdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні цивілізації і релігії світу<br>Корнат Л.Я., 311 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cby-hjyh-hrq " title="https://meet.google.com/cby-hjyh-hrq ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Новосілець О.В., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87671959488?pwd=OUtBcE9ZQ0dTbERWUU9kT2E3b1BFdz09" title="https://us02web.zoom.us/j/87671959488?pwd=OUtBcE9ZQ0dTbERWUU9kT2E3b1BFdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Новосілець О.В., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89967647377?pwd=Qk1FZm9haHIySG9VWnRZMGo0eDFDQT09" title="https://us02web.zoom.us/j/89967647377?pwd=Qk1FZm9haHIySG9VWnRZMGo0eDFDQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Іноземна мова спеціальності, частина 2<br>Новосілець О.В., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85857221815?pwd=R0h0WklLSXAxUGxYd1ZFTmR3Mnc2Zz09" title="https://us02web.zoom.us/j/85857221815?pwd=R0h0WklLSXAxUGxYd1ZFTmR3Mnc2Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Сенькович О.Р., 111 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09" title="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комунікативна діяльність у міжнародних відносинах<br>Ільницька У.В., 407 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1" title="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комунікативна діяльність у міжнародних відносинах<br>Ільницька У.В., 210 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1" title="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Сучасні цивілізації і релігії світу<br>Хім'як О.М., 114 Гол. н.к., 114 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09" title="https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сучасні цивілізації і релігії світу<br>Хім'як О.М., 407 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09" title="https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Новосілець О.В., 307 II н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88126258720?pwd=SDdna0FXcFdJUHpxbG5TTDNwZ2dHdz09" title="https://us02web.zoom.us/j/88126258720?pwd=SDdna0FXcFdJUHpxbG5TTDNwZ2dHdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Новосілець О.В., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87221547694?pwd=NjFORzRWZVpuSXg5OE5qSVVYemd4dz09" title="https://us02web.zoom.us/j/87221547694?pwd=NjFORzRWZVpuSXg5OE5qSVVYemd4dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Комунікативна діяльність у міжнародних відносинах<br>Ільницька У.В., 61 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1" title="https://us04web.zoom.us/j/76132871352?pwd=zoi2NW7vB_OK8Sewg1mWd-p-RKe_92.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Сенькович О.Р., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09" title="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Переклад конференцій та бізнес-переклад<br>Сенькович О.Р., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09" title="https://zoom.us/j/8046653605?pwd=U0hoUWZDT1o1VDdoZ1BkMkowLzlndz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

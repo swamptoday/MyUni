@@ -1,0 +1,305 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія формування виробів з еластомерів<br>Семенюк Н.Б., 023 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86533338626?pwd=c3ZTTis0SGlSK3lPTjJBODhtYTV2UT09" title="https://us02web.zoom.us/j/86533338626?pwd=c3ZTTis0SGlSK3lPTjJBODhtYTV2UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретичні та експериментальні методи дослідження полімерних і композиційних матеріалів<br>Семенюк Н.Б., 023 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84183125815?pwd=TGtuV3ZRVDlrYmNwM2l1ZS9YMWdJQT09" title="https://us02web.zoom.us/j/84183125815?pwd=TGtuV3ZRVDlrYmNwM2l1ZS9YMWdJQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія формування виробів з еластомерів<br>Семенюк Н.Б., 023 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86533338626?pwd=c3ZTTis0SGlSK3lPTjJBODhtYTV2UT09" title="https://us02web.zoom.us/j/86533338626?pwd=c3ZTTis0SGlSK3lPTjJBODhtYTV2UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретичні та експериментальні методи дослідження полімерних і композиційних матеріалів<br>Семенюк Н.Б., 023 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84183125815?pwd=TGtuV3ZRVDlrYmNwM2l1ZS9YMWdJQT09" title="https://us02web.zoom.us/j/84183125815?pwd=TGtuV3ZRVDlrYmNwM2l1ZS9YMWdJQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретичні та експериментальні методи дослідження полімерних і композиційних матеріалів<br>Семенюк Н.Б., 023 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84183125815?pwd=TGtuV3ZRVDlrYmNwM2l1ZS9YMWdJQT09" title="https://us02web.zoom.us/j/84183125815?pwd=TGtuV3ZRVDlrYmNwM2l1ZS9YMWdJQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретичні та експериментальні методи дослідження полімерних і композиційних матеріалів<br>Семенюк Н.Б., 026 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89537387860?pwd=TTdyUFJWWGNlR3c2Y3RwakR4QzNFdz09" title="https://us02web.zoom.us/j/89537387860?pwd=TTdyUFJWWGNlR3c2Y3RwakR4QzNFdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Технологія формування виробів з еластомерів<br>Семенюк Н.Б., 026 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84952982817?pwd=TFdtV1IzU1J1Y3ZvbmxmaStKbisxQT09" title="https://us02web.zoom.us/j/84952982817?pwd=TFdtV1IzU1J1Y3ZvbmxmaStKbisxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Технологія формування виробів з еластомерів<br>Мельник Ю.Я., 023 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:meeting_N2RjOTYwYzktMzM2NC00ZjUyLTg1ZmMtOGY5ZDk4YjAyMzc2@thread.v2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:meeting_N2RjOTYwYzktMzM2NC00ZjUyLTg1ZmMtOGY5ZDk4YjAyMzc2@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Сучасні технологічні процеси перероблення полімерних і композиційних матеріалів (частина 2)<br>Моравський В.С., 026 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89927867536?pwd=S3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09" title="https://us02web.zoom.us/j/89927867536?pwd=S3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Технологія формування виробів з еластомерів<br>Семенюк Н.Б., 026 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84952982817?pwd=TFdtV1IzU1J1Y3ZvbmxmaStKbisxQT09" title="https://us02web.zoom.us/j/84952982817?pwd=TFdtV1IzU1J1Y3ZvbmxmaStKbisxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Технологія формування виробів з еластомерів<br>Мельник Ю.Я., 023 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:meeting_N2RjOTYwYzktMzM2NC00ZjUyLTg1ZmMtOGY5ZDk4YjAyMzc2@thread.v2" title="https://teams.microsoft.com/_?culture=uk-ua&amp;country=UA&amp;lm=deeplink&amp;lmsrc=homePageWeb&amp;cmpid=WebSignIn#/pre-join-calling/19:meeting_N2RjOTYwYzktMzM2NC00ZjUyLTg1ZmMtOGY5ZDk4YjAyMzc2@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Сучасні технологічні процеси перероблення полімерних і композиційних матеріалів (частина 2)<br>Моравський В.С., 026 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89927867536?pwd=S3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09" title="https://us02web.zoom.us/j/89927867536?pwd=S3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">САПР і конструювання пластмасових виробів та оснащення для їх формування<br>Гриценко О.М., 028 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73468743676?pwd=DrAQdazxot7qLNo-W6RscYphyG4ddE.1" title="https://us04web.zoom.us/j/73468743676?pwd=DrAQdazxot7qLNo-W6RscYphyG4ddE.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">САПР і конструювання пластмасових виробів та оснащення для їх формування<br>Гриценко О.М., 028 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76019297441?pwd=zm6nUQ0Km98kIA6O8l4e0a3c3TnzP3.1" title="https://us04web.zoom.us/j/76019297441?pwd=zm6nUQ0Km98kIA6O8l4e0a3c3TnzP3.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасні технологічні процеси перероблення полімерних і композиційних матеріалів (частина 2)<br>Красінський В.В., 028 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a603f7eba64c14bdab3c5e722d44573da%40thread.tacv2/1644305759269?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33a20b-21c8-4647-80e7-56ab3acbdc9c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a603f7eba64c14bdab3c5e722d44573da%40thread.tacv2/1644305759269?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33a20b-21c8-4647-80e7-56ab3acbdc9c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

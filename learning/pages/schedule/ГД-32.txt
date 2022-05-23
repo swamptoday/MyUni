@@ -1,0 +1,379 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фотограмметрія та дистанційне зондування, частина 2<br>Грицьків Н.З., Процик М.Т., 619б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aMAKRxKTjOpSut8Ht9V5LNPT3gzyGlLC49mfR81N8YrM1%40thread.tacv2/conversations?groupId=e326533e-3486-4546-bddc-46b03ecd68d0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aMAKRxKTjOpSut8Ht9V5LNPT3gzyGlLC49mfR81N8YrM1%40thread.tacv2/conversations?groupId=e326533e-3486-4546-bddc-46b03ecd68d0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фотограмметрія та дистанційне зондування, частина 2<br>Грицьків Н.З., Процик М.Т., 619б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aMAKRxKTjOpSut8Ht9V5LNPT3gzyGlLC49mfR81N8YrM1%40thread.tacv2/conversations?groupId=e326533e-3486-4546-bddc-46b03ecd68d0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aMAKRxKTjOpSut8Ht9V5LNPT3gzyGlLC49mfR81N8YrM1%40thread.tacv2/conversations?groupId=e326533e-3486-4546-bddc-46b03ecd68d0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Землеустрій<br>Сай В.М., 506 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09" title="https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Вишукування в землеустрої<br>Курильців Р.М., 506 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09" title="https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи гравіметрії<br>Двуліт П.Д., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://classroom.google.com/c/NDYxNjI2NTE0NjMx?cjc=kipvokq" title="https://classroom.google.com/c/NDYxNjI2NTE0NjMx?cjc=kipvokq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Супутникова геодезія та сферична астрономія, частина 2<br>Третяк К.Р., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99213175235?pwd=ZEFmNHU2VGVZSFdyTi9pOWcvNkI4QT09" title="https://zoom.us/j/99213175235?pwd=ZEFmNHU2VGVZSFdyTi9pOWcvNkI4QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи інженерної геодезії<br>Петров С.Л., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79500828102?pwd=N9rKnrA0Rr1s2MG9wdr9oSkCH8P25b.1" title="https://us04web.zoom.us/j/79500828102?pwd=N9rKnrA0Rr1s2MG9wdr9oSkCH8P25b.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Землеустрій<br>Сай В.М., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09" title="https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фотограмметрія та дистанційне зондування, частина 2<br>Бурштинська Х.В., Дорожинський О.Л., 510 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aMAKRxKTjOpSut8Ht9V5LNPT3gzyGlLC49mfR81N8YrM1%40thread.tacv2/conversations?groupId=e326533e-3486-4546-bddc-46b03ecd68d0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aMAKRxKTjOpSut8Ht9V5LNPT3gzyGlLC49mfR81N8YrM1%40thread.tacv2/conversations?groupId=e326533e-3486-4546-bddc-46b03ecd68d0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вишукування в землеустрої<br>Курильців Р.М., 506 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09" title="https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи інженерної геодезії<br>Смірнова О.М., Петров С.Л., 014 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77691003044?pwd=2JItpRRVGzltnXC1TCGKEfvQcgtAgo.1" title="https://us04web.zoom.us/j/77691003044?pwd=2JItpRRVGzltnXC1TCGKEfvQcgtAgo.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи інженерної геодезії<br>Смірнова О.М., Петров С.Л., 507 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72717409729?pwd=d43ZwZuymeslUCfARxRJ7oik0hDWAG.1" title="https://us04web.zoom.us/j/72717409729?pwd=d43ZwZuymeslUCfARxRJ7oik0hDWAG.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Супутникова геодезія та сферична астрономія, частина 2<br>Двуліт П.Д., Серант О.В., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Бонітування ґрунтів<br>Качмар О.Й., 506 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8342739130?pwd=bkp3d2dMYmFDSS9La2ZIemNhbk80UT09" title="https://zoom.us/j/8342739130?pwd=bkp3d2dMYmFDSS9La2ZIemNhbk80UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Бонітування ґрунтів<br>Качмар О.Й., Вовк Г.О., 506 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8342739130?pwd=bkp3d2dMYmFDSS9La2ZIemNhbk80UT09" title="https://zoom.us/j/8342739130?pwd=bkp3d2dMYmFDSS9La2ZIemNhbk80UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи гравіметрії<br>Двуліт П.Д., Серант О.В., 605 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://classroom.google.com/c/NDYxNjI2NTE0NjMx?cjc=kipvokq" title="https://classroom.google.com/c/NDYxNjI2NTE0NjMx?cjc=kipvokq">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/axk-ckzx-jpg?authuser=0" title="https://meet.google.com/axk-ckzx-jpg?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

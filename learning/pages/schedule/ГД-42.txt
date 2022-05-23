@@ -1,0 +1,352 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Реєстрація нерухомості <br>Хавар Ю.С., 504 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09" title="https://us02web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи  автоматизації робіт з кадастру та землеустрою<br>Винарчик Л.В., 619в II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09" title="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи  автоматизації робіт з кадастру та землеустрою<br>Винарчик Л.В., 619в II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09" title="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Реєстрація нерухомості <br>Винарчик Л.В., 504 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09" title="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи  технічного забезпечення оцінки нерухомості<br>Губар Ю.П., 506 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09" title="https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Техніко-нормативне забезпечення оцінки землі та нерухомого майна<br>Хавар Ю.С., 506 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09" title="https://us02web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Техніко-нормативне забезпечення оцінки землі та нерухомого майна<br>Хавар Ю.С., 506 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09" title="https://us02web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Реєстрація нерухомості <br>Винарчик Л.В., 504 II н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09" title="https://us04web.zoom.us/j/5506207762?pwd=azdLUEhGMVJhQWU0NnFMSmtrTUQ0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи  технічного забезпечення оцінки нерухомості<br>Губар Ю.П., 504 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09" title="https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи  технічного забезпечення оцінки нерухомості<br>Губар Ю.П., 504 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09" title="https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління розвитком  територій<br>Ступень Н.М., 504 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6465126974?pwd=dzcvK2E4V3VaMytrMlI2aDNsZ0Z5Zz09" title="https://us04web.zoom.us/j/6465126974?pwd=dzcvK2E4V3VaMytrMlI2aDNsZ0Z5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Містобудівний кадастр <br>Маланчук М.С., 504 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/75551534690?pwd=RS82eHRVVHNPUEN6Tk5IOU1Xemh0QT09" title="https://us02web.zoom.us/j/75551534690?pwd=RS82eHRVVHNPUEN6Tk5IOU1Xemh0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління розвитком  територій<br>Музика Н.М., 506 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5825602808?pwd=ZldjWE9zbW1IU2FYOW5XTkJCazlGZz09" title="https://us02web.zoom.us/j/5825602808?pwd=ZldjWE9zbW1IU2FYOW5XTkJCazlGZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Містобудівний кадастр <br>Музика Н.М., 506 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5825602808?pwd=ZldjWE9zbW1IU2FYOW5XTkJCazlGZz09" title="https://us02web.zoom.us/j/5825602808?pwd=ZldjWE9zbW1IU2FYOW5XTkJCazlGZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Містобудівний кадастр <br>Музика Н.М., 504 II н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5825602808?pwd=ZldjWE9zbW1IU2FYOW5XTkJCazlGZz09" title="https://us02web.zoom.us/j/5825602808?pwd=ZldjWE9zbW1IU2FYOW5XTkJCazlGZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

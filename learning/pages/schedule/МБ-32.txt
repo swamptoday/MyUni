@@ -1,0 +1,434 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Підприємництво та менеджмент<br>Мороз Л.І., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=93b2862d-f9b9-47fa-bf46-3175e258ca20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_meeting_ZmViNTU1NWUtNThmOS00YzcyLTliYTAtYzE1ZTVlMGE5Y2Mx@thread.v2&amp;messageId=0&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=93b2862d-f9b9-47fa-bf46-3175e258ca20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_meeting_ZmViNTU1NWUtNThmOS00YzcyLTliYTAtYzE1ZTVlMGE5Y2Mx@thread.v2&amp;messageId=0&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Підприємництво та менеджмент<br>Мороз Л.І., 79 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=93b2862d-f9b9-47fa-bf46-3175e258ca20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_meeting_ZGNjNDZhYjQtNWNjZC00ZjYxLWIwYTMtNGQzNDY2MTA2YjQ4@thread.v2&amp;messageId=0&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=93b2862d-f9b9-47fa-bf46-3175e258ca20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_meeting_ZGNjNDZhYjQtNWNjZC00ZjYxLWIwYTMtNGQzNDY2MTA2YjQ4@thread.v2&amp;messageId=0&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розмірна обробка матеріалів<br>Бойко М.В., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09" title="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Розрахунок і проектування машин, частина 1<br>Ребот Д.П., 84 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a4sMBC23lxuMcduGHjnP7_PqjRps4hZe8NEl6F2f5dQM1%40thread.tacv2/conversations?groupId=5ac6b91c-0078-4db0-bae5-a473e608a736&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a4sMBC23lxuMcduGHjnP7_PqjRps4hZe8NEl6F2f5dQM1%40thread.tacv2/conversations?groupId=5ac6b91c-0078-4db0-bae5-a473e608a736&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Процеси та апарати переробних і харчових виробництв, частина 1<br>Майструк В.В., 16 XV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDMwNWFkNjMtZGViZS00YTZhLTg2NmUtMjJhMDJkODAzMzQ2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDMwNWFkNjMtZGViZS00YTZhLTg2NmUtMjJhMDJkODAzMzQ2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Процеси та апарати переробних і харчових виробництв, частина 1<br>Майструк В.В., 16 XV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQ1ZWU2ODUtNWI2MS00ODJiLWI1NDQtNzRmMzVhZmJmZWIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQ1ZWU2ODUtNWI2MS00ODJiLWI1NDQtNzRmMzVhZmJmZWIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розмірна обробка матеріалів<br>Бойко М.В., 81 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09" title="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Процеси та апарати переробних і харчових виробництв, частина 1<br>Госовський Р.Р., 025 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3acDAj66hEercnH2zY2EvRU92t1iRmeIljdRLQm4azpOI1%40thread.tacv2/1647967863691?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2277526b07-4066-4abe-bcb5-e509897c105c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3acDAj66hEercnH2zY2EvRU92t1iRmeIljdRLQm4azpOI1%40thread.tacv2/1647967863691?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2277526b07-4066-4abe-bcb5-e509897c105c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи автоматизованого керування технологічним обладнанням<br>Шеремета Р.М., 77 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQwNjJlYzEtYTgxYi00NGUyLThiNjQtNzM5ZTA1NmI4OGFm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQwNjJlYzEtYTgxYi00NGUyLThiNjQtNzM5ZTA1NmI4OGFm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Радіоелектронні пристрої обладнання харчових виробництв<br>Шеремета Р.М., 77 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWZjNWI2OWQtYzk5OC00N2RkLTg3MjAtODIwYjdhYjE2OTUz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWZjNWI2OWQtYzk5OC00N2RkLTg3MjAtODIwYjdhYjE2OTUz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Системи автоматизованого керування технологічним обладнанням<br>Шеремета Р.М., 77 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFhMGI2MDMtMWI4NC00NjM4LTg5MDQtYTdkZDAwMDAxZTYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFhMGI2MDMtMWI4NC00NjM4LTg5MDQtYTdkZDAwMDAxZTYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Розмірна обробка матеріалів<br>Бойко М.В., 84 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09" title="https://zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Загальна технологія переробних та харчових виробництв<br>Велика О.Т., 81 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmNhNmM2NDEtZWFjYS00ZTc2LThmZmQtMmFiYTA5Njk3YTE5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmNhNmM2NDEtZWFjYS00ZTc2LThmZmQtMmFiYTA5Njk3YTE5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та засоби прототипування виробів<br>Ребот Д.П., 81 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ada851749d8994f3e88948ddbf62cd506%40thread.tacv2/conversations?groupId=fdc8f165-c2c5-4350-9e5c-d5ea3e858ea8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ada851749d8994f3e88948ddbf62cd506%40thread.tacv2/conversations?groupId=fdc8f165-c2c5-4350-9e5c-d5ea3e858ea8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та засоби прототипування виробів<br>Стоцько З.А., 79 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGVhNzE5YWUtMGM4Ni00OWY3LWFjNTAtNjhkYTA1ZjE0MDZk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGVhNzE5YWUtMGM4Ni00OWY3LWFjNTAtNjhkYTA1ZjE0MDZk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розрахунок і проектування машин, частина 1<br>Ребот Д.П., 81 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a4sMBC23lxuMcduGHjnP7_PqjRps4hZe8NEl6F2f5dQM1%40thread.tacv2/conversations?groupId=5ac6b91c-0078-4db0-bae5-a473e608a736&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a4sMBC23lxuMcduGHjnP7_PqjRps4hZe8NEl6F2f5dQM1%40thread.tacv2/conversations?groupId=5ac6b91c-0078-4db0-bae5-a473e608a736&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Радіоелектронні пристрої обладнання харчових виробництв<br>Шеремета Р.М., 77 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTFkMzNhNTAtOTcwMC00MzQ4LTkxMDctMTU0ZDM3MWJlZjFk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTFkMzNhNTAtOTcwMC00MzQ4LTkxMDctMTU0ZDM3MWJlZjFk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Радіоелектронні пристрої обладнання харчових виробництв<br>Шеремета Р.М., 77 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzlkNzRlNGYtMmQxZS00ZmM5LTgwNzUtZjFlMzU3NjIwZGRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzlkNzRlNGYtMmQxZS00ZmM5LTgwNzUtZjFlMzU3NjIwZGRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254e20655-f670-4127-9903-8c4bc3400855%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Загальна технологія переробних та харчових виробництв<br>Велика О.Т., 83 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2QyMjA3YzktYzgyZC00M2MwLWEzMWItZWNjMGFhNDgxOGFi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2QyMjA3YzktYzgyZC00M2MwLWEzMWItZWNjMGFhNDgxOGFi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Загальна технологія переробних та харчових виробництв<br>Велика О.Т., 83 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yjk2YzU2MjgtNmIxZC00Y2E3LTk1M2ItOWE1MjBjNGNiNjU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yjk2YzU2MjgtNmIxZC00Y2E3LTk1M2ItOWE1MjBjNGNiNjU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

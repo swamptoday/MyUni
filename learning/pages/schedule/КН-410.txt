@@ -1,0 +1,365 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., 302 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ade14112a3a054abc8b12b830bf71e7f9%40thread.tacv2/%25D0%259A%25D0%259D-408-413?groupId=b40071ca-c40b-4294-a313-4d356e4fdd6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ade14112a3a054abc8b12b830bf71e7f9%40thread.tacv2/%25D0%259A%25D0%259D-408-413?groupId=b40071ca-c40b-4294-a313-4d356e4fdd6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., 302 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ade14112a3a054abc8b12b830bf71e7f9%40thread.tacv2/%25D0%259A%25D0%259D-408-413?groupId=b40071ca-c40b-4294-a313-4d356e4fdd6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ade14112a3a054abc8b12b830bf71e7f9%40thread.tacv2/%25D0%259A%25D0%259D-408-413?groupId=b40071ca-c40b-4294-a313-4d356e4fdd6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи робототехніки<br>Гасько Р.Т., 125, XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jvj-obwr-krn" title="https://meet.google.com/jvj-obwr-krn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Обробка зображень методами штучного інтелекту<br>Пелешко Д.Д., 232 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84207088507?pwd=Tk9TNG1HeW5CUkhQcXljUGZSb0VNQT09" title="https://us02web.zoom.us/j/84207088507?pwd=Tk9TNG1HeW5CUkhQcXljUGZSb0VNQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи робототехніки<br>Гасько Р.Т., 120 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jvj-obwr-krn" title="https://meet.google.com/jvj-obwr-krn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Обробка зображень методами штучного інтелекту<br>Пелешко Д.Д., 232 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84207088507?pwd=Tk9TNG1HeW5CUkhQcXljUGZSb0VNQT09" title="https://us02web.zoom.us/j/84207088507?pwd=Tk9TNG1HeW5CUkhQcXljUGZSb0VNQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., 307 III н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи робототехніки<br>Гасько Р.Т., акт.зал 20 корп.<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jvj-obwr-krn" title="https://meet.google.com/jvj-obwr-krn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи робототехніки<br>Гасько Р.Т., акт.зал 20 корп.<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/jvj-obwr-krn" title="https://meet.google.com/jvj-obwr-krn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., акт.зал 20 корп.<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ade14112a3a054abc8b12b830bf71e7f9%40thread.tacv2/%25D0%259A%25D0%259D-408-413?groupId=b40071ca-c40b-4294-a313-4d356e4fdd6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ade14112a3a054abc8b12b830bf71e7f9%40thread.tacv2/%25D0%259A%25D0%259D-408-413?groupId=b40071ca-c40b-4294-a313-4d356e4fdd6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Токарєва М.О., акт.зал 20 корп.<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ade14112a3a054abc8b12b830bf71e7f9%40thread.tacv2/%25D0%259A%25D0%259D-408-413?groupId=b40071ca-c40b-4294-a313-4d356e4fdd6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ade14112a3a054abc8b12b830bf71e7f9%40thread.tacv2/%25D0%259A%25D0%259D-408-413?groupId=b40071ca-c40b-4294-a313-4d356e4fdd6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обробка зображень методами штучного інтелекту<br>Пелешко Д.Д., акт.зал 20 корп.<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81579884977?pwd=R21lejhwL0RIenRVOGVULzlQVmtGdz09" title="https://us02web.zoom.us/j/81579884977?pwd=R21lejhwL0RIenRVOGVULzlQVmtGdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обробка зображень методами штучного інтелекту<br>Пелешко Д.Д., акт.зал 20 корп.<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81579884977?pwd=R21lejhwL0RIenRVOGVULzlQVmtGdz09" title="https://us02web.zoom.us/j/81579884977?pwd=R21lejhwL0RIenRVOGVULzlQVmtGdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Обробка мови методами штучного інтелекту<br>Сивоконь О.О., 120 XX н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Обробка мови методами штучного інтелекту<br>Сивоконь О.О., 120 XX н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обробка мови методами штучного інтелекту<br>Сивоконь О.О., акт.зал20 корп.<br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

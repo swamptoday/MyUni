@@ -1,0 +1,454 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інфраструктура міжнародного туризму<br>Кошова Б.Р., 101 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09" title="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація досліджень тенденції розвитку туризму<br>Сеньків М.І., 137 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNGQ1Y2UtNTM2Ni00ZmUwLWJkZmMtNzI5NzM5NjczM2My%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNGQ1Y2UtNTM2Ni00ZmUwLWJkZmMtNzI5NzM5NjczM2My%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Світовий досвід організації діяльності в туристичній галузі<br>Сеньків М.І., 137 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTMwOGZmOWItNjIxMC00YjVjLWFmZTgtZDBkNTkxY2U0YzZl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTMwOGZmOWItNjIxMC00YjVjLWFmZTgtZDBkNTkxY2U0YzZl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародні вимоги до безпеки туризму<br>Римар Ю.М., 137 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0N2VlNzItOGI0ZC00MDVhLTkyNjktNWI1OGM5M2M2OGFm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ffe29fc0-a421-4f42-abd2-79a64915e0a0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmY0N2VlNzItOGI0ZC00MDVhLTkyNjktNWI1OGM5M2M2OGFm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ffe29fc0-a421-4f42-abd2-79a64915e0a0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Планування діяльності організацій турбізнесу<br>Ільницька-Гикавчук Г.Я., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74651393553" title="https://us04web.zoom.us/j/74651393553">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рекламно-інформаційна діяльність в туризмі<br>Роїк О.Р., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85951996906?pwd=cjFvb0k0VFozZVR2YXFQR05RMjdGUT09" title="https://us02web.zoom.us/j/85951996906?pwd=cjFvb0k0VFozZVR2YXFQR05RMjdGUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Супровід туризму в ЄС<br>Лущик М.В., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09" title="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація досліджень тенденції розвитку туризму<br>Сеньків М.І., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTY5MGFmZDEtMzYxZS00MzNmLTk4MDYtNDZlNGVlNGMyMDRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTY5MGFmZDEtMzYxZS00MzNmLTk4MDYtNDZlNGVlNGMyMDRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація досліджень тенденції розвитку туризму<br>Сеньків М.І., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjdkYThkMjMtMmFmZi00YzEzLTk3ZWYtMTFlZWRjNzBhYmU2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjdkYThkMjMtMmFmZi00YzEzLTk3ZWYtMTFlZWRjNzBhYmU2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Організація досліджень тенденції розвитку туризму<br>Сеньків М.І., 012 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDk0MzI0MmItNmI0Ni00NTAwLTkxYWMtZjA5MDk0MGE2YzUw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDk0MzI0MmItNmI0Ni00NTAwLTkxYWMtZjA5MDk0MGE2YzUw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Світовий досвід організації діяльності в туристичній галузі<br>Сеньків М.І., 402 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk5YTY1YzgtNGVjMS00NzUzLTg3MjgtMWM3MDE2NjZkNzYz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk5YTY1YzgtNGVjMS00NzUzLTg3MjgtMWM3MDE2NjZkNzYz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Світовий досвід організації діяльності в туристичній галузі<br>Сеньків М.І., 402 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk5YTY1YzgtNGVjMS00NzUzLTg3MjgtMWM3MDE2NjZkNzYz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk5YTY1YzgtNGVjMS00NzUzLTg3MjgtMWM3MDE2NjZkNzYz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інфраструктура міжнародного туризму<br>Кошова Б.Р., 315 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09" title="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Світовий досвід організації діяльності в туристичній галузі<br>Сеньків М.І., 315 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGNkY2Y5ZDgtOWJhNS00YjgzLTgyNzEtZWI0ZTE3MDlkOWE0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGNkY2Y5ZDgtOWJhNS00YjgzLTgyNzEtZWI0ZTE3MDlkOWE0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Планування діяльності організацій турбізнесу<br>Кошова Б.Р., 315 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09" title="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Супровід туризму в ЄС<br>Лущик М.В., 132 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09" title="https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародні вимоги до безпеки туризму<br>Римар Ю.М., 137 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U0YWM4ZGMtNTYwMS00ZGM1LTg4NmItNGEzN2IyYmFhMWZj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ffe29fc0-a421-4f42-abd2-79a64915e0a0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U0YWM4ZGMtNTYwMS00ZGM1LTg4NmItNGEzN2IyYmFhMWZj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ffe29fc0-a421-4f42-abd2-79a64915e0a0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Планування діяльності організацій турбізнесу<br>Кошова Б.Р., 508 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09" title="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Планування діяльності організацій турбізнесу<br>Кошова Б.Р., 508 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09" title="https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Рекламно-інформаційна діяльність в туризмі<br>Роїк О.Р., 509 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82602380573?pwd=N0t6VmU2dFprRDdnS1VSZi81bVViQT09" title="https://us02web.zoom.us/j/82602380573?pwd=N0t6VmU2dFprRDdnS1VSZi81bVViQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Рекламно-інформаційна діяльність в туризмі<br>Роїк О.Р., 509 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82602380573?pwd=N0t6VmU2dFprRDdnS1VSZi81bVViQT09" title="https://us02web.zoom.us/j/82602380573?pwd=N0t6VmU2dFprRDdnS1VSZi81bVViQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

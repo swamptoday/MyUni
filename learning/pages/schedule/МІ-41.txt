@@ -1,0 +1,242 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Суспільна комунікаційна система<br>Вознюк О.М., 015 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83204690524?pwd=NDg1V2VjcEk2ZllSMThGTXBBbWVJQT09  Идентификатор конференции: 832 0469 0524 Код доступа: 302404" title="https://us02web.zoom.us/j/83204690524?pwd=NDg1V2VjcEk2ZllSMThGTXBBbWVJQT09  Идентификатор конференции: 832 0469 0524 Код доступа: 302404">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Суспільна комунікаційна система<br>Вознюк О.М., Вознюк128 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89531968550?pwd=NklZQ3FDNGJiYjh4TWZDaldJNzZwQT09  Идентификатор конференции: 895 3196 8550 Код доступа: 540426" title="https://us02web.zoom.us/j/89531968550?pwd=NklZQ3FDNGJiYjh4TWZDaldJNzZwQT09  Идентификатор конференции: 895 3196 8550 Код доступа: 540426">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційно-пропагандистське забезпечення зовнішньої політики<br>Хахула Л.І., 128 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96302438968?pwd=cVpyWCsySUdxNDVhcEh5NlpySDM2Zz09" title="https://zoom.us/j/96302438968?pwd=cVpyWCsySUdxNDVhcEh5NlpySDM2Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях<br>Базилюк К.Ф., Вознюк О.М., 015 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82087341861?pwd=U0ZGYmovTFJ1bFRYQ2VwbzhpM1pVUT09  Идентификатор конференции: 820 8734 1861 Код доступа: 017030" title="https://us02web.zoom.us/j/82087341861?pwd=U0ZGYmovTFJ1bFRYQ2VwbzhpM1pVUT09  Идентификатор конференции: 820 8734 1861 Код доступа: 017030">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74908626783?pwd=U2haWERoS2lGc3Y1WDNnRVRPdmVoUT09" title="https://us04web.zoom.us/j/74908626783?pwd=U2haWERoS2lGc3Y1WDNnRVRPdmVoUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Суспільна комунікаційна система<br>Павлюх М.В., Вознюк О.М., 015 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83204690524?pwd=NDg1V2VjcEk2ZllSMThGTXBBbWVJQT09  Идентификатор конференции: 832 0469 0524 Код доступа: 302404" title="https://us02web.zoom.us/j/83204690524?pwd=NDg1V2VjcEk2ZllSMThGTXBBbWVJQT09  Идентификатор конференции: 832 0469 0524 Код доступа: 302404">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71974326359?pwd=2jZYJilLL-62xPpGMw9UfJkXGBmJXv.1" title="https://us04web.zoom.us/j/71974326359?pwd=2jZYJilLL-62xPpGMw9UfJkXGBmJXv.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях<br>Базилюк К.Ф., 128 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75399499124?pwd=anNGaTgrL0tObkpBR2ZHZlo1VDJkZz09" title="https://us04web.zoom.us/j/75399499124?pwd=anNGaTgrL0tObkpBR2ZHZlo1VDJkZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародне інформаційне право<br>Сухорольський П.М., 128 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3arb8z9Y4LnLPDKTC_dwhlVnk8ArX84gntU64d63h_mys1%40thread.tacv2/General?groupId=61835ad0-510a-4a68-9b13-18f6804e6a11&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3arb8z9Y4LnLPDKTC_dwhlVnk8ArX84gntU64d63h_mys1%40thread.tacv2/General?groupId=61835ad0-510a-4a68-9b13-18f6804e6a11&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційно-пропагандистське забезпечення зовнішньої політики<br>Хахула Л.І., Польовий Т.Є., 015 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pzk-pqjx-cva" title="https://meet.google.com/pzk-pqjx-cva">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5034266896?pwd=RGhRdzVkdlJoNUVvZkFkNFpwTk9zUT09" title="https://zoom.us/j/5034266896?pwd=RGhRdzVkdlJoNUVvZkFkNFpwTk9zUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Суспільна комунікаційна система<br>Павлюх М.В., Вознюк О.М., 015 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79909726147?pwd=CadZ_7Qe05G39kn-5pFJVSzt-x6Ioe.1" title="https://us04web.zoom.us/j/79909726147?pwd=CadZ_7Qe05G39kn-5pFJVSzt-x6Ioe.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародне інформаційне право<br>Сухорольський П.М., 511 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3arb8z9Y4LnLPDKTC_dwhlVnk8ArX84gntU64d63h_mys1%40thread.tacv2/General?groupId=61835ad0-510a-4a68-9b13-18f6804e6a11&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3arb8z9Y4LnLPDKTC_dwhlVnk8ArX84gntU64d63h_mys1%40thread.tacv2/General?groupId=61835ad0-510a-4a68-9b13-18f6804e6a11&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

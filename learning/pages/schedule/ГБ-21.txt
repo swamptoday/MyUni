@@ -1,0 +1,294 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водні технології<br>Мацієвська О.О., 112а II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09" title="https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водна інженерія<br>Гнатів Р.М., 112а II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09" title="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Геологія та гідрогеологія<br>Бубняк І.М., 507 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/him-xdxb-enj" title="https://meet.google.com/him-xdxb-enj">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Геологія та гідрогеологія<br>Бубняк І.М., 507 II н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/mmt-ieaw-oiz" title="https://meet.google.com/mmt-ieaw-oiz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Механіка грунтів, основи та фундаменти<br>Була С.С., 225 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09" title="https://zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геологія та гідрогеологія<br>Бубняк І.М., 507 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/cax-auci-vmq" title="https://meet.google.com/cax-auci-vmq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Сербо Є.В., Цьовх Л.П., Блавт О.З., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/86398221032?pwd=WG8vd2F0UFdBaElaUmpEN2hleThwZz09" title="https://us05web.zoom.us/j/86398221032?pwd=WG8vd2F0UFdBaElaUmpEN2hleThwZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інженерна гідравліка<br>Матлай І.І., 202 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09" title="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водна інженерія<br>Гнатів Р.М., 202 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09" title="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водні технології<br>Мацієвська О.О., 112а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09" title="https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Механіка грунтів, основи та фундаменти<br>Була С.С., 209 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09" title="https://zoom.us/j/8518445421?pwd=OFRaSGVpM1RjdDJ5UWk0dFN5czlsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інженерна гідравліка<br>Гнатів Р.М., Матлай І.І., 106 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09" title="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09" title="https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інженерна гідравліка<br>Матлай І.І., 411 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09" title="https://us02web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

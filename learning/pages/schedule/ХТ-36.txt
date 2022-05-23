@@ -1,0 +1,476 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімія продовольчої сировини та продуктів харчування, частина 1<br>Токарев В.С., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjAyNTVjZTEtYWRjMC00ODIyLWJhN2UtNmYzYTU0MDg3OWU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223b33ef10-60de-41fc-819c-597e60fa80dc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjAyNTVjZTEtYWRjMC00ODIyLWJhN2UtNmYzYTU0MDg3OWU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223b33ef10-60de-41fc-819c-597e60fa80dc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія продовольчої сировини та продуктів харчування, частина 1<br>Токарев В.С., 221 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjAyNTVjZTEtYWRjMC00ODIyLWJhN2UtNmYzYTU0MDg3OWU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223b33ef10-60de-41fc-819c-597e60fa80dc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjAyNTVjZTEtYWRjMC00ODIyLWJhN2UtNmYzYTU0MDg3OWU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223b33ef10-60de-41fc-819c-597e60fa80dc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Хімія продовольчої сировини та продуктів харчування, частина 1<br>Токарев В.С., 202 VIII н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімія продовольчої сировини та продуктів харчування, частина 1<br>Токарев В.С., 221 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjAyNTVjZTEtYWRjMC00ODIyLWJhN2UtNmYzYTU0MDg3OWU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223b33ef10-60de-41fc-819c-597e60fa80dc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjAyNTVjZTEtYWRjMC00ODIyLWJhN2UtNmYzYTU0MDg3OWU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223b33ef10-60de-41fc-819c-597e60fa80dc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Метрологія, стандартизація та сертифікація<br>Коваль І.З., 116 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a0azLO-gzOel3JyX3nf2AhhYWOJV-NHSwzL8YdWzKjV81%40thread.tacv2/conversations?groupId=b3fa0f77-4186-48ea-8b6a-5d4d358b23aa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a0azLO-gzOel3JyX3nf2AhhYWOJV-NHSwzL8YdWzKjV81%40thread.tacv2/conversations?groupId=b3fa0f77-4186-48ea-8b6a-5d4d358b23aa&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналітична хімія, частина 2<br>Стаднік В.Є., Ятчишин Й.Й., Цюпко Ф.І., Шаповал П.Й., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a91466fb3a7c54cd6a570ccd19d6c113b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dc559c91-f7ba-487d-abc8-bbd7e64c68fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a91466fb3a7c54cd6a570ccd19d6c113b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=dc559c91-f7ba-487d-abc8-bbd7e64c68fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a91466fb3a7c54cd6a570ccd19d6c113b%40thread.tacv2/conversations?groupId=dc559c91-f7ba-487d-abc8-bbd7e64c68fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a91466fb3a7c54cd6a570ccd19d6c113b%40thread.tacv2/conversations?groupId=dc559c91-f7ba-487d-abc8-bbd7e64c68fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Аналітична хімія, частина 2<br>Стаднік В.Є., Шаповал П.Й., Цюпко Ф.І., Ятчишин Й.Й., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a7834cafa992142d4b0b2614bc97aca47%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B8%2520(%25D0%25B4%25D0%25B8%25D1%2581%25D1%2582%25D0%25B0%25D0%25BD%25D1%2586%25D1%2596%25D0%25B9%25D0%25BD%25D0%25BE)?groupId=b0d68bf7-f8ca-4d85-8ba1-a4b88a03a4d6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a7834cafa992142d4b0b2614bc97aca47%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B8%2520(%25D0%25B4%25D0%25B8%25D1%2581%25D1%2582%25D0%25B0%25D0%25BD%25D1%2586%25D1%2596%25D0%25B9%25D0%25BD%25D0%25BE)?groupId=b0d68bf7-f8ca-4d85-8ba1-a4b88a03a4d6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a91466fb3a7c54cd6a570ccd19d6c113b%40thread.tacv2/conversations?groupId=dc559c91-f7ba-487d-abc8-bbd7e64c68fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a91466fb3a7c54cd6a570ccd19d6c113b%40thread.tacv2/conversations?groupId=dc559c91-f7ba-487d-abc8-bbd7e64c68fc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімія органічних природних сполук<br>Стецишин Ю.Б., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YTZjZGQ4YjEtZTEyNS00ZmVkLTljNzgtNWVlMDEyMTVlOTk3@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YTZjZGQ4YjEtZTEyNS00ZmVkLTljNzgtNWVlMDEyMTVlOTk3@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Метрологія, стандартизація та сертифікація<br>Макота О.І., 101 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arHNOTYT2RZ27eVP-28QYtEoTJlfhaAKX8rcbrfJd-O01%40thread.tacv2/conversations?groupId=84c9eeba-f856-42c6-8507-0db9aa74345e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arHNOTYT2RZ27eVP-28QYtEoTJlfhaAKX8rcbrfJd-O01%40thread.tacv2/conversations?groupId=84c9eeba-f856-42c6-8507-0db9aa74345e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Енерготехнології  хіміко-технологічних процесів<br>Кіндзера Д.П., 101 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3au3AH9IPsCm2kHhRWEuDsrXA69WMl3-0QKGcpGU017ko1%40thread.tacv2/conversations?groupId=43ccd066-d4db-4004-854c-3cddbccf195e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3au3AH9IPsCm2kHhRWEuDsrXA69WMl3-0QKGcpGU017ko1%40thread.tacv2/conversations?groupId=43ccd066-d4db-4004-854c-3cddbccf195e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи біохімії<br>Стецишин Ю.Б., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_OTQ3MzQyOTUtNjcyNC00YmQzLThiNDYtZGMwZjE5Zjk5ZDVj@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_OTQ3MzQyOTUtNjcyNC00YmQzLThiNDYtZGMwZjE5Zjk5ZDVj@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи біохімії<br>Стецишин Ю.Б., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NDZlMDExMmEtMDE2Zi00MDAzLThjMTAtMDQ2ZTg2MTQ2YmFj@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NDZlMDExMmEtMDE2Zi00MDAzLThjMTAtMDQ2ZTg2MTQ2YmFj@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи біохімії<br>Стецишин Ю.Б., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_OTQ3MzQyOTUtNjcyNC00YmQzLThiNDYtZGMwZjE5Zjk5ZDVj@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_OTQ3MzQyOTUtNjcyNC00YmQzLThiNDYtZGMwZjE5Zjk5ZDVj@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи біохімії<br>Стецишин Ю.Б., 215 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NDZlMDExMmEtMDE2Zi00MDAzLThjMTAtMDQ2ZTg2MTQ2YmFj@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_NDZlMDExMmEtMDE2Zi00MDAzLThjMTAtMDQ2ZTg2MTQ2YmFj@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія хімічних реакцій і реакторів<br>Самарик В.Я., 202 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644237983303?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644237983303?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія органічних природних сполук<br>Стецишин Ю.Б., 221 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YjU2ZmQ2ZDYtM2ViYS00ZTRjLWIwNGUtODczMTQ0NzY3ODgy@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YjU2ZmQ2ZDYtM2ViYS00ZTRjLWIwNGUtODczMTQ0NzY3ODgy@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія хімічних реакцій і реакторів<br>Самарик В.Я., 202 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644237983303?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644237983303?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія органічних природних сполук<br>Стецишин Ю.Б., 221 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YjU2ZmQ2ZDYtM2ViYS00ZTRjLWIwNGUtODczMTQ0NzY3ODgy@thread.v2" title="https://teams.microsoft.com/_#/pre-join-calling/19:meeting_YjU2ZmQ2ZDYtM2ViYS00ZTRjLWIwNGUtODczMTQ0NzY3ODgy@thread.v2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Енерготехнології  хіміко-технологічних процесів<br>Госовський Р.Р., 028 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aTTSJ_526AWWXifSg7HrrwwByVEZKJHI_u4S4hWlsG-41%40thread.tacv2/1648155153065?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2277526b07-4066-4abe-bcb5-e509897c105c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aTTSJ_526AWWXifSg7HrrwwByVEZKJHI_u4S4hWlsG-41%40thread.tacv2/1648155153065?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2277526b07-4066-4abe-bcb5-e509897c105c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія хімічних реакцій і реакторів<br>Самарик В.Я., 202 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644238973178?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644238973178?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія хімічних реакцій і реакторів<br>Самарик В.Я., 202 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644239593926?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644239593926?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія хімічних реакцій і реакторів<br>Самарик В.Я., 202 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644239593926?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a442febe412f24510b06be2bf767659e8%40thread.tacv2/1644239593926?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224bf5ac0c-87c6-4e96-8e4b-5e792f2e9ccc%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

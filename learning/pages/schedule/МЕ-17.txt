@@ -1,0 +1,521 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Історія державності та культури України<br>Вербицька П.В., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96680693208?pwd=MmJXdGxRRmdhRGd2TXVQcEduNklYZz09  Meeting ID: 966 8069 3208 Passcode: 7r724h" title="https://zoom.us/j/96680693208?pwd=MmJXdGxRRmdhRGd2TXVQcEduNklYZz09  Meeting ID: 966 8069 3208 Passcode: 7r724h">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математика для економістів, частина 2<br>Мусій Р.С., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98915960578?pwd=TFlFcHF5aEZ2a3VsN0s0dTRrN2Y4Zz09" title="https://zoom.us/j/98915960578?pwd=TFlFcHF5aEZ2a3VsN0s0dTRrN2Y4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математика для економістів, частина 2<br>Мусій Р.С., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98915960578?pwd=TFlFcHF5aEZ2a3VsN0s0dTRrN2Y4Zz09" title="https://zoom.us/j/98915960578?pwd=TFlFcHF5aEZ2a3VsN0s0dTRrN2Y4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Менеджмент<br>Вільгуцька Р.Б., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:a4ec525991fb41a794667ec7bc4e15f7@thread.tacv2/1644145333092?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21" title="https://teams.microsoft.com/l/message/19:a4ec525991fb41a794667ec7bc4e15f7@thread.tacv2/1644145333092?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікроекономіка<br>Садова У.Я., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3A10eede3be6e64f3e945c42dfb9f7f06d%40thread.tacv2/1644323163001?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%222bd93fb3-3f14-45de-9823-03f28e6c7afd%22%7D" title="https://teams.microsoft.com/l/meetup-join/19%3A10eede3be6e64f3e945c42dfb9f7f06d%40thread.tacv2/1644323163001?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%222bd93fb3-3f14-45de-9823-03f28e6c7afd%22%7D">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікроекономіка<br>Садова У.Я., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3A10eede3be6e64f3e945c42dfb9f7f06d%40thread.tacv2/1644323163001?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%222bd93fb3-3f14-45de-9823-03f28e6c7afd%22%7D" title="https://teams.microsoft.com/l/meetup-join/19%3A10eede3be6e64f3e945c42dfb9f7f06d%40thread.tacv2/1644323163001?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%222bd93fb3-3f14-45de-9823-03f28e6c7afd%22%7D">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Мікроекономіка<br>Іваницька Н.Б., 205 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3846142393?pwd=TzN1NDc0UXExdGs5NDRTakp6YWtldz09  Meeting ID: 384 614 2393 Passcode: g5tqyq" title="https://zoom.us/j/3846142393?pwd=TzN1NDc0UXExdGs5NDRTakp6YWtldz09  Meeting ID: 384 614 2393 Passcode: g5tqyq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Мікроекономіка<br>Іваницька Н.Б., 225 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3846142393?pwd=TzN1NDc0UXExdGs5NDRTakp6YWtldz09  Meeting ID: 384 614 2393 Passcode: g5tqyq" title="https://zoom.us/j/3846142393?pwd=TzN1NDc0UXExdGs5NDRTakp6YWtldz09  Meeting ID: 384 614 2393 Passcode: g5tqyq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія державності та культури України<br>Кравець Д.М., 205 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9186463933?pwd=Qmw1QXFtdnlsTU5MVkNWSFFXMDljQT09" title="https://us04web.zoom.us/j/9186463933?pwd=Qmw1QXFtdnlsTU5MVkNWSFFXMDljQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Менеджмент<br>Вільгуцька Р.Б., 402 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:2628c1c4ea5f49a198ca050dfc3abe60@thread.tacv2/1644145688659?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21" title="https://teams.microsoft.com/l/message/19:2628c1c4ea5f49a198ca050dfc3abe60@thread.tacv2/1644145688659?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Менеджмент<br>Вільгуцька Р.Б., 402 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:2628c1c4ea5f49a198ca050dfc3abe60@thread.tacv2/1644145850293?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21" title="https://teams.microsoft.com/l/message/19:2628c1c4ea5f49a198ca050dfc3abe60@thread.tacv2/1644145850293?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Менеджмент<br>Вільгуцька Р.Б., 402 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:767f52fbdb844985939bf6cfb9887b13@thread.tacv2/1644146963057?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21" title="https://teams.microsoft.com/l/message/19:767f52fbdb844985939bf6cfb9887b13@thread.tacv2/1644146963057?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Менеджмент<br>Вільгуцька Р.Б., 402 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:767f52fbdb844985939bf6cfb9887b13@thread.tacv2/1644147074301?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21" title="https://teams.microsoft.com/l/message/19:767f52fbdb844985939bf6cfb9887b13@thread.tacv2/1644147074301?groupId=eb3f3827-f3c4-414a-a351-deb36558ec21">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Барабаш О.В., 45 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73991564096?pwd=i9035asPfSPZPs2yplulZXNGRPXP25.1" title="https://us04web.zoom.us/j/73991564096?pwd=i9035asPfSPZPs2yplulZXNGRPXP25.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Бублик Т.Є., 31 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/83754228348?pwd=T1Y4S2l5SzE2K1MvR3Q3bjRvVjNsQT09" title="https://us05web.zoom.us/j/83754228348?pwd=T1Y4S2l5SzE2K1MvR3Q3bjRvVjNsQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Барабаш О.В., 45 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73991564096?pwd=i9035asPfSPZPs2yplulZXNGRPXP25.1" title="https://us04web.zoom.us/j/73991564096?pwd=i9035asPfSPZPs2yplulZXNGRPXP25.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Бублик Т.Є., 31 VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/83754228348?pwd=T1Y4S2l5SzE2K1MvR3Q3bjRvVjNsQT09" title="https://us05web.zoom.us/j/83754228348?pwd=T1Y4S2l5SzE2K1MvR3Q3bjRvVjNsQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Пономарьов С.В., 8.00-9.30, вул. Самчука 11, дівчата<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Пономарьов С.В., 8.00-9.30, вул. Самчука 11, хлопці<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98069211822?pwd=NmZKeDQ0QmdOUXduZjlHZVRmd0V5dz09" title="https://zoom.us/j/98069211822?pwd=NmZKeDQ0QmdOUXduZjlHZVRmd0V5dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Мікроекономіка<br>Канцір І.А., 3 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a_5g_giOQtLwjWGwlDoaE8PmPyYHeNDiuc3EJ8hDPXyE1%40thread.tacv2/conversations?groupId=7e6a78db-4516-4597-b13e-b1a1dae5b32b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a_5g_giOQtLwjWGwlDoaE8PmPyYHeNDiuc3EJ8hDPXyE1%40thread.tacv2/conversations?groupId=7e6a78db-4516-4597-b13e-b1a1dae5b32b&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Мікроекономіка<br>Канцір І.А., 3 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a3txiYRzsG0dMTqaz9hsETMyfuLqcSAX_Nnw4zFRLPkc1%40thread.tacv2/conversations?groupId=b54b832d-901c-4e86-bbdb-633c3c90ddb7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a3txiYRzsG0dMTqaz9hsETMyfuLqcSAX_Nnw4zFRLPkc1%40thread.tacv2/conversations?groupId=b54b832d-901c-4e86-bbdb-633c3c90ddb7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математика для економістів, частина 2<br>Шевчук Р.В., 205 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09" title="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Барабаш О.В., 45 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73991564096?pwd=i9035asPfSPZPs2yplulZXNGRPXP25.1" title="https://us04web.zoom.us/j/73991564096?pwd=i9035asPfSPZPs2yplulZXNGRPXP25.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Бублик Т.Є., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/83754228348?pwd=T1Y4S2l5SzE2K1MvR3Q3bjRvVjNsQT09" title="https://us05web.zoom.us/j/83754228348?pwd=T1Y4S2l5SzE2K1MvR3Q3bjRvVjNsQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математика для економістів, частина 2<br>Шевчук Р.В., 205 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09" title="https://zoom.us/j/96534379248?pwd=TGZvbFYrTk5TaFNqcnhtNGNnSHZFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

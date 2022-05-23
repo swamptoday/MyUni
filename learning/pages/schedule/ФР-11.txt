@@ -1,0 +1,461 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика<br>Українець Н.А., 124 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaOsYD2WH_KhnLGPCm7y2lXYRC3uGGDLtdu7pxe2PLW01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=2e352fa5-b0ef-4fa8-a0a9-2a371847139f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaOsYD2WH_KhnLGPCm7y2lXYRC3uGGDLtdu7pxe2PLW01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=2e352fa5-b0ef-4fa8-a0a9-2a371847139f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізична та колоїдна хімія<br>Собечко І.Б., 138 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97556698152?pwd=M1pjR1NORFNMdmtNV2dmM0U1Um9Cdz09" title="https://zoom.us/j/97556698152?pwd=M1pjR1NORFNMdmtNV2dmM0U1Um9Cdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімічні методи аналізу складу речовин<br>Полюжин І.П., 226 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVhNjk1MTctYTQzNC00ZTBhLWI5ODAtMGEzZTZmMGZmMzRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aab52c85-f1d7-48ad-a495-d4b64afbbfb5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVhNjk1MTctYTQzNC00ZTBhLWI5ODAtMGEzZTZmMGZmMzRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aab52c85-f1d7-48ad-a495-d4b64afbbfb5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Вища математика, частина 2<br>Зеленяк В.М., 139 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77564766254?pwd=UVRXfHp9tnoGZupjYtAVy6OuOfDxel.1" title="https://us04web.zoom.us/j/77564766254?pwd=UVRXfHp9tnoGZupjYtAVy6OuOfDxel.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Зеленяк В.М., 311 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/71611015875?pwd=t9RL1N3h2v4nttlGN86HpbMkfeM3OL.1" title="https://us04web.zoom.us/j/71611015875?pwd=t9RL1N3h2v4nttlGN86HpbMkfeM3OL.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізика<br>Українець Н.А., 124 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaOsYD2WH_KhnLGPCm7y2lXYRC3uGGDLtdu7pxe2PLW01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=2e352fa5-b0ef-4fa8-a0a9-2a371847139f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaOsYD2WH_KhnLGPCm7y2lXYRC3uGGDLtdu7pxe2PLW01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=2e352fa5-b0ef-4fa8-a0a9-2a371847139f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська  мова (за професійним спрямуванням)<br>Литвин О.Г., 311 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98388195445?pwd=dzBrVEkxOG9vSzhPYVpSNjlCTE5Vdz09" title="https://zoom.us/j/98388195445?pwd=dzBrVEkxOG9vSzhPYVpSNjlCTE5Vdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Олексів Г.Д., 15а VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/erf-xneb-fpz" title="http://meet.google.com/erf-xneb-fpz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Кушка Б.Г., 26 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTdiM2FmZDMtNDY4My00MDNmLTg1MDctNTQ3M2YwNWNhNDhm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295ef99e2-c16d-42e6-a655-c4856f3256a0%22%7d " title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTdiM2FmZDMtNDY4My00MDNmLTg1MDctNTQ3M2YwNWNhNDhm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295ef99e2-c16d-42e6-a655-c4856f3256a0%22%7d ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Зеленяк В.М., 110 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76185796447?pwd=7KVV2VVKxi6Js2iGkfRUD1gW8alxyG.1" title="https://us04web.zoom.us/j/76185796447?pwd=7KVV2VVKxi6Js2iGkfRUD1gW8alxyG.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Стадник В.В., корп. 21 , вул. Самчука 11<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09" title="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Цьовх Л.П., корп. 21 , вул. Самчука 11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_3_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Череповська О.А., корп. 21 , вул. Самчука 11<br>&nbsp;Практична<br></div></div>    
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімічні методи аналізу складу речовин<br>Гумінілович Р.Р., Ларук М.М., Полюжин І.П., Стаднік В.Є., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVhNjk1MTctYTQzNC00ZTBhLWI5ODAtMGEzZTZmMGZmMzRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aab52c85-f1d7-48ad-a495-d4b64afbbfb5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVhNjk1MTctYTQzNC00ZTBhLWI5ODAtMGEzZTZmMGZmMzRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aab52c85-f1d7-48ad-a495-d4b64afbbfb5%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a35db7581b26145dbb2fbeba5b35965ae%40thread.tacv2/conversations?groupId=ac79ece7-4c95-4099-a2b1-e085b998e20c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a35db7581b26145dbb2fbeba5b35965ae%40thread.tacv2/conversations?groupId=ac79ece7-4c95-4099-a2b1-e085b998e20c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімічні методи аналізу складу речовин<br>Гумінілович Р.Р., Ларук М.М., Полюжин І.П., Стаднік В.Є., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVhNjk1MTctYTQzNC00ZTBhLWI5ODAtMGEzZTZmMGZmMzRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aab52c85-f1d7-48ad-a495-d4b64afbbfb5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVhNjk1MTctYTQzNC00ZTBhLWI5ODAtMGEzZTZmMGZmMzRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aab52c85-f1d7-48ad-a495-d4b64afbbfb5%22%7d">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a35db7581b26145dbb2fbeba5b35965ae%40thread.tacv2/conversations?groupId=ac79ece7-4c95-4099-a2b1-e085b998e20c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a35db7581b26145dbb2fbeba5b35965ae%40thread.tacv2/conversations?groupId=ac79ece7-4c95-4099-a2b1-e085b998e20c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Вища математика, частина 2<br>Зеленяк В.М., 313 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76997588738?pwd=BPWagd0-k3hSoh36-yblqDNLX5ld6t.1" title="https://us04web.zoom.us/j/76997588738?pwd=BPWagd0-k3hSoh36-yblqDNLX5ld6t.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізика<br>Українець Н.А., 211 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aYynVvHRm7f7DzanCyeHYn772StEkPTsPn0c8RE94WWI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f33e3a6f-6389-449a-9805-40376c8fc81d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aYynVvHRm7f7DzanCyeHYn772StEkPTsPn0c8RE94WWI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f33e3a6f-6389-449a-9805-40376c8fc81d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фізика<br>Чекайло М.В., Українець Н.А., ел.2лаб Гол. н.к., мол.1лаб. Гол. н.к., опт.1лаб. Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a3zx_ve19Psxjs7EhMs8NPa64Im47TdZK7cKP8ANV9Dg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e2b78fcd-d7b2-446e-9d74-c6ba0e656e9f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a3zx_ve19Psxjs7EhMs8NPa64Im47TdZK7cKP8ANV9Dg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e2b78fcd-d7b2-446e-9d74-c6ba0e656e9f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1f846fad4602426d95095351e8b8f15c%40thread.tacv2/1644591088268?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226ad9fd96-faa9-49ff-be21-c5b8a61e15cf%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1f846fad4602426d95095351e8b8f15c%40thread.tacv2/1644591088268?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226ad9fd96-faa9-49ff-be21-c5b8a61e15cf%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізика<br>Українець Н.А., Чекайло М.В., ел.2лаб Гол. н.к., мол.1лаб. Гол. н.к., опт.1лаб. Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a3zx_ve19Psxjs7EhMs8NPa64Im47TdZK7cKP8ANV9Dg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e2b78fcd-d7b2-446e-9d74-c6ba0e656e9f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a3zx_ve19Psxjs7EhMs8NPa64Im47TdZK7cKP8ANV9Dg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e2b78fcd-d7b2-446e-9d74-c6ba0e656e9f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aa42a448b82d6412a8f2371f574c4d4ec%40thread.tacv2/1644591535694?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226ad9fd96-faa9-49ff-be21-c5b8a61e15cf%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aa42a448b82d6412a8f2371f574c4d4ec%40thread.tacv2/1644591535694?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226ad9fd96-faa9-49ff-be21-c5b8a61e15cf%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізична та колоїдна хімія<br>Герасимчук С.І., Мельник Г.В., Собечко І.Б., 131 VIII н.к., 134 VIII н.к., 140 VIII н.к., 139 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6229008697?pwd=SlROWUlLcHVPVklWK3I4ajJDQlJ3UT09  Meeting ID: 622 900 8697 Password: 9PdVMu" title="https://zoom.us/j/6229008697?pwd=SlROWUlLcHVPVklWK3I4ajJDQlJ3UT09  Meeting ID: 622 900 8697 Password: 9PdVMu">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7970157861?pwd=YWIvdmlmcmRPa09NcVFEZnczTXM2Zz09 " title="https://zoom.us/j/7970157861?pwd=YWIvdmlmcmRPa09NcVFEZnczTXM2Zz09 ">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95392785695?pwd=QXd0cThNcFp4bDZGdkNLN0crYkRtUT09" title="https://zoom.us/j/95392785695?pwd=QXd0cThNcFp4bDZGdkNLN0crYkRtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізична та колоїдна хімія<br>Герасимчук С.І., Мельник Г.В., Собечко І.Б., 131 VIII н.к., 134 VIII н.к., 140 VIII н.к., 139 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6229008697?pwd=SlROWUlLcHVPVklWK3I4ajJDQlJ3UT09  Meeting ID: 622 900 8697 Password: 9PdVMu" title="https://zoom.us/j/6229008697?pwd=SlROWUlLcHVPVklWK3I4ajJDQlJ3UT09  Meeting ID: 622 900 8697 Password: 9PdVMu">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7970157861?pwd=YWIvdmlmcmRPa09NcVFEZnczTXM2Zz09 " title="https://zoom.us/j/7970157861?pwd=YWIvdmlmcmRPa09NcVFEZnczTXM2Zz09 ">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95392785695?pwd=QXd0cThNcFp4bDZGdkNLN0crYkRtUT09" title="https://zoom.us/j/95392785695?pwd=QXd0cThNcFp4bDZGdkNLN0crYkRtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

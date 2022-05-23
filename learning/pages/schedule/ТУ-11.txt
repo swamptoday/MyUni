@@ -1,0 +1,387 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Географія туризму та туристичне країнознавство<br>Дністрянська Н.І., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91334405318?pwd=ZXdhSjVKc0pKTWFoSGhKYmVSaC9XZz09" title="https://zoom.us/j/91334405318?pwd=ZXdhSjVKc0pKTWFoSGhKYmVSaC9XZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Краєзнавство<br>Дністрянська Н.І., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96630820543?pwd=cmtDV1dXUjMvdWNFOXZJajFPSTZIdz09" title="https://zoom.us/j/96630820543?pwd=cmtDV1dXUjMvdWNFOXZJajFPSTZIdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи економічної теорії<br>Косовська В.В., 315 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84796770995?pwd=OU5QbFFaNDF6UWFDSnFMWjd1M0cvUT09" title="https://us02web.zoom.us/j/84796770995?pwd=OU5QbFFaNDF6UWFDSnFMWjd1M0cvUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Історія державності та культури України<br>Савченко О.О., 315 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9194918571?pwd=OU50ME1Wc0FxU1ZVUkt6SHJOdm04UT09" title="https://us02web.zoom.us/j/9194918571?pwd=OU50ME1Wc0FxU1ZVUkt6SHJOdm04UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія туризму<br>Паньків Н.Є., 315 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJjNzcxNmMtNDE4MS00ZmY5LWI3MGEtMmZjMzQyYmM2YTli%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225763dd3e-7b7b-4d71-aba8-65de4f4b31fe%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJjNzcxNmMtNDE4MS00ZmY5LWI3MGEtMmZjMzQyYmM2YTli%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225763dd3e-7b7b-4d71-aba8-65de4f4b31fe%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія туризму<br>Паньків Н.Є., 315 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJjNzcxNmMtNDE4MS00ZmY5LWI3MGEtMmZjMzQyYmM2YTli%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225763dd3e-7b7b-4d71-aba8-65de4f4b31fe%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJjNzcxNmMtNDE4MS00ZmY5LWI3MGEtMmZjMzQyYmM2YTli%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225763dd3e-7b7b-4d71-aba8-65de4f4b31fe%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Лучит Л.В., 21 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a31def7ae853c4de9bd4613bb48fb4af9%40thread.tacv2/TU%252011?groupId=436fed27-12c8-44e6-ac91-fa366bee1fd6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a31def7ae853c4de9bd4613bb48fb4af9%40thread.tacv2/TU%252011?groupId=436fed27-12c8-44e6-ac91-fa366bee1fd6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія туризму<br>Паньків Н.Є., 132 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJjNzcxNmMtNDE4MS00ZmY5LWI3MGEtMmZjMzQyYmM2YTli%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225763dd3e-7b7b-4d71-aba8-65de4f4b31fe%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJjNzcxNmMtNDE4MS00ZmY5LWI3MGEtMmZjMzQyYmM2YTli%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225763dd3e-7b7b-4d71-aba8-65de4f4b31fe%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи економічної теорії<br>Русин-Гриник Р.Р., 113 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89394824177?pwd=Y1BFbVdYelB2dUtzaE4zQTlscHdiUT09  Идентификатор конференции: 893 9482 4177 Код доступа: upcf95" title="https://us02web.zoom.us/j/89394824177?pwd=Y1BFbVdYelB2dUtzaE4zQTlscHdiUT09  Идентификатор конференции: 893 9482 4177 Код доступа: upcf95">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Краєзнавство<br>Дністрянська Н.І., 132 III н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93506780883?pwd=V0s5WVZ4bDhkODhIZnNVL0RoODRiZz09" title="https://zoom.us/j/93506780883?pwd=V0s5WVZ4bDhkODhIZnNVL0RoODRiZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Географія туризму та туристичне країнознавство<br>Сеньків М.І., 211 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWMwMDllMjctYTk2Ni00YzY1LWIxZmMtZWE3MTFmYWQzYmQ0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWMwMDllMjctYTk2Ni00YzY1LWIxZmMtZWE3MTFmYWQzYmQ0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія державності та культури України<br>Савченко О.О., 101 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9194918571?pwd=OU50ME1Wc0FxU1ZVUkt6SHJOdm04UT09" title="https://us02web.zoom.us/j/9194918571?pwd=OU50ME1Wc0FxU1ZVUkt6SHJOdm04UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Краєзнавство<br>Дністрянська Н.І., 506 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93506780883?pwd=V0s5WVZ4bDhkODhIZnNVL0RoODRiZz09" title="https://zoom.us/j/93506780883?pwd=V0s5WVZ4bDhkODhIZnNVL0RoODRiZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Географія туризму та туристичне країнознавство<br>Сеньків М.І., 507 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmUxNzY4OTctMzhhNC00ZDkyLTgyYzctMDQ3ODQ5ODY0YTlk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmUxNzY4OTctMzhhNC00ZDkyLTgyYzctMDQ3ODQ5ODY0YTlk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Світлик В.В., корп. 21 , вул. Самчука 11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/87298352771?pwd=Y2FVb0daYUhsNE1rQThLcTRmWnNjUT09  Идентификатор конференции: 872 9835 2771 Код доступа: 1234" title="https://us05web.zoom.us/j/87298352771?pwd=Y2FVb0daYUhsNE1rQThLcTRmWnNjUT09  Идентификатор конференции: 872 9835 2771 Код доступа: 1234">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Краєзнавство<br>Дністрянська Н.І., 311 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93506780883?pwd=V0s5WVZ4bDhkODhIZnNVL0RoODRiZz09" title="https://zoom.us/j/93506780883?pwd=V0s5WVZ4bDhkODhIZnNVL0RoODRiZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Географія туризму та туристичне країнознавство<br>Сеньків М.І., 503 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2U3YmNjMmUtZTM5ZS00Mjk2LWE1MjEtYzNmOGJmMTljYTUy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2U3YmNjMmUtZTM5ZS00Mjk2LWE1MjEtYzNmOGJmMTljYTUy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3c8ea8-d322-49f3-a91b-29facf7e9244%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

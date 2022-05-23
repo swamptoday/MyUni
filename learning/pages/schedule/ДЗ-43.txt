@@ -1,0 +1,286 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Передпроектний аналіз в інтер`єрі<br>Лінда С.М., 304 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a2Z6xQ9a8E8k1UwzQy1BAb9IDQIU6o7PYrTCMEDITVIw1%40thread.tacv2/conversations?groupId=6c98918c-57cd-4043-a653-399349da9ed3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a2Z6xQ9a8E8k1UwzQy1BAb9IDQIU6o7PYrTCMEDITVIw1%40thread.tacv2/conversations?groupId=6c98918c-57cd-4043-a653-399349da9ed3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Передпроектний аналіз в інтер`єрі<br>Лінда С.М., 304 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a2Z6xQ9a8E8k1UwzQy1BAb9IDQIU6o7PYrTCMEDITVIw1%40thread.tacv2/conversations?groupId=6c98918c-57cd-4043-a653-399349da9ed3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a2Z6xQ9a8E8k1UwzQy1BAb9IDQIU6o7PYrTCMEDITVIw1%40thread.tacv2/conversations?groupId=6c98918c-57cd-4043-a653-399349da9ed3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Передпроектний аналіз в інтер`єрі<br>Лінда С.М., Оконченко О.М., 304 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a2Z6xQ9a8E8k1UwzQy1BAb9IDQIU6o7PYrTCMEDITVIw1%40thread.tacv2/conversations?groupId=6c98918c-57cd-4043-a653-399349da9ed3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a2Z6xQ9a8E8k1UwzQy1BAb9IDQIU6o7PYrTCMEDITVIw1%40thread.tacv2/conversations?groupId=6c98918c-57cd-4043-a653-399349da9ed3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Передпроектний аналіз в інтер`єрі<br>Лінда С.М., Оконченко О.М., 304 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a2Z6xQ9a8E8k1UwzQy1BAb9IDQIU6o7PYrTCMEDITVIw1%40thread.tacv2/conversations?groupId=6c98918c-57cd-4043-a653-399349da9ed3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a2Z6xQ9a8E8k1UwzQy1BAb9IDQIU6o7PYrTCMEDITVIw1%40thread.tacv2/conversations?groupId=6c98918c-57cd-4043-a653-399349da9ed3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Живопис, частина 8<br>Климко З.В., Кузьмич В.І., Юрченко І.А., 337 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19:awUZURaQi4Pbf4atdV4InBFEH-ZD6yW3bCZS3Rm4irQ1@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=788138f9-7d26-4a9c-8c7d-9d5e4ea085ea&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19:awUZURaQi4Pbf4atdV4InBFEH-ZD6yW3bCZS3Rm4irQ1@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=788138f9-7d26-4a9c-8c7d-9d5e4ea085ea&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Живопис, частина 8<br>Кузьмич В.І., Юрченко І.А., Климко З.В., 337 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19:awUZURaQi4Pbf4atdV4InBFEH-ZD6yW3bCZS3Rm4irQ1@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=788138f9-7d26-4a9c-8c7d-9d5e4ea085ea&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19:awUZURaQi4Pbf4atdV4InBFEH-ZD6yW3bCZS3Rm4irQ1@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=788138f9-7d26-4a9c-8c7d-9d5e4ea085ea&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Живопис, частина 8<br>Кузьмич В.І., Юрченко І.А., Климко З.В., 337 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19:awUZURaQi4Pbf4atdV4InBFEH-ZD6yW3bCZS3Rm4irQ1@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=788138f9-7d26-4a9c-8c7d-9d5e4ea085ea&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19:awUZURaQi4Pbf4atdV4InBFEH-ZD6yW3bCZS3Rm4irQ1@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=788138f9-7d26-4a9c-8c7d-9d5e4ea085ea&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біоніка в дизайні предметно-просторового середовища<br>Казанцева Т.Є., 216 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aalfK1l7a65asq6H-wRwp8ZjzQ5XqIS22BoDay5zLJRU1%40thread.tacv2/General?groupId=9db3ae78-611b-497a-8f67-c3ddfb2abc2c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aalfK1l7a65asq6H-wRwp8ZjzQ5XqIS22BoDay5zLJRU1%40thread.tacv2/General?groupId=9db3ae78-611b-497a-8f67-c3ddfb2abc2c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Біоніка в дизайні предметно-просторового середовища<br>Казанцева Т.Є., 216 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aalfK1l7a65asq6H-wRwp8ZjzQ5XqIS22BoDay5zLJRU1%40thread.tacv2/General?groupId=9db3ae78-611b-497a-8f67-c3ddfb2abc2c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aalfK1l7a65asq6H-wRwp8ZjzQ5XqIS22BoDay5zLJRU1%40thread.tacv2/General?groupId=9db3ae78-611b-497a-8f67-c3ddfb2abc2c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рисунок, частина 8<br>Боднар О.Я., Кузьмич В.І., 105 Гол. н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рисунок, частина 8<br>Кузьмич В.І., Боднар О.Я., 105 Гол. н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Рисунок, частина 8<br>Кузьмич В.І., Боднар О.Я., 105 Гол. н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

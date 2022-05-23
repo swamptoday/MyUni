@@ -1,0 +1,309 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Експлуатація атомних електричних станцій<br>Лис С.С., 115 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a05ac2e4a404643669a90cf51ca7310b0%40thread.tacv2/conversations?groupId=095a705b-86c2-4b2c-b09b-269dbcbb064d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a05ac2e4a404643669a90cf51ca7310b0%40thread.tacv2/conversations?groupId=095a705b-86c2-4b2c-b09b-269dbcbb064d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Енергетична безпека<br>Здоровега М.В., 312 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09" title="https://zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Енергетична безпека<br>Здоровега М.В., 312 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09" title="https://zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Нестаціонарні процеси в ядерних реакторах<br>Семерак М.М., 209 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a37e4e2a3a43a486e9bb7a07318e7698e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fd8321d0-a2b4-40fd-bcd6-428147539c80&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a37e4e2a3a43a486e9bb7a07318e7698e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fd8321d0-a2b4-40fd-bcd6-428147539c80&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Нестаціонарні процеси в ядерних реакторах<br>Семерак М.М., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a37e4e2a3a43a486e9bb7a07318e7698e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fd8321d0-a2b4-40fd-bcd6-428147539c80&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a37e4e2a3a43a486e9bb7a07318e7698e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fd8321d0-a2b4-40fd-bcd6-428147539c80&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління строком служби та зняття з експлуатації атомних електричних станцій<br>Лис С.С., 207 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Нестаціонарні процеси в ядерних реакторах<br>Семерак М.М., 115 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a37e4e2a3a43a486e9bb7a07318e7698e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fd8321d0-a2b4-40fd-bcd6-428147539c80&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a37e4e2a3a43a486e9bb7a07318e7698e%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fd8321d0-a2b4-40fd-bcd6-428147539c80&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Захист від корозії та консервування обладнання атомних електричних станцій<br>Римар Т.І., 115 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95274173578?pwd=R3RCV2Yzbm5Hd3k5Um40L1VRRXJmQT09" title="https://zoom.us/j/95274173578?pwd=R3RCV2Yzbm5Hd3k5Um40L1VRRXJmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Захист від корозії та консервування обладнання атомних електричних станцій<br>Римар Т.І., 115 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95274173578?pwd=R3RCV2Yzbm5Hd3k5Um40L1VRRXJmQT09" title="https://zoom.us/j/95274173578?pwd=R3RCV2Yzbm5Hd3k5Um40L1VRRXJmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експлуатація атомних електричних станцій<br>Лис С.С., 115 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a05ac2e4a404643669a90cf51ca7310b0%40thread.tacv2/conversations?groupId=095a705b-86c2-4b2c-b09b-269dbcbb064d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a05ac2e4a404643669a90cf51ca7310b0%40thread.tacv2/conversations?groupId=095a705b-86c2-4b2c-b09b-269dbcbb064d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Аварійні процеси та системи безпеки на атомних електричних станціях<br>Мартиняк-Андрушко М.А., 207 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77447166220?pwd=kKJTDuVUWOcdE_E5ZydkXG_6Q6sIhz.1" title="https://us04web.zoom.us/j/77447166220?pwd=kKJTDuVUWOcdE_E5ZydkXG_6Q6sIhz.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аварійні процеси та системи безпеки на атомних електричних станціях<br>Мартиняк-Андрушко М.А., 211 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77447166220?pwd=kKJTDuVUWOcdE_E5ZydkXG_6Q6sIhz.1" title="https://us04web.zoom.us/j/77447166220?pwd=kKJTDuVUWOcdE_E5ZydkXG_6Q6sIhz.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління строком служби та зняття з експлуатації атомних електричних станцій<br>Лис С.С., 211 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління строком служби та зняття з експлуатації атомних електричних станцій<br>Лис С.С., 211 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

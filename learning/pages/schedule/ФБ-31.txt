@@ -1,0 +1,401 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фінансова звітність<br>Хома І.Б., 418 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=95bc2ca3-9350-4bb7-afb8-70f469e93e65&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_278bc439a3144dcb979200fb7c01178d@thread.tacv2&amp;messageId=1643991328502&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=95bc2ca3-9350-4bb7-afb8-70f469e93e65&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_278bc439a3144dcb979200fb7c01178d@thread.tacv2&amp;messageId=1643991328502&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фінансова звітність<br>Хома І.Б., 418 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=95bc2ca3-9350-4bb7-afb8-70f469e93e65&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_278bc439a3144dcb979200fb7c01178d@thread.tacv2&amp;messageId=1643991582612&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=95bc2ca3-9350-4bb7-afb8-70f469e93e65&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_278bc439a3144dcb979200fb7c01178d@thread.tacv2&amp;messageId=1643991582612&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фінансова звітність<br>Бондаренко Л.П., 418 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a278bc439a3144dcb979200fb7c01178d%40thread.tacv2/1644395172031?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a278bc439a3144dcb979200fb7c01178d%40thread.tacv2/1644395172031?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фінансова звітність<br>Бондаренко Л.П., 418 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a278bc439a3144dcb979200fb7c01178d%40thread.tacv2/1644395219255?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a278bc439a3144dcb979200fb7c01178d%40thread.tacv2/1644395219255?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податкова система<br>Паранчук С.В., 510 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=c6aa046e-9a48-4938-8c76-13d48b625602&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_6f17c0da86eb44a0a76c7c6b9f8c690a@thread.tacv2&amp;messageId=1644345412704&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=c6aa046e-9a48-4938-8c76-13d48b625602&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_6f17c0da86eb44a0a76c7c6b9f8c690a@thread.tacv2&amp;messageId=1644345412704&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Податкова система<br>Паранчук С.В., 510 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=c6aa046e-9a48-4938-8c76-13d48b625602&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_6f17c0da86eb44a0a76c7c6b9f8c690a@thread.tacv2&amp;messageId=1644345633704&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=c6aa046e-9a48-4938-8c76-13d48b625602&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_6f17c0da86eb44a0a76c7c6b9f8c690a@thread.tacv2&amp;messageId=1644345633704&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Податкова система<br>Червінська О.С., 416 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=ce6b48df-85a5-4312-9327-c954e455705c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_6f17c0da86eb44a0a76c7c6b9f8c690a@thread.tacv2&amp;messageId=1644350207065&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=ce6b48df-85a5-4312-9327-c954e455705c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_6f17c0da86eb44a0a76c7c6b9f8c690a@thread.tacv2&amp;messageId=1644350207065&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податкова система<br>Червінська О.С., 416 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=ce6b48df-85a5-4312-9327-c954e455705c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_6f17c0da86eb44a0a76c7c6b9f8c690a@thread.tacv2&amp;messageId=1644350391826&amp;language=uk-UA" title="https://teams.microsoft.com/meetingOptions/?organizerId=ce6b48df-85a5-4312-9327-c954e455705c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_6f17c0da86eb44a0a76c7c6b9f8c690a@thread.tacv2&amp;messageId=1644350391826&amp;language=uk-UA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Литвиняк О.Я., 410 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaMAzFb1cw_oPhtWnaq9XA1q4A4gybd4-6oq6eY-KPGk1%40thread.tacv2/1644509224029?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaMAzFb1cw_oPhtWnaq9XA1q4A4gybd4-6oq6eY-KPGk1%40thread.tacv2/1644509224029?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий ринок<br>Шкварчук Л.О., анг.мовою416 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDQwMzQ3MmItMjljNS00NGY3LTkxNzQtZjIwODE4YmNiZjM3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDQwMzQ3MmItMjljNS00NGY3LTkxNzQtZjIwODE4YmNiZjM3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий ринок<br>Шкварчук Л.О., 416 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae81abc7232ce460db0b2bf3d8141d16d%40thread.tacv2/1644652907843?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae81abc7232ce460db0b2bf3d8141d16d%40thread.tacv2/1644652907843?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансова звітність<br>Бондаренко Л.П., 416 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a278bc439a3144dcb979200fb7c01178d%40thread.tacv2/1644395007424?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a278bc439a3144dcb979200fb7c01178d%40thread.tacv2/1644395007424?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284d597d6-a16e-48f7-9c88-6a7a91effc74%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий ринок<br>Шкварчук Л.О., анг.мовою514 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWJmOGFhZjgtNmIwZS00MDFkLWI0YmMtMDkzMGY4MGVhZWZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWJmOGFhZjgtNmIwZS00MDFkLWI0YmMtMDkzMGY4MGVhZWZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий ринок<br>Шкварчук Л.О., анг.мовою514 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM2NWIyNDQtZjA1NS00ZDMwLWIwNzgtNzBkZWU2MzJlZmY4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM2NWIyNDQtZjA1NS00ZDMwLWIwNzgtNzBkZWU2MzJlZmY4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий ринок<br>Ливдар М.В., 107 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae81abc7232ce460db0b2bf3d8141d16d%40thread.tacv2/1644601400358?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac856d5f-ddb3-4006-bbb9-170f0f7e7228%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae81abc7232ce460db0b2bf3d8141d16d%40thread.tacv2/1644601400358?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac856d5f-ddb3-4006-bbb9-170f0f7e7228%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Литвиняк О.Я., пр-лаб.по 0.5год302 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaMAzFb1cw_oPhtWnaq9XA1q4A4gybd4-6oq6eY-KPGk1%40thread.tacv2/1644508495664?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaMAzFb1cw_oPhtWnaq9XA1q4A4gybd4-6oq6eY-KPGk1%40thread.tacv2/1644508495664?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансовий ринок<br>Ливдар М.В., 416 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ae81abc7232ce460db0b2bf3d8141d16d%40thread.tacv2/1644602052750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac856d5f-ddb3-4006-bbb9-170f0f7e7228%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ae81abc7232ce460db0b2bf3d8141d16d%40thread.tacv2/1644602052750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac856d5f-ddb3-4006-bbb9-170f0f7e7228%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

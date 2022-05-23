@@ -1,0 +1,242 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 509 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rya-sqtc-pqg" title="https://meet.google.com/rya-sqtc-pqg">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ric-xwqo-gmv" title="https://meet.google.com/ric-xwqo-gmv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фахова іноземна мова<br>Дмитрук В.А., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/Ik45H8MbuxIS" title="https://join.skype.com/Ik45H8MbuxIS">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі в нанотехнологіях<br>Костробій П.П., 221 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/qtr-dutm-rgy" title="https://meet.google.com/qtr-dutm-rgy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Стохастичні моделі систем<br>Токарчук М.В., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2428293435?pwd=MXJEQU1kSDRKLzluTmRFdXZ3ZVE1Zz09" title="https://zoom.us/j/2428293435?pwd=MXJEQU1kSDRKLzluTmRFdXZ3ZVE1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Комп`ютерне моделювання наносистем<br>Пацаган Т.М., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aOLn6cnj69E61bhs7hwdSBxm2rI7ZBXN_GUZhCNj3ngA1%40thread.tacv2/conversations?groupId=44dc1653-eb6f-4494-8ec7-87dbaebfa185&amp;tenantId=571885cb-1680-4dad-93f4-ed3f88f70521" title="https://teams.microsoft.com/l/team/19%3aOLn6cnj69E61bhs7hwdSBxm2rI7ZBXN_GUZhCNj3ngA1%40thread.tacv2/conversations?groupId=44dc1653-eb6f-4494-8ec7-87dbaebfa185&amp;tenantId=571885cb-1680-4dad-93f4-ed3f88f70521">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання наносистем<br>Пацаган Т.М., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aOLn6cnj69E61bhs7hwdSBxm2rI7ZBXN_GUZhCNj3ngA1%40thread.tacv2/conversations?groupId=44dc1653-eb6f-4494-8ec7-87dbaebfa185&amp;tenantId=571885cb-1680-4dad-93f4-ed3f88f70521" title="https://teams.microsoft.com/l/team/19%3aOLn6cnj69E61bhs7hwdSBxm2rI7ZBXN_GUZhCNj3ngA1%40thread.tacv2/conversations?groupId=44dc1653-eb6f-4494-8ec7-87dbaebfa185&amp;tenantId=571885cb-1680-4dad-93f4-ed3f88f70521">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/chr-xodm-sfs" title="https://meet.google.com/chr-xodm-sfs">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Стохастичні моделі систем<br>Токарчук М.В., 221 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2428293435?pwd=MXJEQU1kSDRKLzluTmRFdXZ3ZVE1Zz09" title="https://zoom.us/j/2428293435?pwd=MXJEQU1kSDRKLzluTmRFdXZ3ZVE1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математичні моделі в нанотехнологіях<br>Костробій П.П., 221 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/euk-fkoy-hny" title="https://meet.google.com/euk-fkoy-hny">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

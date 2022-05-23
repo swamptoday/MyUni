@@ -1,0 +1,506 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Безпека інфраструктури комп`ютерних мереж<br>Шабатура М.М., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1644845391266?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1644845391266?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Безпека інфраструктури комп`ютерних мереж<br>Шабатура М.М., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1644845469393?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1644845469393?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи банківської безпеки<br>Войтусік С.С., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a40pg9ZbS2S0x9RxDt6Y2zmeSRjIWNeiFGm4EstztHS81%40thread.tacv2/conversations?groupId=d874a160-2da9-4844-b2c0-177e3d37e312&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a40pg9ZbS2S0x9RxDt6Y2zmeSRjIWNeiFGm4EstztHS81%40thread.tacv2/conversations?groupId=d874a160-2da9-4844-b2c0-177e3d37e312&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційно-комунікаційні системи<br>Шабатура М.М., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1vAwvAC5eAtUJDv6Zrbn3PAttgv9iXA7Z6zvE48NeGY1%40thread.tacv2/1644909288975?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1vAwvAC5eAtUJDv6Zrbn3PAttgv9iXA7Z6zvE48NeGY1%40thread.tacv2/1644909288975?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія блокчейну<br>Нємкова О.А., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89256991714?pwd=bjR3SEpwZEIrYWNVRVR6TnVxQzRpZz09" title="https://us02web.zoom.us/j/89256991714?pwd=bjR3SEpwZEIrYWNVRVR6TnVxQzRpZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Архітектура комп`ютерних систем<br>Банах Р.І., 215 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aqYenX8IHoyKFfXkvV3EFKP_4ck6cASjPOlioOF9mTSk1%40thread.tacv2/1645431310483?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aqYenX8IHoyKFfXkvV3EFKP_4ck6cASjPOlioOF9mTSk1%40thread.tacv2/1645431310483?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Системи банківської безпеки<br>Войтусік С.С., 216а XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVmQrfrBNw8ng-LMo73o0zGPcQ2OQw_Uls7sTJRfkF5Y1%40thread.tacv2/conversations?groupId=3d8f7b92-1575-4d61-aae2-4c8c5fd581f8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVmQrfrBNw8ng-LMo73o0zGPcQ2OQw_Uls7sTJRfkF5Y1%40thread.tacv2/conversations?groupId=3d8f7b92-1575-4d61-aae2-4c8c5fd581f8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Криптографічні системи та протоколи, частина 2<br>Русинко М.К., 214 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/FTKFYrl9NPTh" title="https://join.skype.com/FTKFYrl9NPTh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інформаційно-комунікаційні системи<br>Шабатура М.М., 223 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1vAwvAC5eAtUJDv6Zrbn3PAttgv9iXA7Z6zvE48NeGY1%40thread.tacv2/1644918147132?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1vAwvAC5eAtUJDv6Zrbn3PAttgv9iXA7Z6zvE48NeGY1%40thread.tacv2/1644918147132?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Адміністрування комп`ютерних мереж<br>Журавель І.М., 711 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3abc8Hj0jib1YfIvSYbblNNDro0G0mHjrrE2YlLvWV5vQ1%40thread.tacv2/conversations?groupId=7e492168-f198-4b36-bb76-3116a11fd2f8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3abc8Hj0jib1YfIvSYbblNNDro0G0mHjrrE2YlLvWV5vQ1%40thread.tacv2/conversations?groupId=7e492168-f198-4b36-bb76-3116a11fd2f8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Криптографічні системи та протоколи, частина 2<br>Журавель І.М., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3abc8Hj0jib1YfIvSYbblNNDro0G0mHjrrE2YlLvWV5vQ1%40thread.tacv2/conversations?groupId=7e492168-f198-4b36-bb76-3116a11fd2f8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3abc8Hj0jib1YfIvSYbblNNDro0G0mHjrrE2YlLvWV5vQ1%40thread.tacv2/conversations?groupId=7e492168-f198-4b36-bb76-3116a11fd2f8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектура комп`ютерних систем<br>Мельник В.А., 202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aHV762LkGBLxEI_3I49rSn9Q9QptarOj5po6VQDXuR4M1%40thread.tacv2/conversations?groupId=8f8646e3-6ea8-441b-bb06-029e8293db07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aHV762LkGBLxEI_3I49rSn9Q9QptarOj5po6VQDXuR4M1%40thread.tacv2/conversations?groupId=8f8646e3-6ea8-441b-bb06-029e8293db07&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Генерування псевдовипадкових послідовностей для систем кібербезпеки<br>Гарасимчук О.І., вибіркова202 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09  Meeting ID: 825 296 3852 Passcode: M0nvpH" title="https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09  Meeting ID: 825 296 3852 Passcode: M0nvpH">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи банківської безпеки<br>Войтусік С.С., 221 XIX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aVmQrfrBNw8ng-LMo73o0zGPcQ2OQw_Uls7sTJRfkF5Y1%40thread.tacv2/conversations?groupId=3d8f7b92-1575-4d61-aae2-4c8c5fd581f8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aVmQrfrBNw8ng-LMo73o0zGPcQ2OQw_Uls7sTJRfkF5Y1%40thread.tacv2/conversations?groupId=3d8f7b92-1575-4d61-aae2-4c8c5fd581f8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Генерування псевдовипадкових послідовностей для систем кібербезпеки<br>Гарасимчук О.І., 211 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09  Meeting ID: 825 296 3852 Passcode: M0nvpH" title="https://us02web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09  Meeting ID: 825 296 3852 Passcode: M0nvpH">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інформаційно-комунікаційні системи<br>Шабатура М.М., 223 XIX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1vAwvAC5eAtUJDv6Zrbn3PAttgv9iXA7Z6zvE48NeGY1%40thread.tacv2/1644918147132?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1vAwvAC5eAtUJDv6Zrbn3PAttgv9iXA7Z6zvE48NeGY1%40thread.tacv2/1644918147132?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Безпека інфраструктури комп`ютерних мереж<br>Шабатура М.М., 216а XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1645027979925?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1645027979925?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Криптографічні системи та протоколи, частина 2<br>Русинко М.К., 202 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/FTKFYrl9NPTh" title="https://join.skype.com/FTKFYrl9NPTh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Безпека інфраструктури комп`ютерних мереж<br>Шабатура М.М., 216а XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1645028375345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1645028375345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Безпека інфраструктури комп`ютерних мереж<br>Шабатура М.М., 216а XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1645028375345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a3qDKsVwPK5Zm41htxJ8yUmbjRRrhNOljn84IsB2Tquc1%40thread.tacv2/1645028375345?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Технологія блокчейну<br>Нємкова О.А., 215 XX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81936758865?pwd=TStudVBhc3NjdnV3cHozZjhMYkp0dz09" title="https://us02web.zoom.us/j/81936758865?pwd=TStudVBhc3NjdnV3cHozZjhMYkp0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Технологія блокчейну<br>Нємкова О.А., 215 XX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81936758865?pwd=TStudVBhc3NjdnV3cHozZjhMYkp0dz09" title="https://us02web.zoom.us/j/81936758865?pwd=TStudVBhc3NjdnV3cHozZjhMYkp0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Сб</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Архітектура комп`ютерних систем<br>Банах Р.І., 211 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aqYenX8IHoyKFfXkvV3EFKP_4ck6cASjPOlioOF9mTSk1%40thread.tacv2/1645431310483?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aqYenX8IHoyKFfXkvV3EFKP_4ck6cASjPOlioOF9mTSk1%40thread.tacv2/1645431310483?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Криптографічні системи та протоколи, частина 2<br>Русинко М.К., 221 XIX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/FTKFYrl9NPTh" title="https://join.skype.com/FTKFYrl9NPTh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

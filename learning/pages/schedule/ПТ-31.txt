@@ -1,0 +1,387 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингові дослідження підприємств торгівлі<br>Данько Т.І., 315 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:bj676aXSnVXKbMNoG-YaVRpX4xLKXCRq46ib8X9bkew1@thread.tacv2/1644411461805?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=a6fc7221-bdb8-48ba-a537-4400e8c1d2b9&amp;parentMessageId=1644411461805&amp;teamName=%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%96%20%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BF%D1%80%D0%B8%D1%94%D0%BC%D1%81%D1%82%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D1%96%D0%B2%D0%BB%D1%96&amp;channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&amp;createdTime=1644411461805" title="https://teams.microsoft.com/l/message/19:bj676aXSnVXKbMNoG-YaVRpX4xLKXCRq46ib8X9bkew1@thread.tacv2/1644411461805?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=a6fc7221-bdb8-48ba-a537-4400e8c1d2b9&amp;parentMessageId=1644411461805&amp;teamName=%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%96%20%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BF%D1%80%D0%B8%D1%94%D0%BC%D1%81%D1%82%D0%B2%20%D1%82%D0%BE%D1%80%D0%B3%D1%96%D0%B2%D0%BB%D1%96&amp;channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&amp;createdTime=1644411461805">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пакування і зберігання товарів<br>Фарат О.В., 315 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83358622131?pwd=NWdaYm1BWHVJamowTWlFTzBIR2hEQT09  Meeting ID: 833 5862 2131 Passcode: XBWE1W" title="https://us02web.zoom.us/j/83358622131?pwd=NWdaYm1BWHVJamowTWlFTzBIR2hEQT09  Meeting ID: 833 5862 2131 Passcode: XBWE1W">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Пакування і зберігання товарів<br>Фарат О.В., 315 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83192766125?pwd=QVRoaEtLZytrRS9hQlpNcklzc0h4Zz09  Meeting ID: 831 9276 6125 Passcode: EGhB2Z" title="https://us02web.zoom.us/j/83192766125?pwd=QVRoaEtLZytrRS9hQlpNcklzc0h4Zz09  Meeting ID: 831 9276 6125 Passcode: EGhB2Z">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Митна логістика<br>Шевченко С.Г., 313 III н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Митна логістика<br>Шевченко С.Г., 313 III н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Митна справа<br>Ємченко І.В., 313 III н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Митна справа<br>Ємченко І.В., 313 III н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістика<br>Косовська В.В., 132 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87188455016?pwd=aVY2Z1lOUUJWSEsvWEFGK2Q5WDNuUT09" title="https://us02web.zoom.us/j/87188455016?pwd=aVY2Z1lOUUJWSEsvWEFGK2Q5WDNuUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Логістика<br>Косовська В.В., 132 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83461840730?pwd=MWlSbStpN3laQWxWcUx1bzZWd3JnZz09" title="https://us02web.zoom.us/j/83461840730?pwd=MWlSbStpN3laQWxWcUx1bzZWd3JnZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Бізнес планування екологічних проектів<br>Шевченко С.Г., 313 III н.к., <br>,&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_3_full" class="week_color"><div class="group_content">Бізнес планування екологічних проектів<br>Шевченко С.Г., 313 III н.к., <br>&nbsp;Лабораторна<br></div></div>    
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Логістика<br>Косовська В.В., 132 III н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88533410444?pwd=eE55OGYwVFJBeWg2OHlFaUY0b09KZz09" title="https://us02web.zoom.us/j/88533410444?pwd=eE55OGYwVFJBeWg2OHlFaUY0b09KZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Митна логістика<br>Шевченко С.Г., 404 II н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингові дослідження підприємств торгівлі<br>Русин-Гриник Р.Р., 132 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/meeting/tZEpc-GuqjstHdBPh6cDGZGPdUtDg3J1vmbm/ics?icsToken=98tyKuGtqj8iHNCVtx6DRpwMBo-gWe7wiGJagqd_rBezAAR0WCTGMtdWFrUsOonG  Подключиться к конференции Zoom https://us02web.zoom.us/j/85448640774?pwd=VnArS04xTW9xdDU1ZlN0Y29ubHZjUT09  Идентификатор конференции: 854 4864 0774 Код доступа: 333" title="https://us02web.zoom.us/meeting/tZEpc-GuqjstHdBPh6cDGZGPdUtDg3J1vmbm/ics?icsToken=98tyKuGtqj8iHNCVtx6DRpwMBo-gWe7wiGJagqd_rBezAAR0WCTGMtdWFrUsOonG  Подключиться к конференции Zoom https://us02web.zoom.us/j/85448640774?pwd=VnArS04xTW9xdDU1ZlN0Y29ubHZjUT09  Идентификатор конференции: 854 4864 0774 Код доступа: 333">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Маркетингові дослідження підприємств торгівлі<br>Русин-Гриник Р.Р., 132 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84908801790?pwd=Smk2Z0VzTURJLzB6U2ZucXk4NU1UUT09  Идентификатор конференции: 849 0880 1790 Код доступа: kY4TDP" title="https://us02web.zoom.us/j/84908801790?pwd=Smk2Z0VzTURJLzB6U2ZucXk4NU1UUT09  Идентификатор конференции: 849 0880 1790 Код доступа: kY4TDP">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Бізнес планування екологічних проектів<br>Шевченко С.Г., 404 II н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Бізнес планування екологічних проектів<br>Шевченко С.Г., 404 II н.к., <br>,&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

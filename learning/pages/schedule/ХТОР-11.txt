@@ -1,0 +1,230 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Застосування продуктів органічного синтезу<br>Субтельний Р.О., 325 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09" title="https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Застосування продуктів органічного синтезу<br>Субтельний Р.О., 325 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09" title="https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розрахунок реакторів<br>Мельник С.Р., 325 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09" title="https://us02web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розрахунок реакторів<br>Мельник С.Р., 337 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09" title="https://us02web.zoom.us/j/5570937898?pwd=NFlJdURjOUFRNGRubldYZDZVRUZhZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Застосування продуктів органічного синтезу<br>Субтельний Р.О., 331 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09" title="https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Застосування продуктів органічного синтезу<br>Субтельний Р.О., 331 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09" title="https://us02web.zoom.us/j/3301629424?pwd=VWFvbFlWcHp5dkRPL1JnTE5RdExTQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Каталіз в органічному синтезі<br>Івасів В.В., 337 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09" title="https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Каталіз в органічному синтезі<br>Івасів В.В., 337 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09" title="https://zoom.us/j/98570224373?pwd=a285TkxINjJYaGxFWiticUpXT21QUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Розроблення технологічних процесів органічного синтезу<br>Хлібишин Ю.Я., 337 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96382797123?pwd=NENlYVJObGhiUWlISjJoOVVjbnFNZz09" title="https://zoom.us/j/96382797123?pwd=NENlYVJObGhiUWlISjJoOVVjbnFNZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розроблення технологічних процесів органічного синтезу<br>Хлібишин Ю.Я., 337 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96382797123?pwd=NENlYVJObGhiUWlISjJoOVVjbnFNZz09" title="https://zoom.us/j/96382797123?pwd=NENlYVJObGhiUWlISjJoOVVjbnFNZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

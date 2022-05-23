@@ -1,0 +1,235 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтегровані ієрархічні системи управління<br>Сікора Л.С., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72532951220?pwd=ECzL1tuSCZYt-uCKcXpwR5CqngjtMi.1" title="https://us04web.zoom.us/j/72532951220?pwd=ECzL1tuSCZYt-uCKcXpwR5CqngjtMi.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтегровані ієрархічні системи управління<br>Сікора Л.С., 807 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72532951220?pwd=ECzL1tuSCZYt-uCKcXpwR5CqngjtMi.1" title="https://us04web.zoom.us/j/72532951220?pwd=ECzL1tuSCZYt-uCKcXpwR5CqngjtMi.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Промисловий інтернет речей<br>Кордіяка Ю.М., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3750134182?pwd=ZDg1UFMxbmFuZ1FyQTYyUGw5MnRldz09" title="https://us05web.zoom.us/j/3750134182?pwd=ZDg1UFMxbmFuZ1FyQTYyUGw5MnRldz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Промисловий інтернет речей<br>Кордіяка Ю.М., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3750134182?pwd=ZDg1UFMxbmFuZ1FyQTYyUGw5MnRldz09" title="https://us05web.zoom.us/j/3750134182?pwd=ZDg1UFMxbmFuZ1FyQTYyUGw5MnRldz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Промисловий інтернет речей<br>Кордіяка Ю.М., 804б V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3750134182?pwd=ZDg1UFMxbmFuZ1FyQTYyUGw5MnRldz09" title="https://us05web.zoom.us/j/3750134182?pwd=ZDg1UFMxbmFuZ1FyQTYyUGw5MnRldz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології обчислювального інтелекту<br>Ткаченко Р.О., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/awo-dbjn-wkz" title="https://meet.google.com/awo-dbjn-wkz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технології обчислювального інтелекту<br>Ткаченко Р.О., 414 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rwy-jsoy-zme" title="https://meet.google.com/rwy-jsoy-zme">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технології обчислювального інтелекту<br>Ткаченко Р.О., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rrh-cyns-zis" title="https://meet.google.com/rrh-cyns-zis">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі синтезу та оптимізації систем<br>Різник В.В., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tvj-jjfj-wzv" title="https://meet.google.com/tvj-jjfj-wzv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математичні моделі синтезу та оптимізації систем<br>Різник В.В., 802а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tvj-jjfj-wzv" title="https://meet.google.com/tvj-jjfj-wzv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,410 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління витратами в зовнішньоекономічній діяльності<br>Адамів М.Є., +МЕМ-11319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a3n3ZYW-m1j3RbnSSeKOL-53b5tNrmHz3W8W1-mcYPCY1%40thread.tacv2/conversations?groupId=84a60451-7157-41aa-85f7-c6495e6b2095&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a3n3ZYW-m1j3RbnSSeKOL-53b5tNrmHz3W8W1-mcYPCY1%40thread.tacv2/conversations?groupId=84a60451-7157-41aa-85f7-c6495e6b2095&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління витратами в зовнішньоекономічній діяльності<br>Адамів М.Є., +МЕМ-11319 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a3n3ZYW-m1j3RbnSSeKOL-53b5tNrmHz3W8W1-mcYPCY1%40thread.tacv2/conversations?groupId=84a60451-7157-41aa-85f7-c6495e6b2095&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a3n3ZYW-m1j3RbnSSeKOL-53b5tNrmHz3W8W1-mcYPCY1%40thread.tacv2/conversations?groupId=84a60451-7157-41aa-85f7-c6495e6b2095&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Міжнародний маркетинг<br>Горбаль Н.І., +МЕМ-11205 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Міжнародний маркетинг<br>Горбаль Н.І., +МЕМ-11205 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Міжнародний маркетинг<br>Горбаль Н.І., +МЕМ-11205 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Міжнародний маркетинг<br>Горбаль Н.І., +МЕМ-1117 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародний маркетинг<br>Горбаль Н.І., анг. мовою +МЕМ-11,17 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3awXXMrH6hrk9KZk67ydi9zTHNG3g0zXhQiXClxkVqOqA1%40thread.tacv2/conversations?groupId=c7eaa508-40d2-4698-867b-f18ad478a3b9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Нетарифне регулювання зовнішньоекономічної діяльності<br>Подра О.П., +МЕМ-11527 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aNBzR2VNHI135YPVvMNdMWxY6M34modLd6hTLdSacYt01%40thread.tacv2/conversations?groupId=74d866f9-6fa8-4448-a87f-fd3bcfeba0bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aNBzR2VNHI135YPVvMNdMWxY6M34modLd6hTLdSacYt01%40thread.tacv2/conversations?groupId=74d866f9-6fa8-4448-a87f-fd3bcfeba0bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Міжнародна електронна комерція<br>Малиновська Ю.Б., +МЕМ-11527 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Нетарифне регулювання зовнішньоекономічної діяльності<br>Подра О.П., 17 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aNBzR2VNHI135YPVvMNdMWxY6M34modLd6hTLdSacYt01%40thread.tacv2/conversations?groupId=74d866f9-6fa8-4448-a87f-fd3bcfeba0bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aNBzR2VNHI135YPVvMNdMWxY6M34modLd6hTLdSacYt01%40thread.tacv2/conversations?groupId=74d866f9-6fa8-4448-a87f-fd3bcfeba0bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Нетарифне регулювання зовнішньоекономічної діяльності<br>Подра О.П., +МЕМ-1117 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aNBzR2VNHI135YPVvMNdMWxY6M34modLd6hTLdSacYt01%40thread.tacv2/conversations?groupId=74d866f9-6fa8-4448-a87f-fd3bcfeba0bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aNBzR2VNHI135YPVvMNdMWxY6M34modLd6hTLdSacYt01%40thread.tacv2/conversations?groupId=74d866f9-6fa8-4448-a87f-fd3bcfeba0bb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Транснаціональні корпорації<br>Моторнюк У.І., +МЕМ-11<br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a343CLl6aZRNcacCZFU5JAIWIaTsiXgxx88hIX0jqTAc1%40thread.tacv2/conversations?groupId=44aee618-9348-4406-917b-7680ed185bdd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a343CLl6aZRNcacCZFU5JAIWIaTsiXgxx88hIX0jqTAc1%40thread.tacv2/conversations?groupId=44aee618-9348-4406-917b-7680ed185bdd&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародний маркетинг<br>Горбаль Н.І., +МЕМ-11, анг. мовою528 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aOAXnIDqJW7Pzcs9YdRO3bJ6jP55wuoNAUaiRS03tsfA1%40thread.tacv2/conversations?groupId=8875989d-5015-41cd-ab10-d780bead701f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aOAXnIDqJW7Pzcs9YdRO3bJ6jP55wuoNAUaiRS03tsfA1%40thread.tacv2/conversations?groupId=8875989d-5015-41cd-ab10-d780bead701f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Європеєзнавство<br>Завербний А.С., +МЕМ-11110 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaea0364e911543158a4821e794713319%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0834567b-c208-46de-9aa0-d735e2b14a20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaea0364e911543158a4821e794713319%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0834567b-c208-46de-9aa0-d735e2b14a20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Європеєзнавство<br>Завербний А.С., +МЕМ-11116 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaea0364e911543158a4821e794713319%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0834567b-c208-46de-9aa0-d735e2b14a20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaea0364e911543158a4821e794713319%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0834567b-c208-46de-9aa0-d735e2b14a20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Транснаціональні корпорації<br>Моторнюк У.І., +МЕМ-11201 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a6yVzTrBSthhhkaxWk-4wOzNp2YqavUtTTcyBoWA6XRo1%40thread.tacv2/conversations?groupId=639172de-6a21-4994-8239-d8cf9551c249&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a6yVzTrBSthhhkaxWk-4wOzNp2YqavUtTTcyBoWA6XRo1%40thread.tacv2/conversations?groupId=639172de-6a21-4994-8239-d8cf9551c249&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Європеєзнавство<br>Завербний А.С., +МЕМ-11201 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aaea0364e911543158a4821e794713319%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0834567b-c208-46de-9aa0-d735e2b14a20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aaea0364e911543158a4821e794713319%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0834567b-c208-46de-9aa0-d735e2b14a20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Міжнародна електронна комерція<br>Малиновська Ю.Б., 308 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Міжнародна електронна комерція<br>Малиновська Ю.Б., +МЕМ-11308 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

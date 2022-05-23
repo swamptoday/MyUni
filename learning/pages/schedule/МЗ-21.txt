@@ -1,0 +1,301 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізичне металознавство<br>Кулик В.В., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:YJ-N288dLsssq-wXGpSgjPJQWzPOHyF8tULhar0LYrw1@thread.tacv2/1644586418279?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=62ebc25c-8ef4-4f3f-a5ca-e1092b27de62&amp;parentMessageId=1644586418279&amp;teamName=%D0%9C%D0%97-21&amp;channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&amp;createdTime=1644586418279" title="https://teams.microsoft.com/l/message/19:YJ-N288dLsssq-wXGpSgjPJQWzPOHyF8tULhar0LYrw1@thread.tacv2/1644586418279?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=62ebc25c-8ef4-4f3f-a5ca-e1092b27de62&amp;parentMessageId=1644586418279&amp;teamName=%D0%9C%D0%97-21&amp;channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&amp;createdTime=1644586418279">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Термічне оброблення металів<br>Ковбасюк Т.М., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aK_k46j6D-gZl7gIxxu0O6-wWQfYp7Mn_-fM4Qs5Khh81%40thread.tacv2/1644658924315?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aK_k46j6D-gZl7gIxxu0O6-wWQfYp7Mn_-fM4Qs5Khh81%40thread.tacv2/1644658924315?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Термічне оброблення металів<br>Ковбасюк Т.М., 29 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aK_k46j6D-gZl7gIxxu0O6-wWQfYp7Mn_-fM4Qs5Khh81%40thread.tacv2/1644659113645?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aK_k46j6D-gZl7gIxxu0O6-wWQfYp7Mn_-fM4Qs5Khh81%40thread.tacv2/1644659113645?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна механіка, частина 3<br>Предко Р.Я., 303 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83388034241?pwd=RWg5Y0t1VDRGSmFNSmNPVDVrT29uQT09" title="https://us02web.zoom.us/j/83388034241?pwd=RWg5Y0t1VDRGSmFNSmNPVDVrT29uQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизоване проектування<br>Топільницький В.Г., 72 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09" title="https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизоване проектування<br>Топільницький В.Г., 72 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09" title="https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічна механіка, частина 3<br>Малащенко В.О., 308 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6919005115?pwd=ZXRrLzF6bERpNWQ4NUs3cFJHNVlnQT09" title="https://us04web.zoom.us/j/6919005115?pwd=ZXRrLzF6bERpNWQ4NUs3cFJHNVlnQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне металознавство<br>Ковбасюк Т.М., 014 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3afQJQOaFhqPYVuYl6J8fMQViDqX_X0dfdCZ1KmD7ODRI1%40thread.tacv2/1644670016086?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3afQJQOaFhqPYVuYl6J8fMQViDqX_X0dfdCZ1KmD7ODRI1%40thread.tacv2/1644670016086?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизоване проектування<br>Лясковська С.Є., 84 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2ViNjJjOGQtNDUxZS00NTAzLWFhYWUtM2Q2ZTU0NmMwYWU3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2ViNjJjOGQtNDUxZS00NTAzLWFhYWUtM2Q2ZTU0NmMwYWU3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне металознавство<br>Кулик В.В., 014 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:YJ-N288dLsssq-wXGpSgjPJQWzPOHyF8tULhar0LYrw1@thread.tacv2/1644586888705?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=62ebc25c-8ef4-4f3f-a5ca-e1092b27de62&amp;parentMessageId=1644586888705&amp;teamName=%D0%9C%D0%97-21&amp;channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&amp;createdTime=1644586888705" title="https://teams.microsoft.com/l/message/19:YJ-N288dLsssq-wXGpSgjPJQWzPOHyF8tULhar0LYrw1@thread.tacv2/1644586888705?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=62ebc25c-8ef4-4f3f-a5ca-e1092b27de62&amp;parentMessageId=1644586888705&amp;teamName=%D0%9C%D0%97-21&amp;channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&amp;createdTime=1644586888705">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Термічне оброблення металів<br>Ковбасюк Т.М., 014 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aK_k46j6D-gZl7gIxxu0O6-wWQfYp7Mn_-fM4Qs5Khh81%40thread.tacv2/1644659418752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aK_k46j6D-gZl7gIxxu0O6-wWQfYp7Mn_-fM4Qs5Khh81%40thread.tacv2/1644659418752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизоване проектування<br>Лясковська С.Є., 84 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGIwYWVmNjUtZGIxOC00YTZmLWJhNWEtNjIyZGQxM2UyZjQz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGIwYWVmNjUtZGIxOC00YTZmLWJhNWEtNjIyZGQxM2UyZjQz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a8dc5fab-b9e6-4dd3-acca-605151bda477%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br><br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

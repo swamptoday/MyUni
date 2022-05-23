@@ -1,0 +1,257 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., 225 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сільськогосподарське водопостачання<br>Піцишин Б.С., 105 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09" title="https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сільськогосподарське водопостачання<br>Піцишин Б.С., 105 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09" title="https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., 217 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Водозабірні споруди<br>Чернюк В.В., 217 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09" title="https://us02web.zoom.us/j/5084697567?pwd=ZlNpaWo5ZGZrYlhNSEFvc1lJZmFoZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сільськогосподарське водопостачання<br>Піцишин Б.С., 105 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09" title="https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація систем водопостачання та водовідведення<br>Химко О.М., 318 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09" title="https://zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація систем водопостачання та водовідведення<br>Химко О.М., 308 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09" title="https://zoom.us/j/5386557961?pwd=OGd3UUVwMkpIVWxQUFZWczZaYjRZdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Сільськогосподарське водопостачання<br>Піцишин Б.С., 105 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09" title="https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

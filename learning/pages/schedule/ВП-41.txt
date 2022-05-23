@@ -1,0 +1,447 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи автоматизованого проектування видавничих систем<br>Ковівчак Я.В., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjJhZTMwMDgtOWNkZS00NDA4LThjNDUtN2YzN2Y2YjY1ZjM5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjJhZTMwMDgtOWNkZS00NDA4LThjNDUtN2YzN2Y2YjY1ZjM5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">WEB -  програмування<br>Міюшкович Ю.Г., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bde-pgsw-rhz" title="https://meet.google.com/bde-pgsw-rhz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія розробки електронних видань<br>Міюшкович Ю.Г., 311 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bde-pgsw-rhz" title="https://meet.google.com/bde-pgsw-rhz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">3D графіка <br>Лотошинська Н.Д., 311 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76513142620?pwd=6DxsmOnBB3birUN3oogKmMj7_OUOSQ.1" title="https://us04web.zoom.us/j/76513142620?pwd=6DxsmOnBB3birUN3oogKmMj7_OUOSQ.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Цифрова фотографія<br>Рашкевич Ю.М., 311 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/qpd-yoyf-aeo" title="https://meet.google.com/qpd-yoyf-aeo">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові мережі<br>Обельовська К.М., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72689582725?pwd=d2N6MEM2dE92b1VZVzZySkVzZUNMdz09" title="https://us04web.zoom.us/j/72689582725?pwd=d2N6MEM2dE92b1VZVzZySkVzZUNMdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи анімаційних технологій<br>Гавриш Б.М., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97287850482?pwd=ZFllbmRJTUtCM2dVbmdvOVVXVXptUT09" title="https://zoom.us/j/97287850482?pwd=ZFllbmRJTUtCM2dVbmdvOVVXVXptUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">WEB -  програмування<br>Міюшкович Ю.Г., 409 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bde-pgsw-rhz" title="https://meet.google.com/bde-pgsw-rhz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">3D графіка <br>Лотошинська Н.Д., 908 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79460235114?pwd=r6vHnIl4RQid8lL0k6OKtd3au3aa_M.1" title="https://us04web.zoom.us/j/79460235114?pwd=r6vHnIl4RQid8lL0k6OKtd3au3aa_M.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Цифрові мережі<br>Сидоренко Р.В., 802б V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a72427ab769b442c5ab693efab4d43955%40thread.tacv2/1645469535487?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222da1e432-4cfa-4b2d-a39c-503721c225b6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a72427ab769b442c5ab693efab4d43955%40thread.tacv2/1645469535487?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222da1e432-4cfa-4b2d-a39c-503721c225b6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Основи автоматизованого проектування видавничих систем<br>Ковівчак Я.В., 802а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzNiMGE1Y2YtNjcxYy00MDUwLWI5MjgtMGQ2MmVjNTFkNTNk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzNiMGE1Y2YtNjcxYy00MDUwLWI5MjgtMGQ2MmVjNTFkNTNk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">3D графіка <br>Лотошинська Н.Д., 908 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79460235114?pwd=r6vHnIl4RQid8lL0k6OKtd3au3aa_M.1" title="https://us04web.zoom.us/j/79460235114?pwd=r6vHnIl4RQid8lL0k6OKtd3au3aa_M.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Цифрові мережі<br>Сидоренко Р.В., 804г V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a72427ab769b442c5ab693efab4d43955%40thread.tacv2/1645469622057?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222da1e432-4cfa-4b2d-a39c-503721c225b6%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a72427ab769b442c5ab693efab4d43955%40thread.tacv2/1645469622057?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222da1e432-4cfa-4b2d-a39c-503721c225b6%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи автоматизованого проектування видавничих систем<br>Ковівчак Я.В., 804б V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRmMzhmMDUtMjRmMS00Zjg3LTk5ZmUtN2E1ZThmOWNmZTJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRmMzhmMDUtMjRmMS00Zjg3LTk5ZmUtN2E1ZThmOWNmZTJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технологія розробки електронних видань<br>Міюшкович Ю.Г., 912 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bde-pgsw-rhz" title="https://meet.google.com/bde-pgsw-rhz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи анімаційних технологій<br>Гавриш Б.М., 912 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98662299902?pwd=UHlJN2x3ZlNtOUQvWHBzQkwwT0dEUT09" title="https://zoom.us/j/98662299902?pwd=UHlJN2x3ZlNtOUQvWHBzQkwwT0dEUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи анімаційних технологій<br>Гавриш Б.М., 912 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99403038925?pwd=eFBZUmNkSWQrM01BWlJ0ejM4bElnUT09" title="https://zoom.us/j/99403038925?pwd=eFBZUmNkSWQrM01BWlJ0ejM4bElnUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">WEB -  програмування<br>Міюшкович Ю.Г., 409 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bde-pgsw-rhz" title="https://meet.google.com/bde-pgsw-rhz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Цифрова фотографія<br>Семенова О.Є., 908 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rod-iafr-btt " title="https://meet.google.com/rod-iafr-btt ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Технологія розробки електронних видань<br>Міюшкович Ю.Г., 409 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bde-pgsw-rhz" title="https://meet.google.com/bde-pgsw-rhz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Цифрова фотографія<br>Семенова О.Є., 908 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/bgj-ykpj-nqm" title="https://meet.google.com/bgj-ykpj-nqm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

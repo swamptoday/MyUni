@@ -1,0 +1,572 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи фізіології та гігієни харчування<br>Хлібишин Ю.Я., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93808679249?pwd=dW01RUNxZFU3azArbGtwUVJmV1dLQT09" title="https://zoom.us/j/93808679249?pwd=dW01RUNxZFU3azArbGtwUVJmV1dLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Процеси і апарати харчових виробництв, частина 1<br>Цюра Н.Я., 025 IX н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/2446399231?pwd=cnVOeXRmSFNncFlRSGRsQmd3TkJ0Zz09" title="https://us05web.zoom.us/j/2446399231?pwd=cnVOeXRmSFNncFlRSGRsQmd3TkJ0Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи фізіології та гігієни харчування<br>Хлібишин Ю.Я., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93808679249?pwd=dW01RUNxZFU3azArbGtwUVJmV1dLQT09" title="https://zoom.us/j/93808679249?pwd=dW01RUNxZFU3azArbGtwUVJmV1dLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Процеси і апарати харчових виробництв, частина 1<br>Цюра Н.Я., 025 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/2446399231?pwd=cnVOeXRmSFNncFlRSGRsQmd3TkJ0Zz09" title="https://us05web.zoom.us/j/2446399231?pwd=cnVOeXRmSFNncFlRSGRsQmd3TkJ0Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Чурсінова О.Ю., 213 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a0I-epE70mY2u43dleWpnXD-vJlTj3XBHg7MJ18rG89s1%40thread.tacv2/conversations?groupId=48c53002-d043-49de-86c7-88cdb8f1d305&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a0I-epE70mY2u43dleWpnXD-vJlTj3XBHg7MJ18rG89s1%40thread.tacv2/conversations?groupId=48c53002-d043-49de-86c7-88cdb8f1d305&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи інформаційних технологій і моделювання в галузі<br>Чайківський Т.В., 506 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a05aa894d47a64d388a80da664ad5df11%40thread.tacv2/1644332974834?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a05aa894d47a64d388a80da664ad5df11%40thread.tacv2/1644332974834?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Харчові технології, частина 1<br>Шевчук Л.І., 117 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89893104966?pwd=MlpBYW1KbldWU0xFR1R1aFp3MWlaZz09" title="https://us02web.zoom.us/j/89893104966?pwd=MlpBYW1KbldWU0xFR1R1aFp3MWlaZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Харчові технології, частина 1<br>Шевчук Л.І., 117 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89893104966?pwd=MlpBYW1KbldWU0xFR1R1aFp3MWlaZz09" title="https://us02web.zoom.us/j/89893104966?pwd=MlpBYW1KbldWU0xFR1R1aFp3MWlaZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи інформаційних технологій і моделювання в галузі<br>Чайківський Т.В., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3af5985840746d4df1b45ffad5187e86f1%40thread.tacv2/1644141415348?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3af5985840746d4df1b45ffad5187e86f1%40thread.tacv2/1644141415348?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Харчові технології, частина 1<br>Реутський В.В., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09" title="https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Чурсінова О.Ю., 223 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a0I-epE70mY2u43dleWpnXD-vJlTj3XBHg7MJ18rG89s1%40thread.tacv2/conversations?groupId=48c53002-d043-49de-86c7-88cdb8f1d305&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a0I-epE70mY2u43dleWpnXD-vJlTj3XBHg7MJ18rG89s1%40thread.tacv2/conversations?groupId=48c53002-d043-49de-86c7-88cdb8f1d305&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теоретичні основи харчових технологій<br>Бліщ Р.О., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09" title="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Харчові технології, частина 1<br>Реутський В.В., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09" title="https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи фізіології та гігієни харчування<br>Паляниця Л.Я., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи харчових технологій<br>Бліщ Р.О., 214 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09" title="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Процеси і апарати харчових виробництв, частина 1<br>Іващук О.С., 214 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ac0ByQcKSSagHT8YlzChWA8su-9snAMwtK6BGUUYnbkc1%40thread.tacv2/1644766460863?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ac0ByQcKSSagHT8YlzChWA8su-9snAMwtK6BGUUYnbkc1%40thread.tacv2/1644766460863?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теоретичні основи харчових технологій<br>Бліщ Р.О., 325 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09" title="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Основи фізіології та гігієни харчування<br>Хлібишин Ю.Я., 323 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93808679249?pwd=dW01RUNxZFU3azArbGtwUVJmV1dLQT09" title="https://zoom.us/j/93808679249?pwd=dW01RUNxZFU3azArbGtwUVJmV1dLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Основи фізіології та гігієни харчування<br>Хлібишин Ю.Я., 323 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93808679249?pwd=dW01RUNxZFU3azArbGtwUVJmV1dLQT09" title="https://zoom.us/j/93808679249?pwd=dW01RUNxZFU3azArbGtwUVJmV1dLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Харчові технології, частина 1<br>Шевчук Л.І., 117 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89428994174?pwd=eVpSaGhIT013M1RwdWJwMnNsV2t5Zz09S" title="https://us02web.zoom.us/j/89428994174?pwd=eVpSaGhIT013M1RwdWJwMnNsV2t5Zz09S">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Харчові технології, частина 1<br>Шевчук Л.І., 117 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89428994174?pwd=eVpSaGhIT013M1RwdWJwMnNsV2t5Zz09 " title="https://us02web.zoom.us/j/89428994174?pwd=eVpSaGhIT013M1RwdWJwMnNsV2t5Zz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Стадник В.В.,  14-40  16-00 корп.21 вул.Самчука 11<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09" title="https://us05web.zoom.us/j/9740667586?pwd=ZEJheW1rS0lpcngyZDhScFlzb0xaQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козіброда Л.В., корп. 21 , вул. Самчука 11<br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Теоретичні основи харчових технологій<br>Бліщ Р.О., 323 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09" title="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Теоретичні основи харчових технологій<br>Бліщ Р.О., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09" title="https://zoom.us/j/93534009215?pwd=YlZSZFgzNGx2clAvK3dWam5mVzA5dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Процеси і апарати харчових виробництв, частина 1<br>Гнатів З.Я., 110 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VkMWFlYzItNTE0MC00NjRmLThjMjgtNjllMzllMTVmMjlm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295095efb-0378-4292-b6f9-c47b9b9de67e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VkMWFlYzItNTE0MC00NjRmLThjMjgtNjllMzllMTVmMjlm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295095efb-0378-4292-b6f9-c47b9b9de67e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи інформаційних технологій і моделювання в галузі<br>Чайківський Т.В., 403 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a05aa894d47a64d388a80da664ad5df11%40thread.tacv2/1644333145136?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a05aa894d47a64d388a80da664ad5df11%40thread.tacv2/1644333145136?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

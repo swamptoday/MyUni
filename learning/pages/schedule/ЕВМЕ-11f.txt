@@ -1,0 +1,265 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальна відповідальність<br>Скибінський О.С., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародний фінансовий менеджмент<br>Харчук В.Ю., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72467630623?pwd=a3RKvPAJdPk3Z2Esq7gH1vsg69D_f2.1" title="https://us04web.zoom.us/j/72467630623?pwd=a3RKvPAJdPk3Z2Esq7gH1vsg69D_f2.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Міжнародний фінансовий менеджмент<br>Харчук В.Ю., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72467630623?pwd=a3RKvPAJdPk3Z2Esq7gH1vsg69D_f2.1" title="https://us04web.zoom.us/j/72467630623?pwd=a3RKvPAJdPk3Z2Esq7gH1vsg69D_f2.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Митне обслуговування міжнародної економічної діяльності<br>Чернобай Л.І., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09" title="https://zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Міжнародна венчурна діяльність<br>Литвин І.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82754097577?pwd=cXA2bXJrVTVGd3ZOZy9ySGNFdUJGQT09 Meeting ID: 827 5409 7577 Passcode: 2022" title="https://us02web.zoom.us/j/82754097577?pwd=cXA2bXJrVTVGd3ZOZy9ySGNFdUJGQT09 Meeting ID: 827 5409 7577 Passcode: 2022">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Митне обслуговування міжнародної економічної діяльності<br>Чернобай Л.І., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4626933798?pwd=dms1Q2IrNzNxdlRpL3VTcWltemM4QT09" title="https://zoom.us/j/4626933798?pwd=dms1Q2IrNzNxdlRpL3VTcWltemM4QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інфраструктурне обслуговування міжнародної економічної діяльності<br>Лема Г.В., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92213652253?pwd=dVFJbHMvK2IrU3Y5TXZrSnUyNWZ2Zz09" title="https://zoom.us/j/92213652253?pwd=dVFJbHMvK2IrU3Y5TXZrSnUyNWZ2Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інфраструктурне обслуговування міжнародної економічної діяльності<br>Лема Г.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92213652253?pwd=dVFJbHMvK2IrU3Y5TXZrSnUyNWZ2Zz09" title="https://zoom.us/j/92213652253?pwd=dVFJbHMvK2IrU3Y5TXZrSnUyNWZ2Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Міжнародна венчурна діяльність<br>Литвин І.В., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82754097577?pwd=cXA2bXJrVTVGd3ZOZy9ySGNFdUJGQT09  Meeting ID: 827 5409 7577 Passcode: 2022" title="https://us02web.zoom.us/j/82754097577?pwd=cXA2bXJrVTVGd3ZOZy9ySGNFdUJGQT09  Meeting ID: 827 5409 7577 Passcode: 2022">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Соціальна відповідальність<br>Скибінський О.С., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління міжнародною конкурентоспроможністю<br>Найчук-Хрущ М.Б., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLH-Q.1" title="https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLH-Q.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління міжнародною конкурентоспроможністю<br>Найчук-Хрущ М.Б., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLH-Q.1" title="https://us04web.zoom.us/j/78280777022?pwd=DEfzneGsfLpoBNKXejBPuWyHvCLH-Q.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

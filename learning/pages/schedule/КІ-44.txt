@@ -1,0 +1,402 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи управління базами даних<br>Пастернак І.І., 904а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95699562636?pwd=ZnRsOTQ5VGYvZkJJMVZpSUh1OGdMQT09  Meeting ID: 956 9956 2636 Passcode: z6bX7v" title="https://zoom.us/j/95699562636?pwd=ZnRsOTQ5VGYvZkJJMVZpSUh1OGdMQT09  Meeting ID: 956 9956 2636 Passcode: z6bX7v">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Програмні засоби мікропроцесорних систем<br>Парамуд Я.С., 504 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09" title="https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Системи управління базами даних<br>Пастернак І.І., 904а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97888127799?pwd=MHFHU25KRndINFJac3FTUFVoYjRmQT09  Meeting ID: 978 8812 7799 Passcode: 6f4jYG" title="https://zoom.us/j/97888127799?pwd=MHFHU25KRndINFJac3FTUFVoYjRmQT09  Meeting ID: 978 8812 7799 Passcode: 6f4jYG">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Програмні засоби мікропроцесорних систем<br>Парамуд Я.С., 504 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09" title="https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Веб програмування<br>Пастернак І.І., 906 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95974907415?pwd=cXBMdS9ZT3g2bVdYOW5PL2hJR3phQT09  Meeting ID: 959 7490 7415 Passcode: 9F8hZ8" title="https://zoom.us/j/95974907415?pwd=cXBMdS9ZT3g2bVdYOW5PL2hJR3phQT09  Meeting ID: 959 7490 7415 Passcode: 9F8hZ8">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Безпека мережних і хмарних технологій<br>Костик А.Т., 904б V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85249819943?pwd=bUZxNXVycEptSDBqSitUaEUxeVBYZz09" title="https://us02web.zoom.us/j/85249819943?pwd=bUZxNXVycEptSDBqSitUaEUxeVBYZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Безпека мережних і хмарних технологій<br>Костик А.Т., 904б V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85249819943?pwd=bUZxNXVycEptSDBqSitUaEUxeVBYZz09" title="https://us02web.zoom.us/j/85249819943?pwd=bUZxNXVycEptSDBqSitUaEUxeVBYZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Веб програмування<br>Пастернак І.І., 905 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91845087659?pwd=NXltNGR5L0Q4NElLbFJyUVlwZTA0QT09  Meeting ID: 918 4508 7659 Passcode: TSuGA2" title="https://zoom.us/j/91845087659?pwd=NXltNGR5L0Q4NElLbFJyUVlwZTA0QT09  Meeting ID: 918 4508 7659 Passcode: TSuGA2">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Веб програмування<br>Пастернак І.І., 904а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91832963645?pwd=eVRrTFBjM0VMYkVsY0hOd0pScjN6Zz09  Meeting ID: 918 3296 3645 Passcode: B6nKkD" title="https://zoom.us/j/91832963645?pwd=eVRrTFBjM0VMYkVsY0hOd0pScjN6Zz09  Meeting ID: 918 3296 3645 Passcode: B6nKkD">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Веб програмування<br>Пастернак І.І., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99905822797?pwd=M0JIRC9IempPc1BubW1PWENMbXd4QT09  Meeting ID: 999 0582 2797 Passcode: e9QeKG" title="https://zoom.us/j/99905822797?pwd=M0JIRC9IempPc1BubW1PWENMbXd4QT09  Meeting ID: 999 0582 2797 Passcode: e9QeKG">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Веб програмування<br>Пастернак І.І., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96414032285?pwd=eEQ3TDVaK1lpVnZ2QTA5Ym0yM3NzQT09  Meeting ID: 964 1403 2285 Passcode: 5Z5zUX" title="https://zoom.us/j/96414032285?pwd=eEQ3TDVaK1lpVnZ2QTA5Ym0yM3NzQT09  Meeting ID: 964 1403 2285 Passcode: 5Z5zUX">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системи управління базами даних<br>Пастернак І.І., 512 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99665428354?pwd=dlhHNFhBVzNneVFqcUtUMDUxWGpYUT09  Meeting ID: 996 6542 8354 Passcode: xR1N0w" title="https://zoom.us/j/99665428354?pwd=dlhHNFhBVzNneVFqcUtUMDUxWGpYUT09  Meeting ID: 996 6542 8354 Passcode: xR1N0w">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи управління базами даних<br>Пастернак І.І., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92786626528?pwd=TFZ2QkxPS0RrZ0Z4dUcwSmIyRTd4dz09  Meeting ID: 927 8662 6528 Passcode: AcZ46N" title="https://zoom.us/j/92786626528?pwd=TFZ2QkxPS0RrZ0Z4dUcwSmIyRTd4dz09  Meeting ID: 927 8662 6528 Passcode: AcZ46N">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи управління базами даних<br>Пастернак І.І., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96620130212?pwd=ZjEzQi9SRDdqWnRnM3ZncVgyRXQ3dz09  Meeting ID: 966 2013 0212 Passcode: N2H2in" title="https://zoom.us/j/96620130212?pwd=ZjEzQi9SRDdqWnRnM3ZncVgyRXQ3dz09  Meeting ID: 966 2013 0212 Passcode: N2H2in">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Безпека мережних і хмарних технологій<br>Костик А.Т., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83075317605?pwd=SVBwOE5XbXlGYjZaL3R3aWgxMmRiUT09" title="https://us02web.zoom.us/j/83075317605?pwd=SVBwOE5XbXlGYjZaL3R3aWgxMmRiUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Безпека мережних і хмарних технологій<br>Костик А.Т., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83075317605?pwd=SVBwOE5XbXlGYjZaL3R3aWgxMmRiUT09" title="https://us02web.zoom.us/j/83075317605?pwd=SVBwOE5XbXlGYjZaL3R3aWgxMmRiUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Програмні засоби мікропроцесорних систем<br>Пуйда В.Я., 906 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85884193825?pwd=YVZpbTh0RHM4NUhLTE5aekxUTGJmdz09" title="https://us02web.zoom.us/j/85884193825?pwd=YVZpbTh0RHM4NUhLTE5aekxUTGJmdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Програмні засоби мікропроцесорних систем<br>Пуйда В.Я., 906 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85884193825?pwd=YVZpbTh0RHM4NUhLTE5aekxUTGJmdz09" title="https://us02web.zoom.us/j/85884193825?pwd=YVZpbTh0RHM4NUhLTE5aekxUTGJmdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

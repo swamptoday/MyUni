@@ -1,0 +1,387 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія нелінійних і цифрових систем керування<br>Парнета О.З., 86 X н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія нелінійних і цифрових систем керування<br>Парнета О.З., 71 X н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Ідентифікація об`єктів автоматизації<br>Роман В.І., 86 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96250247988?pwd=TkZaMW85Z3UxdWNvOHlrUzhmWmVJUT09" title="https://zoom.us/j/96250247988?pwd=TkZaMW85Z3UxdWNvOHlrUzhmWmVJUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Ідентифікація об`єктів автоматизації<br>Роман В.І., 82 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94793556029?pwd=T0hvaXV6WEpoMERRRFloRm4zUStJQT09" title="https://zoom.us/j/94793556029?pwd=T0hvaXV6WEpoMERRRFloRm4zUStJQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічні засоби автоматизації<br>Вашкурак Ю.З., 82 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09" title="https://zoom.us/j/6428249235?pwd=ZER1ZTFoZ1FPRG1nZmlteEIwUmpvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Програмування для систем реального часу<br>Демків І.Б., 86 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09" title="https://zoom.us/j/97866709868?pwd=UUdFZnNPMVZwSG5UNFcwK2hmQTlHQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br><br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Автоматизація технологічних процесів<br>Васильківський І.С., 78 X н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94102061388?pwd=S1NSWWl4b2c1WUlaMVNJSXgvK1d2dz09" title="https://zoom.us/j/94102061388?pwd=S1NSWWl4b2c1WUlaMVNJSXgvK1d2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація технологічних процесів<br>Васильківський І.С., 82 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93191324808?pwd=akx4YmRuaDlqVlhtOTVSOGM0aUdiZz09" title="https://zoom.us/j/93191324808?pwd=akx4YmRuaDlqVlhtOTVSOGM0aUdiZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Автоматизація технологічних процесів<br>Васильківський І.С., 82 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92299825369?pwd=anFGWHZ4VEVMNEFQbkhHazdhZnVtUT09" title="https://zoom.us/j/92299825369?pwd=anFGWHZ4VEVMNEFQbkhHazdhZnVtUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Технічні засоби автоматизації<br>Федоришин Р.М., 82 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99470336836?pwd=bU4xOWZHSkljajNNYmFrQU41elVEUT09" title="https://zoom.us/j/99470336836?pwd=bU4xOWZHSkljajNNYmFrQU41elVEUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Програмування для систем реального часу<br>Федоришин Р.М., 82 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99665922601?pwd=NkZmdEFxUUIvMWZaL1EyVi9uSE11dz09" title="https://zoom.us/j/99665922601?pwd=NkZmdEFxUUIvMWZaL1EyVi9uSE11dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Автоматизація технологічних процесів<br>Васильківський І.С., 82 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93191324808?pwd=akx4YmRuaDlqVlhtOTVSOGM0aUdiZz09" title="https://zoom.us/j/93191324808?pwd=akx4YmRuaDlqVlhtOTVSOGM0aUdiZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизація технологічних процесів<br>Васильківський І.С., 82 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93191324808?pwd=akx4YmRuaDlqVlhtOTVSOGM0aUdiZz09" title="https://zoom.us/j/93191324808?pwd=akx4YmRuaDlqVlhtOTVSOGM0aUdiZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічні засоби автоматизації<br>Федоришин Р.М., 82 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99470336836?pwd=bU4xOWZHSkljajNNYmFrQU41elVEUT09" title="https://zoom.us/j/99470336836?pwd=bU4xOWZHSkljajNNYmFrQU41elVEUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Ідентифікація об`єктів автоматизації<br>Крих Г.Б., 014 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77852231464?pwd=czFBMXZ6MTRwREt4ak4wU08vRUp6QT09" title="https://us04web.zoom.us/j/77852231464?pwd=czFBMXZ6MTRwREt4ak4wU08vRUp6QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія нелінійних і цифрових систем керування<br>Крих Г.Б., 014 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79874120643?pwd=MHlJOEVSZ1VMZkt0cElPaDU1MndKUT09" title="https://us04web.zoom.us/j/79874120643?pwd=MHlJOEVSZ1VMZkt0cElPaDU1MndKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

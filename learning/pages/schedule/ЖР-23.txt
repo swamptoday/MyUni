@@ -1,0 +1,350 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і методика журналістської творчості, частина 4<br>Пуцята І.С., 35 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74240405468?pwd=KiElAv0gfQYb6xHsxl06vhbCzfcZXF.1" title="https://us04web.zoom.us/j/74240405468?pwd=KiElAv0gfQYb6xHsxl06vhbCzfcZXF.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціологія і журналістика<br>Іваницька Б.В., 35 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72357986004?pwd=mowcvpBlEjLz0by8l9NrubfHxLDsdv.1" title="https://us04web.zoom.us/j/72357986004?pwd=mowcvpBlEjLz0by8l9NrubfHxLDsdv.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Іміджелогія<br>Любомудрова Н.П., вибіркова36 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3abde5297676714eff8c76b24ed38f6c51%40thread.tacv2/1644568331387?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e747408b-14ef-4bfd-84b5-80d38def386a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3abde5297676714eff8c76b24ed38f6c51%40thread.tacv2/1644568331387?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e747408b-14ef-4bfd-84b5-80d38def386a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Павлось Р.М., Кубрак Я.Д., Блавт О.З., Самчука 11, 14.40-16.10<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83336624847" title="https://us02web.zoom.us/j/83336624847">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7168386822?pwd=MlN2ZGxsR3YrTlRSY1FyYmZreHFRQT09" title="https://zoom.us/j/7168386822?pwd=MlN2ZGxsR3YrTlRSY1FyYmZreHFRQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і методика журналістської творчості, частина 4<br>Кузнецова О.Д., 32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5702243579?pwd=ZURLWFprR0ZzajRkUktKK3Q1MTQxZz09" title="https://us04web.zoom.us/j/5702243579?pwd=ZURLWFprR0ZzajRkUktKK3Q1MTQxZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Федорів Л.М., 32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68" title="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Іміджелогія<br>Любомудрова Н.П., вибіркова32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a9b1709641f9845b3bc3ab755eb93f2cf%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=3bc3e35a-0d25-4e8d-bc79-5677aa1f28e9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a9b1709641f9845b3bc3ab755eb93f2cf%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=3bc3e35a-0d25-4e8d-bc79-5677aa1f28e9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інформаційні технології організації бізнесу<br>Марковець О.В., вибіркова32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4596dd1b860c424e8e60079acc610c3f%40thread.tacv2/1644418299738?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4596dd1b860c424e8e60079acc610c3f%40thread.tacv2/1644418299738?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Медіабезпека<br>Павлишин Н.І., 32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4153645455?pwd=RVVZYmFuWEtNZFA3SFVHV3psb1cvQT09" title="https://zoom.us/j/4153645455?pwd=RVVZYmFuWEtNZFA3SFVHV3psb1cvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціологія і журналістика<br>Іваницька Б.В., 32 XXXIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72357986004?pwd=mowcvpBlEjLz0by8l9NrubfHxLDsdv.1" title="https://us04web.zoom.us/j/72357986004?pwd=mowcvpBlEjLz0by8l9NrubfHxLDsdv.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і методика журналістської творчості, частина 4<br>Пуцята І.С., 32 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78199086879?pwd=kRv736a0buRKOsngNIVtmwQMm-5bXw.1" title="https://us04web.zoom.us/j/78199086879?pwd=kRv736a0buRKOsngNIVtmwQMm-5bXw.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Медіабезпека<br>Павлишин Н.І., 32 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4153645455?pwd=RVVZYmFuWEtNZFA3SFVHV3psb1cvQT09" title="https://zoom.us/j/4153645455?pwd=RVVZYmFuWEtNZFA3SFVHV3psb1cvQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практична стилістика української мови<br>Шмілик І.Д., 27 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4460491153?pwd=SVBkUHFVNU1EYXI1d3kxN3FkUmdsZz09" title="https://us02web.zoom.us/j/4460491153?pwd=SVBkUHFVNU1EYXI1d3kxN3FkUmdsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Практична стилістика української мови<br>Шмілик І.Д., 27 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/4460491153?pwd=SVBkUHFVNU1EYXI1d3kxN3FkUmdsZz09" title="https://us02web.zoom.us/j/4460491153?pwd=SVBkUHFVNU1EYXI1d3kxN3FkUmdsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Федорів Л.М., 12 XXXIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68" title="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,394 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Чисельні методи<br>Чабан А.В., 507 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3abkHPs-qlEj2QiatKtHKviiJRN_eU1fs_ueDw-REZsQY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9bc5683-e74d-47b7-a715-9b6c2dfb4fe4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3abkHPs-qlEj2QiatKtHKviiJRN_eU1fs_ueDw-REZsQY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9bc5683-e74d-47b7-a715-9b6c2dfb4fe4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельні методи<br>Чабан А.В., 507 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3abkHPs-qlEj2QiatKtHKviiJRN_eU1fs_ueDw-REZsQY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9bc5683-e74d-47b7-a715-9b6c2dfb4fe4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3abkHPs-qlEj2QiatKtHKviiJRN_eU1fs_ueDw-REZsQY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9bc5683-e74d-47b7-a715-9b6c2dfb4fe4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Оптика<br>Данилов А.Б., опт.2лаб Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83767263690?pwd=WHdrVk84bU1UYkNieWpiUU5ZUXpldz09  Meeting ID: 837 6726 3690 Passcode: PVKF6G" title="https://us02web.zoom.us/j/83767263690?pwd=WHdrVk84bU1UYkNieWpiUU5ZUXpldz09  Meeting ID: 837 6726 3690 Passcode: PVKF6G">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретична механіка та механіка суцільного середовища<br>Крушельницька Т.Д., 104 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87467170912?pwd=b3E0ZGU3Y1M0UVd4aEtDSmRNY2ZvUT09  Идентификатор конференции: 874 6717 0912 Код доступа: a2jjGA" title="https://us02web.zoom.us/j/87467170912?pwd=b3E0ZGU3Y1M0UVd4aEtDSmRNY2ZvUT09  Идентификатор конференции: 874 6717 0912 Код доступа: a2jjGA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Чисельні методи<br>Чабан А.В., 006 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3abkHPs-qlEj2QiatKtHKviiJRN_eU1fs_ueDw-REZsQY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9bc5683-e74d-47b7-a715-9b6c2dfb4fe4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3abkHPs-qlEj2QiatKtHKviiJRN_eU1fs_ueDw-REZsQY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9bc5683-e74d-47b7-a715-9b6c2dfb4fe4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретична механіка та механіка суцільного середовища<br>Крушельницька Т.Д., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87467170912?pwd=b3E0ZGU3Y1M0UVd4aEtDSmRNY2ZvUT09  Идентификатор конференции: 874 6717 0912 Код доступа: a2jjGA" title="https://us02web.zoom.us/j/87467170912?pwd=b3E0ZGU3Y1M0UVd4aEtDSmRNY2ZvUT09  Идентификатор конференции: 874 6717 0912 Код доступа: a2jjGA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Загальна хімія<br>Олійник Л.П., 104 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aKS7jrj0x31-3HkfZ0M4uYSfHif2q1ejDUumaS7K5GY01%40thread.tacv2/conversations?groupId=411665d1-2941-40c3-98d0-1b3fc0078b20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aKS7jrj0x31-3HkfZ0M4uYSfHif2q1ejDUumaS7K5GY01%40thread.tacv2/conversations?groupId=411665d1-2941-40c3-98d0-1b3fc0078b20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретична механіка та механіка суцільного середовища<br>Крушельницька Т.Д., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87467170912?pwd=b3E0ZGU3Y1M0UVd4aEtDSmRNY2ZvUT09  Идентификатор конференции: 874 6717 0912 Код доступа: a2jjGA" title="https://us02web.zoom.us/j/87467170912?pwd=b3E0ZGU3Y1M0UVd4aEtDSmRNY2ZvUT09  Идентификатор конференции: 874 6717 0912 Код доступа: a2jjGA">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія ймовірності та випадкові процеси <br>Стащук М.Г., 509 IV н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Оптика<br>Данилов А.Б., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84431135790?pwd=d05uMmVpS1Z6ZzJFZ3pXNHB2cEQ5dz09  Meeting ID: 844 3113 5790 Passcode: 2aMpuS" title="https://us02web.zoom.us/j/84431135790?pwd=d05uMmVpS1Z6ZzJFZ3pXNHB2cEQ5dz09  Meeting ID: 844 3113 5790 Passcode: 2aMpuS">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мови програмування<br>Оксентюк В.М., 006 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/yok-vkog-hop" title="https://meet.google.com/yok-vkog-hop">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мови програмування<br>Оксентюк В.М., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/hic-cbgv-erx" title="https://meet.google.com/hic-cbgv-erx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія ймовірності та випадкові процеси <br>Стащук М.Г., 006 VIII н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Осінчук В.В., Козіброда Л.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/3800697890?pwd=Q0krbXpycDd5SWRZZGx3MnhMeEpDZz09" title="https://us05web.zoom.us/j/3800697890?pwd=Q0krbXpycDd5SWRZZGx3MnhMeEpDZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Оптика<br>Данилов А.Б., 35 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85738909141?pwd=YVF6RjJjeXg1VFJkaTlmVzFRbkE3Zz09  Meeting ID: 857 3890 9141 Passcode: Wz32if" title="https://us02web.zoom.us/j/85738909141?pwd=YVF6RjJjeXg1VFJkaTlmVzFRbkE3Zz09  Meeting ID: 857 3890 9141 Passcode: Wz32if">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна хімія<br>Реутський В.В., 104 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aQa_S1h5m52EWW7D8tKtK2k-0biqJFXGkydH0UalIWrQ1%40thread.tacv2/1644312551046?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221c81fd5b-4b8e-4fd3-bf5d-e9c4960182e7%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aQa_S1h5m52EWW7D8tKtK2k-0biqJFXGkydH0UalIWrQ1%40thread.tacv2/1644312551046?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221c81fd5b-4b8e-4fd3-bf5d-e9c4960182e7%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Оптика<br>Данилов А.Б., опт.2лаб Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83767263690?pwd=WHdrVk84bU1UYkNieWpiUU5ZUXpldz09  Meeting ID: 837 6726 3690 Passcode: PVKF6G" title="https://us02web.zoom.us/j/83767263690?pwd=WHdrVk84bU1UYkNieWpiUU5ZUXpldz09  Meeting ID: 837 6726 3690 Passcode: PVKF6G">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

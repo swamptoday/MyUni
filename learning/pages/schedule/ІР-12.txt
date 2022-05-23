@@ -1,0 +1,447 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Нитребич З.М., 220 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3amIFV28tb3vCwgCwQ4r9THifg3AGTXJKVSqJUOcqMEAI1%40thread.tacv2/1643704213564?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e5914113-678c-4414-8a8c-98ddb9c578da%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3amIFV28tb3vCwgCwQ4r9THifg3AGTXJKVSqJUOcqMEAI1%40thread.tacv2/1643704213564?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e5914113-678c-4414-8a8c-98ddb9c578da%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Історія державності та культури України<br>Мельник Р.П., 404 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7358778989?pwd=M3hPYm5MSzloQWFkS25VWDU2WEI3UT09" title="https://us02web.zoom.us/j/7358778989?pwd=M3hPYm5MSzloQWFkS25VWDU2WEI3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Сидорчук О.В., 12а VII н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79426735621?pwd=TG5FQUJxcnI1VGJsR0NmQ0p5WkM2QT09  Идентификатор конференции: 794 2673 5621 Код доступа: 9hXk7F" title="https://us04web.zoom.us/j/79426735621?pwd=TG5FQUJxcnI1VGJsR0NmQ0p5WkM2QT09  Идентификатор конференции: 794 2673 5621 Код доступа: 9hXk7F">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Сорока Бояджиоглу Л.Т., 15а VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/86111416512?pwd=RFc1U1N5d0ppQllEU2srZUVWVWpaUT09" title="https://us05web.zoom.us/j/86111416512?pwd=RFc1U1N5d0ppQllEU2srZUVWVWpaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Вища математика, частина 2<br>Нитребич З.М., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3appRe0CELBX3y1JE5L_wYj9lYlTv62FWzL9cz8pqirpk1%40thread.tacv2/1643711148140?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e5914113-678c-4414-8a8c-98ddb9c578da%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3appRe0CELBX3y1JE5L_wYj9lYlTv62FWzL9cz8pqirpk1%40thread.tacv2/1643711148140?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e5914113-678c-4414-8a8c-98ddb9c578da%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи схемотехніки<br>Мичуда З.Р., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Історія державності та культури України<br>Мельник Р.П., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7358778989?pwd=M3hPYm5MSzloQWFkS25VWDU2WEI3UT09" title="https://us02web.zoom.us/j/7358778989?pwd=M3hPYm5MSzloQWFkS25VWDU2WEI3UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Основи схемотехніки<br>Мичуда З.Р., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Булатов О.М., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/8844195095?pwd=cEtiamdLWmxKYlFEVHM0amJoNGlYQT09  Идентификатор конференции: 884 419 5095 Код доступа: YSH0ZT" title="https://us05web.zoom.us/j/8844195095?pwd=cEtiamdLWmxKYlFEVHM0amJoNGlYQT09  Идентификатор конференции: 884 419 5095 Код доступа: YSH0ZT">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Блавт О.З., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи схемотехніки<br>Мичуда З.Р., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Основи схемотехніки<br>Мичуда З.Р., 605а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи схемотехніки<br>Мичуда З.Р., 608 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Алгоритмізація та програмування, частина 2<br>Верес З.Є., 611а V н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дискретна математика<br>Дзелендзяк У.Ю., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2169406971?pwd=NGwzVy9tK1lUL3pCVjQxY3ZHR04vUT09  Meeting ID: 216 940 6971 Passcode: 4t49Hn" title="https://us04web.zoom.us/j/2169406971?pwd=NGwzVy9tK1lUL3pCVjQxY3ZHR04vUT09  Meeting ID: 216 940 6971 Passcode: 4t49Hn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Дискретна математика<br>Дзелендзяк У.Ю., 322 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2169406971?pwd=NGwzVy9tK1lUL3pCVjQxY3ZHR04vUT09  Meeting ID: 216 940 6971 Passcode: 4t49Hn" title="https://us04web.zoom.us/j/2169406971?pwd=NGwzVy9tK1lUL3pCVjQxY3ZHR04vUT09  Meeting ID: 216 940 6971 Passcode: 4t49Hn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Алгоритмізація та програмування, частина 2<br>Верес З.Є., 322 I н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Алгоритмізація та програмування, частина 2<br>Верес З.Є., 322 I н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи схемотехніки<br>Мичуда З.Р., 605а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a530b5ab7895c4bd6804376924975be28%40thread.tacv2/conversations?groupId=7a9b76d1-4b91-43d8-8b33-7064afd3ce0e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Алгоритмізація та програмування, частина 2<br>Верес З.Є., 611а V н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дискретна математика<br>Дзелендзяк У.Ю., 608 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2169406971?pwd=NGwzVy9tK1lUL3pCVjQxY3ZHR04vUT09  Meeting ID: 216 940 6971 Passcode: 4t49Hn" title="https://us04web.zoom.us/j/2169406971?pwd=NGwzVy9tK1lUL3pCVjQxY3ZHR04vUT09  Meeting ID: 216 940 6971 Passcode: 4t49Hn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

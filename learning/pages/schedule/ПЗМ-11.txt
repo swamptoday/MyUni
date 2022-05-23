@@ -1,0 +1,186 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ризиками в інженерії програмного забезпечення<br>Грицюк Ю.І., 410 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09" title="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління ризиками в інженерії програмного забезпечення<br>Грицюк Ю.І., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09" title="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Паралельні та розподілені обчислення<br>Базилевич Р.П., 810г V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91627229481?pwd=LzZJRU9xQjVyM1Ywb2dIZ0gzQVBvdz09  Идентификатор конференции: 916 2722 9481 Код доступа: 7q9PJJ" title="https://zoom.us/j/91627229481?pwd=LzZJRU9xQjVyM1Ywb2dIZ0gzQVBvdz09  Идентификатор конференции: 916 2722 9481 Код доступа: 7q9PJJ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інженерія систем зберігання та опрацювання даних<br>Мельник Р.А., 810г V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4918443336?pwd=Q3dvQjNvbTZ4VndMdnhMRkthNXN3QT09" title="https://zoom.us/j/4918443336?pwd=Q3dvQjNvbTZ4VndMdnhMRkthNXN3QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Паралельні та розподілені обчислення<br>Базилевич Р.П., 411 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97588023045?pwd=RlV6b0FHYkZrWFI0Ukx4ZGRsa2ZaZz09  Идентификатор конференции: 975 8802 3045 Код доступа: 5enA1a" title="https://zoom.us/j/97588023045?pwd=RlV6b0FHYkZrWFI0Ukx4ZGRsa2ZaZz09  Идентификатор конференции: 975 8802 3045 Код доступа: 5enA1a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інженерія систем зберігання та опрацювання даних<br>Мельник Р.А., 411 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4918443336?pwd=Q3dvQjNvbTZ4VndMdnhMRkthNXN3QT09" title="https://zoom.us/j/4918443336?pwd=Q3dvQjNvbTZ4VndMdnhMRkthNXN3QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Методи та засоби наукових досліджень в інженерії програмного забезпечення<br>Марусенкова Т.А., 225 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09" title="https://zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та засоби наукових досліджень в інженерії програмного забезпечення<br>Федасюк Д.В., 411 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09" title="https://zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

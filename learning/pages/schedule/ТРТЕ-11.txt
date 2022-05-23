@@ -1,0 +1,383 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія наукових досліджень<br>Товстюк К.К., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/tjk-ddfr-dkq" title="https://meet.google.com/tjk-ddfr-dkq">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Інтерфейси прикладного програмування<br>Яковенко Є.І., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97633000627?pwd=OVlLSDRWSlZpK1VOb0s3bkpZdTlwUT09" title="https://zoom.us/j/97633000627?pwd=OVlLSDRWSlZpK1VOb0s3bkpZdTlwUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Інтерфейси прикладного програмування<br>Яковенко Є.І., 311 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97633000627?pwd=OVlLSDRWSlZpK1VOb0s3bkpZdTlwUT09" title="https://zoom.us/j/97633000627?pwd=OVlLSDRWSlZpK1VOb0s3bkpZdTlwUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Інтерфейси прикладного програмування<br>Яковенко Є.І., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96627070124?pwd=VFBxME9iQmdXK2UySWNONjZFa2RyQT09" title="https://zoom.us/j/96627070124?pwd=VFBxME9iQmdXK2UySWNONjZFa2RyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Інтерфейси прикладного програмування<br>Яковенко Є.І., 311 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96627070124?pwd=VFBxME9iQmdXK2UySWNONjZFa2RyQT09" title="https://zoom.us/j/96627070124?pwd=VFBxME9iQmdXK2UySWNONjZFa2RyQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Глобальні системи інфокомунікацій<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97009778337?pwd=eENJY29Vdkx1amFJU1VNd20zRHJYdz09" title="https://zoom.us/j/97009778337?pwd=eENJY29Vdkx1amFJU1VNd20zRHJYdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Глобальні системи інфокомунікацій<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97009778337?pwd=eENJY29Vdkx1amFJU1VNd20zRHJYdz09" title="https://zoom.us/j/97009778337?pwd=eENJY29Vdkx1amFJU1VNd20zRHJYdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтелектуальна власність<br>Кучмій Г.Л., 213 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2Lm1XG6rtar1pudrzQSlwkQ5K_wwEyMJ5THbHaUXhSI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9d460f1-c5ba-43cb-999d-20a74d5cfbc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2Lm1XG6rtar1pudrzQSlwkQ5K_wwEyMJ5THbHaUXhSI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9d460f1-c5ba-43cb-999d-20a74d5cfbc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інтелектуальна власність<br>Кучмій Г.Л., 213 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a2Lm1XG6rtar1pudrzQSlwkQ5K_wwEyMJ5THbHaUXhSI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9d460f1-c5ba-43cb-999d-20a74d5cfbc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a2Lm1XG6rtar1pudrzQSlwkQ5K_wwEyMJ5THbHaUXhSI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d9d460f1-c5ba-43cb-999d-20a74d5cfbc9&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Сигнали та коди в телекомунікаційних системах<br>Гадьо І.В., 310 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ocm-bcir-opm" title="https://meet.google.com/ocm-bcir-opm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методологія наукових досліджень<br>Товстюк К.К., 111 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xao-srkx-mnw" title="https://meet.google.com/xao-srkx-mnw">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Глобальні системи інфокомунікацій<br>Васьків Г.М., 308 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97009778337?pwd=eENJY29Vdkx1amFJU1VNd20zRHJYdz09" title="https://zoom.us/j/97009778337?pwd=eENJY29Vdkx1amFJU1VNd20zRHJYdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Інтерфейси прикладного програмування<br>Яковенко Є.І., 111 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/97633000627?pwd%3DOVlLSDRWSlZpK1VOb0s3bkpZdTlwUT09&amp;sa=D&amp;source=calendar&amp;ust=1649063263760923&amp;usg=AOvVaw3inzktin7MnnRJxXanTLwx" title="https://www.google.com/url?q=https://zoom.us/j/97633000627?pwd%3DOVlLSDRWSlZpK1VOb0s3bkpZdTlwUT09&amp;sa=D&amp;source=calendar&amp;ust=1649063263760923&amp;usg=AOvVaw3inzktin7MnnRJxXanTLwx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Глобальні системи інфокомунікацій<br>Васьків Г.М., 308 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97009778337?pwd=eENJY29Vdkx1amFJU1VNd20zRHJYdz09" title="https://zoom.us/j/97009778337?pwd=eENJY29Vdkx1amFJU1VNd20zRHJYdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Інтерфейси прикладного програмування<br>Яковенко Є.І., 111 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/97633000627?pwd%3DOVlLSDRWSlZpK1VOb0s3bkpZdTlwUT09&amp;sa=D&amp;source=calendar&amp;ust=1649063263760923&amp;usg=AOvVaw3inzktin7MnnRJxXanTLwx" title="https://www.google.com/url?q=https://zoom.us/j/97633000627?pwd%3DOVlLSDRWSlZpK1VOb0s3bkpZdTlwUT09&amp;sa=D&amp;source=calendar&amp;ust=1649063263760923&amp;usg=AOvVaw3inzktin7MnnRJxXanTLwx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сигнали та коди в телекомунікаційних системах<br>Гадьо І.В., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ocm-bcir-opm" title="https://meet.google.com/ocm-bcir-opm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сигнали та коди в телекомунікаційних системах<br>Гадьо І.В., 310 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ocm-bcir-opm" title="https://meet.google.com/ocm-bcir-opm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сигнали та коди в телекомунікаційних системах<br>Гадьо І.В., 311 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ocm-bcir-opm" title="https://meet.google.com/ocm-bcir-opm">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

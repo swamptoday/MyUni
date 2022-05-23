@@ -1,0 +1,416 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові системи керування<br>Іванюк О.О., 608 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/94146016491" title="https://softserveinc.zoom.us/j/94146016491">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові системи керування<br>Іванюк О.О., 608 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/94146016491" title="https://softserveinc.zoom.us/j/94146016491">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Цифрові системи керування<br>Іванюк О.О., 608 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/94146016491" title="https://softserveinc.zoom.us/j/94146016491">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління IT-проектами<br>Степаняк М.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9" title="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інтелектуальний аналіз даних<br>Самотий В.В., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel" title="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інтелектуальний аналіз даних<br>Самотий В.В., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel" title="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Методи та засоби штучного інтелекту<br>Лагун І.І., 607а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83942886324" title="https://us02web.zoom.us/j/83942886324">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Методи та засоби штучного інтелекту<br>Лагун І.І., 607а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83942886324" title="https://us02web.zoom.us/j/83942886324">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління IT-проектами<br>Степаняк М.В., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9" title="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління IT-проектами<br>Степаняк М.В., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9" title="https://zoom.us/j/8720598837?pwd=TTEycTlqR1NRQ3k0WE83TzFUcHd4QT09  Meeting ID: 872 059 8837 Passcode: 8ycTp9">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтелектуальний аналіз даних<br>Самотий В.В., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel" title="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтелектуальний аналіз даних<br>Самотий В.В., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel" title="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інтелектуальний аналіз даних<br>Самотий В.В., 605в V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel" title="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інтелектуальний аналіз даних<br>Самотий В.В., 605в V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel" title="https://teams.microsoft.com/_#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:M8yjX1gxVNRouS060eC2pb0DbRBFs5ohipuOirhpPRk1@thread.tacv2&amp;ctx=channel">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та засоби штучного інтелекту<br>Лагун І.І., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83942886324" title="https://us02web.zoom.us/j/83942886324">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та засоби штучного інтелекту<br>Лагун І.І., 609 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83942886324" title="https://us02web.zoom.us/j/83942886324">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Сб</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Методи та засоби штучного інтелекту<br>Лагун І.І., 608 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83942886324" title="https://us02web.zoom.us/j/83942886324">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Методи та засоби штучного інтелекту<br>Лагун І.І., 608 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83942886324" title="https://us02web.zoom.us/j/83942886324">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

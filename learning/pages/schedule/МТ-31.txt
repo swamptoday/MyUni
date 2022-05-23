@@ -1,0 +1,475 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Протоколи передачі даних<br>Кочан О.В., 702 V н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Комп`ютерне опрацювання інформації, частина 2<br>Микитин І.П., 702 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vew-dvqr-akh?authuser=0&amp;hl=uk" title="https://meet.google.com/vew-dvqr-akh?authuser=0&amp;hl=uk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Протоколи передачі даних<br>Кочан О.В., 702 V н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Комп`ютерне опрацювання інформації, частина 2<br>Микитин І.П., 702 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vew-dvqr-akh?authuser=0&amp;hl=uk" title="https://meet.google.com/vew-dvqr-akh?authuser=0&amp;hl=uk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Веб-технології та бази даних<br>Кочан О.В., 711 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzg3NGIyMDQtYTM2Ni00YjRlLWFiYWEtOTE1MGQ5ZjMxNmVi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e8496ac6-c495-49f6-9376-eab31001462e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzg3NGIyMDQtYTM2Ni00YjRlLWFiYWEtOTE1MGQ5ZjMxNmVi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e8496ac6-c495-49f6-9376-eab31001462e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Машинний інтелект в робототехніці, частина 2<br>Хома Ю.В., 711 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89014226080" title="https://us02web.zoom.us/j/89014226080">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Робототехніка, частина 2<br>Куць В.Р., 713 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91514587392?pwd=N1IwWThBNWJzNFR5OHdxN3NZTlNyZz09" title="https://zoom.us/j/91514587392?pwd=N1IwWThBNWJzNFR5OHdxN3NZTlNyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Робототехніка, частина 2<br>Куць В.Р., 711 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93103071629?pwd=KzlPNm9KcHVWRmRQbWVhVnNtSmJ0QT09" title="https://zoom.us/j/93103071629?pwd=KzlPNm9KcHVWRmRQbWVhVnNtSmJ0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Машинний інтелект в робототехніці, частина 2<br>Хома Ю.В., 702 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89014226080" title="https://us02web.zoom.us/j/89014226080">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Машинний інтелект в робототехніці, частина 2<br>Хома Ю.В., 702 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89014226080" title="https://us02web.zoom.us/j/89014226080">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Веб-технології та бази даних<br>Питель І.Д., 702 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09" title="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Веб-технології та бази даних<br>Питель І.Д., 702 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09" title="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Веб-технології та бази даних<br>Питель І.Д., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09" title="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Комп`ютерне опрацювання інформації, частина 2<br>Микитин І.П., 702 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vew-dvqr-akh?authuser=0&amp;hl=uk" title="https://meet.google.com/vew-dvqr-akh?authuser=0&amp;hl=uk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Веб-технології та бази даних<br>Питель І.Д., 702 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09" title="https://zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Комп`ютерне опрацювання інформації, частина 2<br>Микитин І.П., 702 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vew-dvqr-akh?authuser=0&amp;hl=uk" title="https://meet.google.com/vew-dvqr-akh?authuser=0&amp;hl=uk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Протоколи передачі даних<br>Колодій З.О., 711 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77939619917?pwd=6a8-Xh5n330j_dBEbcbrQONGtlA1h1.1  " title="https://us04web.zoom.us/j/77939619917?pwd=6a8-Xh5n330j_dBEbcbrQONGtlA1h1.1  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Опрацювання результатів вимірювань<br>Дорожовець М.М., 705а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8BWuE8ZsB7Frd8Q6pBPumed1OUTaPdyHtFWjWuuhy4A1%40thread.tacv2/Og%25C3%25B3lny?groupId=106fff67-d452-41af-8036-8f75b58ed3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8BWuE8ZsB7Frd8Q6pBPumed1OUTaPdyHtFWjWuuhy4A1%40thread.tacv2/Og%25C3%25B3lny?groupId=106fff67-d452-41af-8036-8f75b58ed3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Опрацювання результатів вимірювань<br>Дорожовець М.М., 705а V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8BWuE8ZsB7Frd8Q6pBPumed1OUTaPdyHtFWjWuuhy4A1%40thread.tacv2/Og%25C3%25B3lny?groupId=106fff67-d452-41af-8036-8f75b58ed3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8BWuE8ZsB7Frd8Q6pBPumed1OUTaPdyHtFWjWuuhy4A1%40thread.tacv2/Og%25C3%25B3lny?groupId=106fff67-d452-41af-8036-8f75b58ed3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Робототехніка, частина 2<br>Куць В.Р., 705а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92407921968?pwd=UFpwWnJibkpocERYRW5pRFZVcER6dz09" title="https://zoom.us/j/92407921968?pwd=UFpwWnJibkpocERYRW5pRFZVcER6dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Опрацювання результатів вимірювань<br>Дорожовець М.М., 711 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8BWuE8ZsB7Frd8Q6pBPumed1OUTaPdyHtFWjWuuhy4A1%40thread.tacv2/Og%25C3%25B3lny?groupId=106fff67-d452-41af-8036-8f75b58ed3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8BWuE8ZsB7Frd8Q6pBPumed1OUTaPdyHtFWjWuuhy4A1%40thread.tacv2/Og%25C3%25B3lny?groupId=106fff67-d452-41af-8036-8f75b58ed3ba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

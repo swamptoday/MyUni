@@ -1,0 +1,252 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням<br>229 III н.к., <br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рентгенівські медичні технології<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99660518824?pwd=TFhBUko0dGVoUXJLMUJoRnlnRHB5Zz09" title="https://zoom.us/j/99660518824?pwd=TFhBUko0dGVoUXJLMUJoRnlnRHB5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Рентгенівські медичні технології<br>Васьків Г.М., ЛОДЦ<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99660518824?pwd=TFhBUko0dGVoUXJLMUJoRnlnRHB5Zz09" title="https://zoom.us/j/99660518824?pwd=TFhBUko0dGVoUXJLMUJoRnlnRHB5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Лазери в медицині та біології<br>Лебідь С.Ю., 307 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xgw-bczo-tvy" title="https://meet.google.com/xgw-bczo-tvy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Лазери в медицині та біології<br>Лебідь С.Ю., 307 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/xgw-bczo-tvy" title="https://meet.google.com/xgw-bczo-tvy">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біофізичні основи інструментальної фізіотерапії<br>Сторчун Є.В., 307 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a74e60c63c3d1430b83881246f742c0b7%40thread.tacv2/st4?groupId=883a3ce4-2ec0-4efa-abe0-ddff66e98313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a74e60c63c3d1430b83881246f742c0b7%40thread.tacv2/st4?groupId=883a3ce4-2ec0-4efa-abe0-ddff66e98313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Біофізичні основи інструментальної фізіотерапії<br>Сторчун Є.В., 307 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a74e60c63c3d1430b83881246f742c0b7%40thread.tacv2/st4?groupId=883a3ce4-2ec0-4efa-abe0-ddff66e98313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a74e60c63c3d1430b83881246f742c0b7%40thread.tacv2/st4?groupId=883a3ce4-2ec0-4efa-abe0-ddff66e98313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Медична статистика<br>Товстюк К.К., 111 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/kci-ucnn-qmh" title="https://meet.google.com/kci-ucnn-qmh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Медична статистика<br>Товстюк К.К., 112 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/yno-orbb-hzo" title="https://meet.google.com/yno-orbb-hzo">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Економіка і управління підприємством<br>Сорочак О.З., 213 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93403445350?pwd=ZWdmR01MVVFTYllIWjVaYnBBRXMvdz09" title="https://zoom.us/j/93403445350?pwd=ZWdmR01MVVFTYllIWjVaYnBBRXMvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Економіка і управління підприємством<br>Сорочак О.З., 213 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97718052447?pwd=Q3dqRzF0eUlxMFJhV0xGVU5TeUVMQT09" title="https://zoom.us/j/97718052447?pwd=Q3dqRzF0eUlxMFJhV0xGVU5TeUVMQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,245 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математична теорія ризику в інформаційних технологіях<br>Сеник А.П., 221 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/gxb-feon-vkz" title="https://meet.google.com/gxb-feon-vkz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Просторове моделювання екологічних процесів<br>Бунь Р.А., 221 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arck9Nmj_A-TMSO9bIiD67Vo0vt5XaUt06dodxX951Lg1%40thread.tacv2/conversations?groupId=5bbff7a0-8f30-4044-aae5-fd93c7c028ca&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arck9Nmj_A-TMSO9bIiD67Vo0vt5XaUt06dodxX951Lg1%40thread.tacv2/conversations?groupId=5bbff7a0-8f30-4044-aae5-fd93c7c028ca&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 214 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ric-xwqo-gmv" title="https://meet.google.com/ric-xwqo-gmv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Просторове моделювання екологічних процесів<br>Бунь Р.А., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a_KQcv0DRCMRt4LX86sihsABVfJUWpkzoyJopddx2DSU1%40thread.tacv2/conversations?groupId=4a797711-428f-4319-bb29-3c5dfc63d277&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a_KQcv0DRCMRt4LX86sihsABVfJUWpkzoyJopddx2DSU1%40thread.tacv2/conversations?groupId=4a797711-428f-4319-bb29-3c5dfc63d277&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математична теорія ризику в інформаційних технологіях<br>Сеник А.П., 225c IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/gxb-feon-vkz" title="https://meet.google.com/gxb-feon-vkz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фахова іноземна мова<br>Дмитрук В.А., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://join.skype.com/GEboC1VVFdvV" title="https://join.skype.com/GEboC1VVFdvV">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 213 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="http://meet.google.com/zwg-zhqn-uds" title="http://meet.google.com/zwg-zhqn-uds">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні моделі екологічних процесів<br>Бунь Р.А., 221 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3alJosYg-IUIPzqt_2GA4dIQD69NpOIyskZKXhsxkN6xc1%40thread.tacv2/conversations?groupId=38aca29f-debb-4f0a-acf7-d732bd7d8276&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3alJosYg-IUIPzqt_2GA4dIQD69NpOIyskZKXhsxkN6xc1%40thread.tacv2/conversations?groupId=38aca29f-debb-4f0a-acf7-d732bd7d8276&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Просторове моделювання екологічних процесів<br>Бунь Р.А., 221 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arck9Nmj_A-TMSO9bIiD67Vo0vt5XaUt06dodxX951Lg1%40thread.tacv2/conversations?groupId=5bbff7a0-8f30-4044-aae5-fd93c7c028ca&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arck9Nmj_A-TMSO9bIiD67Vo0vt5XaUt06dodxX951Lg1%40thread.tacv2/conversations?groupId=5bbff7a0-8f30-4044-aae5-fd93c7c028ca&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Математичні моделі екологічних процесів<br>Бунь Р.А., 221 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aoXZlFXhwKj2Xgp26uoonpKZa4FKAPEfkQJGgT6l4WR01%40thread.tacv2/conversations?groupId=b858bede-9e81-47a9-afb6-e56c6169fe5a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aoXZlFXhwKj2Xgp26uoonpKZa4FKAPEfkQJGgT6l4WR01%40thread.tacv2/conversations?groupId=b858bede-9e81-47a9-afb6-e56c6169fe5a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Математичні моделі економіки<br>Мединський І.П., 215 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/chr-xodm-sfs" title="https://meet.google.com/chr-xodm-sfs">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

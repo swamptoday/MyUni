@@ -1,0 +1,462 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи реєстрації параметрів польоту, частина 1<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5351379953?pwd=VlZSdVg1OWkwU0ZmMnNpMk15UWNFdz09" title="https://zoom.us/j/5351379953?pwd=VlZSdVg1OWkwU0ZmMnNpMk15UWNFdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи попередження зіткнень та метеоспостережень, частина 1<br>Стрихалюк Б.М., 206 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/conversations?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/conversations?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Системи попередження зіткнень та метеоспостережень, частина 1<br>Стрихалюк Б.М., 205 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Системи попередження зіткнень та метеоспостережень, частина 1<br>Стрихалюк Б.М., 205 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Лазерні та оптоелектронні засоби авіоніки<br>Лебідь С.Ю., 112 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eit-sgim-ece" title="https://meet.google.com/eit-sgim-ece">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Авіаційна безпека<br>Невінський Д.В., 112 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/fxh-aakt-pfa" title="https://meet.google.com/fxh-aakt-pfa">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Авіаційна безпека<br>Невінський Д.В., 112 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/fxh-aakt-pfa" title="https://meet.google.com/fxh-aakt-pfa">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Авіаційна безпека<br>Невінський Д.В., 112 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/fxh-aakt-pfa" title="https://meet.google.com/fxh-aakt-pfa">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи реєстрації параметрів польоту, частина 1<br>Васьків Г.М., 308 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5351379953?pwd=VlZSdVg1OWkwU0ZmMnNpMk15UWNFdz09" title="https://zoom.us/j/5351379953?pwd=VlZSdVg1OWkwU0ZmMnNpMk15UWNFdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Системи попередження зіткнень та метеоспостережень, частина 1<br>Стрихалюк Б.М., 205 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Системи реєстрації параметрів польоту, частина 1<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5351379953?pwd=VlZSdVg1OWkwU0ZmMnNpMk15UWNFdz09" title="https://zoom.us/j/5351379953?pwd=VlZSdVg1OWkwU0ZmMnNpMk15UWNFdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Системи попередження зіткнень та метеоспостережень, частина 1<br>Стрихалюк Б.М., 205 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Системи реєстрації параметрів польоту, частина 1<br>Васьків Г.М., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5351379953?pwd=VlZSdVg1OWkwU0ZmMnNpMk15UWNFdz09" title="https://zoom.us/j/5351379953?pwd=VlZSdVg1OWkwU0ZmMnNpMk15UWNFdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи попередження зіткнень та метеоспостережень, частина 1<br>Стрихалюк Б.М., 205 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Телекомунікаційні мережі в авіації<br>Лаврів О.А., 308 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/syq-ucea-wgt" title="https://meet.google.com/syq-ucea-wgt">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Телекомунікаційні мережі в авіації<br>Лаврів О.А., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pwn-vsbu-qvh" title="https://meet.google.com/pwn-vsbu-qvh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Телекомунікаційні мережі в авіації<br>Лаврів О.А., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/ocr-zrpv-wbh" title="https://meet.google.com/ocr-zrpv-wbh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Лазерні та оптоелектронні засоби авіоніки<br>Лебідь С.Ю., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eit-sgim-ece" title="https://meet.google.com/eit-sgim-ece">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Лазерні та оптоелектронні засоби авіоніки<br>Лебідь С.Ю., 312 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eit-sgim-ece" title="https://meet.google.com/eit-sgim-ece">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Лазерні та оптоелектронні засоби авіоніки<br>Лебідь С.Ю., 312 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eit-sgim-ece" title="https://meet.google.com/eit-sgim-ece">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи права<br>Гарасимів Т.З., 112 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94932349807?pwd=VXdOYkdSVWtYUDY4UFJJS3ZEaFBIdz09" title="https://zoom.us/j/94932349807?pwd=VXdOYkdSVWtYUDY4UFJJS3ZEaFBIdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи права<br>Колич О.І., 112 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94932349807?pwd=VXdOYkdSVWtYUDY4UFJJS3ZEaFBIdz09" title="https://zoom.us/j/94932349807?pwd=VXdOYkdSVWtYUDY4UFJJS3ZEaFBIdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

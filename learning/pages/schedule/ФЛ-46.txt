@@ -1,0 +1,395 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психолінгвістика<br>Шийка Ю.І., 117 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/var-dohi-zgv" title="https://meet.google.com/var-dohi-zgv">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Романишин Н.І., 117 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88679525301?pwd=dG1hRE9iN2FVNVhTeGxIMlBUNlBrZz09" title="https://us02web.zoom.us/j/88679525301?pwd=dG1hRE9iN2FVNVhTeGxIMlBUNlBrZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Перекладацький практикум (німецька/японська мова), частина 2<br>Кошлань М.В., 117 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9087445588?pwd=UHBaUEd2UjV0QmYyd0xUNFZ3bXFYZz09" title="https://us04web.zoom.us/j/9087445588?pwd=UHBaUEd2UjV0QmYyd0xUNFZ3bXFYZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Бехта-Гаманчук М.П., 115 IV н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/chu-iifp-pam" title="https://meet.google.com/chu-iifp-pam">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Бехта-Гаманчук М.П., 115 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/djf-eyas-iwx" title="https://meet.google.com/djf-eyas-iwx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна німецька/японська мова, частина 8<br>Гойда О.І., 406 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76316014113?pwd=1ZMDeSiDhpy9TJGYFW-8I4zhayOzuP.1" title="https://us04web.zoom.us/j/76316014113?pwd=1ZMDeSiDhpy9TJGYFW-8I4zhayOzuP.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна німецька/японська мова, частина 8<br>Гойда О.І., 406 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79514148226?pwd=7heIinwo4EdDxGPg8-Ky3vM_J3eW9V.1" title="https://us04web.zoom.us/j/79514148226?pwd=7heIinwo4EdDxGPg8-Ky3vM_J3eW9V.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна німецька/японська мова, частина 8<br>Голуб І.Ю., 408 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://goethe-institut.zoom.us/j/86724453416" title="https://goethe-institut.zoom.us/j/86724453416">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Корпусна лінгвістика<br>Карасьов132 IV н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Бехта-Гаманчук М.П., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/djf-eyas-iwx" title="https://meet.google.com/djf-eyas-iwx">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Корпусна лінгвістика<br>Соколов Б.Е., 132 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/5070238083?pwd=b1JUVXR1T2pBTE1MazZoNEJnVjRqQT09" title="https://us05web.zoom.us/j/5070238083?pwd=b1JUVXR1T2pBTE1MazZoNEJnVjRqQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Сучасна англійська мова, частина 8<br>Бехта-Гаманчук М.П., 406 V н.к., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/chu-iifp-pam" title="https://meet.google.com/chu-iifp-pam">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Сучасна німецька/японська мова, частина 8<br>Голуб І.Ю., 404 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://goethe-institut.zoom.us/j/86724453416" title="https://goethe-institut.zoom.us/j/86724453416">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і практика перекладу (англійська мова), частина 4<br>Хомицька І.Ю., 114 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/rbc-ppou-guo" title="https://meet.google.com/rbc-ppou-guo">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Корпусна лінгвістика<br>Шестакевич Т.В., 114 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://vns.lpnu.ua/course/view.php?id=5421" title="https://vns.lpnu.ua/course/view.php?id=5421">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Перекладацький практикум (німецька/японська мова), частина 2<br>Кошлань М.В., 403 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9087445588?pwd=UHBaUEd2UjV0QmYyd0xUNFZ3bXFYZz09" title="https://us04web.zoom.us/j/9087445588?pwd=UHBaUEd2UjV0QmYyd0xUNFZ3bXFYZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія і практика перекладу (англійська мова), частина 4<br>Хомицька І.Ю., 403 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/fsb-eymr-yad" title="https://meet.google.com/fsb-eymr-yad">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Психолінгвістика<br>Голтвян В.І., 404 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/coy-dhan-ieo?hs=122&amp;authuser=0" title="https://meet.google.com/coy-dhan-ieo?hs=122&amp;authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

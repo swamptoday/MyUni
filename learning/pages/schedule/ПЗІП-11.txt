@@ -1,0 +1,287 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Оптимізаційні методи в інженерії програмного забезпечення<br>Базилевич Р.П., 808 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91627229481?pwd=LzZJRU9xQjVyM1Ywb2dIZ0gzQVBvdz09  Идентификатор конференции: 916 2722 9481 Код доступа: 7q9PJJ" title="https://zoom.us/j/91627229481?pwd=LzZJRU9xQjVyM1Ywb2dIZ0gzQVBvdz09  Идентификатор конференции: 916 2722 9481 Код доступа: 7q9PJJ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Оптимізаційні методи в інженерії програмного забезпечення<br>Базилевич Р.П., 808 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93852315942?pwd=eXdCYndubVNsL1dEaWJnT3VIZTJXZz09  Идентификатор конференции: 938 5231 5942 Код доступа: 2YHiJk" title="https://zoom.us/j/93852315942?pwd=eXdCYndubVNsL1dEaWJnT3VIZTJXZz09  Идентификатор конференции: 938 5231 5942 Код доступа: 2YHiJk">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Оптимізаційні методи в інженерії програмного забезпечення<br>Базилевич Р.П., 411 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95629181026?pwd=UDhHNEl5MzNJdldPRUJhcnp2cnk3QT09  Идентификатор конференции: 956 2918 1026 Код доступа: 4dd4Lc" title="https://zoom.us/j/95629181026?pwd=UDhHNEl5MzNJdldPRUJhcnp2cnk3QT09  Идентификатор конференции: 956 2918 1026 Код доступа: 4dd4Lc">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Впровадження та супровід програмного забезпечення<br>Федорчук Є.Н., 214 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https:meet.google.com/fyp-dfvt-tdt" title="https:meet.google.com/fyp-dfvt-tdt">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління якістю програмного забезпечення<br>Ваврук І.Є., 411 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09" title="https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Управління якістю програмного забезпечення<br>Ваврук І.Є., 809 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09" title="https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Управління якістю програмного забезпечення<br>Ваврук І.Є., 809 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09" title="https://us04web.zoom.us/j/4033821085?pwd=OXBKNlVlZlBPbnB0ek91dVYya2crdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Інтелектуальний аналіз даних<br>Грицюк Ю.І., 810а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09" title="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Інтелектуальний аналіз даних<br>Грицюк Ю.І., 810а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09" title="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Методи та засоби наукових досліджень в інженерії програмного забезпечення<br>Марусенкова Т.А., 225 II н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09" title="https://zoom.us/j/9584795549?pwd=S2o5RUIwRExCRzBubFBiWUZLN1Z5Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Впровадження та супровід програмного забезпечення<br>Федорчук Є.Н., 808 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/meet.google.com/mci-aehg-vsn" title="https://meet.google.com/meet.google.com/mci-aehg-vsn">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтелектуальний аналіз даних<br>Грицюк Ю.І., 411 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09" title="https://zoom.us/j/4583019368?pwd=d0wxa1FsR3BiSzdHcnlxV1dqWnVhZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та засоби наукових досліджень в інженерії програмного забезпечення<br>Федасюк Д.В., 411 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09" title="https://zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

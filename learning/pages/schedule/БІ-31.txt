@@ -1,0 +1,529 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Федорів Л.М., 108 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68" title="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Медичні прилади та системи, частина 2<br>Лозинський В.І., 310 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wkr-pbjb-vax" title="https://meet.google.com/wkr-pbjb-vax">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи інтроскопії в біомедичних системах<br>Лебідь С.Ю., 111 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vmk-kgsn-xhu" title="https://meet.google.com/vmk-kgsn-xhu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Медичні прилади та системи, частина 2<br>Лозинський В.І., 111 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wkr-pbjb-vax" title="https://meet.google.com/wkr-pbjb-vax">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Медичні прилади та системи, частина 2<br>Лозинський В.І., 111 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wkr-pbjb-vax" title="https://meet.google.com/wkr-pbjb-vax">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Методи інтроскопії в біомедичних системах<br>Лебідь С.Ю., 015 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vmk-kgsn-xhu" title="https://meet.google.com/vmk-kgsn-xhu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Методи інтроскопії в біомедичних системах<br>Лебідь С.Ю., 015 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vmk-kgsn-xhu" title="https://meet.google.com/vmk-kgsn-xhu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Медичні прилади та системи, частина 2<br>Лозинський В.І., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wkr-pbjb-vax" title="https://meet.google.com/wkr-pbjb-vax">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Методи обробки біомедичної інформації, частина 2<br>Смердова Т.А., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC" title="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Медичні прилади та системи, частина 2<br>Лозинський В.І., 312 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wkr-pbjb-vax" title="https://meet.google.com/wkr-pbjb-vax">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Телемедичні системи<br>Смердова Т.А., 312 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz" title="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Телемедичні системи<br>Смердова Т.А., 312 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz" title="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Методи обробки біомедичної інформації, частина 2<br>Смердова Т.А., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC" title="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Методи обробки біомедичної інформації, частина 2<br>Смердова Т.А., 311 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC" title="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Методи обробки біомедичної інформації, частина 2<br>Смердова Т.А., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC" title="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Методи обробки біомедичної інформації, частина 2<br>Смердова Т.А., 311 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC" title="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Телемедичні системи<br>Смердова Т.А., 312 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz" title="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Телемедичні системи<br>Смердова Т.А., 312 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz" title="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи інтроскопії в біомедичних системах<br>Лебідь С.Ю., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vmk-kgsn-xhu" title="https://meet.google.com/vmk-kgsn-xhu">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи обробки біомедичної інформації, частина 2<br>Смердова Т.А., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC" title="https://www.google.com/url?q=https://zoom.us/j/95952078855?pwd%3DcGtZeWNNTHJXazhjcDhxVzJmUTM3UT09&amp;sa=D&amp;source=calendar&amp;ust=1645205956461883&amp;usg=AOvVaw0fbnv4Yg8YQZ4a3LWK4DhC">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Телемедичні системи<br>Смердова Т.А., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz" title="https://www.google.com/url?q=https://zoom.us/j/98729698811?pwd%3DOFFBTXZGY3ZOLzIzTUh6dktpSU45QT09&amp;sa=D&amp;source=calendar&amp;ust=1645206056715747&amp;usg=AOvVaw1rqi-elwSLY0Enxo2aukKz">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічні засоби захисту біомедичної інформації<br>Гоблик В.В., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97334827627?pwd=Uy9VYnhkanU4WFBxZDNYbzczbThPZz09" title="https://zoom.us/j/97334827627?pwd=Uy9VYnhkanU4WFBxZDNYbzczbThPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технічні засоби захисту біомедичної інформації<br>Гоблик В.В., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97334827627?pwd=Uy9VYnhkanU4WFBxZDNYbzczbThPZz09" title="https://zoom.us/j/97334827627?pwd=Uy9VYnhkanU4WFBxZDNYbzczbThPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічні засоби захисту біомедичної інформації<br>Гоблик В.В., 312 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97334827627?pwd=Uy9VYnhkanU4WFBxZDNYbzczbThPZz09" title="https://zoom.us/j/97334827627?pwd=Uy9VYnhkanU4WFBxZDNYbzczbThPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Філософія<br>Федорів Л.М., 108 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68" title="https://zoom.us/j/95259444414?pwd=c0JSTFlTOUFqYWFuUnJJNjd6eVk5UT09  Идентификатор конференции: 952 5944 4414 Код доступа: 4kxG68">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічні засоби захисту біомедичної інформації<br>Гоблик В.В., 312 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97334827627?pwd=Uy9VYnhkanU4WFBxZDNYbzczbThPZz09" title="https://zoom.us/j/97334827627?pwd=Uy9VYnhkanU4WFBxZDNYbzczbThPZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

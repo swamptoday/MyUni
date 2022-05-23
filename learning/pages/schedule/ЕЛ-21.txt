@@ -1,0 +1,369 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Матеріали та структури наноелектроніки<br>Стахіра П.Й., 211 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aedl_i1hzBk3hiQ8iGNCx1PdQrksIQzafJEyZhCC9ktg1%40thread.tacv2/1644483932256?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229dcaa364-f338-42ff-8249-1ac28b6d2275%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aedl_i1hzBk3hiQ8iGNCx1PdQrksIQzafJEyZhCC9ktg1%40thread.tacv2/1644483932256?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229dcaa364-f338-42ff-8249-1ac28b6d2275%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Функціональна електроніка, частина 1<br>Івах М.С., 211 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514635853?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514635853?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Матеріали та структури наноелектроніки<br>Стахіра П.Й., 211 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aedl_i1hzBk3hiQ8iGNCx1PdQrksIQzafJEyZhCC9ktg1%40thread.tacv2/1644484015515?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229dcaa364-f338-42ff-8249-1ac28b6d2275%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aedl_i1hzBk3hiQ8iGNCx1PdQrksIQzafJEyZhCC9ktg1%40thread.tacv2/1644484015515?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229dcaa364-f338-42ff-8249-1ac28b6d2275%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Сінельнікова М.В., 218 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95165956836?pwd=TnlGOXQ3ZEpRaWErOXBjWmplNm5RUT09" title="https://zoom.us/j/95165956836?pwd=TnlGOXQ3ZEpRaWErOXBjWmplNm5RUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Матеріали та структури наноелектроніки<br>Гельжинський І.І., 106 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aNpyUvPXZxA8HBdrpMRNzK3gxasbBq7-zk8t8O6UEtnI1%40thread.tacv2/1644415027508?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aNpyUvPXZxA8HBdrpMRNzK3gxasbBq7-zk8t8O6UEtnI1%40thread.tacv2/1644415027508?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Сінельнікова М.В., 232 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94379259264?pwd=VGF0SjJ6UTljMmFxelNKYXArY1lBdz09" title="https://zoom.us/j/94379259264?pwd=VGF0SjJ6UTljMmFxelNKYXArY1lBdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Фізичні основи електронної техніки<br>Кремер І.П., 211 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Фізичні основи електронної техніки<br>Кремер І.П., 211 III н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Матеріали та структури наноелектроніки<br>Гельжинський І.І., 209 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aNpyUvPXZxA8HBdrpMRNzK3gxasbBq7-zk8t8O6UEtnI1%40thread.tacv2/1644415027508?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aNpyUvPXZxA8HBdrpMRNzK3gxasbBq7-zk8t8O6UEtnI1%40thread.tacv2/1644415027508?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Матеріали та структури наноелектроніки<br>Гельжинський І.І., 209 III н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aNpyUvPXZxA8HBdrpMRNzK3gxasbBq7-zk8t8O6UEtnI1%40thread.tacv2/1644415027508?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aNpyUvPXZxA8HBdrpMRNzK3gxasbBq7-zk8t8O6UEtnI1%40thread.tacv2/1644415027508?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222c04e741-d57b-49e1-8195-7f39e5b3b08e%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Світлик В.В., Незгода С.П., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/84439355760?pwd=am8vSmlDanJlSm4yQ1pWWEJtN1gxdz09  Идентификатор конференции: 844 3935 5760 Код доступа: 1234" title="https://us05web.zoom.us/j/84439355760?pwd=am8vSmlDanJlSm4yQ1pWWEJtN1gxdz09  Идентификатор конференции: 844 3935 5760 Код доступа: 1234">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Функціональна електроніка, частина 1<br>Івах М.С., 210 III н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514840069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514840069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Функціональна електроніка, частина 1<br>Івах М.С., 210 III н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514997955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514997955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізичні основи електронної техніки<br>Кремер І.П., 211 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Функціональна електроніка, частина 1<br>Івах М.С., 211 III н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514997955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514997955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Функціональна електроніка, частина 1<br>Івах М.С., 209 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514997955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aCmK6Br3hLhceDmhf69IRbyLJyeq1UCVJaqFs0gxyzs81%40thread.tacv2/1644514997955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9cff9d-d22b-4afa-acb4-ddf45025e291%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичні основи електронної техніки<br>Кремер І.П., 211 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фізичні основи електронної техніки<br>Кремер І.П., 211 III н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ae7c5e6652eca4df1bda3190b8a22f400%40thread.tacv2/conversations?groupId=7036df95-a86e-46eb-9318-5fee58eb0a6e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

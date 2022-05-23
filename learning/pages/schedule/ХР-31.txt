@@ -1,0 +1,398 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обладнання харчових виробництв<br>Чайківський Т.В., 339 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a16673d4318d64b9db77904a03b2553f7%40thread.tacv2/1644140424440?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a16673d4318d64b9db77904a03b2553f7%40thread.tacv2/1644140424440?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Мікробіологія харчових виробництв<br>Паляниця Л.Я., 322 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технології продуктів бродіння<br>Кічура Д.Б., 323 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09" title="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Мікробіологія харчових виробництв<br>Паляниця Л.Я., 322 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технології продуктів бродіння<br>Кічура Д.Б., 323 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09" title="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Мікробіологія харчових виробництв<br>Паляниця Л.Я., 322 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Технології продуктів бродіння<br>Кічура Д.Б., 323 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09" title="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Технології продуктів бродіння<br>Кічура Д.Б., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09" title="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Мікробіологія харчових виробництв<br>Паляниця Л.Я., 322 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Технології продуктів бродіння<br>Кічура Д.Б., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09" title="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Мікробіологія харчових виробництв<br>Паляниця Л.Я., 322 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Технології продуктів бродіння<br>Кічура Д.Б., 323 VIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09" title="https://zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Мікробіологія харчових виробництв<br>Паляниця Л.Я., 322 VIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Мікробіологія харчових виробництв<br>Паляниця Л.Я., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обладнання харчових виробництв<br>Чайківський Т.В., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a0173af8b0d5c4feabbce93ab28a201c9%40thread.tacv2/1644140105181?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a0173af8b0d5c4feabbce93ab28a201c9%40thread.tacv2/1644140105181?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології продуктів бродіння<br>Косів Р.Б., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3731131035?pwd=cHNVQ0xqdDc3ZlVwbko3R0J5bjhUQT09" title="https://zoom.us/j/3731131035?pwd=cHNVQ0xqdDc3ZlVwbko3R0J5bjhUQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Обладнання харчових виробництв<br>Чайківський Т.В., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a0173af8b0d5c4feabbce93ab28a201c9%40thread.tacv2/1644140216356?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a0173af8b0d5c4feabbce93ab28a201c9%40thread.tacv2/1644140216356?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Мікробіологія харчових виробництв<br>Паляниця Л.Я., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09" title="https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології продуктів бродіння<br>Косів Р.Б., 339 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3731131035?pwd=cHNVQ0xqdDc3ZlVwbko3R0J5bjhUQT09" title="https://zoom.us/j/3731131035?pwd=cHNVQ0xqdDc3ZlVwbko3R0J5bjhUQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

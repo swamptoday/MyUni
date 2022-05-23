@@ -1,0 +1,324 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Деталі машин, частина 2<br>Ланець О.В., 310 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96401034804?pwd=Rk5VSmU1Z3N3SjRnbnlyTld2UThMZz09" title="https://zoom.us/j/96401034804?pwd=Rk5VSmU1Z3N3SjRnbnlyTld2UThMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Деталі машин, частина 2<br>Ланець О.В., 310 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96401034804?pwd=Rk5VSmU1Z3N3SjRnbnlyTld2UThMZz09" title="https://zoom.us/j/96401034804?pwd=Rk5VSmU1Z3N3SjRnbnlyTld2UThMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Деталі машин, частина 2<br>Ланець О.В., 310 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96401034804?pwd=Rk5VSmU1Z3N3SjRnbnlyTld2UThMZz09" title="https://zoom.us/j/96401034804?pwd=Rk5VSmU1Z3N3SjRnbnlyTld2UThMZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія автомобілебудування<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96158247881?pwd=a0pNakRjbzdlbHAzbE5tai9NczBEUT09" title="https://zoom.us/j/96158247881?pwd=a0pNakRjbzdlbHAzbE5tai9NczBEUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія автомобілебудування<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99889018120?pwd=aEVXYis2bEJyMTRrRzc1YjlEaG40dz09" title="https://zoom.us/j/99889018120?pwd=aEVXYis2bEJyMTRrRzc1YjlEaG40dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Конструкція двигунів внутрішнього згоряння<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96722343033?pwd=ckNVOUpJQnJNcnZpY3NTQUk5bTFOZz09" title="https://zoom.us/j/96722343033?pwd=ckNVOUpJQnJNcnZpY3NTQUk5bTFOZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Конструкція двигунів внутрішнього згоряння<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99128748510?pwd=eUI3WjBYS24vbUpncnN5dDNLeG1xZz09" title="https://zoom.us/j/99128748510?pwd=eUI3WjBYS24vbUpncnN5dDNLeG1xZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Конструкція двигунів внутрішнього згоряння<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99128748510?pwd=eUI3WjBYS24vbUpncnN5dDNLeG1xZz09" title="https://zoom.us/j/99128748510?pwd=eUI3WjBYS24vbUpncnN5dDNLeG1xZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія автомобілебудування<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95283817716?pwd=RjMwMUhodU0yYm5tMTFoajVuTkpIUT09" title="https://zoom.us/j/95283817716?pwd=RjMwMUhodU0yYm5tMTFoajVuTkpIUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія автомобілебудування<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92154110149?pwd=Z1BLN3J3VUpVUTdzYUI0cnJWZE1Pdz09" title="https://zoom.us/j/92154110149?pwd=Z1BLN3J3VUpVUTdzYUI0cnJWZE1Pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Механічні і автоматичні трансмісії транспортних засобів<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92154110149?pwd=Z1BLN3J3VUpVUTdzYUI0cnJWZE1Pdz09" title="https://zoom.us/j/92154110149?pwd=Z1BLN3J3VUpVUTdzYUI0cnJWZE1Pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технічні вимірювання та основи стандартизації<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92154110149?pwd=Z1BLN3J3VUpVUTdzYUI0cnJWZE1Pdz09" title="https://zoom.us/j/92154110149?pwd=Z1BLN3J3VUpVUTdzYUI0cnJWZE1Pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Механічні і автоматичні трансмісії транспортних засобів<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92154110149?pwd=Z1BLN3J3VUpVUTdzYUI0cnJWZE1Pdz09" title="https://zoom.us/j/92154110149?pwd=Z1BLN3J3VUpVUTdzYUI0cnJWZE1Pdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Механічні і автоматичні трансмісії транспортних засобів<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98374550077?pwd=bnB3L3FSZWJSOU9Jbnh2OGY0Z2g3dz09" title="https://zoom.us/j/98374550077?pwd=bnB3L3FSZWJSOU9Jbnh2OGY0Z2g3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технічні вимірювання та основи стандартизації<br>Горбай О.З., 218 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93881587273?pwd=N0FRUnZQSVMrSDBkLzV6TzIyeEp0dz09" title="https://zoom.us/j/93881587273?pwd=N0FRUnZQSVMrSDBkLzV6TzIyeEp0dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

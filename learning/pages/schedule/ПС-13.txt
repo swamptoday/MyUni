@@ -1,0 +1,401 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Незгода С.П., Блавт О.З., Самчука 11. 8.00-9.30<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2951637255  Идентификатор конференции: 295 163 7255 Код доступа: 121212" title="https://us04web.zoom.us/j/2951637255  Идентификатор конференции: 295 163 7255 Код доступа: 121212">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія особистості<br>Олійник А.В., 68 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:ZsAuCFMf2n5AcWsvnnk2cbgfRx64rioJjVzKXZ_a3T41@thread.tacv2/1644404147001?groupId=bd3c68cf-b985-4ebc-88fe-2aae0e769d40" title="https://teams.microsoft.com/l/message/19:ZsAuCFMf2n5AcWsvnnk2cbgfRx64rioJjVzKXZ_a3T41@thread.tacv2/1644404147001?groupId=bd3c68cf-b985-4ebc-88fe-2aae0e769d40">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експериментальна психологія<br>Клименко М.Р., 328 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3akhNk6WgHs77FMhAKYlO1qfvTMJcCQ6DnOSIg5Jh4K801%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=c6049498-0ee4-4b25-927e-c148e4ca9795&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3akhNk6WgHs77FMhAKYlO1qfvTMJcCQ6DnOSIg5Jh4K801%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=c6049498-0ee4-4b25-927e-c148e4ca9795&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Експериментальна психологія<br>Галян І.М., 332 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aKaZ01VajcKJCVZYm3STC0_nFUN3GlrVtpXxtAl8ME701%40thread.tacv2/1644399358788?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2224455ec5-c415-430d-a321-9102d13535d2%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aKaZ01VajcKJCVZYm3STC0_nFUN3GlrVtpXxtAl8ME701%40thread.tacv2/1644399358788?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2224455ec5-c415-430d-a321-9102d13535d2%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Експериментальна психологія<br>Галян І.М., 332 XIX н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна психологія , частина 2<br>Кочергіна І.А., 332 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3az5eHMkID0ZwXJyDf8I4k-q5WmzIBSAS3ZrQ_UswCeFw1%40thread.tacv2/1632173351492?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224486c069-8746-4553-bf80-78742f643be1%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3az5eHMkID0ZwXJyDf8I4k-q5WmzIBSAS3ZrQ_UswCeFw1%40thread.tacv2/1632173351492?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224486c069-8746-4553-bf80-78742f643be1%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Ухач Л.Д., 17 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79146116036?pwd=QW1VaGI4OTJjTVRUTDFDV2JHV3hZQT09  Meeting ID: 791 4611 6036 Passcode: FqXT4A" title="https://us04web.zoom.us/j/79146116036?pwd=QW1VaGI4OTJjTVRUTDFDV2JHV3hZQT09  Meeting ID: 791 4611 6036 Passcode: FqXT4A">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська мова (за професійним спрямуванням)<br>Пура Я.С., 308 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2556850814?pwd=MlVaWGhMdGNhaGowNVhuSlNMQ3ZhUT09" title="https://zoom.us/j/2556850814?pwd=MlVaWGhMdGNhaGowNVhuSlNMQ3ZhUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальна психологія, частина 1<br>Боженко Л.Р., 301 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTYxMzczZjMtZmYzMi00MzA1LThmOWMtNTg1ZTEwODdmZDk5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f04d3a27-0b2c-40c8-a362-e25a786029d4%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTYxMzczZjMtZmYzMi00MzA1LThmOWMtNTg1ZTEwODdmZDk5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f04d3a27-0b2c-40c8-a362-e25a786029d4%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Котенко М.В., <br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/3379235042?pwd=VXUwQXFub3pQd2F3alBLZ1VrcHZzdz09" title="https://us04web.zoom.us/j/3379235042?pwd=VXUwQXFub3pQd2F3alBLZ1VrcHZzdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Загальна психологія , частина 2<br>Новікова Ж.М., 328 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4b7187e48de24b1088da71057847072e%40thread.tacv2/1644825007322?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2268712dc2-c9be-440d-8c80-8ee6be8baafa%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4b7187e48de24b1088da71057847072e%40thread.tacv2/1644825007322?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2268712dc2-c9be-440d-8c80-8ee6be8baafa%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна психологія , частина 2<br>Новікова Ж.М., 328 XIX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4b7187e48de24b1088da71057847072e%40thread.tacv2/1644325165116?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2268712dc2-c9be-440d-8c80-8ee6be8baafa%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4b7187e48de24b1088da71057847072e%40thread.tacv2/1644325165116?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2268712dc2-c9be-440d-8c80-8ee6be8baafa%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Експериментальна психологія<br>Клименко М.Р., 116 XX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3akhNk6WgHs77FMhAKYlO1qfvTMJcCQ6DnOSIg5Jh4K801%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=c6049498-0ee4-4b25-927e-c148e4ca9795&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3akhNk6WgHs77FMhAKYlO1qfvTMJcCQ6DnOSIg5Jh4K801%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=c6049498-0ee4-4b25-927e-c148e4ca9795&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Соціальна психологія, частина 1<br>Борисюк О.М., 313 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjAwNzNlNjMtZDA0YS00NGEzLTg3ODktNzI1NWRmNjcyM2E5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e30e7f73-94e2-40f9-b794-3a076a3229e8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjAwNzNlNjMtZDA0YS00NGEzLTg3ODktNzI1NWRmNjcyM2E5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e30e7f73-94e2-40f9-b794-3a076a3229e8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія особистості<br>Олійник А.В., 313 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:v7m0ZLtzH-qr29aBvNAyqVVtVVryI2P1aaDv8tuvfmI1@thread.tacv2/1644404682028?groupId=12e7efb6-544e-4c67-bd57-20265c88f503" title="https://teams.microsoft.com/l/message/19:v7m0ZLtzH-qr29aBvNAyqVVtVVryI2P1aaDv8tuvfmI1@thread.tacv2/1644404682028?groupId=12e7efb6-544e-4c67-bd57-20265c88f503">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Психологія особистості<br>Олійник А.В., 313 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:v7m0ZLtzH-qr29aBvNAyqVVtVVryI2P1aaDv8tuvfmI1@thread.tacv2/1644404682028?groupId=12e7efb6-544e-4c67-bd57-20265c88f503" title="https://teams.microsoft.com/l/message/19:v7m0ZLtzH-qr29aBvNAyqVVtVVryI2P1aaDv8tuvfmI1@thread.tacv2/1644404682028?groupId=12e7efb6-544e-4c67-bd57-20265c88f503">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Загальна психологія , частина 2<br>Кочергіна І.А., 332 XIX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3az5eHMkID0ZwXJyDf8I4k-q5WmzIBSAS3ZrQ_UswCeFw1%40thread.tacv2/1632173351492?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224486c069-8746-4553-bf80-78742f643be1%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3az5eHMkID0ZwXJyDf8I4k-q5WmzIBSAS3ZrQ_UswCeFw1%40thread.tacv2/1632173351492?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224486c069-8746-4553-bf80-78742f643be1%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

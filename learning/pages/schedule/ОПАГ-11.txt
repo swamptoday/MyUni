@@ -1,0 +1,213 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податкове планування<br>Загородній А.Г., 326б IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/meetingOptions/?organizerId=e3befa71-ae78-48ca-8a9d-1342f3c88ad6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_f7515531e23a4121ab8a3bbcc0b73e80@thread.tacv2&amp;messageId=1644338466351&amp;language=ru-RU" title="https://teams.microsoft.com/meetingOptions/?organizerId=e3befa71-ae78-48ca-8a9d-1342f3c88ad6&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;threadId=19_f7515531e23a4121ab8a3bbcc0b73e80@thread.tacv2&amp;messageId=1644338466351&amp;language=ru-RU">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аудит оподаткування підприємств<br>Литвиненко Н.О., 206 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8784788865?pwd=NlBIN0xIMzlJZTgvSXN5WmFtSHVNQT09" title="https://zoom.us/j/8784788865?pwd=NlBIN0xIMzlJZTgvSXN5WmFtSHVNQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фінансовий моніторинг<br>Скаско О.І., 412 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09" title="https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фінансовий моніторинг<br>Скаско О.І., 412 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09" title="https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційні системи і технології фінансового контролю<br>Оліховський В.Я., 326 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09" title="https://zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аудит оподаткування підприємств<br>Литвиненко Н.О., 406 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8784788865?pwd=NlBIN0xIMzlJZTgvSXN5WmFtSHVNQT09" title="https://zoom.us/j/8784788865?pwd=NlBIN0xIMzlJZTgvSXN5WmFtSHVNQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фінансовий моніторинг<br>Скаско О.І., 210 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09" title="https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інформаційні системи і технології фінансового контролю<br>Оліховський В.Я., 206 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09" title="https://zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Податкове планування<br>Оліховський В.Я., 406 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09" title="https://zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

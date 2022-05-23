@@ -1,0 +1,272 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектне бюджетування та фінансове планування<br>Ільчук П.Г., 4 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82863711461?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09  Meeting ID: 828 6371 1461 Passcode: 1" title="https://us02web.zoom.us/j/82863711461?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09  Meeting ID: 828 6371 1461 Passcode: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Прийняття проектних рішень<br>Шишковський С.В., 5 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91220430348?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09   Пароль 1" title="https://zoom.us/j/91220430348?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09   Пароль 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління комунікаціями проекту<br>Когут І.В., 4 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78608566866?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09 код доступу 1" title="https://us04web.zoom.us/j/78608566866?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09 код доступу 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління міжнародними проектами та програмами<br>Шишковський С.В., 5 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98119198921?pwd=b3M4cFJxUHFnZnpuU3kyWW8vNzg0QT09  Пароль: 1" title="https://zoom.us/j/98119198921?pwd=b3M4cFJxUHFnZnpuU3kyWW8vNzg0QT09  Пароль: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектне бюджетування та фінансове планування<br>Ільчук П.Г., 5 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82863711461?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09  Meeting ID: 828 6371 1461 Passcode: 1" title="https://us02web.zoom.us/j/82863711461?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09  Meeting ID: 828 6371 1461 Passcode: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління міжнародними проектами та програмами<br>Шишковський С.В., 4 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97711215629?pwd=TkZLeU1MY2d5eUpqeTJ5WUJTRHlVUT09  Пароль 1" title="https://zoom.us/j/97711215629?pwd=TkZLeU1MY2d5eUpqeTJ5WUJTRHlVUT09  Пароль 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Закупівлі і контракти в проектах<br>Скворцов Д.І., 4 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09 Пароль: 884256" title="https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09 Пароль: 884256">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прийняття проектних рішень<br>Шишковський С.В., 5 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98602639942?pwd=b3M4cFJxUHFnZnpuU3kyWW8vNzg0QT09  Пароль 1" title="https://zoom.us/j/98602639942?pwd=b3M4cFJxUHFnZnpuU3kyWW8vNzg0QT09  Пароль 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Закупівлі і контракти в проектах<br>Скворцов Д.І., 4 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09 Пароль: 884256" title="https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09 Пароль: 884256">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фінансова грамотність<br>Ільчук П.Г., 3 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09  Meeting ID: 847 7223 8548 Passcode: 1" title="https://us02web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09  Meeting ID: 847 7223 8548 Passcode: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Фінансова грамотність<br>Ільчук П.Г., 3 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09  Meeting ID: 847 7223 8548 Passcode: 1" title="https://us02web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09  Meeting ID: 847 7223 8548 Passcode: 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління комунікаціями проекту<br>Когут І.В., 5 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78608566866?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09 код доступу 1" title="https://us04web.zoom.us/j/78608566866?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09 код доступу 1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

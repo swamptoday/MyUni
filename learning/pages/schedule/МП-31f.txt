@@ -1,0 +1,355 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та технологія виготовлення металорізальних інструментів, частина 1<br>Гурей І.В., 11 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3anqv2hFkW0pzgB7M9XNH8Fnhqzc74wY6qnatpICHn5C41%40thread.tacv2/1644697209697?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3anqv2hFkW0pzgB7M9XNH8Fnhqzc74wY6qnatpICHn5C41%40thread.tacv2/1644697209697?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання та автоматизація інженерних розрахунків<br>Магерус Н.І., 11 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2UzODRiNGMtMzM3NS00MWVkLTkwMmMtMjBmOGJiZWY0YmVl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2UzODRiNGMtMzM3NS00MWVkLTkwMmMtMjBmOGJiZWY0YmVl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Деталі машин, частина 2<br>Гелетій В.М., 310 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88098898745?pwd=aEJ1Q3hHVGFLaS9rUlI2VDhnKzZHUT09" title="https://us02web.zoom.us/j/88098898745?pwd=aEJ1Q3hHVGFLaS9rUlI2VDhnKzZHUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Деталі машин, частина 2<br>Гелетій В.М., 310 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88098898745?pwd=aEJ1Q3hHVGFLaS9rUlI2VDhnKzZHUT09" title="https://us02web.zoom.us/j/88098898745?pwd=aEJ1Q3hHVGFLaS9rUlI2VDhnKzZHUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Деталі машин, частина 2<br>Гелетій В.М., 310 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88098898745?pwd=aEJ1Q3hHVGFLaS9rUlI2VDhnKzZHUT09" title="https://us02web.zoom.us/j/88098898745?pwd=aEJ1Q3hHVGFLaS9rUlI2VDhnKzZHUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українське країнознавство<br>Яремчук С.М., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6816326355?pwd=K1l2RVU5VjFEakh6UTFHOGQ1MXRmQT09" title="https://us04web.zoom.us/j/6816326355?pwd=K1l2RVU5VjFEakh6UTFHOGQ1MXRmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та технологія виготовлення металорізальних інструментів, частина 1<br>Гурей І.В., 23 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3anqv2hFkW0pzgB7M9XNH8Fnhqzc74wY6qnatpICHn5C41%40thread.tacv2/1644697209697?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3anqv2hFkW0pzgB7M9XNH8Fnhqzc74wY6qnatpICHn5C41%40thread.tacv2/1644697209697?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та технологія виготовлення металорізальних інструментів, частина 1<br>Гурей І.В., 23 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3anqv2hFkW0pzgB7M9XNH8Fnhqzc74wY6qnatpICHn5C41%40thread.tacv2/1644697209697?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3anqv2hFkW0pzgB7M9XNH8Fnhqzc74wY6qnatpICHn5C41%40thread.tacv2/1644697209697?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи менеджменту<br>Одрехівський М.В., 23 XIV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/86345837516?pwd=OUhmc3g0eWlsNVFkSVp6SW54VVI1QT09#success" title="https://us05web.zoom.us/j/86345837516?pwd=OUhmc3g0eWlsNVFkSVp6SW54VVI1QT09#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи менеджменту<br>Одрехівський М.В., 23 XIV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/86345837516?pwd=OUhmc3g0eWlsNVFkSVp6SW54VVI1QT09#success" title="https://us05web.zoom.us/j/86345837516?pwd=OUhmc3g0eWlsNVFkSVp6SW54VVI1QT09#success">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія машинобудування, частина 1<br>Юрчишин І.І., 12 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aKRYu6z9opcDU5zwWsqOXIvyLAYSVXseGjiJ6lrcRzAw1%40thread.tacv2/1644323820537?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aKRYu6z9opcDU5zwWsqOXIvyLAYSVXseGjiJ6lrcRzAw1%40thread.tacv2/1644323820537?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерне моделювання та автоматизація інженерних розрахунків<br>Магерус Н.І., 35 XIV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNmZmM0NDEtYWMwYi00ZWZkLTljNGYtZDlhNGMwN2VjMDQz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNmZmM0NDEtYWMwYi00ZWZkLTljNGYtZDlhNGMwN2VjMDQz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія машинобудування, частина 1<br>Юрчишин І.І., 5-6 XV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aKRYu6z9opcDU5zwWsqOXIvyLAYSVXseGjiJ6lrcRzAw1%40thread.tacv2/1644323311627?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aKRYu6z9opcDU5zwWsqOXIvyLAYSVXseGjiJ6lrcRzAw1%40thread.tacv2/1644323311627?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технологія машинобудування, частина 1<br>Юрчишин І.І., 5-6 XV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aKRYu6z9opcDU5zwWsqOXIvyLAYSVXseGjiJ6lrcRzAw1%40thread.tacv2/1644323534331?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aKRYu6z9opcDU5zwWsqOXIvyLAYSVXseGjiJ6lrcRzAw1%40thread.tacv2/1644323534331?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Технологія машинобудування, частина 1<br>Юрчишин І.І., 5-6 XV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aKRYu6z9opcDU5zwWsqOXIvyLAYSVXseGjiJ6lrcRzAw1%40thread.tacv2/1644323730213?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aKRYu6z9opcDU5zwWsqOXIvyLAYSVXseGjiJ6lrcRzAw1%40thread.tacv2/1644323730213?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українське країнознавство<br>Яремчук С.М., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6816326355?pwd=K1l2RVU5VjFEakh6UTFHOGQ1MXRmQT09" title="https://us04web.zoom.us/j/6816326355?pwd=K1l2RVU5VjFEakh6UTFHOGQ1MXRmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

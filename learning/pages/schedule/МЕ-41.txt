@@ -1,0 +1,301 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження ринків<br>Гвоздь М.Я., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09  Meeting ID: 605 861 3984 Passcode: 7777" title="https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09  Meeting ID: 605 861 3984 Passcode: 7777">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження ринків<br>Гвоздь М.Я., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09  Meeting ID: 605 861 3984 Passcode: 7777" title="https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09  Meeting ID: 605 861 3984 Passcode: 7777">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прийняття управлінських рішень<br>Мірошник Р.О., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91652164434?pwd=dDRkcXlKMW9yM1NyYnJKbVRkeWFoZz09 " title="https://zoom.us/j/91652164434?pwd=dDRkcXlKMW9yM1NyYnJKbVRkeWFoZz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Прийняття управлінських рішень<br>Мірошник Р.О., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92021808051?pwd=eWN6R2dPTWk5c3RLczhCeDZpQ3o2QT09" title="https://zoom.us/j/92021808051?pwd=eWN6R2dPTWk5c3RLczhCeDZpQ3o2QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання динаміки бізнес-процесів<br>Матвій І.Є., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09" title="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання динаміки бізнес-процесів<br>Матвій І.Є., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09" title="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження ринків<br>Кулиняк І.Я., 420 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79923549527?pwd=McxIugZIPBHL1G6KJ-LOSXbIhjPRg_.1" title="https://us04web.zoom.us/j/79923549527?pwd=McxIugZIPBHL1G6KJ-LOSXbIhjPRg_.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідження ринків<br>Дзюбіна А.В., 427(1) IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09" title="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Прийняття управлінських рішень<br>Мірошник Р.О., 420 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94540202265?pwd=RnBsZWU5ZU9zdy94VngzZm9IR1Nkdz09 " title="https://zoom.us/j/94540202265?pwd=RnBsZWU5ZU9zdy94VngzZm9IR1Nkdz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Прийняття управлінських рішень<br>Мірошник Р.О., 420 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94540202265?pwd=RnBsZWU5ZU9zdy94VngzZm9IR1Nkdz09 " title="https://zoom.us/j/94540202265?pwd=RnBsZWU5ZU9zdy94VngzZm9IR1Nkdz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання динаміки бізнес-процесів<br>Матвій І.Є., 515 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09" title="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання динаміки бізнес-процесів<br>Матвій І.Є., 427(1) IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09" title="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання динаміки бізнес-процесів<br>Матвій І.Є., 427(1) IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09" title="https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,323 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Санація і ремонт будівель<br>Назаревич Б.Л., 319 Гол. н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Санація і ремонт будівель<br>Назаревич Б.Л., 319 Гол. н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія будівництва<br>Демчина Х.Б., 106 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aolMDM3Ycy_2tvfcICasgd55HAA26_2VUO2_4uqOmZww1%40thread.tacv2/conversations?groupId=6276df34-02c4-4000-a0e8-6c5a748a5d3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aolMDM3Ycy_2tvfcICasgd55HAA26_2VUO2_4uqOmZww1%40thread.tacv2/conversations?groupId=6276df34-02c4-4000-a0e8-6c5a748a5d3c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Романів А.С., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09" title="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Романів А.С., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09" title="https://us02web.zoom.us/j/7452671064?pwd=S3huVUJwSUlwWDhCMFRIREFHd0dSUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія проектного процесу<br>Кашуба О.М., 216 Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aQZVvahd8tlbV_3sULBNzgxe7z61qesAn_GRqp0sC4sk1%40thread.tacv2/conversations?groupId=5e9f4ea6-7de5-42a2-b05c-4d12b70736e8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aQZVvahd8tlbV_3sULBNzgxe7z61qesAn_GRqp0sC4sk1%40thread.tacv2/conversations?groupId=5e9f4ea6-7de5-42a2-b05c-4d12b70736e8&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектурне проектування споруди<br>Дідик В.В., Король Є.І., Шульга Г.М., Мазур Т.М., 324в Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab7LHBXsf54pVeOBHTX5880dAuTdVCUExouRp3H5j-Cs1%40thread.tacv2/conversations?groupId=4dc0de82-41fa-4b78-99f7-a183d74e2313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab7LHBXsf54pVeOBHTX5880dAuTdVCUExouRp3H5j-Cs1%40thread.tacv2/conversations?groupId=4dc0de82-41fa-4b78-99f7-a183d74e2313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aFOBTd176sIUDdQYzPoIm9rEkUs27fcTAVD9gNjmfR5A1%40thread.tacv2/conversations?groupId=4ab38470-4973-48af-a716-55bb1a813b7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aFOBTd176sIUDdQYzPoIm9rEkUs27fcTAVD9gNjmfR5A1%40thread.tacv2/conversations?groupId=4ab38470-4973-48af-a716-55bb1a813b7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Архітектурне проектування споруди<br>Шульга Г.М., Король Є.І., Дідик В.В., Мазур Т.М., 324в Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aFOBTd176sIUDdQYzPoIm9rEkUs27fcTAVD9gNjmfR5A1%40thread.tacv2/conversations?groupId=4ab38470-4973-48af-a716-55bb1a813b7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aFOBTd176sIUDdQYzPoIm9rEkUs27fcTAVD9gNjmfR5A1%40thread.tacv2/conversations?groupId=4ab38470-4973-48af-a716-55bb1a813b7a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування генплану території<br>Дідик В.В., Король Є.І., Шульга Г.М., Мазур Т.М., 324в Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab7LHBXsf54pVeOBHTX5880dAuTdVCUExouRp3H5j-Cs1%40thread.tacv2/conversations?groupId=4dc0de82-41fa-4b78-99f7-a183d74e2313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab7LHBXsf54pVeOBHTX5880dAuTdVCUExouRp3H5j-Cs1%40thread.tacv2/conversations?groupId=4dc0de82-41fa-4b78-99f7-a183d74e2313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування генплану території<br>Шульга Г.М., Король Є.І., Дідик В.В., Мазур Т.М., 324в Гол. н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab7LHBXsf54pVeOBHTX5880dAuTdVCUExouRp3H5j-Cs1%40thread.tacv2/conversations?groupId=4dc0de82-41fa-4b78-99f7-a183d74e2313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab7LHBXsf54pVeOBHTX5880dAuTdVCUExouRp3H5j-Cs1%40thread.tacv2/conversations?groupId=4dc0de82-41fa-4b78-99f7-a183d74e2313&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія будівництва<br>Юхман Л.І., 225 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/7926945992?pwd=0vnwhmtZPactXC_dSWBRXZAsGVZOFP.1  Meeting ID: 792 694 5992 Passcode: 0000" title="https://us04web.zoom.us/j/7926945992?pwd=0vnwhmtZPactXC_dSWBRXZAsGVZOFP.1  Meeting ID: 792 694 5992 Passcode: 0000">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи охорони праці та безпека життєдіяльності<br>Дацько О.С., 225 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aa9UD6iEDqqKZhXnjccuSoAYXzUPJPsBAv55gkl3VCJE1%40thread.tacv2/1643721043028?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f2d603a1-e439-47cd-9fcb-9fa9d2a66cd5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aa9UD6iEDqqKZhXnjccuSoAYXzUPJPsBAv55gkl3VCJE1%40thread.tacv2/1643721043028?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f2d603a1-e439-47cd-9fcb-9fa9d2a66cd5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія проектного процесу<br>Кашуба О.М., 225 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aYwrkr1txqQPPOtpDrID9q3jhYdcpSkylOn9G5GCFUVA1%40thread.tacv2/conversations?groupId=45711213-e248-43f7-9607-5e75ea10400f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aYwrkr1txqQPPOtpDrID9q3jhYdcpSkylOn9G5GCFUVA1%40thread.tacv2/conversations?groupId=45711213-e248-43f7-9607-5e75ea10400f&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Санація і ремонт будівель<br>Назаревич Б.Л., 225 Гол. н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

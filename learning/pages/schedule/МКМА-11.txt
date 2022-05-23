@@ -1,0 +1,230 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Товарна інноваційна політика<br>Мних О.Б., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aivTc3o9t_kPKJ-nGHirlELBXQHDlMXH7zKJ2VwJ23Hw1%40thread.tacv2/conversations?groupId=625f1400-99d7-4ce3-ad3d-a648bf0eb19a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aivTc3o9t_kPKJ-nGHirlELBXQHDlMXH7zKJ2VwJ23Hw1%40thread.tacv2/conversations?groupId=625f1400-99d7-4ce3-ad3d-a648bf0eb19a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Медіа-планування<br>Мащак Н.М., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6462858952?pwd=R1IrV2l6V3VuMkNwamdnOUp1aVhYQT09" title="https://us02web.zoom.us/j/6462858952?pwd=R1IrV2l6V3VuMkNwamdnOUp1aVhYQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Медіа-планування<br>Мащак Н.М., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/6462858952?pwd=R1IrV2l6V3VuMkNwamdnOUp1aVhYQT09" title="https://us02web.zoom.us/j/6462858952?pwd=R1IrV2l6V3VuMkNwamdnOUp1aVhYQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління проектами<br>Гайванович Н.В., 201 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81554510839?pwd=Zkt0ZEN6T2hxOE1TZlZLRFNjeFhVQT09" title="https://us02web.zoom.us/j/81554510839?pwd=Zkt0ZEN6T2hxOE1TZlZLRFNjeFhVQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингова політика розподілу<br>Косар Н.С., 429 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09 Идентификатор конференции: 412 010 6738 Код доступа: Q84wff" title="https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09 Идентификатор конференции: 412 010 6738 Код доступа: Q84wff">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Товарна інноваційна політика<br>Мних О.Б., 401а IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3assLV99VwEMAI3OqzSIifMLDe8a9bl3CKQ407ZgF--CY1%40thread.tacv2/conversations?groupId=af2e02b5-91be-4435-8a8e-7f6f3bd1252d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3assLV99VwEMAI3OqzSIifMLDe8a9bl3CKQ407ZgF--CY1%40thread.tacv2/conversations?groupId=af2e02b5-91be-4435-8a8e-7f6f3bd1252d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Медіа-планування<br>Мащак Н.М., 401а IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3acIL6HoTPAktjyaNjFLOtr8olbatRLtACn8tg6BV3C901%40thread.tacv2/conversations?groupId=ca21df23-13f6-4fa9-9f96-8efc7833e62c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3acIL6HoTPAktjyaNjFLOtr8olbatRLtACn8tg6BV3C901%40thread.tacv2/conversations?groupId=ca21df23-13f6-4fa9-9f96-8efc7833e62c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління проектами<br>Гайванович Н.В., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83504428416?pwd=VkpGOUxuWE15OHBEQmhpZnltTXdadz09" title="https://us02web.zoom.us/j/83504428416?pwd=VkpGOUxuWE15OHBEQmhpZnltTXdadz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління проектами<br>Гайванович Н.В., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86040575253?pwd=QUh0eHhFbUlkSk5hWm9BYlBkTnFTUT09" title="https://us02web.zoom.us/j/86040575253?pwd=QUh0eHhFbUlkSk5hWm9BYlBkTnFTUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингова політика розподілу<br>Косар Н.С., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09 Идентификатор конференции: 412 010 6738 Код доступа: Q84wff" title="https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09 Идентификатор конференции: 412 010 6738 Код доступа: Q84wff">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

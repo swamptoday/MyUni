@@ -1,0 +1,359 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теорія інформації<br>Павлюк О.М., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92070091875?pwd=d21tUlFpQzlIZVI2RjdUUlJHa2d2QT09" title="https://zoom.us/j/92070091875?pwd=d21tUlFpQzlIZVI2RjdUUlJHa2d2QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Веб-технології та веб-дизайн<br>Піх І.В., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a98W2VPn6jRuwCliOygadVLiyks612xy8nSDA2doCkCE1%40thread.tacv2/1644582758601?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22745e788f-c6f7-4b1b-a8d3-d403203ba4e5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a98W2VPn6jRuwCliOygadVLiyks612xy8nSDA2doCkCE1%40thread.tacv2/1644582758601?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22745e788f-c6f7-4b1b-a8d3-d403203ba4e5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Гребінка Г.Я., корп.21 вул.Самчука.11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97289662007?pwd=NkpaNWJmUkViUENMdFh4QmhtS1dmQT09" title="https://zoom.us/j/97289662007?pwd=NkpaNWJmUkViUENMdFh4QmhtS1dmQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Веб-технології та веб-дизайн<br>Піх І.В., 803 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3arZMArnQcKWYX8VdiTOYS5QMXjXopvdy9tiryfdvDu2Q1%40thread.tacv2/1644583263546?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22745e788f-c6f7-4b1b-a8d3-d403203ba4e5%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3arZMArnQcKWYX8VdiTOYS5QMXjXopvdy9tiryfdvDu2Q1%40thread.tacv2/1644583263546?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22745e788f-c6f7-4b1b-a8d3-d403203ba4e5%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Математичні методи дослідження операцій<br>Сенета М.Я., 104 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aodFYfeFKmFRPG8sDaoC8gn1ENPd3qHpdsHM-olYtb1o1%40thread.tacv2/1644499373819?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2211a1cf07-7d56-4c52-9734-b7d9e42a40eb%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aodFYfeFKmFRPG8sDaoC8gn1ENPd3qHpdsHM-olYtb1o1%40thread.tacv2/1644499373819?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2211a1cf07-7d56-4c52-9734-b7d9e42a40eb%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Теорія інформації<br>Павлюк О.М., 104 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95735751854?pwd=RHEvOUo1eDZHbjB1NkN2UCt0N0VoQT09" title="https://zoom.us/j/95735751854?pwd=RHEvOUo1eDZHbjB1NkN2UCt0N0VoQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Теорія інформації<br>Павлюк О.М., 104 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95735751854?pwd=RHEvOUo1eDZHbjB1NkN2UCt0N0VoQT09" title="https://zoom.us/j/95735751854?pwd=RHEvOUo1eDZHbjB1NkN2UCt0N0VoQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Системний аналіз<br>Зербіно Д.Д., 107a V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3890047282?pwd=aW5pUXBZM3E5ZnRUandralc3MzZPUT09" title="https://zoom.us/j/3890047282?pwd=aW5pUXBZM3E5ZnRUandralc3MzZPUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Системний аналіз<br>Зербіно Д.Д., 107a V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3890047282?pwd=aW5pUXBZM3E5ZnRUandralc3MzZPUT09" title="https://zoom.us/j/3890047282?pwd=aW5pUXBZM3E5ZnRUandralc3MzZPUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичні методи дослідження операцій<br>Казимира І.Я., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91600052617?pwd=RUJvUmlBNjFpUjVmbUZHY1Z4UlBFZz09" title="https://zoom.us/j/91600052617?pwd=RUJvUmlBNjFpUjVmbUZHY1Z4UlBFZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерні  мережі<br>Обельовська К.М., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74645716169?pwd=MVhIdmYxWk05NUFkaVJDU21hTlpVZz09" title="https://us04web.zoom.us/j/74645716169?pwd=MVhIdmYxWk05NUFkaVJDU21hTlpVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системний аналіз<br>Ковівчак Я.В., 807 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzk0M2E4ZTctYzNkMS00ZTJjLThjNTMtMzk5MTU0ZDY0Yzhh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzk0M2E4ZTctYzNkMS00ZTJjLThjNTMtMzk5MTU0ZDY0Yzhh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Комп`ютерні  мережі<br>Абзятов А.З., 804а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://netacad.webex.com/meet/aaz.mail" title="https://netacad.webex.com/meet/aaz.mail">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Веб-технології та веб-дизайн<br>Троян О.А., 804б V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vjb-myze-hzn?authuser=0" title="https://meet.google.com/vjb-myze-hzn?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Комп`ютерні  мережі<br>Абзятов А.З., 804а V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://netacad.webex.com/meet/aaz.mail" title="https://netacad.webex.com/meet/aaz.mail">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Математичні методи дослідження операцій<br>Балич Б.І., 804б V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7041750912?pwd=RXRuZFMrdE5uenE3cmlnWGc1SGhuUT09 Ідентифікатор конференції: 704 175 0912 Код доступу: J9Zqxh" title="https://zoom.us/j/7041750912?pwd=RXRuZFMrdE5uenE3cmlnWGc1SGhuUT09 Ідентифікатор конференції: 704 175 0912 Код доступу: J9Zqxh">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системний аналіз<br>Фабрі Л.П., 802а V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/arm-rtpm-dvr" title="https://meet.google.com/arm-rtpm-dvr">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

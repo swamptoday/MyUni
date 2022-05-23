@@ -1,0 +1,223 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Робототехніка, системи та комплекси<br>Яцишин С.П., 702 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zoy-qqwm-gkc" title="https://meet.google.com/zoy-qqwm-gkc">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Робототехніка, системи та комплекси<br>Яцишин С.П., 702 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zoy-qqwm-gkc" title="https://meet.google.com/zoy-qqwm-gkc">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Робототехніка, системи та комплекси<br>Яцишин С.П., 702 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/zoy-qqwm-gkc" title="https://meet.google.com/zoy-qqwm-gkc">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Тестування смарт- сенсорів і актуаторів та їх програмного забезпечення<br>Ришковський О.П., 712в V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74481521996?pwd=rKPP8V1I19F3acq-mao8tzWkNvxSdQ.1" title="https://us04web.zoom.us/j/74481521996?pwd=rKPP8V1I19F3acq-mao8tzWkNvxSdQ.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Тестування смарт- сенсорів і актуаторів та їх програмного забезпечення<br>Ришковський О.П., 712в V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78143986461?pwd=7mJOP1crzVH7PrD4osZea1S0vb-WXO.1" title="https://us04web.zoom.us/j/78143986461?pwd=7mJOP1crzVH7PrD4osZea1S0vb-WXO.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ІТ-проектами<br>Петровська І.Р., 711 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6135821818?pwd=ZlRWUTdXTmdheE55b1o5Wk55RlFRUT09" title="https://us05web.zoom.us/j/6135821818?pwd=ZlRWUTdXTmdheE55b1o5Wk55RlFRUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління ІТ-проектами<br>Яцук В.О., 711 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09" title="https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Інформаційно-вимірювальні технології у робототехніці<br>Колодій З.О., 713 V н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75309497926?pwd=0hKI73bO4jYNh4xRvKBX50tL12rzOr.1  " title="https://us04web.zoom.us/j/75309497926?pwd=0hKI73bO4jYNh4xRvKBX50tL12rzOr.1  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Інформаційно-вимірювальні технології у робототехніці<br>Колодій З.О., 713 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76777706790?pwd=SVgYAeOrYYpyBWxTIdRyB6oSi0X1G1.1  " title="https://us04web.zoom.us/j/76777706790?pwd=SVgYAeOrYYpyBWxTIdRyB6oSi0X1G1.1  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційно-вимірювальні технології у робототехніці<br>Колодій З.О., 704 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79309589136?pwd=WAEU38VuUgci8RBvqqPgj3uy-re0jv.1  " title="https://us04web.zoom.us/j/79309589136?pwd=WAEU38VuUgci8RBvqqPgj3uy-re0jv.1  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

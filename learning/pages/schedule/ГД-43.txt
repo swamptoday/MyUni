@@ -1,0 +1,350 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтерпретація та опрацювання аерокосмічних зображень<br>Бабій Л.В., 616а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab614b2b8a0014e378bc1b251b6223f96%40thread.tacv2/conversations?groupId=fdda348b-bada-4992-a8ea-2807db2bb2c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab614b2b8a0014e378bc1b251b6223f96%40thread.tacv2/conversations?groupId=fdda348b-bada-4992-a8ea-2807db2bb2c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інтерпретація та опрацювання аерокосмічних зображень<br>Марусаж Х.І., Бабій Л.В., 616а II н.к., 616б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab614b2b8a0014e378bc1b251b6223f96%40thread.tacv2/conversations?groupId=fdda348b-bada-4992-a8ea-2807db2bb2c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab614b2b8a0014e378bc1b251b6223f96%40thread.tacv2/conversations?groupId=fdda348b-bada-4992-a8ea-2807db2bb2c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтерпретація та опрацювання аерокосмічних зображень<br>Марусаж Х.І., Бабій Л.В., 616а II н.к., 616б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3ab614b2b8a0014e378bc1b251b6223f96%40thread.tacv2/conversations?groupId=fdda348b-bada-4992-a8ea-2807db2bb2c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3ab614b2b8a0014e378bc1b251b6223f96%40thread.tacv2/conversations?groupId=fdda348b-bada-4992-a8ea-2807db2bb2c7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геоінформаційні технології в геодезії, картографії та управлінні територіями, частина 2<br>Грицьків Н.З., Колб І.З., 619б II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a16dc23c60e044f9ebbc29562f8f01d68%40thread.tacv2/conversations?groupId=04f45c8e-87c1-496d-a722-563b485d222e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a16dc23c60e044f9ebbc29562f8f01d68%40thread.tacv2/conversations?groupId=04f45c8e-87c1-496d-a722-563b485d222e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Геоінформаційні технології в геодезії, картографії та управлінні територіями, частина 2<br>Грицьків Н.З., Колб І.З., 616б II н.к., 619б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a16dc23c60e044f9ebbc29562f8f01d68%40thread.tacv2/conversations?groupId=04f45c8e-87c1-496d-a722-563b485d222e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a16dc23c60e044f9ebbc29562f8f01d68%40thread.tacv2/conversations?groupId=04f45c8e-87c1-496d-a722-563b485d222e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології лазерного сканування<br>Колб І.З., 616а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aa67835d557af46aebf9521c2fa82cd26%40thread.tacv2/conversations?groupId=b08d8cb6-61c6-403d-aacc-f8515e10c2a3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aa67835d557af46aebf9521c2fa82cd26%40thread.tacv2/conversations?groupId=b08d8cb6-61c6-403d-aacc-f8515e10c2a3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та алгоритми комп`ютерної обробки геоданих<br>Четверіков Б.В., 616а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3amsaPHprbVLpkTIqmUq20F1HbkikhGDMEPrUdye9T5T41%40thread.tacv2/conversations?groupId=f67d6234-2214-43bd-b3d2-80dda1326618&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3amsaPHprbVLpkTIqmUq20F1HbkikhGDMEPrUdye9T5T41%40thread.tacv2/conversations?groupId=f67d6234-2214-43bd-b3d2-80dda1326618&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи баз геоданих в геоінформаційних технологіях<br>Кузик З.О., 616а II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72761301681?pwd=eE5BcERFaFAvcHlsWGJMTkluUWpoUT09" title="https://us04web.zoom.us/j/72761301681?pwd=eE5BcERFaFAvcHlsWGJMTkluUWpoUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи баз геоданих в геоінформаційних технологіях<br>Кузик З.О., Шевчук В.М., 616а II н.к., 616б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72761301681?pwd=eE5BcERFaFAvcHlsWGJMTkluUWpoUT09" title="https://us04web.zoom.us/j/72761301681?pwd=eE5BcERFaFAvcHlsWGJMTkluUWpoUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології лазерного сканування<br>Заяць І.В., Колб І.З., 616б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aa67835d557af46aebf9521c2fa82cd26%40thread.tacv2/conversations?groupId=b08d8cb6-61c6-403d-aacc-f8515e10c2a3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aa67835d557af46aebf9521c2fa82cd26%40thread.tacv2/conversations?groupId=b08d8cb6-61c6-403d-aacc-f8515e10c2a3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Технології лазерного сканування<br>Заяць І.В., Колб І.З., 616б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aa67835d557af46aebf9521c2fa82cd26%40thread.tacv2/conversations?groupId=b08d8cb6-61c6-403d-aacc-f8515e10c2a3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aa67835d557af46aebf9521c2fa82cd26%40thread.tacv2/conversations?groupId=b08d8cb6-61c6-403d-aacc-f8515e10c2a3&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Методи та алгоритми комп`ютерної обробки геоданих<br>Бабій Л.В., Четверіков Б.В., 616б II н.к., 619б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3amsaPHprbVLpkTIqmUq20F1HbkikhGDMEPrUdye9T5T41%40thread.tacv2/conversations?groupId=f67d6234-2214-43bd-b3d2-80dda1326618&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3amsaPHprbVLpkTIqmUq20F1HbkikhGDMEPrUdye9T5T41%40thread.tacv2/conversations?groupId=f67d6234-2214-43bd-b3d2-80dda1326618&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та алгоритми комп`ютерної обробки геоданих<br>Четверіков Б.В., Бабій Л.В., 616б II н.к., 619б II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3amsaPHprbVLpkTIqmUq20F1HbkikhGDMEPrUdye9T5T41%40thread.tacv2/conversations?groupId=f67d6234-2214-43bd-b3d2-80dda1326618&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3amsaPHprbVLpkTIqmUq20F1HbkikhGDMEPrUdye9T5T41%40thread.tacv2/conversations?groupId=f67d6234-2214-43bd-b3d2-80dda1326618&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Дослідницький навчально-науковий проект<br>Колб І.З., Глотов В.М., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Дослідницький навчально-науковий проект<br>Глотов В.М., Колб І.З., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

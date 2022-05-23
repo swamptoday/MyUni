@@ -1,0 +1,208 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Аналіз і синтез мехатронних систем автомобілів<br>Кіндрацький Б.І., 214 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09" title="https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз і синтез мехатронних систем автомобілів<br>Осмак О.А., 214 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09" title="https://us02web.zoom.us/j/9462147543?pwd=MjhrbmFXNlp1d0RtR2d5M09BYTZVZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління якістю і сертифікація автомобілів<br>Нємий С.В., 216 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94214944892?pwd=S0NlZ0hsYkZMSkJmakJ3Z2hIT05uUT09" title="https://zoom.us/j/94214944892?pwd=S0NlZ0hsYkZMSkJmakJ3Z2hIT05uUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління якістю і сертифікація автомобілів<br>Нємий С.В., 216 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94214944892?pwd=S0NlZ0hsYkZMSkJmakJ3Z2hIT05uUT09" title="https://zoom.us/j/94214944892?pwd=S0NlZ0hsYkZMSkJmakJ3Z2hIT05uUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Гібридні та електричні приводи автомобілів<br>Пороховський Ю.В., 114 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09" title="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Телеметрія на автомобільному транспорті<br>Бритковський В.М., 118 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96272577706?pwd=emt4ckhSMEpSUldYL1lvWjV5R0x3dz09" title="https://zoom.us/j/96272577706?pwd=emt4ckhSMEpSUldYL1lvWjV5R0x3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Телеметрія на автомобільному транспорті<br>Бритковський В.М., 118 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/96272577706?pwd=emt4ckhSMEpSUldYL1lvWjV5R0x3dz09" title="https://zoom.us/j/96272577706?pwd=emt4ckhSMEpSUldYL1lvWjV5R0x3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Гібридні та електричні приводи автомобілів<br>Пороховський Ю.В., 114 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09" title="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Гібридні та електричні приводи автомобілів<br>Пороховський Ю.В., 114 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09" title="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

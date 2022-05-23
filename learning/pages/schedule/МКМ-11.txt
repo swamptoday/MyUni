@@ -1,0 +1,250 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електронна комерція<br>Дмитрів А.Я., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1gFwtKGjMWuH-Blw_GkBCE4G7OpDFJFz2ErRG4a8CfI1%40thread.tacv2/1644755223176?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a76b0304-4860-41bd-88fd-203cc11d786b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1gFwtKGjMWuH-Blw_GkBCE4G7OpDFJFz2ErRG4a8CfI1%40thread.tacv2/1644755223176?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a76b0304-4860-41bd-88fd-203cc11d786b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Електронна комерція<br>Дмитрів А.Я., 401а IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1gFwtKGjMWuH-Blw_GkBCE4G7OpDFJFz2ErRG4a8CfI1%40thread.tacv2/1644755299854?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a76b0304-4860-41bd-88fd-203cc11d786b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1gFwtKGjMWuH-Blw_GkBCE4G7OpDFJFz2ErRG4a8CfI1%40thread.tacv2/1644755299854?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a76b0304-4860-41bd-88fd-203cc11d786b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Електронна комерція<br>Дмитрів А.Я., 405 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a1gFwtKGjMWuH-Blw_GkBCE4G7OpDFJFz2ErRG4a8CfI1%40thread.tacv2/1644755465624?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a76b0304-4860-41bd-88fd-203cc11d786b%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a1gFwtKGjMWuH-Blw_GkBCE4G7OpDFJFz2ErRG4a8CfI1%40thread.tacv2/1644755465624?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a76b0304-4860-41bd-88fd-203cc11d786b%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Репутаційний digital-менеджмент<br>Карпій О.П., 405 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/99426187032?pwd=Z25xR3Q4S25LK1N3bnpCSHVRaW5vQT09  Идентификатор конференции: 994 2618 7032 Код доступа: Dvrr9x" title="https://zoom.us/j/99426187032?pwd=Z25xR3Q4S25LK1N3bnpCSHVRaW5vQT09  Идентификатор конференции: 994 2618 7032 Код доступа: Dvrr9x">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Блогінг та партнерський маркетинг<br>Калинець К.С., 405 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77127175719?pwd=AGQ9RfP667czzZZOcFg1LJFoKDJy3x.1" title="https://us04web.zoom.us/j/77127175719?pwd=AGQ9RfP667czzZZOcFg1LJFoKDJy3x.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингова політика розподілу<br>Косар Н.С., 429 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09 Идентификатор конференции: 412 010 6738 Код доступа: Q84wff" title="https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09 Идентификатор конференции: 412 010 6738 Код доступа: Q84wff">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Маркетингова політика розподілу<br>Косар Н.С., 429 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09 Идентификатор конференции: 412 010 6738 Код доступа: Q84wff" title="https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09 Идентификатор конференции: 412 010 6738 Код доступа: Q84wff">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Блогінг та партнерський маркетинг<br>Калинець К.С., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/79807673197?pwd=WHUMNF0u5-u7UbFj9mLF5qPowZSq-e.1" title="https://us04web.zoom.us/j/79807673197?pwd=WHUMNF0u5-u7UbFj9mLF5qPowZSq-e.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Блогінг та партнерський маркетинг<br>Калинець К.С., 514 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3AA-N8APrTbC0TU3RcUprw7mIK0zjn4EaqfgIJmHeTpVI1%40thread.tacv2%2F1644765082536%3Fcontext%3D%257B%2522Tid%2522%253A%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252C%2522Oid%2522%253A%2522a76b0304-4860-41bd-88fd-203cc11d786b%2522%257D%26anon%3Dtrue&amp;type=meetup-join&amp;deeplinkId=9397a518-de85-464c-b355-c743547708a2&amp;directDl=true&amp;msLaunch=true&amp;enableMobilePage=true&amp;suppressPrompt=true" title="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3AA-N8APrTbC0TU3RcUprw7mIK0zjn4EaqfgIJmHeTpVI1%40thread.tacv2%2F1644765082536%3Fcontext%3D%257B%2522Tid%2522%253A%25227631cd62-5187-4e15-8b8e-ef653e366e7a%2522%252C%2522Oid%2522%253A%2522a76b0304-4860-41bd-88fd-203cc11d786b%2522%257D%26anon%3Dtrue&amp;type=meetup-join&amp;deeplinkId=9397a518-de85-464c-b355-c743547708a2&amp;directDl=true&amp;msLaunch=true&amp;enableMobilePage=true&amp;suppressPrompt=true">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Репутаційний digital-менеджмент<br>Карпій О.П., 207 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92707762614?pwd=dnRBYm5HSEsrVjZyYzNCMzFnazNldz09  Идентификатор конференции: 927 0776 2614 Код доступа: EhaH8P" title="https://zoom.us/j/92707762614?pwd=dnRBYm5HSEsrVjZyYzNCMzFnazNldz09  Идентификатор конференции: 927 0776 2614 Код доступа: EhaH8P">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Репутаційний digital-менеджмент<br>Карпій О.П., 405 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92707762614?pwd=dnRBYm5HSEsrVjZyYzNCMzFnazNldz09  Идентификатор конференции: 927 0776 2614 Код доступа: EhaH8P" title="https://zoom.us/j/92707762614?pwd=dnRBYm5HSEsrVjZyYzNCMzFnazNldz09  Идентификатор конференции: 927 0776 2614 Код доступа: EhaH8P">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

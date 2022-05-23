@@ -1,0 +1,447 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Комп`ютерна лінгвістика<br>Висоцька В.А., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89718043620?pwd=c0krSWl0R25kT0tzMnlocTB0WTZIdz09" title="https://us02web.zoom.us/j/89718043620?pwd=c0krSWl0R25kT0tzMnlocTB0WTZIdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Розпізнавання мови<br>Висоцька В.А., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/86732066841?pwd=R0FOVEVJVTc3em9HKzc2TXRHMnBpdz09" title="https://us02web.zoom.us/j/86732066841?pwd=R0FOVEVJVTc3em9HKzc2TXRHMnBpdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Розпізнавання мови<br>Чирун Л.В., 126б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89296348034?pwd=V0Z5eG16RmlLeThBcGcwTmo5RFp2Zz09" title="https://us02web.zoom.us/j/89296348034?pwd=V0Z5eG16RmlLeThBcGcwTmo5RFp2Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Розпізнавання мови<br>Чирун Л.В., 127 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/89296348034?pwd=V0Z5eG16RmlLeThBcGcwTmo5RFp2Zz09" title="https://us02web.zoom.us/j/89296348034?pwd=V0Z5eG16RmlLeThBcGcwTmo5RFp2Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Технології великих даних<br>Юринець Р.В., 122в IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Технології великих даних<br>Юринець Р.В., 122в IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Глибинне навчання<br>Пелещак Р.М., 207 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09" title="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Технології великих даних<br>Юринець Р.В., 122в IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Глибинне навчання<br>Пелещак Р.М., 127 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09" title="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інновації аналізу даних<br>Рибчак З.Л., 123 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09" title="https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Інновації аналізу даних<br>Рибчак З.Л., 122в IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09" title="https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Глибинне навчання<br>Пелещак Р.М., 126б IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09" title="https://us02web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інновації аналізу даних<br>Берко А.Ю., 208 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09" title="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Технології великих даних<br>Юринець Р.В., 126а IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Інтелектуальна власність<br>Бублик М.І., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09" title="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Комп`ютерна лінгвістика<br>Пелещак І.Р., 122в IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9437718128?pwd=RmROdko5UE5uV1VHdWU1cmVQazlzZz09" title="https://us04web.zoom.us/j/9437718128?pwd=RmROdko5UE5uV1VHdWU1cmVQazlzZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Комп`ютерна лінгвістика<br>Пелещак І.Р., 122в IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/9437718128?pwd=RmROdko5UE5uV1VHdWU1cmVQazlzZz09" title="https://us04web.zoom.us/j/9437718128?pwd=RmROdko5UE5uV1VHdWU1cmVQazlzZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інтелектуальна власність<br>Бублик М.І., 124 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09" title="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Інтелектуальна власність<br>Бублик М.І., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09" title="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технології великих даних<br>Берко А.Ю., 406 II н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09" title="https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інтелектуальна власність<br>Бублик М.І., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09" title="https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

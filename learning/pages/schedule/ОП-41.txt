@@ -1,0 +1,291 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз за видами економічної діяльності<br>Демська Ю.В., 406 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3826135075?pwd=bisxeXNRSG9wazQvWHdYUlBNZTZVUT09" title="https://zoom.us/j/3826135075?pwd=bisxeXNRSG9wazQvWHdYUlBNZTZVUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз за видами економічної діяльності<br>Демська Ю.В., 206 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/3826135075?pwd=bisxeXNRSG9wazQvWHdYUlBNZTZVUT09" title="https://zoom.us/j/3826135075?pwd=bisxeXNRSG9wazQvWHdYUlBNZTZVUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз за видами економічної діяльності<br>Нашкерська М.М., 406 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09  " title="https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналіз за видами економічної діяльності<br>Нашкерська М.М., 406 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09  " title="https://us04web.zoom.us/j/2383507076?pwd=eUprUzNLV2U0U3dOWlc5cGpvNVg5dz09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податковий і митний контроль<br>Воскресенська Т.І., 406 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85979971943?pwd=ZHcySmN1ZkFEcHNXa3ZiSngvKy90dz09  " title="https://us02web.zoom.us/j/85979971943?pwd=ZHcySmN1ZkFEcHNXa3ZiSngvKy90dz09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податковий і митний контроль<br>Воскресенська Т.І., 406 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85979971943?pwd=ZHcySmN1ZkFEcHNXa3ZiSngvKy90dz09  " title="https://us02web.zoom.us/j/85979971943?pwd=ZHcySmN1ZkFEcHNXa3ZiSngvKy90dz09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податковий і митний контроль<br>Воскресенська Т.І., 326 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87148737491?pwd=WGh6Um44MWkvZnpUMDVjaXBVWm5wUT09" title="https://us02web.zoom.us/j/87148737491?pwd=WGh6Um44MWkvZnpUMDVjaXBVWm5wUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Податковий і митний контроль<br>Воскресенська Т.І., 326 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87148737491?pwd=WGh6Um44MWkvZnpUMDVjaXBVWm5wUT09" title="https://us02web.zoom.us/j/87148737491?pwd=WGh6Um44MWkvZnpUMDVjaXBVWm5wUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Формування та реалізація облікової політики підприємства<br>Тесак О.В., 406 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92844666001?pwd=NWFrN1U1MHpULzRWWnZrUzdWWjZyZz09" title="https://zoom.us/j/92844666001?pwd=NWFrN1U1MHpULzRWWnZrUzdWWjZyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Формування та реалізація облікової політики підприємства<br>Тесак О.В., 406 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92844666001?pwd=NWFrN1U1MHpULzRWWnZrUzdWWjZyZz09" title="https://zoom.us/j/92844666001?pwd=NWFrN1U1MHpULzRWWnZrUzdWWjZyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Формування та реалізація облікової політики підприємства<br>Тесак О.В., 326 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95485975402?pwd=Y3Q0MkhQNkRkL2V6aUVka0hWSEIwdz09" title="https://zoom.us/j/95485975402?pwd=Y3Q0MkhQNkRkL2V6aUVka0hWSEIwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Формування та реалізація облікової політики підприємства<br>Тесак О.В., 326 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/95485975402?pwd=Y3Q0MkhQNkRkL2V6aUVka0hWSEIwdz09" title="https://zoom.us/j/95485975402?pwd=Y3Q0MkhQNkRkL2V6aUVka0hWSEIwdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

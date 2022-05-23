@@ -1,0 +1,416 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Інформаційно-вимірювальні обчислювальні системи<br>Кочан Р.В., 405 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a01f046e1548c4521b11bee2251b9063d%40thread.tacv2/1645518813390?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a01f046e1548c4521b11bee2251b9063d%40thread.tacv2/1645518813390?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Спеціалізовані мікропроцесорні   системи<br>Кочан Р.В., 405 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4cfb285facdf4db5a582697e41c99d37%40thread.tacv2/1645519083569?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4cfb285facdf4db5a582697e41c99d37%40thread.tacv2/1645519083569?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Методи та засоби автоматизованого проектування комп`ютерних систем<br>Гонсьор О.Й., 907 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3af37e5e572bff4c01b37a01a5cf2b19a8%40thread.tacv2/1644323244039?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226c270088-0a31-4001-ae53-24b8637d1eba%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3af37e5e572bff4c01b37a01a5cf2b19a8%40thread.tacv2/1644323244039?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226c270088-0a31-4001-ae53-24b8637d1eba%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Інформаційно-вимірювальні обчислювальні системи<br>Кочан Р.В., 405 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:01f046e1548c4521b11bee2251b9063d@thread.tacv2/1644796251071?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=1739b0af-72d7-430c-a73d-4264d0824677&amp;parentMessageId=1644796251071&amp;teamName=21-22%20%D0%86%D0%92%D0%9E%D0%A1%20%D0%9A%D0%86-4%D1%85&amp;channelName=%D0%9A%D0%86-48%20%D0%BB%D0%B0%D0%B1%D0%B8&amp;createdTime=1644796251071" title="https://teams.microsoft.com/l/message/19:01f046e1548c4521b11bee2251b9063d@thread.tacv2/1644796251071?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=1739b0af-72d7-430c-a73d-4264d0824677&amp;parentMessageId=1644796251071&amp;teamName=21-22%20%D0%86%D0%92%D0%9E%D0%A1%20%D0%9A%D0%86-4%D1%85&amp;channelName=%D0%9A%D0%86-48%20%D0%BB%D0%B0%D0%B1%D0%B8&amp;createdTime=1644796251071">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Інформаційно-вимірювальні обчислювальні системи<br>Кочан Р.В., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:3df583c2c7eb43bc8c55d8dbceec2b12@thread.tacv2/1644795823597?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=1739b0af-72d7-430c-a73d-4264d0824677&amp;parentMessageId=1644795823597&amp;teamName=21-22%20%D0%86%D0%92%D0%9E%D0%A1%20%D0%9A%D0%86-4%D1%85&amp;channelName=%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97&amp;createdTime=1644795823597" title="https://teams.microsoft.com/l/message/19:3df583c2c7eb43bc8c55d8dbceec2b12@thread.tacv2/1644795823597?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=1739b0af-72d7-430c-a73d-4264d0824677&amp;parentMessageId=1644795823597&amp;teamName=21-22%20%D0%86%D0%92%D0%9E%D0%A1%20%D0%9A%D0%86-4%D1%85&amp;channelName=%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97&amp;createdTime=1644795823597">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Інформаційно-вимірювальні обчислювальні системи<br>Кочан Р.В., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/message/19:3df583c2c7eb43bc8c55d8dbceec2b12@thread.tacv2/1644795971252?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=1739b0af-72d7-430c-a73d-4264d0824677&amp;parentMessageId=1644795971252&amp;teamName=21-22%20%D0%86%D0%92%D0%9E%D0%A1%20%D0%9A%D0%86-4%D1%85&amp;channelName=%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97&amp;createdTime=1644795971252" title="https://teams.microsoft.com/l/message/19:3df583c2c7eb43bc8c55d8dbceec2b12@thread.tacv2/1644795971252?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&amp;groupId=1739b0af-72d7-430c-a73d-4264d0824677&amp;parentMessageId=1644795971252&amp;teamName=21-22%20%D0%86%D0%92%D0%9E%D0%A1%20%D0%9A%D0%86-4%D1%85&amp;channelName=%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%97&amp;createdTime=1644795971252">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Спеціалізовані мікропроцесорні   системи<br>Кочан Р.В., 405 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4cfb285facdf4db5a582697e41c99d37%40thread.tacv2/1644886055487?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4cfb285facdf4db5a582697e41c99d37%40thread.tacv2/1644886055487?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Інформаційно-вимірювальні обчислювальні системи<br>Кочан Р.В., 405 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ab5e56fe0d3ad4f859eb0d2406e7f7ad1%40thread.tacv2/1645520323699?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ab5e56fe0d3ad4f859eb0d2406e7f7ad1%40thread.tacv2/1645520323699?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Спеціалізовані мікро-нанопроцесорні системи<br>Клим Г.І., 907 V н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спеціалізовані мікропроцесорні   системи<br>Кочан Р.В., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9489d615a5c6422b9141679e29c3737e%40thread.tacv2/1644960672670?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9489d615a5c6422b9141679e29c3737e%40thread.tacv2/1644960672670?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спеціалізовані мікропроцесорні   системи<br>Кочан Р.В., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a9489d615a5c6422b9141679e29c3737e%40thread.tacv2/1644960819705?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a9489d615a5c6422b9141679e29c3737e%40thread.tacv2/1644960819705?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Спеціалізовані мікропроцесорні   системи<br>Кочан Р.В., 405 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a4cfb285facdf4db5a582697e41c99d37%40thread.tacv2/1645520885605?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a4cfb285facdf4db5a582697e41c99d37%40thread.tacv2/1645520885605?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33eac6-dac7-40e1-9e0a-449b38b4b1ce%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та засоби автоматизованого проектування комп`ютерних систем<br>Гонсьор О.Й., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3af37e5e572bff4c01b37a01a5cf2b19a8%40thread.tacv2/%25D0%259C%25D0%2597%25D0%2590%25D0%259F%25D0%259A%25D0%25A1_%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=40c88965-7610-4d93-8cfc-f8cd2b1d97e1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3af37e5e572bff4c01b37a01a5cf2b19a8%40thread.tacv2/%25D0%259C%25D0%2597%25D0%2590%25D0%259F%25D0%259A%25D0%25A1_%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=40c88965-7610-4d93-8cfc-f8cd2b1d97e1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи та засоби автоматизованого проектування комп`ютерних систем<br>Гонсьор О.Й., 902 V н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3af37e5e572bff4c01b37a01a5cf2b19a8%40thread.tacv2/%25D0%259C%25D0%2597%25D0%2590%25D0%259F%25D0%259A%25D0%25A1_%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=40c88965-7610-4d93-8cfc-f8cd2b1d97e1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3af37e5e572bff4c01b37a01a5cf2b19a8%40thread.tacv2/%25D0%259C%25D0%2597%25D0%2590%25D0%259F%25D0%259A%25D0%25A1_%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=40c88965-7610-4d93-8cfc-f8cd2b1d97e1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спеціалізовані мікро-нанопроцесорні системи<br>Клим Г.І., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Спеціалізовані мікро-нанопроцесорні системи<br>Клим Г.І., 411 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Спеціалізовані мікро-нанопроцесорні системи<br>Клим Г.І., 907 V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09" title="https://us02web.zoom.us/j/5736936623?pwd=R3lra0lGWDlLU1NySnZaZjNWZVNsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Методи та засоби автоматизованого проектування комп`ютерних систем<br>Гонсьор О.Й., 904а V н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3af37e5e572bff4c01b37a01a5cf2b19a8%40thread.tacv2/%25D0%259C%25D0%2597%25D0%2590%25D0%259F%25D0%259A%25D0%25A1_%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=40c88965-7610-4d93-8cfc-f8cd2b1d97e1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3af37e5e572bff4c01b37a01a5cf2b19a8%40thread.tacv2/%25D0%259C%25D0%2597%25D0%2590%25D0%259F%25D0%259A%25D0%25A1_%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=40c88965-7610-4d93-8cfc-f8cd2b1d97e1&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

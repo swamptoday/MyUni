@@ -8,16 +8,28 @@ function instituteText(element)
     document.getElementById("instituteButton").innerText = element.innerText;
 }
 
+const showButton = document.querySelector('#showButton');
+
 const Monday = document.querySelector('#Monday');
 const Tuesday = document.querySelector('#Tuesday');
 const Wednesday = document.querySelector('#Wednesday');
 const Thursday = document.querySelector('#Thursday');
 const Friday = document.querySelector('#Friday');
+
 var i = 0;
 var j = 0;
 var k = 0;
 var a = 1;
 var h = 0;
+
+showButton.addEventListener("click", buttonClick);
+
+function buttonClick()
+{
+    const groupButton = document.querySelector('#groupButton');
+    var schedule_file = groupButton.innerText;
+    logFileText(schedule_file + '.txt');
+}
 
 var text1 = '';
 
@@ -32,9 +44,6 @@ const logFileText = async file => {
     console.log(text1);
     get_schedule(text1);
 }
-
-
-logFileText('ГД-11.txt');
 
 
 function get_schedule(text1)

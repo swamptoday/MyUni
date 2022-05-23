@@ -1,0 +1,246 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизовані системи інженерного моделювання та розрахунку<br>Колесник К.К., 321 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/vbr-yikc-bde" title="https://meet.google.com/vbr-yikc-bde">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Автоматизовані системи інженерного моделювання та розрахунку<br>Колесник К.К., 321 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pqs-ekwi-odb" title="https://meet.google.com/pqs-ekwi-odb">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Автоматизовані системи інженерного моделювання та розрахунку<br>Колесник К.К., 321 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pqs-ekwi-odb " title="https://meet.google.com/pqs-ekwi-odb ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Автоматизовані системи технологічної підготовки виробництва<br>Здобицький А.Я., 501 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87606547305?pwd=V2tVMjV4RVJ0ZERRcDJxbGZmbXJ3dz09" title="https://us02web.zoom.us/j/87606547305?pwd=V2tVMjV4RVJ0ZERRcDJxbGZmbXJ3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Автоматизовані системи технологічної підготовки виробництва<br>Здобицький А.Я., 501 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/87606547305?pwd=V2tVMjV4RVJ0ZERRcDJxbGZmbXJ3dz09" title="https://us02web.zoom.us/j/87606547305?pwd=V2tVMjV4RVJ0ZERRcDJxbGZmbXJ3dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автоматизовані системи технологічної підготовки виробництва<br>Здобицький А.Я., 501 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85085166350?pwd=TTQvYzcybTV5L21JYlU3Nk5ISkNCUT09" title="https://us02web.zoom.us/j/85085166350?pwd=TTQvYzcybTV5L21JYlU3Nk5ISkNCUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи автоматизації конструкторського проектування<br>Корпильов Д.В., 321 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/eit-zprt-zgv?authuser=0" title="https://meet.google.com/eit-zprt-zgv?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Системи автоматизації конструкторського проектування<br>Корпильов Д.В., 322 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pfh-hfsm-ppa?authuser=0" title="https://meet.google.com/pfh-hfsm-ppa?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Системи автоматизації конструкторського проектування<br>Корпильов Д.В., 322 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/pfh-hfsm-ppa?authuser=0" title="https://meet.google.com/pfh-hfsm-ppa?authuser=0">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи структурного, функціонально-логічного і схемотехнічного проектування<br>Іванців Р.Д., 321 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6763870500?pwd=SXYycUpDbGFJR3VvcXdtTFJVenh2dz09" title="https://us04web.zoom.us/j/6763870500?pwd=SXYycUpDbGFJR3VvcXdtTFJVenh2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Системи структурного, функціонально-логічного і схемотехнічного проектування<br>Іванців Р.Д., 321 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6763870500?pwd=SXYycUpDbGFJR3VvcXdtTFJVenh2dz09" title="https://us04web.zoom.us/j/6763870500?pwd=SXYycUpDbGFJR3VvcXdtTFJVenh2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Системи структурного, функціонально-логічного і схемотехнічного проектування<br>Іванців Р.Д., 321 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/6763870500?pwd=SXYycUpDbGFJR3VvcXdtTFJVenh2dz09" title="https://us04web.zoom.us/j/6763870500?pwd=SXYycUpDbGFJR3VvcXdtTFJVenh2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

@@ -1,0 +1,301 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Безпека руху транспортних засобів<br>Балабанська І.І., 205 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Безпека руху транспортних засобів<br>Балабанська І.І., 205 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Транспортні мережі <br>Коник І.В., 205 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aWxWcB14GCOY4D0yHAkOWn-nb1FqtSQ2EmgnKtRdtpnw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fda93a4b-6796-469e-ae62-162df928b537&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aWxWcB14GCOY4D0yHAkOWn-nb1FqtSQ2EmgnKtRdtpnw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fda93a4b-6796-469e-ae62-162df928b537&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Транспортні мережі <br>Коник І.В., 205 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aWxWcB14GCOY4D0yHAkOWn-nb1FqtSQ2EmgnKtRdtpnw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fda93a4b-6796-469e-ae62-162df928b537&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aWxWcB14GCOY4D0yHAkOWn-nb1FqtSQ2EmgnKtRdtpnw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fda93a4b-6796-469e-ae62-162df928b537&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Безпека руху транспортних засобів<br>Вельган І.В., 206 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aqPrCPwQ_SMG4KYjez5HKN3e7xw4oSIVRiN0KXOOXssM1%40thread.tacv2/conversations?groupId=39b4bd26-044a-4c47-8aee-303224c8ffe7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aqPrCPwQ_SMG4KYjez5HKN3e7xw4oSIVRiN0KXOOXssM1%40thread.tacv2/conversations?groupId=39b4bd26-044a-4c47-8aee-303224c8ffe7&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи і моделі організації дорожнього руху<br>Бойків М.В., 206 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи і моделі організації дорожнього руху<br>Бойків М.В., 206 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Безпека руху транспортних засобів<br>Балабанська І.І., 206 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Методи і моделі організації дорожнього руху<br>Бойків М.В., 206 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Методи і моделі організації дорожнього руху<br>Бойків М.В., 206 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Безпека руху транспортних засобів<br>Балабанська І.І., 204 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Безпека руху транспортних засобів<br>Балабанська І.І., 204 VI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aJUXbOqjV7lwkDiubuNf4FBg1Kjrh6r_0PSOJrfrERzs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0757bc65-0bc9-4d0d-905d-6339560a9aba&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Транспортні мережі <br>Коник І.В., 204 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3aWxWcB14GCOY4D0yHAkOWn-nb1FqtSQ2EmgnKtRdtpnw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fda93a4b-6796-469e-ae62-162df928b537&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3aWxWcB14GCOY4D0yHAkOWn-nb1FqtSQ2EmgnKtRdtpnw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fda93a4b-6796-469e-ae62-162df928b537&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

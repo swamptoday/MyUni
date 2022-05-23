@@ -1,0 +1,454 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Управління ІТ проектами<br>Цмоць О.І., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Управління ІТ проектами<br>Цмоць О.І., 122в IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  " title="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Машинне навчання<br>Юринець Р.В., 126б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Машинне навчання<br>Юринець Р.В., 126б IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Управління ІТ проектами<br>Цмоць О.І., 122в IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  " title="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Управління ІТ проектами<br>Цмоць О.І., 122в IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  " title="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Машинне навчання<br>Литвин В.В., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/99210898323?pwd=N0wzZ0NhT0tXRlJoQ0Z0OXFIOElWdz09" title="https://softserveinc.zoom.us/j/99210898323?pwd=N0wzZ0NhT0tXRlJoQ0Z0OXFIOElWdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління ІТ проектами<br>Цмоць О.І., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  " title="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Управління ІТ проектами<br>Цмоць О.І., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  " title="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09  ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Політологія<br>Корнат Л.Я., 525 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/haq-vmii-ahy " title="https://meet.google.com/haq-vmii-ahy ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання бізнес-процесів<br>Балик А.В., 208 VIa н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/83746931645?pwd=OCtLUFJpTlJVVStXenQ3L1RHZStwQT09" title="https://us02web.zoom.us/j/83746931645?pwd=OCtLUFJpTlJVVStXenQ3L1RHZStwQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Моделювання бізнес-процесів<br>Балик А.В., 208 VIa н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09" title="https://us02web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Машинне навчання<br>Юринець Р.В., 126б IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Політологія<br>Лукач Н.М., 406 I н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82210769981?pwd=TDBwazlvck5IcDUvdjJMMW9CeWZtZz09 " title="https://us02web.zoom.us/j/82210769981?pwd=TDBwazlvck5IcDUvdjJMMW9CeWZtZz09 ">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Моделювання бізнес-процесів<br>Балик А.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://softserveinc.zoom.us/j/99210898323?pwd=N0wzZ0NhT0tXRlJoQ0Z0OXFIOElWdz09" title="https://softserveinc.zoom.us/j/99210898323?pwd=N0wzZ0NhT0tXRlJoQ0Z0OXFIOElWdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Машинне навчання<br>Юринець Р.В., 126а IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09" title="https://zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Управління вимогами в IT-проектах<br>Кравченко122в IV н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління вимогами в IT-проектах<br>Кравченко207 VIa н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Управління вимогами в IT-проектах<br>Кравченко127 IV н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Управління вимогами в IT-проектах<br>Кравченко407 XXVIII н.к., <br>&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Управління вимогами в IT-проектах<br>Кравченко407 XXVIII н.к., <br>,&nbsp;Лабораторна<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

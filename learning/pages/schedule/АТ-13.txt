@@ -1,0 +1,252 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автомобілі, частина 1<br>Пороховський Ю.В., 114 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09" title="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Автомобілі, частина 1<br>Пороховський Ю.В., 114 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09" title="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Автомобілі, частина 1<br>Пороховський Ю.В., 114 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09" title="https://zoom.us/j/6967491849?pwd=OXVoV0o4ckc4Yi9Id0wwTG83NmlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Підприємства автомобільного транспорту<br>Мастикаш О.Л., 118 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5539006006?pwd=V0I0ZzNjNEdBL0RodFgxQjNNNTVlQT09" title="https://zoom.us/j/5539006006?pwd=V0I0ZzNjNEdBL0RodFgxQjNNNTVlQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Підприємства автомобільного транспорту<br>Мастикаш О.Л., 118 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/5539006006?pwd=V0I0ZzNjNEdBL0RodFgxQjNNNTVlQT09" title="https://zoom.us/j/5539006006?pwd=V0I0ZzNjNEdBL0RodFgxQjNNNTVlQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br><br>&nbsp;Практична<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія машин і механізмів<br>Сологуб Б.В., 302 VI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09" title="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теорія машин і механізмів<br>Сологуб Б.В., 302 VI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09" title="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теорія машин і механізмів<br>Сологуб Б.В., 302 VI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09" title="https://zoom.us/j/8152582385?pwd=cTJUSVNsNGtmN21MRlpUTHVuWWlRdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням<br>Сидор А.Р., 12 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09" title="https://us02web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Іноземна мова за професійним спрямуванням<br>Сидор А.Р., 12 VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09" title="https://us02web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

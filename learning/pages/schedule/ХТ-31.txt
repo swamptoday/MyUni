@@ -1,0 +1,476 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Аналітична хімія, частина 2<br>Ятчишин Й.Й., Шаповал П.Й., Стаднік В.Є., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a4984ee993ac241bbbb4b8b0f17bf1ee2%40thread.tacv2/conversations?groupId=f601e5ed-ead7-402c-a633-df6aff48d44c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a4984ee993ac241bbbb4b8b0f17bf1ee2%40thread.tacv2/conversations?groupId=f601e5ed-ead7-402c-a633-df6aff48d44c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Аналітична хімія, частина 2<br>Стаднік В.Є., Ятчишин Й.Й., Шаповал П.Й., 218 IX н.к., 220 IX н.к., 228 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3a4984ee993ac241bbbb4b8b0f17bf1ee2%40thread.tacv2/conversations?groupId=f601e5ed-ead7-402c-a633-df6aff48d44c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3a4984ee993ac241bbbb4b8b0f17bf1ee2%40thread.tacv2/conversations?groupId=f601e5ed-ead7-402c-a633-df6aff48d44c&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теоретичні основи технології неорганічних речовин<br>Калимон Я.А., 314 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09" title="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретичні основи технології неорганічних речовин<br>Калимон Я.А., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09" title="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теоретичні основи технології неорганічних речовин<br>Калимон Я.А., 314 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09" title="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретичні основи технології неорганічних речовин<br>Калимон Я.А., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09" title="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімія та  технологія води<br>Буклів Р.Л., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arNRmWKpKJS9-T4g2ZgA4BjenLTrCY3dPGzhYLYsDRjg1%40thread.tacv2/conversations?groupId=26767392-402a-4224-9ef5-8abebabd984d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arNRmWKpKJS9-T4g2ZgA4BjenLTrCY3dPGzhYLYsDRjg1%40thread.tacv2/conversations?groupId=26767392-402a-4224-9ef5-8abebabd984d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Хімія та  технологія води<br>Буклів Р.Л., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arNRmWKpKJS9-T4g2ZgA4BjenLTrCY3dPGzhYLYsDRjg1%40thread.tacv2/conversations?groupId=26767392-402a-4224-9ef5-8abebabd984d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arNRmWKpKJS9-T4g2ZgA4BjenLTrCY3dPGzhYLYsDRjg1%40thread.tacv2/conversations?groupId=26767392-402a-4224-9ef5-8abebabd984d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи наукових досліджень<br>Гелеш А.Б., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72799111664?pwd=hZA4ZbZTYEtYW-5UWdXZGotbosQSFj.1" title="https://us04web.zoom.us/j/72799111664?pwd=hZA4ZbZTYEtYW-5UWdXZGotbosQSFj.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія та  технологія води<br>Буклів Р.Л., 206 IX н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3arNRmWKpKJS9-T4g2ZgA4BjenLTrCY3dPGzhYLYsDRjg1%40thread.tacv2/conversations?groupId=26767392-402a-4224-9ef5-8abebabd984d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3arNRmWKpKJS9-T4g2ZgA4BjenLTrCY3dPGzhYLYsDRjg1%40thread.tacv2/conversations?groupId=26767392-402a-4224-9ef5-8abebabd984d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи наукових досліджень<br>Гелеш А.Б., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72799111664?pwd=hZA4ZbZTYEtYW-5UWdXZGotbosQSFj.1" title="https://us04web.zoom.us/j/72799111664?pwd=hZA4ZbZTYEtYW-5UWdXZGotbosQSFj.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Енерготехнології  хіміко-технологічних процесів<br>Кіндзера Д.П., 101 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3au3AH9IPsCm2kHhRWEuDsrXA69WMl3-0QKGcpGU017ko1%40thread.tacv2/conversations?groupId=43ccd066-d4db-4004-854c-3cddbccf195e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3au3AH9IPsCm2kHhRWEuDsrXA69WMl3-0QKGcpGU017ko1%40thread.tacv2/conversations?groupId=43ccd066-d4db-4004-854c-3cddbccf195e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Основи наукових досліджень<br>Гелеш А.Б., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75149158612?pwd=LBPe_Y7JRV5ohquLXeCxXKWryIDGmg.1" title="https://us04web.zoom.us/j/75149158612?pwd=LBPe_Y7JRV5ohquLXeCxXKWryIDGmg.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи технології неорганічних речовин<br>Калимон Я.А., 206 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09" title="https://zoom.us/j/8326133519?pwd=Vkc5UWRySzU5TnVYZ2p3TFlMaXEyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи наукових досліджень<br>Гелеш А.Б., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77016809464?pwd=_D6cTlKb-3KYomh2l-5jO8xAgAsZbi.1" title="https://us04web.zoom.us/j/77016809464?pwd=_D6cTlKb-3KYomh2l-5jO8xAgAsZbi.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Енерготехнології  хіміко-технологічних процесів<br>Кіндзера Д.П., 028 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3axigVzaC9rIjtxbzechSzZ4tffsSGrROx-FNm8A9KRTk1%40thread.tacv2/conversations?groupId=efcb0ff1-d8b9-4a5b-a0a3-3d56ae9e1f34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3axigVzaC9rIjtxbzechSzZ4tffsSGrROx-FNm8A9KRTk1%40thread.tacv2/conversations?groupId=efcb0ff1-d8b9-4a5b-a0a3-3d56ae9e1f34&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Основи наукових досліджень<br>Гелеш А.Б., 314 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/77016809464?pwd=_D6cTlKb-3KYomh2l-5jO8xAgAsZbi.1" title="https://us04web.zoom.us/j/77016809464?pwd=_D6cTlKb-3KYomh2l-5jO8xAgAsZbi.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Метрологія, стандартизація та сертифікація<br>Магорівська Г.Я., 018 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія та  технологія води<br>Мних Р.В., 317 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5iCTCXUSlYhmuc8c4Mj8c3B4l9k2YCBbEOaP7cUaqWc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=bfb7c751-47f6-4fe1-a2b2-a8114e7ea360&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5iCTCXUSlYhmuc8c4Mj8c3B4l9k2YCBbEOaP7cUaqWc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=bfb7c751-47f6-4fe1-a2b2-a8114e7ea360&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+          <div id="group_chys"><div class="group_content">Метрологія, стандартизація та сертифікація<br>Магорівська Г.Я., 110 IX н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09" title="https://zoom.us/j/7653440197?pwd=clJyd0krWnFmeVBwNld2SG5heEhpUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія та  технологія води<br>Мних Р.В., 317 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5iCTCXUSlYhmuc8c4Mj8c3B4l9k2YCBbEOaP7cUaqWc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=bfb7c751-47f6-4fe1-a2b2-a8114e7ea360&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5iCTCXUSlYhmuc8c4Mj8c3B4l9k2YCBbEOaP7cUaqWc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=bfb7c751-47f6-4fe1-a2b2-a8114e7ea360&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Хімія та  технологія води<br>Мних Р.В., 317 IX н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a5iCTCXUSlYhmuc8c4Mj8c3B4l9k2YCBbEOaP7cUaqWc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=bfb7c751-47f6-4fe1-a2b2-a8114e7ea360&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a5iCTCXUSlYhmuc8c4Mj8c3B4l9k2YCBbEOaP7cUaqWc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=bfb7c751-47f6-4fe1-a2b2-a8114e7ea360&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

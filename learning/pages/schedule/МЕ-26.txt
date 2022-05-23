@@ -1,0 +1,608 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістика<br>Болібрух Л.І., 528 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8972527573?pwd=TFV2emlVRE8xRm54MmNMeTl5ekRLQT09" title="https://zoom.us/j/8972527573?pwd=TFV2emlVRE8xRm54MmNMeTl5ekRLQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Статистика<br>Гальків Л.І., 201 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88580705260?pwd=REllOUNjN1JZS010b2cxa1gwaVhLUT09  Meeting ID: 885 8070 5260 Passcode: 4VVQp3" title="https://us02web.zoom.us/j/88580705260?pwd=REllOUNjN1JZS010b2cxa1gwaVhLUT09  Meeting ID: 885 8070 5260 Passcode: 4VVQp3">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління персоналом<br>Гладун С.О., 508 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2508830915?pwd=TjRGbGRnYTRwWTJNd0R2SGF2OStFZz09  Идентификатор конференции: 250 883 0915 Код доступа: 89At83" title="https://zoom.us/j/2508830915?pwd=TjRGbGRnYTRwWTJNd0R2SGF2OStFZz09  Идентификатор конференции: 250 883 0915 Код доступа: 89At83">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Статистика<br>Бондаренко Ю.Г., 427(1) IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09 Meeting ID: 828 961 0449 Passcode: 11" title="https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09 Meeting ID: 828 961 0449 Passcode: 11">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Статистика<br>Дзюбіна А.В., анг. мовою515 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09" title="https://us02web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>7</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Зовнішньоекономічна діяльність підприємства<br>Горбаль Н.І., анг. мовою308 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aTIMfWiBcVg8XNIC8iWrc89zlSrtaA-sgxxQd2sg0a701%40thread.tacv2/conversations?groupId=42207a1e-8bd9-4be0-a494-c3594b771bcb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aTIMfWiBcVg8XNIC8iWrc89zlSrtaA-sgxxQd2sg0a701%40thread.tacv2/conversations?groupId=42207a1e-8bd9-4be0-a494-c3594b771bcb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Зовнішньоекономічна діяльність підприємства<br>Горбаль Н.І., анг. мовою308 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aTIMfWiBcVg8XNIC8iWrc89zlSrtaA-sgxxQd2sg0a701%40thread.tacv2/conversations?groupId=42207a1e-8bd9-4be0-a494-c3594b771bcb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aTIMfWiBcVg8XNIC8iWrc89zlSrtaA-sgxxQd2sg0a701%40thread.tacv2/conversations?groupId=42207a1e-8bd9-4be0-a494-c3594b771bcb&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Митна справа<br>Григор'єв О.Ю., 201 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3amMpVKI5KagrnPJjDlLs2mhj2aS8JhNdQpqNrj8baWg41%40thread.tacv2/conversations?groupId=49c81520-99ee-494b-8fcf-6b53c4dfa3dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3amMpVKI5KagrnPJjDlLs2mhj2aS8JhNdQpqNrj8baWg41%40thread.tacv2/conversations?groupId=49c81520-99ee-494b-8fcf-6b53c4dfa3dc&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Зовнішньоекономічна діяльність підприємства<br>Жежуха В.Й., 308 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aQqxkYsHS9HNY1_MB4vPLJHpNGszdo62jwxqs5w2vUUE1%40thread.tacv2/conversations?groupId=5828a579-1251-4c87-941b-816f6fc2984d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aQqxkYsHS9HNY1_MB4vPLJHpNGszdo62jwxqs5w2vUUE1%40thread.tacv2/conversations?groupId=5828a579-1251-4c87-941b-816f6fc2984d&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Зовнішньоекономічна діяльність підприємства<br>Ганас Л.М., 3 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3agiYSDnyM3_VE7U87eaWkNScKGu6XCvPC9rlu_AAWC741%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=73420a91-47a7-4b37-8ad0-57b70faee005&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3agiYSDnyM3_VE7U87eaWkNScKGu6XCvPC9rlu_AAWC741%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=73420a91-47a7-4b37-8ad0-57b70faee005&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Зовнішньоекономічна діяльність підприємства<br>Бала Р.Д., 528 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3amMpVKI5KagrnPJjDlLs2mhj2aS8JhNdQpqNrj8baWg41%40thread.tacv2/1644341763549?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263d73d77-88af-4834-9809-8c614857063a%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3amMpVKI5KagrnPJjDlLs2mhj2aS8JhNdQpqNrj8baWg41%40thread.tacv2/1644341763549?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2263d73d77-88af-4834-9809-8c614857063a%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Митна справа<br>Залізна Л.В., 17 IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aFm7F6dk7MYMGAsScIEg2jz6ESQHsHTiUJZjyURQF_IU1%40thread.tacv2/conversations?groupId=df5c243c-946d-43ab-8705-284b870a113a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aFm7F6dk7MYMGAsScIEg2jz6ESQHsHTiUJZjyURQF_IU1%40thread.tacv2/conversations?groupId=df5c243c-946d-43ab-8705-284b870a113a&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Митна справа<br>Бортнікова М.Г., 22 IV н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aA42WiuDEvevmltxM8ba_b19dB4AOX02S1Tge6cjM9Bo1%40thread.tacv2/1644322234758?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22329fb8d1-7f39-4528-b34e-4e0c1f7c905d%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aA42WiuDEvevmltxM8ba_b19dB4AOX02S1Tge6cjM9Bo1%40thread.tacv2/1644322234758?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22329fb8d1-7f39-4528-b34e-4e0c1f7c905d%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління бізнесом<br>Лісовська Л.С., 427(1) IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94933096519?pwd=VmQxSGgyNU9lajRiblNjbFU5UGtsZz09" title="https://zoom.us/j/94933096519?pwd=VmQxSGgyNU9lajRiblNjbFU5UGtsZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Митна справа<br>Микитин О.З., 116 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aW5HmhUfdzL3D1xCnwTz3zAFpYgmvcCGSbMLf90njPTA1%40thread.tacv2/conversations?groupId=032e0f0a-c76b-4d09-ba1e-bae2c71d6a20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aW5HmhUfdzL3D1xCnwTz3zAFpYgmvcCGSbMLf90njPTA1%40thread.tacv2/conversations?groupId=032e0f0a-c76b-4d09-ba1e-bae2c71d6a20&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Зовнішньоекономічна діяльність підприємства<br>Жежуха В.Й., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3agFve7f0zXQ9cw7OV8LIAh2G2TkC9aA2I1MUFkhQ-LeM1%40thread.tacv2/conversations?groupId=1e10ec84-f55f-46dd-b398-8a9230fa16d0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3agFve7f0zXQ9cw7OV8LIAh2G2TkC9aA2I1MUFkhQ-LeM1%40thread.tacv2/conversations?groupId=1e10ec84-f55f-46dd-b398-8a9230fa16d0&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління бізнесом<br>Лісовська Л.С., 417 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/91707915433?pwd=Y1NBS084bWZ4Z2xaY2FGZmFaTjBvdz09" title="https://zoom.us/j/91707915433?pwd=Y1NBS084bWZ4Z2xaY2FGZmFaTjBvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Статистика<br>Войцеховська Ю.В., анг. мовою 116 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/94738429187?pwd=ZzFBRzlHTlFuYUxNY2Y0SlNQa1h2dz09" title="https://zoom.us/j/94738429187?pwd=ZzFBRzlHTlFuYUxNY2Y0SlNQa1h2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістика<br>Фігун Н.В., анг. мовою 116 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/97252553949?pwd=VTl6TVplVy9HeFZBbCt3RlptTGRLZz09" title="https://zoom.us/j/97252553949?pwd=VTl6TVplVy9HeFZBbCt3RlptTGRLZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Логістика<br>Чорнописька Н.В., 527 IV н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88083888332?pwd=WExvY2xRdGFSeWZSZlNkUHJzQWZHdz09" title="https://us02web.zoom.us/j/88083888332?pwd=WExvY2xRdGFSeWZSZlNkUHJzQWZHdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Статистика<br>Гальків Л.І., 319 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88580705260?pwd=REllOUNjN1JZS010b2cxa1gwaVhLUT09  Meeting ID: 885 8070 5260 Passcode: 4VVQp3" title="https://us02web.zoom.us/j/88580705260?pwd=REllOUNjN1JZS010b2cxa1gwaVhLUT09  Meeting ID: 885 8070 5260 Passcode: 4VVQp3">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління персоналом<br>Винничук Р.О., 116 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09" title="https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Зовнішньоекономічна діяльність підприємства<br>Руда М.В., анг. мовою116 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDc2MzFlMTUtNTExYS00ZDNmLTgyYWItNzE4MDI0M2MwNjg0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDc2MzFlMTUtNTExYS00ZDNmLTgyYWItNzE4MDI0M2MwNjg0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління бізнесом<br>Адамовський О.М., анг. мовою116 I н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dru-vofh-njj" title="https://meet.google.com/dru-vofh-njj">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Управління бізнесом<br>Лісовська Л.С., 420 IV н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/92537159828?pwd=Ly9SYUlzOUo1bzF4d3JNUTQxNmYyZz09" title="https://zoom.us/j/92537159828?pwd=Ly9SYUlzOUo1bzF4d3JNUTQxNmYyZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Блавт О.З., 14.40-16.10, вул. Самчука 11, дівчата<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09" title="https://us02web.zoom.us/j/82022183343?pwd=a2EyUG5vVlYyQ3NaUlBQN3FNaWdzQT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Оліярник В.І., 14.40-16.10, вул. Самчука 11, хлопці<br>,&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us05web.zoom.us/j/85669234207?pwd=YnFlaG1tTHloaGY1Rll2ZXpoWHRsQT09  Идентификатор конференции: 856 6923 4207 Код доступа: 1234" title="https://us05web.zoom.us/j/85669234207?pwd=YnFlaG1tTHloaGY1Rll2ZXpoWHRsQT09  Идентификатор конференции: 856 6923 4207 Код доступа: 1234">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>6</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Управління бізнесом<br>Адамовський О.М., анг. мовою427(1) IV н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/dru-vofh-njj" title="https://meet.google.com/dru-vofh-njj">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

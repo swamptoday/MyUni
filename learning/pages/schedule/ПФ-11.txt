@@ -1,0 +1,379 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичний аналіз, частина 2<br>Лозбень В.Л., 006 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aBH3N1AlLrJS7GWN3M2K9D6yDRUZGBZx6e7XitxTTFIw1%40thread.tacv2/1644790509029?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22241cc31c-8b3c-4780-bea2-c922d53ad8a0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aBH3N1AlLrJS7GWN3M2K9D6yDRUZGBZx6e7XitxTTFIw1%40thread.tacv2/1644790509029?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22241cc31c-8b3c-4780-bea2-c922d53ad8a0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Українська  мова (за професійним спрямуванням)<br>Колодій Н.В., 006 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/team/19%3aSgOCIWYKaoR0zL7Jv7L4mxIlqbwwcBFNKGZ5igGreCM1%40thread.tacv2/conversations?groupId=6d9590c9-f67e-47df-9cc7-f87fdf2729a4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/team/19%3aSgOCIWYKaoR0zL7Jv7L4mxIlqbwwcBFNKGZ5igGreCM1%40thread.tacv2/conversations?groupId=6d9590c9-f67e-47df-9cc7-f87fdf2729a4&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Диференціальні рівняння<br>Чабан А.В., 006 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8KCrBn9qZlTzlttQGwajiUCRr-F93eIOVxe8y5TLhC81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=574b35bc-430a-4ccb-aec7-7dc5116f1585&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8KCrBn9qZlTzlttQGwajiUCRr-F93eIOVxe8y5TLhC81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=574b35bc-430a-4ccb-aec7-7dc5116f1585&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна фізика, частина 2<br>Лукіянець Б.А., 006 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09  Идентификатор конференции: 882 0249 5986 Код доступа: y8LYCd" title="https://us02web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09  Идентификатор конференции: 882 0249 5986 Код доступа: y8LYCd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Загальна фізика, частина 2<br>Матулка Д.В., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523" title="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Диференціальні рівняння<br>Чабан А.В., 006 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a8KCrBn9qZlTzlttQGwajiUCRr-F93eIOVxe8y5TLhC81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=574b35bc-430a-4ccb-aec7-7dc5116f1585&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a8KCrBn9qZlTzlttQGwajiUCRr-F93eIOVxe8y5TLhC81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=574b35bc-430a-4ccb-aec7-7dc5116f1585&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи інформатики і програмування,частина 2<br>Ментинський С.М., 006 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a2120ac4e74ba4d9ebe7fc583e0b18b60%40thread.tacv2/1644489870250?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2230acd4a5-a2ab-4f5b-bcff-7f7f6151f8b3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a2120ac4e74ba4d9ebe7fc583e0b18b60%40thread.tacv2/1644489870250?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2230acd4a5-a2ab-4f5b-bcff-7f7f6151f8b3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи інформатики і програмування,частина 2<br>Ментинський С.М., 505 XXVIII н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a0310f2ff159d430d860b11e0e370e29b%40thread.tacv2/1644490126660?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2230acd4a5-a2ab-4f5b-bcff-7f7f6151f8b3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a0310f2ff159d430d860b11e0e370e29b%40thread.tacv2/1644490126660?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2230acd4a5-a2ab-4f5b-bcff-7f7f6151f8b3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна фізика, частина 2<br>Лаба Г.П., Матулка Д.В., мол.2лаб Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72262767677?pwd=QmlSUWpYN1dEMzluSkVxZUZ5VW8vZz09" title="https://us04web.zoom.us/j/72262767677?pwd=QmlSUWpYN1dEMzluSkVxZUZ5VW8vZz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523" title="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна фізика, частина 2<br>Лукіянець Б.А., 35 X н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09  Идентификатор конференции: 882 0249 5986 Код доступа: y8LYCd" title="https://us02web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09  Идентификатор конференции: 882 0249 5986 Код доступа: y8LYCd">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи інформатики і програмування,частина 2<br>Ментинський С.М., 507 XXVIII н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a0310f2ff159d430d860b11e0e370e29b%40thread.tacv2/1644490126660?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2230acd4a5-a2ab-4f5b-bcff-7f7f6151f8b3%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a0310f2ff159d430d860b11e0e370e29b%40thread.tacv2/1644490126660?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2230acd4a5-a2ab-4f5b-bcff-7f7f6151f8b3%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 2<br>Незгода С.П., Козіброда Л.В., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/2951637255  Код доступа: 121212 " title="https://us04web.zoom.us/j/2951637255  Код доступа: 121212 ">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09" title="https://us04web.zoom.us/j/74818747140?pwd=WE1tTTFFZ29ISmVuME1NVmdwNnAvdz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна фізика, частина 2<br>Лаба Г.П., Матулка Д.В., мол.2лаб Гол. н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72262767677?pwd=QmlSUWpYN1dEMzluSkVxZUZ5VW8vZz09" title="https://us04web.zoom.us/j/72262767677?pwd=QmlSUWpYN1dEMzluSkVxZUZ5VW8vZz09">URL онлайн заняття</a></span><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523" title="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Іноземна мова за професійним спрямуванням, частина 2<br>Сидорчук О.В., 12а VII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/72619373309?pwd=U1JWbldya3VYekJHQTR0MFd1NDVlUT09  Идентификатор конференции: 726 1937 3309 Код доступа: 0bb9PD" title="https://us04web.zoom.us/j/72619373309?pwd=U1JWbldya3VYekJHQTR0MFd1NDVlUT09  Идентификатор конференции: 726 1937 3309 Код доступа: 0bb9PD">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Математичний аналіз, частина 2<br>Лозбень В.Л., 006 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aBH3N1AlLrJS7GWN3M2K9D6yDRUZGBZx6e7XitxTTFIw1%40thread.tacv2/1644790551351?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22241cc31c-8b3c-4780-bea2-c922d53ad8a0%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aBH3N1AlLrJS7GWN3M2K9D6yDRUZGBZx6e7XitxTTFIw1%40thread.tacv2/1644790551351?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22241cc31c-8b3c-4780-bea2-c922d53ad8a0%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Загальна фізика, частина 2<br>Матулка Д.В., 35 X н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523" title="https://zoom.us/j/7196580031?pwd=Z3ArSWFsTUZGMkhtb0w4R0hJYXhodz09  Идентификатор конференции: 719 658 0031 Код доступа: 374523">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

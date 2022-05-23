@@ -1,0 +1,508 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи проектування біомедичної апаратури<br>Фаст В.М., 310 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/85208399682?pwd=VGV3bTJwVGx3SEpabnVVK2JSVy9RZz09" title="https://us02web.zoom.us/j/85208399682?pwd=VGV3bTJwVGx3SEpabnVVK2JSVy9RZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи матеріалознавства<br>Товстюк К.К., 312 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/wwf-xcou-gwp" title="https://meet.google.com/wwf-xcou-gwp">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фізико-теоретичні основи конструювання та надійність біомедичних апаратів<br>Сторчун Є.В., 308 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3a9aa0b596f7e04f569f74173e353ea76d%40thread.tacv2/st1?groupId=f3dd167d-4a70-48e2-9b57-eab571206d62&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3a9aa0b596f7e04f569f74173e353ea76d%40thread.tacv2/st1?groupId=f3dd167d-4a70-48e2-9b57-eab571206d62&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Фізико-теоретичні основи конструювання та надійність біомедичних апаратів<br>Сторчун Є.В., 310 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Філософія<br>Сінельнікова М.В., 218 XI н.к., <br>&nbsp;Лекція<br></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Схемотехніка біомедичної апаратури<br>Голяка Р.Л., 111 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09" title="https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Схемотехніка біомедичної апаратури<br>Голяка Р.Л., 111 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09" title="https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Філософія<br>Сінельнікова М.В., 112 XI н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/98199582347?pwd=cEZBQzVYYjl1VmhyRDBJUE56NEpFUT09" title="https://zoom.us/j/98199582347?pwd=cEZBQzVYYjl1VmhyRDBJUE56NEpFUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Фізичне виховання, частина 4<br>Козак І.Г., Незгода С.П., 21кор.вул.Самчука11<br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09" title="https://zoom.us/j/2264706036?pwd=bHhuRXRkMXprbU5OTzNDc3NzblU2dz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи матеріалознавства<br>Лебідь С.Ю., 312 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/iai-uoef-uvb" title="https://meet.google.com/iai-uoef-uvb">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Основи моделювання біотехнічних систем<br>Гліненко Л.К., 310 XI н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644406846348?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644406846348?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Основи моделювання біотехнічних систем<br>Гліненко Л.К., 306 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644406970860?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644406970860?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи матеріалознавства<br>Лебідь С.Ю., 312 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://meet.google.com/iai-uoef-uvb" title="https://meet.google.com/iai-uoef-uvb">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи моделювання біотехнічних систем<br>Гліненко Л.К., 306 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644407098154?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644407098154?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Основи моделювання біотехнічних систем<br>Гліненко Л.К., 306 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644407098154?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644407098154?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>5</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Основи моделювання біотехнічних систем<br>Гліненко Л.К., 306 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644407234520?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aaSjybhftbXGKWjgKWnNmgzPqS7WaPQwtHXt-05HZBAc1%40thread.tacv2/1644407234520?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2204c3cc89-2c7f-4e75-a17e-14d33dfee4a7%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Основи проектування біомедичної апаратури<br>Фаст В.М., 306 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84792194141?pwd=eVBOVksyeW5GSE5WcDYvbUpzZm5mUT09" title="https://us02web.zoom.us/j/84792194141?pwd=eVBOVksyeW5GSE5WcDYvbUpzZm5mUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Основи проектування біомедичної апаратури<br>Фаст В.М., 306 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us02web.zoom.us/j/84792194141?pwd=eVBOVksyeW5GSE5WcDYvbUpzZm5mUT09" title="https://us02web.zoom.us/j/84792194141?pwd=eVBOVksyeW5GSE5WcDYvbUpzZm5mUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+          <div id="sub_1_znam" class="week_color"><div class="group_content">Фізико-теоретичні основи конструювання та надійність біомедичних апаратів<br>Сторчун Є.В., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_chys"><div class="group_content">Фізико-теоретичні основи конструювання та надійність біомедичних апаратів<br>Сторчун Є.В., 311 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+          <div id="sub_1_full" class="week_color"><div class="group_content">Фізико-теоретичні основи конструювання та надійність біомедичних апаратів<br>Сторчун Є.В., 311 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_full" class="week_color"><div class="group_content">Фізико-теоретичні основи конструювання та надійність біомедичних апаратів<br>Сторчун Є.В., 311 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a" title="https://teams.microsoft.com/l/channel/19%3ac94cdb5fef3c4ef18aad6c65f4d8cd0b%40thread.tacv2/st2?groupId=f86ff2fd-bbbd-404e-88b6-fcca8b518e9e&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+              
+          <div id="sub_1_chys"><div class="group_content">Схемотехніка біомедичної апаратури<br>Голяка Р.Л., 306 XI н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09" title="https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+              
+              
+              
+              
+              
+          <div id="sub_2_znam" class="week_color"><div class="group_content">Схемотехніка біомедичної апаратури<br>Голяка Р.Л., 306 XI н.к., <br>,&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09" title="https://us04web.zoom.us/j/8032421577?pwd=ZDI0Wlc1dXBzRklRbVJnclhEcEp6Zz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>

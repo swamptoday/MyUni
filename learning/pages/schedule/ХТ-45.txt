@@ -1,0 +1,328 @@
+<div class="view-content">
+      <div class="view-grouping">
+  <div class="view-grouping-header">Пн</div>
+  <div class="view-grouping-content">
+      <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Стасюк І.Д., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09" title="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Стасюк І.Д., 211 Гол. н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09" title="https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Вт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи перероблення  пластмас<br>Гриценко О.М., 028 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75885991538?pwd=vRF237vLrBPf2eGIcbdB9DX5tHgkzB.1" title="https://us04web.zoom.us/j/75885991538?pwd=vRF237vLrBPf2eGIcbdB9DX5tHgkzB.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи перероблення  пластмас<br>Гриценко О.М., 028 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/75885991538?pwd=vRF237vLrBPf2eGIcbdB9DX5tHgkzB.1" title="https://us04web.zoom.us/j/75885991538?pwd=vRF237vLrBPf2eGIcbdB9DX5tHgkzB.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія перероблення реактопластів і композитів<br>Гриценко О.М., 028 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78921545148?pwd=JB3V5U6i_GGPKtfo2O4K7xvj_4bhxK.1" title="https://us04web.zoom.us/j/78921545148?pwd=JB3V5U6i_GGPKtfo2O4K7xvj_4bhxK.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>4</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія перероблення реактопластів і композитів<br>Гриценко О.М., 028 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/78921545148?pwd=JB3V5U6i_GGPKtfo2O4K7xvj_4bhxK.1" title="https://us04web.zoom.us/j/78921545148?pwd=JB3V5U6i_GGPKtfo2O4K7xvj_4bhxK.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Ср</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Теоретичні основи перероблення  пластмас<br>Гриценко О.М., 026 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76148029509?pwd=oiFJpYmYdX_mZ82RTszPHdFPBmx2ps.1" title="https://us04web.zoom.us/j/76148029509?pwd=oiFJpYmYdX_mZ82RTszPHdFPBmx2ps.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+              
+          <div id="group_chys"><div class="group_content">Теоретичні основи перероблення  пластмас<br>Гриценко О.М., 026 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/74575101012?pwd=yk8niIgFUwTTWDma7qVTzoQaUQA3E5.1" title="https://us04web.zoom.us/j/74575101012?pwd=yk8niIgFUwTTWDma7qVTzoQaUQA3E5.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                      
+              
+              
+          <div id="group_znam" class="week_color"><div class="group_content">Теоретичні основи перероблення  пластмас<br>Гриценко О.М., 026 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76148029509?pwd=oiFJpYmYdX_mZ82RTszPHdFPBmx2ps.1" title="https://us04web.zoom.us/j/76148029509?pwd=oiFJpYmYdX_mZ82RTszPHdFPBmx2ps.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>3</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Технологія перероблення реактопластів і композитів<br>Гриценко О.М., 026 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://us04web.zoom.us/j/76337110990?pwd=IGBJH8fjMxULuhhNZBF7e7zNTIONrD.1" title="https://us04web.zoom.us/j/76337110990?pwd=IGBJH8fjMxULuhhNZBF7e7zNTIONrD.1">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Чт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та промислова екологія в технології перероблення пластмас<br>Красінський В.В., 023 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3adafef885e2f14ae68cb9e936ffe3a4c6%40thread.tacv2/1644306509517?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33a20b-21c8-4647-80e7-56ab3acbdc9c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3adafef885e2f14ae68cb9e936ffe3a4c6%40thread.tacv2/1644306509517?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33a20b-21c8-4647-80e7-56ab3acbdc9c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та промислова екологія в технології перероблення пластмас<br>Красінський В.В., 023 VIII н.к., <br>&nbsp;Лекція<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3aa652ed257ce049bdb67e5514f9649e9a%40thread.tacv2/1644306732239?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33a20b-21c8-4647-80e7-56ab3acbdc9c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3aa652ed257ce049bdb67e5514f9649e9a%40thread.tacv2/1644306732239?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33a20b-21c8-4647-80e7-56ab3acbdc9c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+<div class="view-grouping">
+  <div class="view-grouping-header">Пт</div>
+  <div class="view-grouping-content">
+      <h3>1</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Проектування та промислова екологія в технології перероблення пластмас<br>Красінський В.В., 023 VIII н.к., <br>&nbsp;Практична<br><span style="background:#FFF; width:200px;"><a href="https://teams.microsoft.com/l/meetup-join/19%3a60ef676ad11c4f8885b232d21632fb86%40thread.tacv2/1644306820926?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33a20b-21c8-4647-80e7-56ab3acbdc9c%22%7d" title="https://teams.microsoft.com/l/meetup-join/19%3a60ef676ad11c4f8885b232d21632fb86%40thread.tacv2/1644306820926?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f33a20b-21c8-4647-80e7-56ab3acbdc9c%22%7d">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    <h3>2</h3>
+<div class="stud_schedule">
+
+
+
+
+        
+          <div id="group_full" class="week_color"><div class="group_content">Системи керування хіміко-технологічними процесами<br>Щеглюк М.Р., 318 II н.к., <br>&nbsp;Лабораторна<br><span style="background:#FFF; width:200px;"><a href="https://zoom.us/j/93699219232?pwd=SDk5bi9xMVZUTnVSb29rT0pZTURRUT09" title="https://zoom.us/j/93699219232?pwd=SDk5bi9xMVZUTnVSb29rT0pZTURRUT09">URL онлайн заняття</a></span></div></div>    
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+                </div>
+    </div>
+</div>
+    </div>
