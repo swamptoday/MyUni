@@ -87,7 +87,7 @@ function day_schedule(day_name, text1, i)
             day_code += text1[i]; 
         }
         //title of day card
-        day_schedule.innerHTML = '<p class="card-title day_name">Понеділок</p>';
+        today_schedule.innerHTML = '<p class="card-title day_name">Понеділок</p>';
         //class number and id
         var class_num='';
         var class_id = ' ';
@@ -122,7 +122,7 @@ function day_schedule(day_name, text1, i)
                     }
                 }
                 //function of checking the id for right card type
-                check_id(class_id, class_num, day_code, day_schedule, class_text);
+                check_id(class_id, class_num, day_code, today_schedule, class_text);
             }
             class_id='';
         }
@@ -139,7 +139,7 @@ function day_schedule(day_name, text1, i)
             day_code += text1[i]; 
         }
         //title of day card
-        day_schedule.innerHTML = '<p class="card-title day_name">Вівторок</p>';
+        today_schedule.innerHTML = '<p class="card-title day_name">Вівторок</p>';
         //class number and id
         var class_num='';
         var class_id = ' ';
@@ -174,7 +174,7 @@ function day_schedule(day_name, text1, i)
                     }
                 }
                 //function of checking the id for right card type
-                check_id(class_id, class_num, day_code, day_schedule, class_text);
+                check_id(class_id, class_num, day_code, today_schedule, class_text);
             }
             class_id='';
         }
@@ -190,7 +190,7 @@ function day_schedule(day_name, text1, i)
             day_code += text1[i]; 
         }
         //title of day card
-        day_schedule.innerHTML = '<p class="card-title day_name">Середа</p>';
+        today_schedule.innerHTML = '<p class="card-title day_name">Середа</p>';
         //class number and id
         var class_num='';
         var class_id = ' ';
@@ -225,7 +225,7 @@ function day_schedule(day_name, text1, i)
                     }
                 }
                 //function of checking the id for right card type
-                check_id(class_id, class_num, day_code, day_schedule, class_text);
+                check_id(class_id, class_num, day_code, today_schedule, class_text);
             }
             class_id='';
         }
@@ -241,7 +241,7 @@ function day_schedule(day_name, text1, i)
             day_code += text1[i]; 
         }
         //title of day card
-        day_schedule.innerHTML = '<p class="card-title day_name">Четвер</p>';
+        today_schedule.innerHTML = '<p class="card-title day_name">Четвер</p>';
         //class number and id
         var class_num='';
         var class_id = ' ';
@@ -276,7 +276,7 @@ function day_schedule(day_name, text1, i)
                     }
                 }
                 //function of checking the id for right card type
-                check_id(class_id, class_num, day_code, day_schedule, class_text);
+                check_id(class_id, class_num, day_code, today_schedule, class_text);
             }
             class_id='';
         }
@@ -292,7 +292,7 @@ function day_schedule(day_name, text1, i)
             day_code += text1[i]; 
         }
         //title of day card
-        day_schedule.innerHTML = '<p class="card-title day_name">П&#39;ятниця</p>';
+        today_schedule.innerHTML = '<p class="card-title day_name">П&#39;ятниця</p>';
         //class number and id
         var class_num='';
         var class_id = ' ';
@@ -327,7 +327,7 @@ function day_schedule(day_name, text1, i)
                     }
                 }
                 //function of checking the id for right card type
-                check_id(class_id, class_num, day_code, day_schedule, class_text);
+                check_id(class_id, class_num, day_code, today_schedule, class_text);
             }
             class_id='';
         }
