@@ -17,7 +17,7 @@ weekDayfortxt[3] = "Ср";
 weekDayfortxt[4] = "Чт";
 weekDayfortxt[5] = "Пт";
 weekDayfortxt[6] = "Субота";
-var result2 = weekDay[date.getDay()];
+var result2 = weekDayfortxt[date.getDay()];
 
 const today_schedule = document.querySelector('#today_schedule');
 
