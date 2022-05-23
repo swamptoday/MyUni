@@ -31,6 +31,11 @@ function buttonClick()
     const groupButton = document.querySelector('#groupButton');
     var schedule_file = groupButton.innerText;
     text1 = '';
+    i = 0;
+    j = 0;
+    k = 0;
+    a = 1;
+    h = 0;
     logFileText(schedule_file + '.txt');
 }
 
