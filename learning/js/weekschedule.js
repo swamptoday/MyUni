@@ -22,11 +22,12 @@ var k = 0;
 var a = 1;
 var h = 0;
 
+const groupButton = document.querySelector('#groupButton');
+
 showButton.addEventListener("click", buttonClick);
 
 function buttonClick()
 {
-    const groupButton = document.querySelector('#groupButton');
     var schedule_file = groupButton.innerText;
     logFileText(schedule_file + '.txt');
 }
