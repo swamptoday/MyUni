@@ -27,12 +27,12 @@
   <div class="container-scroller">
     <!-- partial:partials/_navbar.html -->
     <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
-      <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
+      <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center" tabindex="1" aria-label="Логотип">
         <a class="navbar-brand brand-logo mr-5" href="index1.html"><img src="images/My Uni logo+name2.svg" class="mr-2" alt="logo"/></a>
         <a class="navbar-brand brand-logo-mini" href="index1.html"><img src="images/My Uni logo.svg" alt="logo"/></a>
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
-        <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+        <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize"  tabindex="0" aria-label="Меню" >
           <span class="icon-menu"></span>
         </button>
         <ul class="navbar-nav mr-lg-2">
@@ -43,18 +43,18 @@
                   <i class="icon-search"></i>
                 </span>
               </div>
-              <input type="text" class="form-control" id="navbar-search-input" placeholder="Search now" aria-label="search" aria-describedby="search">
+              <input type="text" class="form-control" id="navbar-search-input" placeholder="Шукати..." aria-label="Пошук"  tabindex="0" aria-describedby="search">
             </div>
           </li>
         </ul>
         <ul class="navbar-nav navbar-nav-right">
-          <li class="nav-item nav-settings d-none d-lg-flex">
-            <a class="nav-link" href="javascript:void(0);">
+          <li class="nav-item nav-settings d-none d-lg-flex"  >
+            <a class="nav-link" tabindex="0" aria-label="Додатково"  href="javascript:void(0);">
               <i class="ti-more-alt"></i>
             </a>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#" data-toggle="dropdown">
+          <li class="nav-item dropdown"   >
+            <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" aria-label="Повідомлення" tabindex="0"  href="#" data-toggle="dropdown">
               <i class="ti-bell"></i>
               <span class="count bg-danger"></span>
             </a>
@@ -88,11 +88,11 @@
               </a>
             </div>
           </li>
-          <li class="nav-item nav-profile dropdown">
-            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown">
+          <li class="nav-item nav-profile dropdown" >
+            <a class="nav-link dropdown-toggle" tabindex="0" aria-label="Профіль" href="#" data-toggle="dropdown" id="profileDropdown">
               <img src="images/Avatar.svg" alt="profile"/>
             </a>
-            <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown">
               <a class="dropdown-item">
                 <i class="ti-settings2 text-primary"></i>
                 Settings
@@ -116,17 +116,17 @@
         <div id="settings-trigger"><i class="ti-settings2"></i></div>
         <div id="theme-settings" class="settings-panel">
           <i class="settings-close ti-close"></i>
-          <p class="settings-heading">КОЛІР МЕНЮ</p>
-          <div class="sidebar-bg-options selected" id="sidebar-light-theme"><div class="img-ss rounded-circle bg-light border mr-3"></div>Світлий</div>
-          <div class="sidebar-bg-options" id="sidebar-dark-theme"><div class="img-ss rounded-circle bg-dark border mr-3"></div>Темний</div>
-          <p class="settings-heading mt-2">КОЛІР ВЕРХІВКИ</p>
+          <p class="settings-heading" aria-label="КОЛІР МЕНЮ" tabindex="0">КОЛІР МЕНЮ</p>
+          <div class="sidebar-bg-options selected" id="sidebar-light-theme" aria-label="Світлий" tabindex="0"><div class="img-ss rounded-circle bg-light border mr-3"></div>Світлий</div>
+          <div class="sidebar-bg-options" id="sidebar-dark-theme" aria-label="Темний" tabindex="0"><div class="img-ss rounded-circle bg-dark border mr-3"></div>Темний</div>
+          <p class="settings-heading mt-2" aria-label="КОЛІР ВЕРХІВКИ" tabindex="0">КОЛІР ВЕРХІВКИ</p>
           <div class="color-tiles mx-0 px-4">
-            <div class="tiles success"></div>
-            <div class="tiles warning"></div>
-            <div class="tiles danger"></div>
-            <div class="tiles info"></div>
-            <div class="tiles dark"></div>
-            <div class="tiles default"></div>
+            <div class="tiles success" aria-label="Зелений" tabindex="0"></div>
+            <div class="tiles warning" aria-label="Жовтий" tabindex="0"></div>
+            <div class="tiles danger" aria-label="Червоний" tabindex="0"></div>
+            <div class="tiles info" aria-label="Блакитний" tabindex="0"></div>
+            <div class="tiles dark" aria-label="чорний" tabindex="0"></div>
+            <div class="tiles default" aria-label="Білий" tabindex="0"></div>
           </div>
         </div>
       </div>
@@ -137,7 +137,7 @@
             <a class="nav-link active" id="todo-tab" data-toggle="tab" href="#todo-section" role="tab" aria-controls="todo-section" aria-expanded="true">СПИСОК ЗАВДАНЬ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" id="chats-tab" data-toggle="tab" href="#chats-section" role="tab" aria-controls="chats-section">МОЇ ПОДІЇ</a>
+            <a class="nav-link" id="chats-tab" data-toggle="tab" href="#event-section" role="tab" aria-controls="chats-section">МОЇ ПОДІЇ</a>
           </li>
         </ul>
         <div class="tab-content" id="setting-content">
@@ -201,7 +201,7 @@
             </div>
           </div>
           <!-- To do section tab ends -->
-          <div class="tab-pane fade" id="chats-section" role="tabpanel" aria-labelledby="chats-section">
+          <div class="tab-pane fade" id="event-section" role="tabpanel" aria-labelledby="event-section">
             <div class="events pt-4 px-3">
               <div class="wrapper d-flex mb-2">
                 <i class="ti-time text-primary mr-2"></i>
@@ -226,14 +226,14 @@
       <!-- partial:partials/_sidebar.html -->
       <nav class="sidebar sidebar-offcanvas" id="sidebar">
         <ul class="nav">
-          <li class="nav-item">
+          <li class="nav-item"  tabindex="0">
             <a class="nav-link" href="index1.html">
               <i class="ti-layout-grid2"></i>
               <span class="menu-title">Головна сторінка</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+            <a class="nav-link" data-toggle="collapse" href="#ui-basic"  tabindex="0" aria-expanded="false" aria-controls="ui-basic">
               <i class="ti-map-alt"></i>
               <span class="menu-title">Карта</span>
               <i class="menu-arrow"></i>
