@@ -379,7 +379,7 @@ function group_chys(day_name, class_num, class_text)
 {
     if((document.getElementById('group_chys'+(a))) != null)
     {
-        document.getElementById('group_chys'+(a)).innerText = class_text;
+        document.getElementById('group_chys'+(a)).innerHTML = class_text;
     }
     else
     {
@@ -391,7 +391,7 @@ function group_znam(day_name, class_num, class_text)
 {
     if((document.getElementById('group_znam'+(a))) != null)
     {
-        document.getElementById('group_znam'+(a)).innerText = class_text;
+        document.getElementById('group_znam'+(a)).innerHTML = class_text;
     }
     else
     {
