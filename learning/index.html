@@ -34,27 +34,27 @@
   <div class="container-scroller">
     <!-- partial:partials/_navbar.html -->
     <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
-      <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center" tabindex="1" aria-label="Логотип">
-        <a class="navbar-brand brand-logo mr-5" href="index.html"><img src="images/My Uni logo+name2.svg" class="mr-2" alt="logo"/></a>
-        <a class="navbar-brand brand-logo-mini" href="index.html"><img src="images/My Uni logo.svg" alt="logo"/></a>
+      <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
+        <a class="navbar-brand brand-logo mr-5" href="index.html" aria-label="Логотип" tabindex="0"><img src="images/My Uni logo+name2.svg" class="mr-2" alt="logo"/></a>
+        <a class="navbar-brand brand-logo-mini" href="index.html" aria-label="Логотип" tabindex="0"><img src="images/My Uni logo.svg" alt="logo"/></a>
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
-        <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize"  tabindex="0" aria-label="Меню" >
+        <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize" aria-label="Меню" tabindex="0">
           <span class="icon-menu"></span>
         </button>
 
         <ul class="navbar-nav navbar-nav-right">
-          <li class="nav-item nav-settings d-none d-lg-flex"  >
-            <a class="nav-link" tabindex="0" aria-label="Додатково"  href="javascript:void(0);">
+          <li class="nav-item nav-settings d-none d-lg-flex">
+            <a class="nav-link" href="javascript:void(0);" aria-label="Додатково" tabindex="0">
               <i class="ti-more-alt"></i>
             </a>
           </li>
-          <li class="nav-item dropdown"   >
-            <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" aria-label="Повідомлення" tabindex="0"  href="#" data-toggle="dropdown">
+          <li class="nav-item dropdown">
+            <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#" data-toggle="dropdown"  aria-label="Повідомлення" tabindex="0">
               <i class="ti-bell"></i>
               <span class="count bg-danger"></span>
             </a>
-            <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="notificationDropdown">
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list">
               <p class="mb-0 font-weight-normal float-left dropdown-header">Повідомлення</p>
               <a class="dropdown-item preview-item">
                 <div class="preview-thumbnail">
@@ -63,8 +63,8 @@
                   </div>
                 </div>
                 <div class="preview-item-content">
-                  <h6 class="preview-subject font-weight-normal">18:00</h6>
-                  <p class="font-weight-light small-text mb-0 text-muted">
+                  <h6 class="preview-subject font-weight-normal" aria-label="18:00" tabindex="0">18:00</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted" aria-label="Курси англійської" tabindex="0">
                     Курси англійської
                   </p>
                 </div>
@@ -76,8 +76,8 @@
                   </div>
                 </div>
                 <div class="preview-item-content">
-                  <h6 class="preview-subject font-weight-normal">21:30</h6>
-                  <p class="font-weight-light small-text mb-0 text-muted">
+                  <h6 class="preview-subject font-weight-normal" aria-label="21:30" tabindex="0">21:30</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted" aria-label="Мітинг з проєкту" tabindex="0">
                     Мітинг з проєкту
                   </p>
                 </div>
@@ -85,17 +85,17 @@
             </div>
           </li>
           <li class="nav-item nav-profile dropdown" >
-            <a class="nav-link dropdown-toggle" tabindex="0" aria-label="Профіль" href="#" data-toggle="dropdown" id="profileDropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown" aria-label="Профіль" tabindex="0">
               <img src="images/Avatar.svg" alt="profile"/>
             </a>
             <div class="dropdown-menu dropdown-menu-right navbar-dropdown">
-              <a class="dropdown-item">
+              <a class="dropdown-item" aria-label="Налаштування" tabindex="0">
                 <i class="ti-settings2 text-primary"></i>
-                Settings
+                Налаштування
               </a>
-              <a class="dropdown-item">
+              <a class="dropdown-item" aria-label="Вийти" tabindex="0">
                 <i class="ti-power-off text-primary"></i>
-                Logout
+                Вийти
               </a>
             </div>
           </li>
@@ -112,16 +112,16 @@
         <div id="settings-trigger"><i class="ti-settings2"></i></div>
         <div id="theme-settings" class="settings-panel">
           <i class="settings-close ti-close"></i>
-          <p class="settings-heading" aria-label="КОЛІР МЕНЮ" tabindex="0">КОЛІР МЕНЮ</p>
+          <p class="settings-heading" aria-label="Колір меню" tabindex="0">КОЛІР МЕНЮ</p>
           <div class="sidebar-bg-options selected" id="sidebar-light-theme" aria-label="Світлий" tabindex="0"><div class="img-ss rounded-circle bg-light border mr-3"></div>Світлий</div>
           <div class="sidebar-bg-options" id="sidebar-dark-theme" aria-label="Темний" tabindex="0"><div class="img-ss rounded-circle bg-dark border mr-3"></div>Темний</div>
-          <p class="settings-heading mt-2" aria-label="КОЛІР ВЕРХІВКИ" tabindex="0">КОЛІР ВЕРХІВКИ</p>
+          <p class="settings-heading mt-2" aria-label="Колір верхівки" tabindex="0">КОЛІР ВЕРХІВКИ</p>
           <div class="color-tiles mx-0 px-4">
             <div class="tiles success" aria-label="Зелений" tabindex="0"></div>
             <div class="tiles warning" aria-label="Жовтий" tabindex="0"></div>
             <div class="tiles danger" aria-label="Червоний" tabindex="0"></div>
-            <div class="tiles info" aria-label="Блакитний" tabindex="0"></div>
-            <div class="tiles dark" aria-label="чорний" tabindex="0"></div>
+            <div class="tiles info" aria-label="Синій" tabindex="0"></div>
+            <div class="tiles dark" aria-label="Чорний" tabindex="0"></div>
             <div class="tiles default" aria-label="Білий" tabindex="0"></div>
           </div>
         </div>
@@ -328,11 +328,11 @@
                   <div class="weather-info">
                     <div class="d-flex">
                       <div>
-                        <h2 id="celc" class="mb-0 font-weight-normal"></h2>
+                        <h2 id="celc" class="mb-0 font-weight-normal" aria-labelledby="celc" tabindex="0"></h2>
                       </div>
                       <div class="ml-2">
-                        <h4 id="city" class="location font-weight-normal"></h4>
-                        <h6 id="country" class="font-weight-normal"></h6>
+                        <h4 id="city" class="location font-weight-normal" aria-labelledby="city" tabindex="0"></h4>
+                        <h6 id="country" class="font-weight-normal" aria-labelledby="country" tabindex="0"></h6>
                       </div>
                     </div>
                   </div>
@@ -345,7 +345,7 @@
                   <div class="card card-dark-blue">
                     <div class="card-body">
                       <span class="material-icons">tips_and_updates</span>
-                      <p class="mb-4">Краще за все розбити матеріал на частини (наприклад, по 3 питання) і встановити необхідний проміжок часу для їх вивчення - такий спосіб використовують курси "Algolia".</p>
+                      <p class="mb-4" id="day-tip" aria-label="Краще за все розбити матеріал на частини (наприклад, по 3 питання) і встановити необхідний проміжок часу для їх вивчення - такий спосіб використовують курси "Algolia"" tabindex="0">Краще за все розбити матеріал на частини (наприклад, по 3 питання) і встановити необхідний проміжок часу для їх вивчення - такий спосіб використовують курси "Algolia".</p>
                       <p class="mb-2" style="font-size:25px">А ви знали, що...?</p>
                     </div>
                   </div>
@@ -363,9 +363,9 @@
                   <div class="card card-light-blue">
                     <div class="card-body">
                       <p class="mb-2">Адреса:</p>
-                      <p style="font-size: 15px; font-weight: bold;">44481, Львівська область, місто Львів, вул. І. Франкa, 09</p>
-                      <p class="mb-2">Телефони клієнтської підтримки:</p>
-                      <p style="font-size: 15px; font-weight: bold;">+38(097)274-99-77</p>
+                      <p id="comp-adress" style="font-size: 15px; font-weight: bold;" aria-label="44481, Львівська область, місто Львів, вул. І. Франкa, 09" tabindex="0">44481, Львівська область, місто Львів, вул. І. Франкa, 09</p>
+                      <p class="mb-2" aria-label="Телефони клієнтської підтримки" tabindex="0">Телефони клієнтської підтримки:</p>
+                      <p id="comp-teleph" style="font-size: 15px; font-weight: bold;" aria-label="+38(097)274-99-77" tabindex="0">+38(097)274-99-77</p>
                     </div>
                   </div>
                 </div>
@@ -376,7 +376,7 @@
             <div class="col-md-7 grid-margin transparent">
               <div class="card schedule-content mb-4">
                 <div class="card-body">
-                <p class="card-title mb-2 day_name">Пари Наразі</p>
+                <p class="card-title mb-2 day_name" aria-label="Пари Наразі" tabindex="0">Пари Наразі</p>
                 <div class="row justify-content-center mb-4">
                   <div class="col stretch-card transparent group_full">
                     <div class="card card-light-blue">
