@@ -1,13 +1,16 @@
+//groupButton text on click
 function groupText(element)
 {
     document.getElementById("groupButton").innerText = element.innerText;
 }
 
+//instituteButton text on click
 function instituteText(element)
 {
     document.getElementById("instituteButton").innerText = element.innerText;
 }
 
+//initializing objects from html file to control them
 const showButton = document.querySelector('#showButton');
 
 const Monday = document.querySelector('#Monday');
@@ -24,8 +27,10 @@ var h = 0;
 
 var text1 = '';
 
+//initializing button click event
 showButton.addEventListener("click", buttonClick);
 
+//showButton click event
 function buttonClick()
 {
     const groupButton = document.querySelector('#groupButton');
@@ -40,7 +45,7 @@ function buttonClick()
 }
 
 
-
+//asynchroning function to get text from schedule file
 const logFileText = async file => {
     const response = await fetch(file);
     const text = await response.text();
@@ -53,7 +58,7 @@ const logFileText = async file => {
     get_schedule(text1);
 }
 
-
+//getting needed text
 function get_schedule(text1)
 {
     for(i; i < text1.length; i++)
@@ -69,7 +74,7 @@ function get_schedule(text1)
 }
 
 
-
+//getting schedule for each day of a week
 function day_schedule(day_name, text1, i)
 {
     if(day_name == 'Пн')
@@ -127,7 +132,7 @@ function day_schedule(day_name, text1, i)
     {
         j=0;
         var day_code = '';
-        //text for monday only
+        //text for tuesday only
         for(i; ((text1[i]+text1[i+1]+text1[i+2]+text1[i+3]+text1[i+4]+text1[i+5]) != 'header'); i++)
         {
             day_code += text1[i]; 
@@ -137,7 +142,7 @@ function day_schedule(day_name, text1, i)
         //class number and id
         var class_num='';
         var class_id = ' ';
-        //getting class number and id from monday code
+        //getting class number and id from code
         for(j; j < day_code.length; j++)
         {
             //getting class num
@@ -178,7 +183,7 @@ function day_schedule(day_name, text1, i)
     {
         j=0;
         var day_code = '';
-        //text for monday only
+        //text for wednesday only
         for(i; ((text1[i]+text1[i+1]+text1[i+2]+text1[i+3]+text1[i+4]+text1[i+5]) != 'header'); i++)
         {
             day_code += text1[i]; 
@@ -188,7 +193,7 @@ function day_schedule(day_name, text1, i)
         //class number and id
         var class_num='';
         var class_id = ' ';
-        //getting class number and id from monday code
+        //getting class number and id from code
         for(j; j < day_code.length; j++)
         {
             //getting class num
@@ -229,7 +234,7 @@ function day_schedule(day_name, text1, i)
     {
         j=0;
         var day_code = '';
-        //text for monday only
+        //text for thursday only
         for(i; ((text1[i]+text1[i+1]+text1[i+2]+text1[i+3]+text1[i+4]+text1[i+5]) != 'header'); i++)
         {
             day_code += text1[i]; 
@@ -239,7 +244,7 @@ function day_schedule(day_name, text1, i)
         //class number and id
         var class_num='';
         var class_id = ' ';
-        //getting class number and id from monday code
+        //getting class number and id from code
         for(j; j < day_code.length; j++)
         {
             //getting class num
@@ -280,7 +285,7 @@ function day_schedule(day_name, text1, i)
     {
         j=0;
         var day_code = '';
-        //text for monday only
+        //text for friday only
         for(i; i < text1.length; i++)
         {
             day_code += text1[i]; 
@@ -290,7 +295,7 @@ function day_schedule(day_name, text1, i)
         //class number and id
         var class_num='';
         var class_id = ' ';
-        //getting class number and id from monday code
+        //getting class number and id from code
         for(j; j < day_code.length; j++)
         {
             //getting class num
@@ -329,6 +334,7 @@ function day_schedule(day_name, text1, i)
     }
 }
 
+ //function of checking the id for right card type
 function check_id(class_id, class_num, day_code, day_name, class_text)
 {
     if (class_id == 'group_full')
@@ -370,6 +376,7 @@ function check_id(class_id, class_num, day_code, day_name, class_text)
 }
 
 
+//function for each card type
 function group_full(day_name, class_num, class_text)
 {
     day_name.innerHTML += '<div class="row justify-content-center mb-4"><div class="col stretch-card transparent group_full"><div class="card card-light-blue"><div class="card-body"><p class="mb-0 class_number">'+ class_num +'</p>' + class_text + '</div></div></div></div>'
@@ -471,11 +478,12 @@ function sub_2_znam(day_name, class_num, class_text)
     }
 }
 
-
+//initializing instituteButton from html document
 const insts = document.querySelectorAll('.insts');
 
+//creating new map
 var ist_cbt = new Map();
-
+ //adding info to the map about institutes and its groups
 ist_cbt.set("ІАПО",["УАі-42","УАі-22","УАі-31","УАі-32","УАі-41","МЕУПі-11","УААМі-11","УАЕКі-11","УАі-11","УАі-21","УАі-21f"]);
 ist_cbt.set("ІАРД",["ДЗ-44","ДЗЗВ-11","ДЗМ-21","ДС-11","РМ-41","РМРТ-11","АРРП-11","ДЗ-41","ДЗ-42","ДЗ-43","АР-29","АР-11","АР-12","АР-25","АР-26","АР-27","АР-28","АР-31","АР-32","АР-33","АРБС-11","АРБС-11f","АРБС-12","АРБС-13","АРДА-11","АРМ-21","АРМ-22","ДС-12","ДС-13","ДС-31","ДС-32","ДС-33","ДС-34","РМ-11","РМ-21","АР-18","АР-45","АР-46","АР-47","АР-21","АР-22","АР-23","АР-24","АР-34","АР-35","АР-36","АР-44","ДС-21","ДС-22","ДС-23","ДС-24","АР-37","АР-38","АР-39","АР-41","АР-42","АР-43","АР-15","АР-16","АР-17","АР-48","РМ-31","АРМ-23","АРМ-24","АРМ-25","АРМБ-11","АР-13","АР-14"]);
 ist_cbt.set("ІБІС",["БД-13","БД-14","БД-15","БД-16","БД-17","БД-23","БД-24","БД-25","БД-26","БД-27","БД-28","БД-36","БД-41","БД-44","БД-45","БД-46","БДМ-23","БДМ-24","БДМБ-11","БДМТ-11","БДПC-11","БДПC-11f","БДПC-12","БДТГ-11","БДТК-11","ГБ-11","ГБ-21","ГБ-31","БД-31","БД-31f","БД-32","БД-33","БД-34","БД-35","БД-47","БД-48","БД-49","БДАД-11","БДВВ-11","БДМ-21","БДМ-22","ГБ-41","ГБВІ-11","ПБ-11","ПБ-21","ПБ-31","ПБ-41","БД-18","БД-19","БД-21","БД-21f","БД-22","БД-410","БД-41f","БД-38","БД-42","БД-43","БД-37","БД-39","БД-11","БД-12"]);
@@ -492,6 +500,7 @@ ist_cbt.set("ІСТР",["ЕО-11","ЕО-12","ЕО-21","ЕО-31","ЕО-41","ЕО-
 ist_cbt.set("ІТРЕ",["ІК-11","ІК-12","ІК-21","ІК-22","ІК-31","ІК-41","ІТПА-11","АН-11","АН-2","АН-31","АН-41","БІ-11","БІ-21","БІ-31","БІ-41","БІІР-11","ЕЛ-11","ЕЛ-21","ЕЛ-31","ЕЛ-41","ЕЛЕА-11","МН-11","МН-12","МН-21МН-31","МН-41","МНМ-11","ТР-11","ТР-12","ТР-13","ТР-14","ТР-15","ТР-21","ТР-22","ТР-23","ТР-24","ТР-31","ТР-32","ТР-33","ТР-34","ТР-41","ТР-42","ТР-43","ТР-44","ТР-45","ТРМ-21","ТРМ-22","ТРМ-23","ТРПА-11","ТРРП-11","ТРСА-11","ТРТЕ-11"]);
 ist_cbt.set("ІХХТ",["БТ-12","БТ-21","БТ-22","БТ-31","БТ-32","БТ-41","БТБТ-11","ФР-11","ФР-21","ФР-22","ФР-31","ФР-41","ФР-42","ФРМ-21","ФРФП-11","ХР-11","ХР-12","ХР-22","ХР-31","ХР-32","ХР-41","ХРБВ-11","ХТ-11","ХТ-12","ХТ-13","ХТ-14","ХТ-21","ХТ-22","ХТ-24","ХТ-31","ХТ-32","ХТ-33","ХТ-34","ХТ-35","ХТ-36","ХТ-37","ХТ-38","ХТ-41","ХТ-42","ХТ-43","ХТ-44","ХТ-45","ХТ-46","ХТ-47","ХТКХ-11","ХТМ-11","ХТНР-11","ХТОР-11","ХТПВ-11","ХТПК-11","БТ-11","ХР-21"]);
 
+//func to syncronize institutesButton and groupButton
 insts.forEach(inst => {
     inst.addEventListener('click', function(e) {
         var allgrps = ist_cbt.get(inst.innerText);

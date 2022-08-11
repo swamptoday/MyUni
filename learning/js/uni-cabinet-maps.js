@@ -1,5 +1,4 @@
 //swiper for cabinets image
-
 var swiper = new Swiper('.swiper-container', {
   direction: 'vertical',
   slidesPerView: 1,
@@ -27,7 +26,7 @@ function corpusText(element)
     document.getElementById("corpusButton").innerText = element.innerText;
 }
 
-//info array about cabinets
+//info arrays about cabinets
 var cabinetsInfo = 
 [
   {
@@ -417,6 +416,7 @@ var cabinetsInfo =
   }
 ]
 
+//info array with viewbox for vector images
 var viewboxes=
 [
   '0 0 2245.0394 1587.4015',
@@ -424,6 +424,7 @@ var viewboxes=
   '0 0 2245.0394 1587.4015'  
 ]
 
+//path array for vector maps
 var imagesMap
 [
   "../../images/corpuse-cabinets/5/3-floor.svg",
@@ -431,33 +432,39 @@ var imagesMap
   "../../images/corpuse-cabinets/5/1-floor.svg"
 ]
 
+
 //adding vector borders to maps
-var cabinetmap1 = "<svg viewbox='" + viewboxes[0] + "' style='left:-8px;'>";
-var cabinetmap2 = "<svg viewbox='" + viewboxes[1] + "'>";
-var cabinetmap3 = "<svg viewbox='" + viewboxes[2] + "'>";
-for(i = 0; i < cabinetsInfo.length; i++)
+function objectAdder()
 {
-  if (cabinetsInfo[i].datafloor == "1")
+  var cabinetmap1 = "<svg viewbox='" + viewboxes[0] + "' style='left:-8px;'>";
+  var cabinetmap2 = "<svg viewbox='" + viewboxes[1] + "'>";
+  var cabinetmap3 = "<svg viewbox='" + viewboxes[2] + "'>";
+  for(i = 0; i < cabinetsInfo.length; i++)
   {
-    cabinetmap1 = cabinetmap1 + "<path data-corpus ='" + cabinetsInfo[i].datacorpus +"' data-floor ='" + cabinetsInfo[i].datafloor +"' data-number ='" + cabinetsInfo[i].datanumber +"' data-title ='" + cabinetsInfo[i].datatitle +"' class='cabinet cab1' d='" + cabinetsInfo[i].datapath + "' />";
+    if (cabinetsInfo[i].datafloor == "1")
+    {
+      cabinetmap1 = cabinetmap1 + "<path data-corpus ='" + cabinetsInfo[i].datacorpus +"' data-floor ='" + cabinetsInfo[i].datafloor +"' data-number ='" + cabinetsInfo[i].datanumber +"' data-title ='" + cabinetsInfo[i].datatitle +"' class='cabinet cab1' d='" + cabinetsInfo[i].datapath + "' />";
+    }
+    else if (cabinetsInfo[i].datafloor == "2")
+    {
+      cabinetmap2 = cabinetmap2 + "<path data-corpus ='" + cabinetsInfo[i].datacorpus +"' data-floor ='" + cabinetsInfo[i].datafloor +"' data-number ='" + cabinetsInfo[i].datanumber +"' data-title ='" + cabinetsInfo[i].datatitle +"' class='cabinet cab2' d='" + cabinetsInfo[i].datapath + "' />";
+    }
+    else
+    {
+      cabinetmap3 = cabinetmap3 + "<path data-corpus ='" + cabinetsInfo[i].datacorpus +"' data-floor ='" + cabinetsInfo[i].datafloor +"' data-number ='" + cabinetsInfo[i].datanumber +"' data-title ='" + cabinetsInfo[i].datatitle +"' class='cabinet cab3' d='" + cabinetsInfo[i].datapath + "' />";
+    }
   }
-  else if (cabinetsInfo[i].datafloor == "2")
-  {
-    cabinetmap2 = cabinetmap2 + "<path data-corpus ='" + cabinetsInfo[i].datacorpus +"' data-floor ='" + cabinetsInfo[i].datafloor +"' data-number ='" + cabinetsInfo[i].datanumber +"' data-title ='" + cabinetsInfo[i].datatitle +"' class='cabinet cab2' d='" + cabinetsInfo[i].datapath + "' />";
-  }
-  else
-  {
-    cabinetmap3 = cabinetmap3 + "<path data-corpus ='" + cabinetsInfo[i].datacorpus +"' data-floor ='" + cabinetsInfo[i].datafloor +"' data-number ='" + cabinetsInfo[i].datanumber +"' data-title ='" + cabinetsInfo[i].datatitle +"' class='cabinet cab3' d='" + cabinetsInfo[i].datapath + "' />";
-  }
+  cabinetmap1 = cabinetmap1 + "</svg>";
+  cabinetmap2 = cabinetmap2 + "</svg>";
+  cabinetmap3 = cabinetmap3 + "</svg>";
+  document.getElementById("1-floor").innerHTML = cabinetmap1 + document.getElementById("1-floor").innerHTML;
+  document.getElementById("2-floor").innerHTML = cabinetmap2 + document.getElementById("2-floor").innerHTML;
+  document.getElementById("3-floor").innerHTML = cabinetmap3 + document.getElementById("3-floor").innerHTML;
 }
-cabinetmap1 = cabinetmap1 + "</svg>";
-cabinetmap2 = cabinetmap2 + "</svg>";
-cabinetmap3 = cabinetmap3 + "</svg>";
-document.getElementById("1-floor").innerHTML = cabinetmap1 + document.getElementById("1-floor").innerHTML;
-document.getElementById("2-floor").innerHTML = cabinetmap2 + document.getElementById("2-floor").innerHTML;
-document.getElementById("3-floor").innerHTML = cabinetmap3 + document.getElementById("3-floor").innerHTML;
 
+objectAdder();
 
+//intitializing objects from html page to control them
 const tooltip = document.querySelector('#tooltip');
 const tooltip2 = document.querySelector('#tooltip2');
 const tooltip3 = document.querySelector('#tooltip3');
@@ -470,71 +477,95 @@ const popup2 = document.querySelector('#information2');
 const popup = document.querySelector('#information');
 const mediaQuery = window.matchMedia('(min-width: 1080px)')
 
-cabinets.forEach(cabinet => {
-  cabinet.addEventListener('mousemove', function(e) {
-    tooltip.innerText = this.dataset.title;
-    tooltip.style.top = (e.y + 30) + 'px';
-    tooltip.style.left = (e.x - 440 ) +'px';
-    tooltip2.innerText = this.dataset.title;
-    tooltip2.style.top = (e.y + 30) + 'px';
-    tooltip2.style.left = (e.x - 440 ) +'px';
-    tooltip3.innerText = this.dataset.title;
-    tooltip3.style.top = (e.y + 30) + 'px';
-    tooltip3.style.left = (e.x - 440 ) +'px';
+//function to add tooltips
+function tooltipAdder()
+{
+  //tooltips moving with cursor
+  cabinets.forEach(cabinet => {
+    cabinet.addEventListener('mousemove', function(e) {
+      tooltip.innerText = this.dataset.title;
+      tooltip.style.top = (e.y + 30) + 'px';
+      tooltip.style.left = (e.x - 440 ) +'px';
+      tooltip2.innerText = this.dataset.title;
+      tooltip2.style.top = (e.y + 30) + 'px';
+      tooltip2.style.left = (e.x - 440 ) +'px';
+      tooltip3.innerText = this.dataset.title;
+      tooltip3.style.top = (e.y + 30) + 'px';
+      tooltip3.style.left = (e.x - 440 ) +'px';
+    });
+    //tooltips appear on mouseenter 
+    cabinet.addEventListener('mouseenter', function(){
+      if(mediaQuery.matches)
+      {
+        tooltip.style.display = 'block';
+        tooltip2.style.display = 'block';
+        tooltip3.style.display = 'block';
+      }
+    });
+    //tooltips disappear on mouseleave
+    cabinet.addEventListener('mouseleave', function(){
+      tooltip.style.display = 'none';
+      tooltip2.style.display = 'none';
+      tooltip3.style.display = 'none';
+    });
   });
-  cabinet.addEventListener('mouseenter', function(){
-    if(mediaQuery.matches)
-    {
-      tooltip.style.display = 'block';
-      tooltip2.style.display = 'block';
-      tooltip3.style.display = 'block';
-    }
-  });
-  cabinet.addEventListener('mouseleave', function(){
-    tooltip.style.display = 'none';
-    tooltip2.style.display = 'none';
-    tooltip3.style.display = 'none';
-  });
-});
-
-cab1.forEach(cabinet => {
-  cabinet.addEventListener('click', function(){
-    popup.style.visibility = 'visible';
-    popup.style.border = '2px solid #4B49AC';
-    popup.querySelector('#info_title').innerText = this.dataset.corpus + "-й корпус " + this.dataset.floor + "-й поверх";
-    popup.querySelector('#info_text').innerText = this.dataset.number + "-й кабінет - " + this.dataset.title;
-  });
-})
-
-cab2.forEach(cabinet => {
-  cabinet.addEventListener('click', function(){
-    popup2.style.visibility = 'visible';
-    popup2.style.border = '2px solid #4B49AC';
-    popup2.querySelector('#info_title2').innerText = this.dataset.corpus + "-й корпус " + this.dataset.floor + "-й поверх";
-    popup2.querySelector('#info_text2').innerText = this.dataset.number + "-й кабінет - " + this.dataset.title;
-  });
-})
-
-cab3.forEach(cabinet => {
-  cabinet.addEventListener('click', function(){
-    popup3.style.visibility = 'visible';
-    popup3.style.border = '2px solid #4B49AC';
-    popup3.querySelector('#info_title3').innerText = this.dataset.corpus + "-й корпус " + this.dataset.floor + "-й поверх";
-    popup3.querySelector('#info_text3').innerText = this.dataset.number + "-й кабінет - " + this.dataset.title;
-  });
-})
-
-
-  popup.addEventListener('click', function(){
-    popup.style.visibility = 'hidden';
-  })
-
   
-  popup2.addEventListener('click', function(){
-    popup2.style.visibility = 'hidden';
-  })
+}
 
-  
-  popup3.addEventListener('click', function(){
-    popup3.style.visibility = 'hidden';
+tooltipAdder();
+
+//function to add popups
+function popupAdder()
+{
+  cab1.forEach(cabinet => {
+    //popups appear on clicks
+    cabinet.addEventListener('click', function(){
+      popup.style.visibility = 'visible';
+      popup.style.border = '2px solid #4B49AC';
+      popup.querySelector('#info_title').innerText = this.dataset.corpus + "-й корпус " + this.dataset.floor + "-й поверх";
+      popup.querySelector('#info_text').innerText = this.dataset.number + "-й кабінет - " + this.dataset.title;
+    });
   })
+  
+  cab2.forEach(cabinet => {
+    cabinet.addEventListener('click', function(){
+      popup2.style.visibility = 'visible';
+      popup2.style.border = '2px solid #4B49AC';
+      popup2.querySelector('#info_title2').innerText = this.dataset.corpus + "-й корпус " + this.dataset.floor + "-й поверх";
+      popup2.querySelector('#info_text2').innerText = this.dataset.number + "-й кабінет - " + this.dataset.title;
+    });
+  })
+  
+  cab3.forEach(cabinet => {
+    cabinet.addEventListener('click', function(){
+      popup3.style.visibility = 'visible';
+      popup3.style.border = '2px solid #4B49AC';
+      popup3.querySelector('#info_title3').innerText = this.dataset.corpus + "-й корпус " + this.dataset.floor + "-й поверх";
+      popup3.querySelector('#info_text3').innerText = this.dataset.number + "-й кабінет - " + this.dataset.title;
+    });
+  })
+  
+    //popups dissapear on click
+    popup.addEventListener('click', function(){
+      popup.style.visibility = 'hidden';
+    })
+  
+    
+    popup2.addEventListener('click', function(){
+      popup2.style.visibility = 'hidden';
+    })
+  
+    
+    popup3.addEventListener('click', function(){
+      popup3.style.visibility = 'hidden';
+    })
+}
+
+popupAdder();
+
+function main()
+{
+  
+}
+
+main();
